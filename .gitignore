@@ -1,0 +1,9 @@
+﻿# Ignore all top-level files and folders except the selected data directories
+/*
+!admin/
+!catalogs/
+!historical_tle/
+!rockets/
+!satellites/
+!tle_data/
+!.gitignore
