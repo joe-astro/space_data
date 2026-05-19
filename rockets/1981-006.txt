@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1981-006  
+LIFTOFF   : 1981/01/21-08:29:00
+ROCKET    : Kosmos 11K65M
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-53   
+PAD       : LC132/1   
+FLIGHT_ID : 65082-427 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2001-037  
+LIFTOFF   : 2001/08/24-20:34:50
+ROCKET    : Proton-K/DM-2
+COUNTRY   : RU        
+AGENCY    : KHRU      
+SITE      : GIK-5     
+PAD       : LC81/24   
+FLIGHT_ID : 404-01    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

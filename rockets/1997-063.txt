@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-063  
+LIFTOFF   : 1997/10/22-13:13:00
+ROCKET    : Pegasus XL
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : WIMB      
+PAD       : RW04/22?  
+FLIGHT_ID : F18       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

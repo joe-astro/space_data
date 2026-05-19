@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-033  
+LIFTOFF   : 2021/04/27-03:20:00
+ROCKET    : Chang Zheng 6
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : TYSC      
+PAD       : LC16      
+FLIGHT_ID : Y5        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

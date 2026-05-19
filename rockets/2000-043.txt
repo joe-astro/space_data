@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-043  
+LIFTOFF   : 2000/07/28-22:42:00
+ROCKET    : Zenit-3SL 
+COUNTRY   : CYM       
+AGENCY    : SEALC     
+SITE      : KLA       
+PAD       : -         
+FLIGHT_ID : 5?/DM-SL-4L
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

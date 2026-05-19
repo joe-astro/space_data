@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1984-129  
+LIFTOFF   : 1984/12/22-00:02:03
+ROCKET    : Titan 34D/Transtage
+COUNTRY   : US        
+AGENCY    : AFSD      
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : 34D-13 (05D-3)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

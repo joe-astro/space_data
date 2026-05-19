@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2019-064  
+LIFTOFF   : 2019/09/25-13:57:43
+ROCKET    : Soyuz-FG  
+COUNTRY   : RU        
+AGENCY    : FKA       
+SITE      : GIK-5     
+PAD       : LC1       
+FLIGHT_ID : Ya15000-071
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

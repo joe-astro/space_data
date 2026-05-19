@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1973-028  
+LIFTOFF   : 1973/05/16-16:40:00
+ROCKET    : Titan 24B 
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : VS        
+PAD       : SLC4W     
+FLIGHT_ID : 24B-7 (3B-41)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2012-072  
+LIFTOFF   : 2012/12/12-00:49:46
+ROCKET    : Unha-3    
+COUNTRY   : KP        
+AGENCY    : KCST      
+SITE      : SOHAE     
+PAD       : LC1       
+FLIGHT_ID : 4         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

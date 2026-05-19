@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-241  
+LIFTOFF   : 2025/10/26-00:00:15
+ROCKET    : H3-24W    
+COUNTRY   : J         
+AGENCY    : JAXA      
+SITE      : TNSC      
+PAD       : Y2        
+FLIGHT_ID : H3-F7     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

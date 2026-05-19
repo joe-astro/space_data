@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2019-089  
+LIFTOFF   : 2019/12/11-09:55:00
+ROCKET    : PSLV-QL   
+COUNTRY   : IN        
+AGENCY    : ISRO      
+SITE      : SHAR      
+PAD       : FLP       
+FLIGHT_ID : PSLV-C48  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

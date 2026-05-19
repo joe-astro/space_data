@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-043  
+LIFTOFF   : 1994/07/21-10:55:00
+ROCKET    : Chang Zheng 3
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : XSC       
+PAD       : LC3?      
+FLIGHT_ID : Y8        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

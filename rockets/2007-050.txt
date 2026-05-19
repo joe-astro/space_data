@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2007-050  
+LIFTOFF   : 2007/10/23-15:38:19
+ROCKET    : Space Shuttle
+COUNTRY   : US        
+AGENCY    : JSC/MSFC  
+SITE      : KSC       
+PAD       : LC39A     
+FLIGHT_ID : STS-120   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

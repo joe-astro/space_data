@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1968-011  
+LIFTOFF   : 1968/02/20-16:00:00
+ROCKET    : Kosmos 11K65M
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-53   
+PAD       : LC132/2   
+FLIGHT_ID : N149    -22LM
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

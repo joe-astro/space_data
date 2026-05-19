@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1974-052  
+LIFTOFF   : 1974/07/09-14:39:58
+ROCKET    : Vostok 8A92M
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-53   
+PAD       : LC43/4    
+FLIGHT_ID : 76043  -349
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

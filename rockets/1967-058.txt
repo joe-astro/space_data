@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-058  
+LIFTOFF   : 1967/06/12-02:39:45
+ROCKET    : Molniya 8K78M
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC1       
+FLIGHT_ID : Ya15000- 71  L70
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

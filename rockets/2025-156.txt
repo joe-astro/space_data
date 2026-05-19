@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-156  
+LIFTOFF   : 2025/07/26-02:03:48
+ROCKET    : Vega C    
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ZLV       
+FLIGHT_ID : VV27      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

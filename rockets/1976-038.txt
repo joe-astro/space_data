@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1976-038  
+LIFTOFF   : 1976/04/30-19:12:00
+ROCKET    : Atlas F/MSD
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : VS        
+PAD       : SLC3W     
+FLIGHT_ID : 59F       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

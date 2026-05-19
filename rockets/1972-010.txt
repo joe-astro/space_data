@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1972-010  
+LIFTOFF   : 1972/03/01-09:39:28
+ROCKET    : Titan IIIC
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : 23C-4 (3C-22)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

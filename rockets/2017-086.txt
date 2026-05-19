@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2017-086  
+LIFTOFF   : 2017/12/26-19:00:04
+ROCKET    : Zenit-3SLBF
+COUNTRY   : RU        
+AGENCY    : KVR?      
+SITE      : GIK-5     
+PAD       : LC45/1    
+FLIGHT_ID : SLB80.5/2006
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

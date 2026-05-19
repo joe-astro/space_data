@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1991-057  
+LIFTOFF   : 1991/08/20-22:54:10
+ROCKET    : Soyuz-U2  
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : GIK-5     
+PAD       : LC1       
+FLIGHT_ID : R 15000-052
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

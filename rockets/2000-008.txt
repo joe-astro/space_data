@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-008  
+LIFTOFF   : 2000/02/08-21:24:00
+ROCKET    : Delta 7420-10C
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : CC        
+PAD       : SLC17B    
+FLIGHT_ID : D276      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

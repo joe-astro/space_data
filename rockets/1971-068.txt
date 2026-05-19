@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1971-068  
+LIFTOFF   : 1971/08/08-23:45:00
+ROCKET    : R-36O 8K69M
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC191/66  
+FLIGHT_ID : V 22501-07
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

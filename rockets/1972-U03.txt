@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1972-U03  
+LIFTOFF   : 1972/12/14-22:54:37
+ROCKET    : LM AS     
+COUNTRY   : US        
+AGENCY    : MSC       
+SITE      : LIT       
+PAD       : LM12-DS   
+FLIGHT_ID : 12        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

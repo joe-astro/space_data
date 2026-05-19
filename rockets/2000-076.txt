@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-076  
+LIFTOFF   : 2000/11/21-23:56:00
+ROCKET    : Ariane 44L
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELA2      
+FLIGHT_ID : V136 L4102
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

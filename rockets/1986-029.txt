@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1986-029  
+LIFTOFF   : 1986/04/15-11:40:00
+ROCKET    : Soyuz-U   
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-53   
+PAD       : LC16/2    
+FLIGHT_ID : 76021  -332
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

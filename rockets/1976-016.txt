@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1976-016  
+LIFTOFF   : 1976/02/19-07:52:52
+ROCKET    : Thor Burner 2A
+COUNTRY   : US        
+AGENCY    : 10ADS     
+SITE      : V         
+PAD       : SLC10W    
+FLIGHT_ID : 182/BIIA-25
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

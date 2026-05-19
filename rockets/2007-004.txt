@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2007-004  
+LIFTOFF   : 2007/02/17-23:01:00
+ROCKET    : Delta 7925-10C
+COUNTRY   : US        
+AGENCY    : ULAB      
+SITE      : CC        
+PAD       : SLC17B    
+FLIGHT_ID : D323      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

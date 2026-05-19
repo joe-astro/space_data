@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2003-043  
+LIFTOFF   : 2003/09/27-23:14:46
+ROCKET    : Ariane 5G 
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELA3      
+FLIGHT_ID : V162 (516)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

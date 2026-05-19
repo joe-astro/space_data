@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1996-F03  
+LIFTOFF   : 1996/06/04-12:34:06
+ROCKET    : Ariane 5G 
+COUNTRY   : I-ESA     
+AGENCY    : ESA       
+SITE      : CSG       
+PAD       : ELA3      
+FLIGHT_ID : V88  (501)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1959-F07  
+LIFTOFF   : 1959/08/15-00:31:00
+ROCKET    : Juno II   
+COUNTRY   : US        
+AGENCY    : ABMA      
+SITE      : CC        
+PAD       : LC26B     
+FLIGHT_ID : AM-19B    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

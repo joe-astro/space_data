@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2018-108  
+LIFTOFF   : 2018/12/21-23:51:00
+ROCKET    : Chang Zheng 11
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : JQ        
+PAD       : LC43/95   
+FLIGHT_ID : Y5        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

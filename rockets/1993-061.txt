@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1993-061  
+LIFTOFF   : 1993/09/26-01:45:00
+ROCKET    : Ariane 40 
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELA2      
+FLIGHT_ID : V59 L431  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

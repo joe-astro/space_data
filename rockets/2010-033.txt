@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2010-033  
+LIFTOFF   : 2010/06/30-15:35:14
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : FKA       
+SITE      : GIK-5     
+PAD       : LC1       
+FLIGHT_ID : B 15000-119
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

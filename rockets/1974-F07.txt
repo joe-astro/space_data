@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1974-F07  
+LIFTOFF   : 1974/11/05-09:40:00
+ROCKET    : Chang Zheng 2
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : JQ        
+PAD       : LA2B      
+FLIGHT_ID : Y1       (3)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

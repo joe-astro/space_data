@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2002-025  
+LIFTOFF   : 2002/05/28-15:25:00
+ROCKET    : Shavit 1  
+COUNTRY   : IL        
+AGENCY    : ISA       
+SITE      : PALB      
+PAD       : -         
+FLIGHT_ID : 5         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

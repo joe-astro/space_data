@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-134  
+LIFTOFF   : 2024/07/30-10:45:00
+ROCKET    : Atlas V 551
+COUNTRY   : US        
+AGENCY    : ULAL      
+SITE      : CC        
+PAD       : SLC41     
+FLIGHT_ID : AV-101    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

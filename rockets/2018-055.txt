@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2018-055  
+LIFTOFF   : 2018/06/29-09:42:42
+ROCKET    : Falcon 9  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : 060/B1045.2  F058
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

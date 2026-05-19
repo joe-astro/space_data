@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1975-077  
+LIFTOFF   : 1975/08/27-01:42:00
+ROCKET    : Delta 2914
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : CC        
+PAD       : LC17A     
+FLIGHT_ID : 594/D114  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

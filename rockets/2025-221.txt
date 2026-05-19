@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-221  
+LIFTOFF   : 2025/09/29-02:04:50
+ROCKET    : Falcon 9  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : VSFBS     
+PAD       : SLC4E     
+FLIGHT_ID : xxx/B1063.28 F542
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1985-114  
+LIFTOFF   : 1985/12/13-02:35:00
+ROCKET    : Scout G-1 
+COUNTRY   : US        
+AGENCY    : LARCN     
+SITE      : WI        
+PAD       : LA3A      
+FLIGHT_ID : S207C     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

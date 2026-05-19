@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1973-005  
+LIFTOFF   : 1973/01/26-11:44:45
+ROCKET    : Kosmos 11K65M
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : GTsP-4    
+PAD       : LC107/1   
+FLIGHT_ID : Yu149-37  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

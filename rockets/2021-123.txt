@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-123  
+LIFTOFF   : 2021/12/13-12:07:00
+ROCKET    : Proton-M/Briz-M
+COUNTRY   : RU        
+AGENCY    : KHRU      
+SITE      : GIK-5     
+PAD       : LC200/39  
+FLIGHT_ID : 535-46/88536
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

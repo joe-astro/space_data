@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2020-U02  
+LIFTOFF   : 2020/12/03-15:10:21
+ROCKET    : CE-5 SSQ  
+COUNTRY   : CN        
+AGENCY    : CAST      
+SITE      : LOMN      
+PAD       : CE-5 ZQ   
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

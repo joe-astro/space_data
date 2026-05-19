@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1985-093  
+LIFTOFF   : 1985/10/09-02:53:00
+ROCKET    : Atlas E/SGS-2
+COUNTRY   : US        
+AGENCY    : AFSD      
+SITE      : VS        
+PAD       : SLC3W     
+FLIGHT_ID : 55E       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

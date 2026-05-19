@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1977-092  
+LIFTOFF   : 1977/09/20-17:28:00
+ROCKET    : Proton-K/DM
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC200/40  
+FLIGHT_ID : 291-02    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1972-090  
+LIFTOFF   : 1972/11/10-01:14:03
+ROCKET    : Delta 1914
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : CC        
+PAD       : LC17B     
+FLIGHT_ID : 580/D092  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

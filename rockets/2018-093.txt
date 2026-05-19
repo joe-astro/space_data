@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2018-093  
+LIFTOFF   : 2018/11/18-18:07:04
+ROCKET    : Chang Zheng 3B/YZ-1
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : XSC       
+PAD       : LC3       
+FLIGHT_ID : Y53       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

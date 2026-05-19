@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1990-002  
+LIFTOFF   : 1990/01/09-12:35:00
+ROCKET    : Space Shuttle
+COUNTRY   : US        
+AGENCY    : JSC/MSFC  
+SITE      : KSC       
+PAD       : LC39A     
+FLIGHT_ID : STS-32R   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

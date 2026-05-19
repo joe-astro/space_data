@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2002-005  
+LIFTOFF   : 2002/02/11-17:43:44
+ROCKET    : Delta 7920-10C
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : V         
+PAD       : SLC2W     
+FLIGHT_ID : D290      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1984-006  
+LIFTOFF   : 1984/01/26-08:50:00
+ROCKET    : Soyuz-U2  
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-5    
+PAD       : LC31      
+FLIGHT_ID : 76032? -791 (-003)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

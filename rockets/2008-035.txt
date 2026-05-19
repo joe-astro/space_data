@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2008-035  
+LIFTOFF   : 2008/07/16-05:20:59
+ROCKET    : Zenit-3SL 
+COUNTRY   : US        
+AGENCY    : SEALP     
+SITE      : KLA       
+PAD       : -         
+FLIGHT_ID : SL28/DM-SL-28L
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

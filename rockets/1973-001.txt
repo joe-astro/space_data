@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1973-001  
+LIFTOFF   : 1973/01/08-06:55:38
+ROCKET    : Proton-K/D
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC81/23   
+FLIGHT_ID : 259-01    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1978-098  
+LIFTOFF   : 1978/10/24-08:14:01
+ROCKET    : Delta 2910
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : V         
+PAD       : SLC2W     
+FLIGHT_ID : 630/D145  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

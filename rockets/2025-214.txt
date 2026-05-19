@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-214  
+LIFTOFF   : 2025/09/24-07:56:00
+ROCKET    : Jielong-3 
+COUNTRY   : CN        
+AGENCY    : CZHJ      
+SITE      : HHAI      
+PAD       : LP6       
+FLIGHT_ID : Y8        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1978-013  
+LIFTOFF   : 1978/01/31-14:50:00
+ROCKET    : Soyuz-U   
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-53   
+PAD       : LC43/4    
+FLIGHT_ID : 77052  -703
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

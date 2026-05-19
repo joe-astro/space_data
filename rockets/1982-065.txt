@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1982-065  
+LIFTOFF   : 1982/06/27-15:00:00
+ROCKET    : Space Shuttle
+COUNTRY   : US        
+AGENCY    : JSC/MSFC  
+SITE      : KSC       
+PAD       : LC39A     
+FLIGHT_ID : STS-4     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

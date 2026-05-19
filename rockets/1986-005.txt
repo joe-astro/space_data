@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1986-005  
+LIFTOFF   : 1986/01/16-11:38:19
+ROCKET    : Kosmos 11K65M
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-53   
+PAD       : LC132/1   
+FLIGHT_ID : 53744-152 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

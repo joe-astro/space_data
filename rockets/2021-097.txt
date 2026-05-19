@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-097  
+LIFTOFF   : 2021/10/27-06:19:00
+ROCKET    : Kuaizhou-1A
+COUNTRY   : CN        
+AGENCY    : EXPACE    
+SITE      : JQ        
+PAD       : LC43/95?  
+FLIGHT_ID : Y5        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

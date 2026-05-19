@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1981-028  
+LIFTOFF   : 1981/03/20-23:45:00
+ROCKET    : Tsiklon-2 
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC90      
+FLIGHT_ID : 45035-503 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

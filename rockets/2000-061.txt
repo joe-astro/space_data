@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-061  
+LIFTOFF   : 2000/10/09-05:38:18
+ROCKET    : Pegasus H 
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : KMR       
+PAD       : RW06/24   
+FLIGHT_ID : F30/P-35  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

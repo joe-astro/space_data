@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-012  
+LIFTOFF   : 2022/02/10-18:09:37
+ROCKET    : Soyuz-ST-B
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELS       
+FLIGHT_ID : Ya15000-018/133-19
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

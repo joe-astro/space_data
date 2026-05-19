@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1984-028  
+LIFTOFF   : 1984/03/16-14:00:00
+ROCKET    : Proton-K/DM
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-5    
+PAD       : LC200/39  
+FLIGHT_ID : 322-01    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

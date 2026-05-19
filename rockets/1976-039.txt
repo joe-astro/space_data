@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1976-039  
+LIFTOFF   : 1976/05/04-08:00:00
+ROCKET    : Delta 2913
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : V         
+PAD       : SLC2W     
+FLIGHT_ID : 609/D123  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-174  
+LIFTOFF   : 2025/08/13-06:43:00
+ROCKET    : Chang Zheng 5B/YZ-2
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : WEN       
+PAD       : LC101     
+FLIGHT_ID : Y8/Y4     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

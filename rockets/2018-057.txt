@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2018-057  
+LIFTOFF   : 2018/07/09-20:58:04
+ROCKET    : Chang Zheng 3A
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : XSC       
+PAD       : LC2?      
+FLIGHT_ID : Y27       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

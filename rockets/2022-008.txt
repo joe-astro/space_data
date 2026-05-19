@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-008  
+LIFTOFF   : 2022/01/31-23:11:00
+ROCKET    : Falcon 9  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : 134/B1052.3  F139
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

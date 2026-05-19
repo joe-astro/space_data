@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1979-025  
+LIFTOFF   : 1979/03/16-18:30:00
+ROCKET    : Titan IIID
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : VS        
+PAD       : SLC4E     
+FLIGHT_ID : 23D-21    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

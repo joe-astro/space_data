@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-003  
+LIFTOFF   : 2022/01/13-22:52:00
+ROCKET    : LauncherOne
+COUNTRY   : US        
+AGENCY    : VORB      
+SITE      : MHV       
+PAD       : RW12/30   
+FLIGHT_ID : R05       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

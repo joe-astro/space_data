@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2006-050  
+LIFTOFF   : 2006/11/04-13:53:00
+ROCKET    : Delta 4M  
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : VS        
+PAD       : SLC6      
+FLIGHT_ID : D4-7/D320 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1995-019  
+LIFTOFF   : 1995/04/07-23:47:00
+ROCKET    : Atlas IIA 
+COUNTRY   : US        
+AGENCY    : LMA       
+SITE      : CC        
+PAD       : LC36A     
+FLIGHT_ID : AC-114    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

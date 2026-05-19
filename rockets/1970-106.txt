@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1970-106  
+LIFTOFF   : 1970/12/11-11:35:00
+ROCKET    : Thor Delta N6
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : V         
+PAD       : SLC2W     
+FLIGHT_ID : 546/D081  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

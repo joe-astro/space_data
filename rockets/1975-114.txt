@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1975-114  
+LIFTOFF   : 1975/12/04-20:30:00
+ROCKET    : Titan IIID
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : VS        
+PAD       : SLC4E     
+FLIGHT_ID : 23D-13    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

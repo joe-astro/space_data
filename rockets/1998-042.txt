@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1998-042  
+LIFTOFF   : 1998/07/07-03:15:00
+ROCKET    : Shtil'-1  
+COUNTRY   : RU        
+AGENCY    : VMFR      
+SITE      : BLA       
+PAD       : LP1       
+FLIGHT_ID : L-1492-524
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

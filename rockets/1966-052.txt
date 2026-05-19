@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-052  
+LIFTOFF   : 1966/06/10-04:15:00
+ROCKET    : Scout B   
+COUNTRY   : US        
+AGENCY    : LARCN     
+SITE      : WI        
+PAD       : LA3A      
+FLIGHT_ID : S147C     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

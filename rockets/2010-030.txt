@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2010-030  
+LIFTOFF   : 2010/06/21-02:14:08
+ROCKET    : Dnepr     
+COUNTRY   : RU        
+AGENCY    : KTRAS/RVSNR
+SITE      : GIK-5     
+PAD       : LC109/95  
+FLIGHT_ID : 450-3261-314
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

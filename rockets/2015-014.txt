@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2015-014  
+LIFTOFF   : 2015/03/25-22:08:53
+ROCKET    : Dnepr     
+COUNTRY   : RU        
+AGENCY    : KTRAS/RVSNR
+SITE      : YAS       
+PAD       : Sh370/13  
+FLIGHT_ID : 510-8681-101
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

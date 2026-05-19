@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1991-051  
+LIFTOFF   : 1991/07/17-17:33:53
+ROCKET    : Pegasus/HAPS
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : EAFB      
+PAD       : RW04/22   
+FLIGHT_ID : 002/F2    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

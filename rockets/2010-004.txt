@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2010-004  
+LIFTOFF   : 2010/02/08-09:14:08
+ROCKET    : Space Shuttle
+COUNTRY   : US        
+AGENCY    : JSC/MSFC  
+SITE      : KSC       
+PAD       : LC39A     
+FLIGHT_ID : STS-130   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

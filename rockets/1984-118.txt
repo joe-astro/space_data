@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1984-118  
+LIFTOFF   : 1984/11/15-06:40:00
+ROCKET    : Kosmos 11K65M
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-53   
+PAD       : LC132/1   
+FLIGHT_ID : 47139-124 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

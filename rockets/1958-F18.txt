@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1958-F18  
+LIFTOFF   : 1958/10/23-03:21:04
+ROCKET    : Jupiter C 
+COUNTRY   : US        
+AGENCY    : ABMA      
+SITE      : CC        
+PAD       : LC5       
+FLIGHT_ID : RS/CC-49 HE
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

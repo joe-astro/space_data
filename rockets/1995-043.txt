@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1995-043  
+LIFTOFF   : 1995/08/29-00:53:02
+ROCKET    : Atlas IIAS
+COUNTRY   : US        
+AGENCY    : LMA       
+SITE      : CC        
+PAD       : LC36B     
+FLIGHT_ID : AC-117    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

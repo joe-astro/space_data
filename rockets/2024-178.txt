@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-178  
+LIFTOFF   : 2024/09/28-17:17:20
+ROCKET    : Falcon 9  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : 379/B1085.2  F379
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

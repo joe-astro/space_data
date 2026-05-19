@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-F02  
+LIFTOFF   : 2023/01/10-23:27:31
+ROCKET    : RS1       
+COUNTRY   : US        
+AGENCY    : ABLSS     
+SITE      : PSCA      
+PAD       : LP3C      
+FLIGHT_ID : 1         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-128  
+LIFTOFF   : 2025/06/14-07:56:00
+ROCKET    : Chang Zheng 2D
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : JQ        
+PAD       : LC43/94   
+FLIGHT_ID : Y42       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

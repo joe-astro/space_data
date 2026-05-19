@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2007-044  
+LIFTOFF   : 2007/10/05-22:02:00
+ROCKET    : Ariane 5GS
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELA3      
+FLIGHT_ID : V178 (526)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

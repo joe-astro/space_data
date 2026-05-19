@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1990-086  
+LIFTOFF   : 1990/09/28-07:30:00
+ROCKET    : Tsiklon-3 
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-53   
+PAD       : LC32/1    
+FLIGHT_ID : 51065-611 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

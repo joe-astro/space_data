@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1970-034  
+LIFTOFF   : 1970/04/24-13:35:45
+ROCKET    : Chang Zheng 1
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : JQ        
+PAD       : LA2A      
+FLIGHT_ID : 601904    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

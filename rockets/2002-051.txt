@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2002-051  
+LIFTOFF   : 2002/11/20-22:39:00
+ROCKET    : Delta 4M+(4,2)
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : CC        
+PAD       : SLC37B    
+FLIGHT_ID : D4-1/D293 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

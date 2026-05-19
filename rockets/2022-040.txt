@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-040  
+LIFTOFF   : 2022/04/17-13:13:00
+ROCKET    : Falcon 9  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : VSFBS     
+PAD       : SLC4E     
+FLIGHT_ID : 149/B1071.2  F149
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

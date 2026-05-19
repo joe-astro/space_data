@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1978-042  
+LIFTOFF   : 1978/05/01-03:05:04
+ROCKET    : Thor DSV-2U
+COUNTRY   : US        
+AGENCY    : 10ADS     
+SITE      : V         
+PAD       : SLC10W    
+FLIGHT_ID : 143       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

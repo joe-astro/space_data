@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-F10  
+LIFTOFF   : 2023/03/04-00:00:00
+ROCKET    : Qaem-100  
+COUNTRY   : IR        
+AGENCY    : IRGC      
+SITE      : SHAHR     
+PAD       : -         
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

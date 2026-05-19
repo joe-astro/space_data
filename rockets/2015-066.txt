@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2015-066  
+LIFTOFF   : 2015/11/17-06:33:41
+ROCKET    : Soyuz-2-1B
+COUNTRY   : RU        
+AGENCY    : VVKO      
+SITE      : GIK-1     
+PAD       : LC43/4    
+FLIGHT_ID : 760-12- 227 015/1033
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

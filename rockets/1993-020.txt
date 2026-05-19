@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1993-020  
+LIFTOFF   : 1993/04/01-18:57:26
+ROCKET    : Kosmos 11K65M
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GNIIPV    
+PAD       : LC133/3   
+FLIGHT_ID : 47178-431 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

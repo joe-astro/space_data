@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1962 B LAM
+LIFTOFF   : 1962/10/27-23:15:01
+ROCKET    : Thor Delta A
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : CC        
+PAD       : LC17B     
+FLIGHT_ID : 346/D014  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

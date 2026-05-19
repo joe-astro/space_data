@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-061  
+LIFTOFF   : 1997/10/15-08:43:01
+ROCKET    : Titan 401B/Centaur
+COUNTRY   : US        
+AGENCY    : LERC/AFSMC
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : 4B-33/TC-21 (45E-13)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

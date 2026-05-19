@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2017-082  
+LIFTOFF   : 2017/12/23-01:26:22
+ROCKET    : H-IIA 202 
+COUNTRY   : J         
+AGENCY    : MHI       
+SITE      : TNSC      
+PAD       : Y         
+FLIGHT_ID : H-IIA-37  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

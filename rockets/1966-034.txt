@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-034  
+LIFTOFF   : 1966/04/22-09:45:00
+ROCKET    : Scout B   
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : VS        
+PAD       : PALC-D    
+FLIGHT_ID : S145C     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

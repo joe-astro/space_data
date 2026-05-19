@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2020-064  
+LIFTOFF   : 2020/09/07-05:57:05
+ROCKET    : Chang Zheng 4B
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : TYSC      
+PAD       : LC9       
+FLIGHT_ID : Y46       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

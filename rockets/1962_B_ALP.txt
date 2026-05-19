@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1962 B ALP
+LIFTOFF   : 1962/09/29-06:05:00
+ROCKET    : Thor Agena B
+COUNTRY   : US        
+AGENCY    : LERC/AFSSD
+SITE      : V         
+PAD       : 75-1-1    
+FLIGHT_ID : 341/6101 (TA1)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

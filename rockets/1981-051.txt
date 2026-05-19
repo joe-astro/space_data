@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1981-051  
+LIFTOFF   : 1981/05/31-03:33:46
+ROCKET    : SLV-3     
+COUNTRY   : IN        
+AGENCY    : ISRO      
+SITE      : SHAR      
+PAD       : SLV       
+FLIGHT_ID : SLV-3-D1  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

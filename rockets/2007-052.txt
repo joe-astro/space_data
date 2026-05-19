@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2007-052  
+LIFTOFF   : 2007/10/26-07:35:24
+ROCKET    : Proton-K/DM-2
+COUNTRY   : RU        
+AGENCY    : KHRU      
+SITE      : GIK-5     
+PAD       : LC81/24   
+FLIGHT_ID : 410-17    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

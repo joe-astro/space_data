@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-109  
+LIFTOFF   : 2023/07/30-01:01:00
+ROCKET    : PSLV      
+COUNTRY   : IN        
+AGENCY    : ISRO/NSIL 
+SITE      : SHAR      
+PAD       : FLP       
+FLIGHT_ID : PSLV-C56  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

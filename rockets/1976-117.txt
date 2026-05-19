@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1976-117  
+LIFTOFF   : 1976/12/07-04:38:00
+ROCKET    : Chang Zheng 2C
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : JQ        
+PAD       : LA2B      
+FLIGHT_ID : CZ2C-3   (5)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

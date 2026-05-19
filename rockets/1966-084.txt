@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-084  
+LIFTOFF   : 1966/09/20-12:32:00
+ROCKET    : Atlas Centaur D
+COUNTRY   : US        
+AGENCY    : LERC      
+SITE      : CC        
+PAD       : LC36A     
+FLIGHT_ID : AC-7      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

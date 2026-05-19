@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1988-109  
+LIFTOFF   : 1988/12/11-00:33:38
+ROCKET    : Ariane 44LP
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELA2      
+FLIGHT_ID : V27 L402  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

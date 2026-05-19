@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1998-001  
+LIFTOFF   : 1998/01/07-02:28:44
+ROCKET    : Athena-2  
+COUNTRY   : US        
+AGENCY    : LMA       
+SITE      : SPFL      
+PAD       : SLC46     
+FLIGHT_ID : LM-004    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

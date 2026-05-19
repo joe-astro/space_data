@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1998-059  
+LIFTOFF   : 1998/10/21-16:37:21
+ROCKET    : Ariane 5G 
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELA3      
+FLIGHT_ID : V112 (503)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

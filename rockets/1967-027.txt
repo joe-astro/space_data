@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-027  
+LIFTOFF   : 1967/03/24-11:50:00
+ROCKET    : Kosmos 11K65
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC41/15   
+FLIGHT_ID : 4000-000-06LM
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

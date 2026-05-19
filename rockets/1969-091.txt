@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1969-091  
+LIFTOFF   : 1969/10/21-12:49:59
+ROCKET    : Kosmos 11K65M
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-53   
+PAD       : LC132/1   
+FLIGHT_ID : Yu226   -11U
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

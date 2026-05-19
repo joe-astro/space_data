@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-016  
+LIFTOFF   : 2000/03/21-23:28:19
+ROCKET    : Ariane 5G 
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELA3      
+FLIGHT_ID : V128 (505)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

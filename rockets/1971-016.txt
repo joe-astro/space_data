@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1971-016  
+LIFTOFF   : 1971/02/26-05:06:21
+ROCKET    : Soyuz 11A511L
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC31      
+FLIGHT_ID : Yu15000-015
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

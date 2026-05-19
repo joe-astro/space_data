@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-095  
+LIFTOFF   : 2024/05/21-04:15:00
+ROCKET    : Kuaizhou-11
+COUNTRY   : CN        
+AGENCY    : EXPACE    
+SITE      : JQ        
+PAD       : LC43/95?  
+FLIGHT_ID : Y4        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

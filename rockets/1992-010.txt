@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1992-010  
+LIFTOFF   : 1992/02/26-23:58:10
+ROCKET    : Ariane 44L
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELA2      
+FLIGHT_ID : V49 L421b 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

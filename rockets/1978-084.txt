@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1978-084  
+LIFTOFF   : 1978/09/09-03:25:39
+ROCKET    : Proton-K/D-1
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC81/23   
+FLIGHT_ID : 296-01    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

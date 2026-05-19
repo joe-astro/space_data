@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-138  
+LIFTOFF   : 2022/10/22-18:37:40
+ROCKET    : LVM3      
+COUNTRY   : IN        
+AGENCY    : NSIL      
+SITE      : SHAR      
+PAD       : SLP       
+FLIGHT_ID : LVM3-M2   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

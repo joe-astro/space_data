@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2010-035  
+LIFTOFF   : 2010/07/12-03:52:00
+ROCKET    : PSLV      
+COUNTRY   : IN        
+AGENCY    : ISRO      
+SITE      : SHAR      
+PAD       : FLP       
+FLIGHT_ID : PSLV-C15  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

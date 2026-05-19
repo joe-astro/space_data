@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1961 DEL  
+LIFTOFF   : 1961/02/16-13:05:00
+ROCKET    : Scout X-1 
+COUNTRY   : US        
+AGENCY    : LARCN     
+SITE      : WI        
+PAD       : LA3       
+FLIGHT_ID : ST-4      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

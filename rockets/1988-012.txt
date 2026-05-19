@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1988-012  
+LIFTOFF   : 1988/02/19-10:05:00
+ROCKET    : H-1       
+COUNTRY   : J         
+AGENCY    : NASDA     
+SITE      : TNSC      
+PAD       : N         
+FLIGHT_ID : H-18(F)   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

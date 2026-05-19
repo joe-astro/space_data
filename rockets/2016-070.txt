@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2016-070  
+LIFTOFF   : 2016/11/17-20:20:13
+ROCKET    : Soyuz-FG  
+COUNTRY   : RU        
+AGENCY    : FKA       
+SITE      : GIK-5     
+PAD       : LC1       
+FLIGHT_ID : R 15000-060
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

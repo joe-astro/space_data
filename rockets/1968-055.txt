@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1968-055  
+LIFTOFF   : 1968/07/04-17:26:50
+ROCKET    : Thor Delta J
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : V         
+PAD       : SLC2E     
+FLIGHT_ID : 476/D057  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-039  
+LIFTOFF   : 2024/02/29-05:43:26
+ROCKET    : Soyuz-2-1B
+COUNTRY   : RU        
+AGENCY    : FKA       
+SITE      : VOST      
+PAD       : PU1S      
+FLIGHT_ID : S 15000-012/ 142-03
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

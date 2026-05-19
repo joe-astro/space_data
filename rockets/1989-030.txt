@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1989-030  
+LIFTOFF   : 1989/04/14-04:08:00
+ROCKET    : Proton-K/DM-2
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : GIK-5     
+PAD       : LC200/39  
+FLIGHT_ID : 359-02    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

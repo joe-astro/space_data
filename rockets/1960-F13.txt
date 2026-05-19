@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1960-F13  
+LIFTOFF   : 1960/10/11-20:33:28
+ROCKET    : Atlas Agena A
+COUNTRY   : US        
+AGENCY    : AFBMD     
+SITE      : PA        
+PAD       : LC1-1     
+FLIGHT_ID : 57D/2101  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

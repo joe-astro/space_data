@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1987-002  
+LIFTOFF   : 1987/01/09-12:38:04
+ROCKET    : Soyuz-U   
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-5    
+PAD       : LC31      
+FLIGHT_ID : 78028  -358
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-001  
+LIFTOFF   : 2000/01/21-01:03:01
+ROCKET    : Atlas IIA 
+COUNTRY   : US        
+AGENCY    : LMA       
+SITE      : CC        
+PAD       : SLC36A    
+FLIGHT_ID : AC-138 MLV-8/IABS-9
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

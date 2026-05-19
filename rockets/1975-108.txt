@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1975-108  
+LIFTOFF   : 1975/11/21-09:20:00
+ROCKET    : Voskhod 11A57
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC31      
+FLIGHT_ID : 77016  -213
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-139  
+LIFTOFF   : 2022/10/22-19:57:09
+ROCKET    : Soyuz-2-1B
+COUNTRY   : RU        
+AGENCY    : VVKO      
+SITE      : VOST      
+PAD       : PU1S      
+FLIGHT_ID : Kh15000-011/ 142-503
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

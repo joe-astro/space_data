@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1996-022  
+LIFTOFF   : 1996/04/20-22:36:00
+ROCKET    : Ariane 42P
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELA2      
+FLIGHT_ID : V85 L457  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

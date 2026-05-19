@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1962-F02  
+LIFTOFF   : 1962/01/24-09:30:00
+ROCKET    : Thor Ablestar
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : CC        
+PAD       : LC17B     
+FLIGHT_ID : 311/AB010 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

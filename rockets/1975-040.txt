@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1975-040  
+LIFTOFF   : 1975/05/20-14:03:48
+ROCKET    : Titan IIIC
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : 23C-7 (3C-25)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

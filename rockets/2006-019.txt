@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2006-019  
+LIFTOFF   : 2006/05/26-18:50:00
+ROCKET    : Shtil'-1  
+COUNTRY   : RU        
+AGENCY    : VMFR      
+SITE      : BLA       
+PAD       : -         
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

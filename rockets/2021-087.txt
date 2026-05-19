@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-087  
+LIFTOFF   : 2021/09/27-08:20:00
+ROCKET    : Chang Zheng 3B
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : XSC       
+PAD       : LC3       
+FLIGHT_ID : Y81       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

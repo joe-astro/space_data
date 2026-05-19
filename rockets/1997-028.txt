@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-028  
+LIFTOFF   : 1997/06/06-16:56:54
+ROCKET    : Proton-K/17S40
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GIK-5     
+PAD       : LC200/39  
+FLIGHT_ID : 380-01    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

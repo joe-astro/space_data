@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2013-030  
+LIFTOFF   : 2013/06/25-17:28:48
+ROCKET    : Soyuz-2-1B
+COUNTRY   : RU        
+AGENCY    : FKA       
+SITE      : GIK-5     
+PAD       : LC31      
+FLIGHT_ID : I 15000-013
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

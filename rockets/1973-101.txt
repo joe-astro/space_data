@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1973-101  
+LIFTOFF   : 1973/12/16-06:18:00
+ROCKET    : Delta 1900
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : V         
+PAD       : SLC2W     
+FLIGHT_ID : 585/D099  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

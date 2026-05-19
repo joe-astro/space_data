@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1988-032  
+LIFTOFF   : 1988/04/20-05:48:12
+ROCKET    : Vostok 8A92M
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-5    
+PAD       : LC31      
+FLIGHT_ID : I 15000-78
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2020-104  
+LIFTOFF   : 2020/12/29-16:42:07
+ROCKET    : Soyuz-ST-A
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELS       
+FLIGHT_ID : R 15000-006/133-11?
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

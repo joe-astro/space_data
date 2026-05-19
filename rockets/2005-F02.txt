@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2005-F02  
+LIFTOFF   : 2005/06/21-19:46:09
+ROCKET    : Volna     
+COUNTRY   : RU        
+AGENCY    : VMFR      
+SITE      : BLA       
+PAD       : -         
+FLIGHT_ID : M-1491-035
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

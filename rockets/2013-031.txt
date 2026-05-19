@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2013-031  
+LIFTOFF   : 2013/06/25-19:27:03
+ROCKET    : Soyuz-ST-B
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELS       
+FLIGHT_ID : E 15000-003/1041
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

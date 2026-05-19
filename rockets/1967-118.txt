@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-118  
+LIFTOFF   : 1967/11/29-04:49:00
+ROCKET    : SPARTA    
+COUNTRY   : US        
+AGENCY    : MICOM/WRE 
+SITE      : WOO       
+PAD       : LA8       
+FLIGHT_ID : CC-2029/SV-10
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

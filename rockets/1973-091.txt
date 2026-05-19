@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1973-091  
+LIFTOFF   : 1973/11/20-12:29:58
+ROCKET    : Kosmos 11K63
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-53   
+PAD       : LC133/3   
+FLIGHT_ID : 29524-154 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

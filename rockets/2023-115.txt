@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-115  
+LIFTOFF   : 2023/08/08-03:57:00
+ROCKET    : Falcon 9  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : VSFBS     
+PAD       : SLC4E     
+FLIGHT_ID : 247/B1075.5  F246
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

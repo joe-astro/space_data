@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1958-F17  
+LIFTOFF   : 1958/10/11-21:41:58
+ROCKET    : Vostok-L 8K72
+COUNTRY   : SU        
+AGENCY    : MVS       
+SITE      : NIIP-5    
+PAD       : LC1       
+FLIGHT_ID : B1-4      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

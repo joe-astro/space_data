@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1979-089  
+LIFTOFF   : 1979/10/11-16:36:00
+ROCKET    : Kosmos 11K65M
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-53   
+PAD       : LC132/2   
+FLIGHT_ID : 47172-407 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

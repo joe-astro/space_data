@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2018-066  
+LIFTOFF   : 2018/08/22-21:20:09
+ROCKET    : Vega      
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ZLV       
+FLIGHT_ID : VV12      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

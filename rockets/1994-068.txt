@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-068  
+LIFTOFF   : 1994/10/15-05:05:00
+ROCKET    : PSLV      
+COUNTRY   : IN        
+AGENCY    : ISRO      
+SITE      : SHAR      
+PAD       : FLP       
+FLIGHT_ID : PSLV-D2   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

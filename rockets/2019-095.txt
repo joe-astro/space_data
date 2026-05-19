@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2019-095  
+LIFTOFF   : 2019/12/24-12:03:02
+ROCKET    : Proton-M/DM-3
+COUNTRY   : RU        
+AGENCY    : KHRU      
+SITE      : GIK-5     
+PAD       : LC81/24   
+FLIGHT_ID : 935-66/3L 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

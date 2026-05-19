@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2012-055  
+LIFTOFF   : 2012/10/12-18:15:00
+ROCKET    : Soyuz-ST-B
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELS       
+FLIGHT_ID : B 15000-002/1031
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

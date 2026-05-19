@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1968-009  
+LIFTOFF   : 1968/02/06-08:00:00
+ROCKET    : Voskhod 11A57
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC31      
+FLIGHT_ID : N 15002- 14
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

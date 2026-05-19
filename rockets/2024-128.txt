@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-128  
+LIFTOFF   : 2024/07/09-19:00:00
+ROCKET    : Ariane 62 
+COUNTRY   : I-ESA     
+AGENCY    : ESA       
+SITE      : CSG       
+PAD       : ELA4      
+FLIGHT_ID : VA262 (L6001)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1991-039  
+LIFTOFF   : 1991/06/04-08:10:00
+ROCKET    : Tsiklon-3 
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-53   
+PAD       : LC32/2    
+FLIGHT_ID : 45033-305 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

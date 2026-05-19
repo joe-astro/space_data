@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-026  
+LIFTOFF   : 2022/03/15-16:22:00
+ROCKET    : Astra Rocket 3.3
+COUNTRY   : US        
+AGENCY    : ASTRV     
+SITE      : PSCA      
+PAD       : LP3B      
+FLIGHT_ID : LV0009    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

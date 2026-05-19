@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2017-002  
+LIFTOFF   : 2017/01/09-04:11:12
+ROCKET    : Kuaizhou-1A
+COUNTRY   : CN        
+AGENCY    : EXPACE    
+SITE      : JQ        
+PAD       : LC43/95   
+FLIGHT_ID : Y1        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

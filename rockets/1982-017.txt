@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1982-017  
+LIFTOFF   : 1982/03/05-00:23:00
+ROCKET    : Atlas SLV-3D Centaur
+COUNTRY   : US        
+AGENCY    : LERC      
+SITE      : CC        
+PAD       : LC36B     
+FLIGHT_ID : AC-58     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-010  
+LIFTOFF   : 2025/01/15-06:11:00
+ROCKET    : Falcon 9  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : KSC       
+PAD       : LC39A     
+FLIGHT_ID : 427/B1085.5  F426
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

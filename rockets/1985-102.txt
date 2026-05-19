@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1985-102  
+LIFTOFF   : 1985/10/25-15:45:00
+ROCKET    : Proton-K/DM-2
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-5    
+PAD       : LC200/40  
+FLIGHT_ID : 332-02    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

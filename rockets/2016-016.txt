@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2016-016  
+LIFTOFF   : 2016/03/13-18:56:00
+ROCKET    : Soyuz-2-1B
+COUNTRY   : RU        
+AGENCY    : FKA       
+SITE      : GIK-5     
+PAD       : LC31      
+FLIGHT_ID : T 15000-016
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

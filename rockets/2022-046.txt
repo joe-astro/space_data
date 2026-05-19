@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-046  
+LIFTOFF   : 2022/04/30-03:30:00
+ROCKET    : Chang Zheng 11
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : HHAI      
+PAD       : LP3       
+FLIGHT_ID : Y3        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

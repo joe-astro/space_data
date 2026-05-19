@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2011-074  
+LIFTOFF   : 2011/12/11-11:17:00
+ROCKET    : Proton-M/Briz-M
+COUNTRY   : RU        
+AGENCY    : KHRU      
+SITE      : GIK-5     
+PAD       : LC81/24   
+FLIGHT_ID : 935-23/99525
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

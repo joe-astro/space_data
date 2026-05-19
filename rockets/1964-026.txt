@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1964-026  
+LIFTOFF   : 1964/06/04-03:50:55
+ROCKET    : Scout X-4 
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : PA        
+PAD       : LC-D      
+FLIGHT_ID : S125R     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

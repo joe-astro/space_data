@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1985-084  
+LIFTOFF   : 1985/09/24-01:18:10
+ROCKET    : Molniya 8K78M
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-53   
+PAD       : LC43/4    
+FLIGHT_ID : 77046  -674
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

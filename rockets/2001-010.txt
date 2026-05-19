@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2001-010  
+LIFTOFF   : 2001/03/08-11:42:09
+ROCKET    : Space Shuttle
+COUNTRY   : US        
+AGENCY    : JSC/MSFC  
+SITE      : KSC       
+PAD       : LC39B     
+FLIGHT_ID : STS-102   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

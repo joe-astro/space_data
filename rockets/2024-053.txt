@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-053  
+LIFTOFF   : 2024/03/21-07:25:00
+ROCKET    : Electron  
+COUNTRY   : US        
+AGENCY    : RLABU     
+SITE      : MARS      
+PAD       : Pad 0C    
+FLIGHT_ID : 46        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

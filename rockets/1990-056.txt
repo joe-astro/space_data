@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1990-056  
+LIFTOFF   : 1990/06/23-11:19:00
+ROCKET    : Commercial Titan 3
+COUNTRY   : US        
+AGENCY    : MMA       
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : CT-3      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

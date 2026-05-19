@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2001-027  
+LIFTOFF   : 2001/06/30-19:46:46
+ROCKET    : Delta 7425-10
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : CC        
+PAD       : SLC17B    
+FLIGHT_ID : D286      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

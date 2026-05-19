@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1964-084  
+LIFTOFF   : 1964/12/15-20:20:04
+ROCKET    : Scout X-4 
+COUNTRY   : US        
+AGENCY    : LARCN     
+SITE      : WI        
+PAD       : LA3A      
+FLIGHT_ID : S137R     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

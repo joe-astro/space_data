@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1995-073  
+LIFTOFF   : 1995/12/28-11:50:00
+ROCKET    : Chang Zheng 2E
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : XSC       
+PAD       : LC2       
+FLIGHT_ID : Y8        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1999-010  
+LIFTOFF   : 1999/02/28-04:00:00
+ROCKET    : Proton-K/DM-2
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-5     
+PAD       : LC81/23   
+FLIGHT_ID : 387-01    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1992-094  
+LIFTOFF   : 1992/12/25-20:07:59
+ROCKET    : Tsiklon-3 
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : NIIP-53   
+PAD       : LC32/2    
+FLIGHT_ID : 45027-906 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

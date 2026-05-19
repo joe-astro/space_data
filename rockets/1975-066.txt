@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1975-066  
+LIFTOFF   : 1975/07/15-19:50:01
+ROCKET    : Saturn IB 
+COUNTRY   : US        
+AGENCY    : MSFC      
+SITE      : KSC       
+PAD       : LC39B     
+FLIGHT_ID : SA-210    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

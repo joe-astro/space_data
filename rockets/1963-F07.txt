@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1963-F07  
+LIFTOFF   : 1963/04/26-20:12:57
+ROCKET    : Thor Agena D
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : V         
+PAD       : 75-1-1    
+FLIGHT_ID : 372/1411  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

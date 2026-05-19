@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2001-004  
+LIFTOFF   : 2001/01/30-07:55:01
+ROCKET    : Delta 7925-9.5
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : CC        
+PAD       : SLC17A    
+FLIGHT_ID : D283      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

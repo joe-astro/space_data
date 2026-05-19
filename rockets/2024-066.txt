@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-066  
+LIFTOFF   : 2024/04/07-23:16:00
+ROCKET    : Falcon 9  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : KSC       
+PAD       : LC39A     
+FLIGHT_ID : 322/B1073.14 F321
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

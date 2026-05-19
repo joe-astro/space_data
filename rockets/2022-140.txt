@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-140  
+LIFTOFF   : 2022/10/26-00:20:09
+ROCKET    : Soyuz-2-1A
+COUNTRY   : RU        
+AGENCY    : FKA       
+SITE      : GIK-5     
+PAD       : LC31      
+FLIGHT_ID : S 15000-057
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

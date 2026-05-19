@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-061  
+LIFTOFF   : 2024/03/31-09:36:45
+ROCKET    : Soyuz-2-1B
+COUNTRY   : RU        
+AGENCY    : FKA       
+SITE      : GIK-5     
+PAD       : LC31      
+FLIGHT_ID : Kh15000-067
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

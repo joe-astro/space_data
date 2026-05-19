@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1979-101  
+LIFTOFF   : 1979/12/07-01:35:00
+ROCKET    : Delta 3914
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : CC        
+PAD       : LC17A     
+FLIGHT_ID : 622/D150  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

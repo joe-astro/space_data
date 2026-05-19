@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1993-026  
+LIFTOFF   : 1993/04/25-13:56:00
+ROCKET    : Pegasus   
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : EAFB      
+PAD       : RW04/22   
+FLIGHT_ID : 004/F4    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-253  
+LIFTOFF   : 2024/12/30-16:30:15
+ROCKET    : PSLV      
+COUNTRY   : IN        
+AGENCY    : ISRO      
+SITE      : SHAR      
+PAD       : FLP       
+FLIGHT_ID : PSLV-C60  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1976-071  
+LIFTOFF   : 1976/07/21-15:14:00
+ROCKET    : Tsiklon-2 
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC90      
+FLIGHT_ID : 45012-102T
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

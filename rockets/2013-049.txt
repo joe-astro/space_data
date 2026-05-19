@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2013-049  
+LIFTOFF   : 2013/09/14-05:00:00
+ROCKET    : Epsilon   
+COUNTRY   : J         
+AGENCY    : JAXA      
+SITE      : USC       
+PAD       : EP        
+FLIGHT_ID : E-1       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2008-047  
+LIFTOFF   : 2008/09/25-13:10:05
+ROCKET    : Chang Zheng 2F
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : JQ        
+PAD       : LC921     
+FLIGHT_ID : Y7        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

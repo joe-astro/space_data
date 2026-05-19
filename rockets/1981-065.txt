@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1981-065  
+LIFTOFF   : 1981/07/10-05:14:00
+ROCKET    : Vostok 8A92M
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC31      
+FLIGHT_ID : 76042  -389
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2014-071  
+LIFTOFF   : 2014/11/14-18:53:05
+ROCKET    : Chang Zheng 2C
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : TYSC      
+PAD       : LC9       
+FLIGHT_ID : Y35       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

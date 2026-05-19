@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-F04  
+LIFTOFF   : 2025/03/30-10:30:00
+ROCKET    : Spectrum  
+COUNTRY   : D         
+AGENCY    : ISAR      
+SITE      : AND       
+PAD       : ISAR      
+FLIGHT_ID : 1         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

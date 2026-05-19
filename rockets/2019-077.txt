@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2019-077  
+LIFTOFF   : 2019/11/17-10:00:00
+ROCKET    : Kuaizhou-1A
+COUNTRY   : CN        
+AGENCY    : EXPACE    
+SITE      : JQ        
+PAD       : LC43/95   
+FLIGHT_ID : Y7        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

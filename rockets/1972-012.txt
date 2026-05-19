@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1972-012  
+LIFTOFF   : 1972/03/03-01:49:04
+ROCKET    : Atlas SLV-3C Centaur
+COUNTRY   : US        
+AGENCY    : LERC      
+SITE      : CC        
+PAD       : LC36A     
+FLIGHT_ID : AC-27     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

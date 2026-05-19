@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-F02  
+LIFTOFF   : 2024/05/27-13:44:00
+ROCKET    : NK Kerolox LV
+COUNTRY   : KP        
+AGENCY    : KCST      
+SITE      : SOHAE     
+PAD       : LC2       
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

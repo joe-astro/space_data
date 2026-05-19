@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2004-U01  
+LIFTOFF   : 2004/11/08-18:29:58
+ROCKET    : Soyuz-2-1A
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-1     
+PAD       : LC43/4    
+FLIGHT_ID : F 15000-001
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1965-051  
+LIFTOFF   : 1965/07/02-04:07:00
+ROCKET    : Thor Delta C
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : CC        
+PAD       : LC17B     
+FLIGHT_ID : 415/D032  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

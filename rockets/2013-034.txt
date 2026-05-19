@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2013-034  
+LIFTOFF   : 2013/07/01-18:11:00
+ROCKET    : PSLV-XL   
+COUNTRY   : IN        
+AGENCY    : ISRO      
+SITE      : SHAR      
+PAD       : FLP       
+FLIGHT_ID : PSLV-C22  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

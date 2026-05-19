@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2004-013  
+LIFTOFF   : 2004/04/19-03:19:00
+ROCKET    : Soyuz-FG  
+COUNTRY   : RU        
+AGENCY    : FKA       
+SITE      : GIK-5     
+PAD       : LC1       
+FLIGHT_ID : Zh15000-009
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

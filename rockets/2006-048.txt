@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2006-048  
+LIFTOFF   : 2006/10/28-16:20:00
+ROCKET    : Chang Zheng 3B
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : XSC       
+PAD       : LC2       
+FLIGHT_ID : Y7        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

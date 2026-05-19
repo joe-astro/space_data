@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1987-070  
+LIFTOFF   : 1987/08/27-09:20:00
+ROCKET    : H-1       
+COUNTRY   : J         
+AGENCY    : NASDA     
+SITE      : TNSC      
+PAD       : N         
+FLIGHT_ID : H-17(F)   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

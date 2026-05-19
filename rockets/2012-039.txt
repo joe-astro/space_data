@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2012-039  
+LIFTOFF   : 2012/07/22-06:41:39
+ROCKET    : Soyuz-FG  
+COUNTRY   : RU        
+AGENCY    : FKA       
+SITE      : GIK-5     
+PAD       : LC31      
+FLIGHT_ID : B 15000-033
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

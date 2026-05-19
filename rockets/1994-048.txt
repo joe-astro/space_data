@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-048  
+LIFTOFF   : 1994/08/05-01:12:21
+ROCKET    : Molniya 8K78M
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GNIIPV    
+PAD       : LC16/2    
+FLIGHT_ID : 78012  -642
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

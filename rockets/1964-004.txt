@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1964-004  
+LIFTOFF   : 1964/01/25-13:59:04
+ROCKET    : Thor SLV-2 Agena B
+COUNTRY   : US        
+AGENCY    : LERC/AFSSD
+SITE      : V         
+PAD       : 75-1-1    
+FLIGHT_ID : 397/6301 (TA2)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

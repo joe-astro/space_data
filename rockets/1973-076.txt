@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1973-076  
+LIFTOFF   : 1973/10/19-10:26:01
+ROCKET    : Molniya 8K78M
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-53   
+PAD       : LC41/1    
+FLIGHT_ID : 77019  -549
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

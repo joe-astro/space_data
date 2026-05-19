@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1979-057  
+LIFTOFF   : 1979/06/27-15:51:59
+ROCKET    : Atlas F   
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : VS        
+PAD       : SLC3W     
+FLIGHT_ID : 25F       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

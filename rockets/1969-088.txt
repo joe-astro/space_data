@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1969-088  
+LIFTOFF   : 1969/10/14-13:19:53
+ROCKET    : Kosmos 11K63
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : GTsP-4    
+PAD       : LC86/4    
+FLIGHT_ID : 2I        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1987-087  
+LIFTOFF   : 1987/10/14-12:35:33
+ROCKET    : Kosmos 11K65M
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-53   
+PAD       : LC133/3   
+FLIGHT_ID : 53726-186 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

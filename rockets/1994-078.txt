@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-078  
+LIFTOFF   : 1994/11/29-02:54:00
+ROCKET    : Tsiklon-3 
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GIK-1     
+PAD       : LC32/2    
+FLIGHT_ID : 51092-805 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1981-044  
+LIFTOFF   : 1981/05/15-06:07:17
+ROCKET    : Scout G-1 
+COUNTRY   : US        
+AGENCY    : LARCN     
+SITE      : VS        
+PAD       : SLC5      
+FLIGHT_ID : S192C     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

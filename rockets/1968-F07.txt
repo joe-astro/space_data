@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1968-F07  
+LIFTOFF   : 1968/08/16-20:57:44
+ROCKET    : Atlas Burner 2
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : VS        
+PAD       : SLC3E     
+FLIGHT_ID : 7004      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

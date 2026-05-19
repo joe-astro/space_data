@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2007-003  
+LIFTOFF   : 2007/02/02-16:28:00
+ROCKET    : Chang Zheng 3A
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : XSC       
+PAD       : LC2       
+FLIGHT_ID : Y12       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

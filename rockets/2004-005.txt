@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2004-005  
+LIFTOFF   : 2004/02/18-07:05:55
+ROCKET    : Molniya 8K78M
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-1     
+PAD       : LC16/2    
+FLIGHT_ID : 76092  -690 047
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

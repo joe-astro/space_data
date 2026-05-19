@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-102  
+LIFTOFF   : 2021/11/09-00:55:16
+ROCKET    : Epsilon   
+COUNTRY   : J         
+AGENCY    : JAXA      
+SITE      : USC       
+PAD       : EP        
+FLIGHT_ID : E-5       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

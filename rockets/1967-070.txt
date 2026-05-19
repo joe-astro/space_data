@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-070  
+LIFTOFF   : 1967/07/19-14:19:02
+ROCKET    : Thor Delta E1
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : CC        
+PAD       : LC17B     
+FLIGHT_ID : 488/D050  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

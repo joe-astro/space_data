@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1977-095  
+LIFTOFF   : 1977/09/24-10:15:00
+ROCKET    : Tsiklon-3 
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-53   
+PAD       : LC32/2    
+FLIGHT_ID : 45028-201 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1963-034  
+LIFTOFF   : 1963/08/25-00:29:58
+ROCKET    : Thor SLV-2A Agena D
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : V         
+PAD       : 75-3-4    
+FLIGHT_ID : 377/1162  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

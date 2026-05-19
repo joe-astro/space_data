@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-122  
+LIFTOFF   : 2021/12/10-00:11:30
+ROCKET    : Chang Zheng 4B
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : JQ        
+PAD       : LC43/94   
+FLIGHT_ID : Y47       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

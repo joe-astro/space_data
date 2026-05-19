@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1962 B PHI
+LIFTOFF   : 1962/12/14-21:26:07
+ROCKET    : Thor Agena D
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : V         
+PAD       : 75-3-5    
+FLIGHT_ID : 368/1156  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

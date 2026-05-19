@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1991-011  
+LIFTOFF   : 1991/02/15-09:30:00
+ROCKET    : Soyuz-U   
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : GIK-5     
+PAD       : LC1       
+FLIGHT_ID : 77053  -483
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

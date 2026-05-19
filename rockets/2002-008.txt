@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2002-008  
+LIFTOFF   : 2002/02/25-17:26:21
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-1     
+PAD       : LC43/3    
+FLIGHT_ID : 77082  -842 083
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

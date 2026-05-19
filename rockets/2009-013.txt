@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2009-013  
+LIFTOFF   : 2009/03/17-14:21:14
+ROCKET    : Rokot     
+COUNTRY   : RU        
+AGENCY    : EUROK     
+SITE      : GIK-1     
+PAD       : LC133/3   
+FLIGHT_ID : 511-6992-012P/72511
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

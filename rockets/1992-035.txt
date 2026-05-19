@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1992-035  
+LIFTOFF   : 1992/06/30-16:43:13
+ROCKET    : Soyuz-U2  
+COUNTRY   : RU        
+AGENCY    : UNKSR     
+SITE      : GIK-5     
+PAD       : LC31      
+FLIGHT_ID : U 15000-062
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2004-018  
+LIFTOFF   : 2004/05/20-17:47:03
+ROCKET    : Taurus 3210
+COUNTRY   : US        
+AGENCY    : OSCC      
+SITE      : V         
+PAD       : 576E      
+FLIGHT_ID : T7 (XL)   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

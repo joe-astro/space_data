@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1961-F03  
+LIFTOFF   : 1961/04/25-16:15:00
+ROCKET    : Atlas D   
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : CC        
+PAD       : LC14      
+FLIGHT_ID : 100D      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

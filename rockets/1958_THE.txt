@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1958 THE  
+LIFTOFF   : 1958/12/06-05:44:52
+ROCKET    : Juno II   
+COUNTRY   : US        
+AGENCY    : ABMA      
+SITE      : CC        
+PAD       : LC5       
+FLIGHT_ID : AM-11     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

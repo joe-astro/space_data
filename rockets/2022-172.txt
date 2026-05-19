@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-172  
+LIFTOFF   : 2022/12/16-06:17:00
+ROCKET    : Chang Zheng 11
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : XSC       
+PAD       : LC4       
+FLIGHT_ID : Y12       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

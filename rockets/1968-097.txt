@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1968-097  
+LIFTOFF   : 1968/11/01-00:27:15
+ROCKET    : Tsiklon-2A
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC90/20   
+FLIGHT_ID : N 22500-09L
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

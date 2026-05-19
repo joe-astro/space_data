@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1986-094  
+LIFTOFF   : 1986/12/02-07:00:00
+ROCKET    : Tsiklon-3 
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-53   
+PAD       : LC32/1    
+FLIGHT_ID : 45086-104 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

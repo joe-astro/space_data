@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2008-058  
+LIFTOFF   : 2008/11/14-15:50:00
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-1     
+PAD       : LC16/2    
+FLIGHT_ID : 77057  -146 103
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

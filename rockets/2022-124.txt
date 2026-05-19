@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-124  
+LIFTOFF   : 2022/10/05-16:00:57
+ROCKET    : Falcon 9  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : KSC       
+PAD       : LC39A     
+FLIGHT_ID : 181/B1077.1  F179
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

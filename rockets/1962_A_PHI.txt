@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1962 A PHI
+LIFTOFF   : 1962/09/12-00:59:13
+ROCKET    : Molniya 8K78
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC1       
+FLIGHT_ID : T103-14   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

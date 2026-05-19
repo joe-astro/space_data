@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1992-028  
+LIFTOFF   : 1992/05/20-00:30:00
+ROCKET    : ASLV      
+COUNTRY   : IN        
+AGENCY    : ISRO      
+SITE      : SHAR      
+PAD       : SLV       
+FLIGHT_ID : ASLV-D3   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

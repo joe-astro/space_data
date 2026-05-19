@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1975-048  
+LIFTOFF   : 1975/06/03-13:20:48
+ROCKET    : Voskhod 11A57
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-53   
+PAD       : LC43/3    
+FLIGHT_ID : 76029  -756
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-F03  
+LIFTOFF   : 1967/04/13-02:40:00
+ROCKET    : Lambda 4S 
+COUNTRY   : J         
+AGENCY    : ISAS      
+SITE      : KASC      
+PAD       : L         
+FLIGHT_ID : L-4S-3    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2020-102  
+LIFTOFF   : 2020/12/22-04:37:37
+ROCKET    : Chang Zheng 8
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : WEN       
+PAD       : LC201     
+FLIGHT_ID : Y1        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

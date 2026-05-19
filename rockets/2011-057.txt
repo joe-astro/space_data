@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2011-057  
+LIFTOFF   : 2011/10/07-08:21:04
+ROCKET    : Chang Zheng 3B
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : XSC       
+PAD       : LC2       
+FLIGHT_ID : Y18       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2016-053  
+LIFTOFF   : 2016/08/24-22:16:01
+ROCKET    : Ariane 5ECA
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELA3      
+FLIGHT_ID : VA232 (586)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

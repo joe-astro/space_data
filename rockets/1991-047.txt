@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1991-047  
+LIFTOFF   : 1991/07/04-02:32:00
+ROCKET    : Delta 7925
+COUNTRY   : US        
+AGENCY    : MDSSC     
+SITE      : CC        
+PAD       : LC17A     
+FLIGHT_ID : D206      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-142  
+LIFTOFF   : 2023/09/15-02:28:00
+ROCKET    : Firefly Alpha
+COUNTRY   : US        
+AGENCY    : FFLY      
+SITE      : VSFB      
+PAD       : SLC2W     
+FLIGHT_ID : FLTA003   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

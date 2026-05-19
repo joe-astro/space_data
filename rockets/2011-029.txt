@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2011-029  
+LIFTOFF   : 2011/06/30-03:09:00
+ROCKET    : Minotaur I
+COUNTRY   : US        
+AGENCY    : RSLP      
+SITE      : MARS      
+PAD       : Pad 0B    
+FLIGHT_ID : 10        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

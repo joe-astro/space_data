@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2010-054  
+LIFTOFF   : 2010/10/19-17:10:59
+ROCKET    : Soyuz-2-1A
+COUNTRY   : F         
+AGENCY    : STSM      
+SITE      : GIK-5     
+PAD       : LC31      
+FLIGHT_ID : B 15000-009/ST22
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2019-004  
+LIFTOFF   : 2019/01/19-19:10:00
+ROCKET    : Delta 4H  
+COUNTRY   : US        
+AGENCY    : ULAB      
+SITE      : VS        
+PAD       : SLC6      
+FLIGHT_ID : D4-38/D382
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

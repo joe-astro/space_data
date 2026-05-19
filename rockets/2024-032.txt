@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-032  
+LIFTOFF   : 2024/02/17-00:22:55
+ROCKET    : H3-22S    
+COUNTRY   : J         
+AGENCY    : JAXA      
+SITE      : TNSC      
+PAD       : Y2        
+FLIGHT_ID : H3-TF2    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1993-004  
+LIFTOFF   : 1993/01/19-14:49:01
+ROCKET    : Soyuz-U   
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GNIIPV    
+PAD       : LC43/3    
+FLIGHT_ID : 77017  -979
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

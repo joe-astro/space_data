@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-092  
+LIFTOFF   : 1966/10/20-07:50:00
+ROCKET    : Molniya 8K78
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC1       
+FLIGHT_ID : N 15000- 40
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1980-050  
+LIFTOFF   : 1980/06/14-20:51:34
+ROCKET    : Molniya 8K78M
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-53   
+PAD       : LC43/3    
+FLIGHT_ID : 77025  -527
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

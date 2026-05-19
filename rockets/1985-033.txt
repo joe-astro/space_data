@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1985-033  
+LIFTOFF   : 1985/04/26-05:48:00
+ROCKET    : Molniya 8K78M
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-5    
+PAD       : LC31      
+FLIGHT_ID : B 15000-252
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

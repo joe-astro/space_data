@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1999-050  
+LIFTOFF   : 1999/09/23-06:02:02
+ROCKET    : Atlas IIAS
+COUNTRY   : US        
+AGENCY    : LMA       
+SITE      : CC        
+PAD       : SLC36A    
+FLIGHT_ID : AC-155    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-028  
+LIFTOFF   : 1994/05/09-02:47:00
+ROCKET    : Scout G-1 
+COUNTRY   : US        
+AGENCY    : LARCN     
+SITE      : VS        
+PAD       : SLC5      
+FLIGHT_ID : S218C     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

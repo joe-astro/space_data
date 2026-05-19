@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1986-061  
+LIFTOFF   : 1986/08/12-20:45:00
+ROCKET    : H-1       
+COUNTRY   : J         
+AGENCY    : NASDA     
+SITE      : TNSC      
+PAD       : N         
+FLIGHT_ID : H-15(F)   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-040  
+LIFTOFF   : 2023/03/23-06:40:11
+ROCKET    : Soyuz-2-1A
+COUNTRY   : RU        
+AGENCY    : VVKO      
+SITE      : GIK-1     
+PAD       : LC43/3    
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

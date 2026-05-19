@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1975-F06  
+LIFTOFF   : 1975/12/06-03:35:01
+ROCKET    : Scout F-1 
+COUNTRY   : US        
+AGENCY    : AFSC      
+SITE      : VS        
+PAD       : SLC5      
+FLIGHT_ID : S196C     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

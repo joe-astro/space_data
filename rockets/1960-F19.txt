@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1960-F19  
+LIFTOFF   : 1960/12/22-07:45:19
+ROCKET    : Vostok 8K72
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC1       
+FLIGHT_ID : L1-13A    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

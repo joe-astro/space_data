@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2003-044  
+LIFTOFF   : 2003/10/01-04:02:59
+ROCKET    : Zenit-3SL 
+COUNTRY   : US        
+AGENCY    : SEALP     
+SITE      : KLA       
+PAD       : -         
+FLIGHT_ID : SL13/DM-SL-12L
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

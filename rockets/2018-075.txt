@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2018-075  
+LIFTOFF   : 2018/09/29-04:13:30
+ROCKET    : Kuaizhou-1A
+COUNTRY   : CN        
+AGENCY    : EXPACE    
+SITE      : JQ        
+PAD       : LC43/95   
+FLIGHT_ID : Y8        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

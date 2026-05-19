@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-004  
+LIFTOFF   : 1967/01/19-12:39:59
+ROCKET    : Vostok 8A92
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-53   
+PAD       : LC41/1    
+FLIGHT_ID : N 15001- 05
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1992-064  
+LIFTOFF   : 1992/10/06-06:20:05
+ROCKET    : Chang Zheng 2C
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : JQ        
+PAD       : LA2B      
+FLIGHT_ID : Y10       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

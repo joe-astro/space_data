@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2017-012  
+LIFTOFF   : 2017/03/02-23:53:00
+ROCKET    : KT-2      
+COUNTRY   : CN        
+AGENCY    : CASIC4A   
+SITE      : JQ        
+PAD       : -         
+FLIGHT_ID : Y1        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

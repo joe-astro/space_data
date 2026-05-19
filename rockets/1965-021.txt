@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1965-021  
+LIFTOFF   : 1965/03/18-04:43:46
+ROCKET    : Thor MG-18
+COUNTRY   : US        
+AGENCY    : S4300     
+SITE      : V         
+PAD       : 4300B6    
+FLIGHT_ID : 306       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1970-U01  
+LIFTOFF   : 1970/09/21-07:43:00
+ROCKET    : E-8-5 VA  
+COUNTRY   : SU        
+AGENCY    : NPOL      
+SITE      : FEC       
+PAD       : KT-406    
+FLIGHT_ID : No. 406   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

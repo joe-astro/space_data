@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2007-048  
+LIFTOFF   : 2007/10/20-20:12:25
+ROCKET    : Soyuz-FG  
+COUNTRY   : F         
+AGENCY    : STSM      
+SITE      : GIK-5     
+PAD       : LC31      
+FLIGHT_ID : Ts15000-022/1015
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

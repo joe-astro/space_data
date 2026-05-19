@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2010-069  
+LIFTOFF   : 2010/12/26-21:51:00
+ROCKET    : Proton-M/Briz-M
+COUNTRY   : RU        
+AGENCY    : ILSK      
+SITE      : GIK-5     
+PAD       : LC200/39  
+FLIGHT_ID : 935-17/99518
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

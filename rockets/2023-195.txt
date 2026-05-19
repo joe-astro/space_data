@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-195  
+LIFTOFF   : 2023/12/14-14:12:00
+ROCKET    : Chang Zheng 2F
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : JQ        
+PAD       : LC43/91   
+FLIGHT_ID : T5        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

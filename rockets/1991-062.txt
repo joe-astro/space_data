@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1991-062  
+LIFTOFF   : 1991/08/30-02:30:00
+ROCKET    : Mu-3S-II  
+COUNTRY   : J         
+AGENCY    : ISAS      
+SITE      : KASC      
+PAD       : M1        
+FLIGHT_ID : M-3S2-6   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

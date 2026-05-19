@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1975-119  
+LIFTOFF   : 1975/12/16-09:21:00
+ROCKET    : Feng Bao 1
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : JQ        
+PAD       : LA2B      
+FLIGHT_ID : 701-06    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

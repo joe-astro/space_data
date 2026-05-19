@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2005-001  
+LIFTOFF   : 2005/01/12-18:47:08
+ROCKET    : Delta 7925-9.5
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : CC        
+PAD       : SLC17B    
+FLIGHT_ID : D311      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

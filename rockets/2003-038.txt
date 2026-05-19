@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2003-038  
+LIFTOFF   : 2003/08/25-05:35:39
+ROCKET    : Delta 7920H
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : CC        
+PAD       : SLC17B    
+FLIGHT_ID : D300      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

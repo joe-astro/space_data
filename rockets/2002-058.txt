@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2002-058  
+LIFTOFF   : 2002/12/20-17:00:00
+ROCKET    : Dnepr     
+COUNTRY   : RU        
+AGENCY    : KTRAS/RVSNR
+SITE      : GIK-5     
+PAD       : LC109/95  
+FLIGHT_ID : 510-3541-505
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2007-054  
+LIFTOFF   : 2007/11/11-01:50:00
+ROCKET    : Delta 4H  
+COUNTRY   : US        
+AGENCY    : ULAB      
+SITE      : CC        
+PAD       : SLC37B    
+FLIGHT_ID : D4-8/D329 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

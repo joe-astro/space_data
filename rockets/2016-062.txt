@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2016-062  
+LIFTOFF   : 2016/10/17-23:45:40
+ROCKET    : Antares 230
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : MARS      
+PAD       : Pad 0A    
+FLIGHT_ID : 2TRS2S1.7  (6)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

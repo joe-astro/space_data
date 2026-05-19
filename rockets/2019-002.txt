@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2019-002  
+LIFTOFF   : 2019/01/11-15:31:33
+ROCKET    : Falcon 9  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : VS        
+PAD       : SLC4E     
+FLIGHT_ID : 069/B1049.2  F068
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-059  
+LIFTOFF   : 1966/07/05-14:53:17
+ROCKET    : Uprated Saturn I
+COUNTRY   : US        
+AGENCY    : MSFC      
+SITE      : CC        
+PAD       : LC37B     
+FLIGHT_ID : SA-203    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

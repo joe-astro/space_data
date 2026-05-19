@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1976-076  
+LIFTOFF   : 1976/07/27-12:00:02
+ROCKET    : Kosmos 11K65M
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : GTsP-4    
+PAD       : LC107/2   
+FLIGHT_ID : 53746-316 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

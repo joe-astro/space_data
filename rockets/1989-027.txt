@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1989-027  
+LIFTOFF   : 1989/04/02-02:28:00
+ROCKET    : Ariane 2  
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELA1      
+FLIGHT_ID : V30 L27   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

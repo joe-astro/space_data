@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2017-026  
+LIFTOFF   : 2017/05/18-11:54:53
+ROCKET    : Soyuz-ST-A
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELS       
+FLIGHT_ID : R 15000-007/133-09
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

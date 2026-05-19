@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-076  
+LIFTOFF   : 2023/05/29-05:12:00
+ROCKET    : GSLV Mk II
+COUNTRY   : IN        
+AGENCY    : ISRO/NSIL 
+SITE      : SHAR      
+PAD       : SLP       
+FLIGHT_ID : GSLV-F12  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1996-021  
+LIFTOFF   : 1996/04/08-23:09:01
+ROCKET    : Proton-K/DM-2M
+COUNTRY   : RU        
+AGENCY    : ILSK      
+SITE      : GIK-5     
+PAD       : LC81/23   
+FLIGHT_ID : 390-01    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

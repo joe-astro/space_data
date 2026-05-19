@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-070  
+LIFTOFF   : 2000/10/31-07:52:47
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : RAKA      
+SITE      : GIK-5     
+PAD       : LC1       
+FLIGHT_ID : A 15000-666
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

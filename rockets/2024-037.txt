@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-037  
+LIFTOFF   : 2024/02/23-11:30:00
+ROCKET    : Chang Zheng 5
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : WEN       
+PAD       : LC101     
+FLIGHT_ID : Y7        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

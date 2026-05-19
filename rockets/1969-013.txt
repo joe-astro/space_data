@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1969-013  
+LIFTOFF   : 1969/02/09-21:09:00
+ROCKET    : Titan IIIC
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : CC        
+PAD       : LC41      
+FLIGHT_ID : 3C-17     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1995-059  
+LIFTOFF   : 1995/11/04-14:22:00
+ROCKET    : Delta 7920-10
+COUNTRY   : US        
+AGENCY    : MDSSC     
+SITE      : V         
+PAD       : SLC2W     
+FLIGHT_ID : D229      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

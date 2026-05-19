@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1971-F14  
+LIFTOFF   : 1971/12/05-16:20:00
+ROCKET    : Diamant B 
+COUNTRY   : F         
+AGENCY    : CNES      
+SITE      : CSG       
+PAD       : Diamant   
+FLIGHT_ID : No. 4     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

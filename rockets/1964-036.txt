@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1964-036  
+LIFTOFF   : 1964/07/06-18:51:18
+ROCKET    : Atlas Agena D
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : PA        
+PAD       : LC2-3     
+FLIGHT_ID : 352D/4807 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

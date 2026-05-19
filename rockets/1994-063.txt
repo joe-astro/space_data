@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-063  
+LIFTOFF   : 1994/10/03-22:42:30
+ROCKET    : Soyuz-U2  
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GIK-5     
+PAD       : LC1       
+FLIGHT_ID : Ya15000-074
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1980-060  
+LIFTOFF   : 1980/07/14-22:35:00
+ROCKET    : Proton-K/DM
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC200/40  
+FLIGHT_ID : 301-01    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2006-001  
+LIFTOFF   : 2006/01/19-19:00:00
+ROCKET    : Atlas V 551
+COUNTRY   : US        
+AGENCY    : ILSL      
+SITE      : CC        
+PAD       : SLC41     
+FLIGHT_ID : AV-010    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

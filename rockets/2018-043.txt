@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2018-043  
+LIFTOFF   : 2018/05/08-18:28:40
+ROCKET    : Chang Zheng 4C
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : TYSC      
+PAD       : LC9       
+FLIGHT_ID : Y20       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

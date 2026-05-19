@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-026  
+LIFTOFF   : 1994/05/03-15:55:01
+ROCKET    : Titan 401A/Centaur
+COUNTRY   : US        
+AGENCY    : AFSMC     
+SITE      : CC        
+PAD       : LC41      
+FLIGHT_ID : K-7/TC-10   (45E-1)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

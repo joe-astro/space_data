@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1990-088  
+LIFTOFF   : 1990/10/01-21:56:00
+ROCKET    : Delta 6925
+COUNTRY   : US        
+AGENCY    : MDSSC     
+SITE      : CC        
+PAD       : LC17A     
+FLIGHT_ID : D199      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

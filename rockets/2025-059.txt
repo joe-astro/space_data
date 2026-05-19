@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-059  
+LIFTOFF   : 2025/03/21-11:07:00
+ROCKET    : Gushenxing 1
+COUNTRY   : CN        
+AGENCY    : XIDO      
+SITE      : JQ        
+PAD       : LC43/95B  
+FLIGHT_ID : Y17       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

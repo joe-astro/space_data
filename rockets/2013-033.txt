@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2013-033  
+LIFTOFF   : 2013/06/28-02:27:46
+ROCKET    : Pegasus XL
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : V         
+PAD       : RW30/12   
+FLIGHT_ID : F42       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

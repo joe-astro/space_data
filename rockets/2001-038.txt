@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2001-038  
+LIFTOFF   : 2001/08/29-07:00:00
+ROCKET    : H-IIA 202 
+COUNTRY   : J         
+AGENCY    : NASDA     
+SITE      : TNSC      
+PAD       : Y         
+FLIGHT_ID : H-IIA-1F  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

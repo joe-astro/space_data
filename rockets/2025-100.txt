@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-100  
+LIFTOFF   : 2025/05/14-04:12:00
+ROCKET    : Chang Zheng 2D
+COUNTRY   : CN        
+AGENCY    : ZHSH/SAST 
+SITE      : JQ        
+PAD       : LC43/94   
+FLIGHT_ID : Y107      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

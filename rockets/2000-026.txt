@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-026  
+LIFTOFF   : 2000/05/16-08:27:41
+ROCKET    : Rokot     
+COUNTRY   : RU        
+AGENCY    : EUROK     
+SITE      : GIK-1     
+PAD       : LC133/3   
+FLIGHT_ID : 630-6992-011P/72501
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

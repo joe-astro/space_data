@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1988-098  
+LIFTOFF   : 1988/10/28-02:17:00
+ROCKET    : Ariane 2  
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELA1      
+FLIGHT_ID : V26 L25   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

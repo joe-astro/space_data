@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1968-089  
+LIFTOFF   : 1968/10/11-15:02:45
+ROCKET    : Saturn IB 
+COUNTRY   : US        
+AGENCY    : MSFC      
+SITE      : CC        
+PAD       : LC34      
+FLIGHT_ID : SA-205    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

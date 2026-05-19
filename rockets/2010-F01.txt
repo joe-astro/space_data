@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2010-F01  
+LIFTOFF   : 2010/04/15-10:57:00
+ROCKET    : GSLV Mk II
+COUNTRY   : IN        
+AGENCY    : ISRO      
+SITE      : SHAR      
+PAD       : SLP       
+FLIGHT_ID : GSLV-D3   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

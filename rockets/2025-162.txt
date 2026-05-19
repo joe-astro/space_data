@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-162  
+LIFTOFF   : 2025/07/30-07:49:00
+ROCKET    : Chang Zheng 8A
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : HCSLS     
+PAD       : LC1       
+FLIGHT_ID : Y3        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

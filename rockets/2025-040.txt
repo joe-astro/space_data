@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-040  
+LIFTOFF   : 2025/02/27-07:08:00
+ROCKET    : Chang Zheng 2C
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : JQ        
+PAD       : LC43/94   
+FLIGHT_ID : Y78       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1988-089  
+LIFTOFF   : 1988/09/24-10:02:00
+ROCKET    : Atlas E   
+COUNTRY   : US        
+AGENCY    : AFSD      
+SITE      : VS        
+PAD       : SLC3W     
+FLIGHT_ID : 63E       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

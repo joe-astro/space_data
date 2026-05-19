@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1973-032  
+LIFTOFF   : 1973/05/25-13:00:00
+ROCKET    : Saturn IB 
+COUNTRY   : US        
+AGENCY    : MSFC      
+SITE      : KSC       
+PAD       : LC39B     
+FLIGHT_ID : SA-206    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2003-049  
+LIFTOFF   : 2003/10/21-03:16:00
+ROCKET    : Chang Zheng 4B
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : TYSC      
+PAD       : LC7       
+FLIGHT_ID : Y4        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

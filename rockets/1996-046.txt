@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1996-046  
+LIFTOFF   : 1996/08/17-01:53:00
+ROCKET    : H-II      
+COUNTRY   : J         
+AGENCY    : NASDA     
+SITE      : TNSC      
+PAD       : Y         
+FLIGHT_ID : H-II-4F   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

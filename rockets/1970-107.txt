@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1970-107  
+LIFTOFF   : 1970/12/12-10:53:50
+ROCKET    : Scout B   
+COUNTRY   : I         
+AGENCY    : CRA       
+SITE      : SMLC      
+PAD       : -         
+FLIGHT_ID : S175C     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

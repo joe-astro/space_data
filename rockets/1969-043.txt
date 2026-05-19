@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1969-043  
+LIFTOFF   : 1969/05/18-16:49:00
+ROCKET    : Saturn V  
+COUNTRY   : US        
+AGENCY    : MSFC      
+SITE      : KSC       
+PAD       : LC39B     
+FLIGHT_ID : SA-505    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

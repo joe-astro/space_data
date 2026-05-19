@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1965-081  
+LIFTOFF   : 1965/10/14-13:11:55
+ROCKET    : Thor SLV-2A Agena D
+COUNTRY   : US        
+AGENCY    : LERC/AFSSD
+SITE      : V         
+PAD       : 75-1-1    
+FLIGHT_ID : 435/6801 (TA4)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

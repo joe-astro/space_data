@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1999-F02  
+LIFTOFF   : 1999/07/05-13:32:00
+ROCKET    : Proton-K/Briz-M
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-5     
+PAD       : LC81/24   
+FLIGHT_ID : 389-01/88501
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

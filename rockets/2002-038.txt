@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2002-038  
+LIFTOFF   : 2002/08/21-22:05:00
+ROCKET    : Atlas V 401
+COUNTRY   : US        
+AGENCY    : ILSL      
+SITE      : CC        
+PAD       : SLC41     
+FLIGHT_ID : AV-001    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

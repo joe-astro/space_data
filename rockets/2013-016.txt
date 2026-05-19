@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2013-016  
+LIFTOFF   : 2013/04/21-21:00:00
+ROCKET    : Antares 110
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : MARS      
+PAD       : Pad 0A    
+FLIGHT_ID : 2TRS2S1.2  (1)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

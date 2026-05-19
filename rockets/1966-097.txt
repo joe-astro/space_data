@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-097  
+LIFTOFF   : 1966/10/28-11:56:02
+ROCKET    : Scout B   
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : VS        
+PAD       : SLC5      
+FLIGHT_ID : S150C     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

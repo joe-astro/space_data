@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2016-010  
+LIFTOFF   : 2016/02/10-11:40:32
+ROCKET    : Delta 4M+(5,2)
+COUNTRY   : US        
+AGENCY    : ULAB      
+SITE      : VS        
+PAD       : SLC6      
+FLIGHT_ID : D4-31/D373
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

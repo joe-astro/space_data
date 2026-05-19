@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1989-050  
+LIFTOFF   : 1989/07/04-15:21:36
+ROCKET    : Kosmos 11K65M
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-53   
+PAD       : LC133/3   
+FLIGHT_ID : 65061-250 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

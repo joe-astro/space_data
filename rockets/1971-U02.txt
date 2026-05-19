@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1971-U02  
+LIFTOFF   : 1971/08/02-17:11:23
+ROCKET    : LM AS     
+COUNTRY   : US        
+AGENCY    : MSC       
+SITE      : HAD       
+PAD       : LM10-DS   
+FLIGHT_ID : 10        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

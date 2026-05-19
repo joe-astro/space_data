@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1979-082  
+LIFTOFF   : 1979/09/20-05:28:00
+ROCKET    : Atlas SLV-3D Centaur
+COUNTRY   : US        
+AGENCY    : LERC      
+SITE      : CC        
+PAD       : LC36B     
+FLIGHT_ID : AC-53     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

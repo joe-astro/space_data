@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1982-019  
+LIFTOFF   : 1982/03/06-19:25:00
+ROCKET    : Titan IIIC
+COUNTRY   : US        
+AGENCY    : AFSD      
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : 23C-20 (3C-38)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

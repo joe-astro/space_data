@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2014-003  
+LIFTOFF   : 2014/01/09-18:07:08
+ROCKET    : Antares 120
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : MARS      
+PAD       : Pad 0A    
+FLIGHT_ID : 2TRS2S1.1  (3)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

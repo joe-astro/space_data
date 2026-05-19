@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1999-043  
+LIFTOFF   : 1999/08/17-04:37:41
+ROCKET    : Delta 7420-10C
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : CC        
+PAD       : SLC17B    
+FLIGHT_ID : D274      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

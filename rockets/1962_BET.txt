@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1962 BET  
+LIFTOFF   : 1962/02/08-12:43:45
+ROCKET    : Thor Delta
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : CC        
+PAD       : LC17A     
+FLIGHT_ID : 317/D007  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

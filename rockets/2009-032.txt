@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2009-032  
+LIFTOFF   : 2009/06/21-21:50:00
+ROCKET    : Zenit-3SLB
+COUNTRY   : RU        
+AGENCY    : SIS       
+SITE      : GIK-5     
+PAD       : LC45/1    
+FLIGHT_ID : SB60.3/SLB 3L
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

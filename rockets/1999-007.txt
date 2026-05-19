@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1999-007  
+LIFTOFF   : 1999/02/20-04:18:01
+ROCKET    : Soyuz-U   
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-5     
+PAD       : LC1       
+FLIGHT_ID : M 15000-662
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

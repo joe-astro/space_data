@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2016-006  
+LIFTOFF   : 2016/02/01-07:29:00
+ROCKET    : Chang Zheng 3C/YZ-1
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : XSC       
+PAD       : LC2?      
+FLIGHT_ID : Y14       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

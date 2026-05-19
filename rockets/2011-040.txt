@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2011-040  
+LIFTOFF   : 2011/08/05-16:25:00
+ROCKET    : Atlas V 551
+COUNTRY   : US        
+AGENCY    : ULAL      
+SITE      : CC        
+PAD       : SLC41     
+FLIGHT_ID : AV-029    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

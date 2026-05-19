@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1963-026  
+LIFTOFF   : 1963/06/28-21:19:22
+ROCKET    : Scout X-4 
+COUNTRY   : US        
+AGENCY    : LARCN     
+SITE      : WI        
+PAD       : LA3       
+FLIGHT_ID : S113      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

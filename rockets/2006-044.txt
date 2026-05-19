@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2006-044  
+LIFTOFF   : 2006/10/19-16:28:13
+ROCKET    : Soyuz-2-1A
+COUNTRY   : F         
+AGENCY    : STSM      
+SITE      : GIK-5     
+PAD       : LC31      
+FLIGHT_ID : Zh15000-003/1011
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

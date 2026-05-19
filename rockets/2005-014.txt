@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2005-014  
+LIFTOFF   : 2005/04/15-17:26:50
+ROCKET    : Pegasus XL/HAPS
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : V         
+PAD       : RW30/12   
+FLIGHT_ID : F36       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

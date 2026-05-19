@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2001-019  
+LIFTOFF   : 2001/05/15-01:11:30
+ROCKET    : Proton-K/DM-2M
+COUNTRY   : RU        
+AGENCY    : ILSK      
+SITE      : GIK-5     
+PAD       : LC81/23   
+FLIGHT_ID : 403-01    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

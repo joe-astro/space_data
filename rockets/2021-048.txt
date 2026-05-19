@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-048  
+LIFTOFF   : 2021/06/03-17:29:15
+ROCKET    : Falcon 9  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : KSC       
+PAD       : LC39A     
+FLIGHT_ID : 122/B1067.1  F121
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

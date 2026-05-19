@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2015-F03  
+LIFTOFF   : 2015/11/04-03:45:00
+ROCKET    : Super Strypi
+COUNTRY   : US        
+AGENCY    : AFORS/SAND
+SITE      : KAU       
+PAD       : KP        
+FLIGHT_ID : 1         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

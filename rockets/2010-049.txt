@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2010-049  
+LIFTOFF   : 2010/09/30-17:01:15
+ROCKET    : Molniya 8K78M
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-1     
+PAD       : LC16/2    
+FLIGHT_ID : 78041  -699 052
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

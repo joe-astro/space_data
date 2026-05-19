@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-113  
+LIFTOFF   : 1967/11/09-12:00:01
+ROCKET    : Saturn V  
+COUNTRY   : US        
+AGENCY    : MSFC      
+SITE      : KSC       
+PAD       : LC39A     
+FLIGHT_ID : SA-501    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

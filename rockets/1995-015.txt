@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1995-015  
+LIFTOFF   : 1995/03/24-14:05:00
+ROCKET    : Atlas E   
+COUNTRY   : US        
+AGENCY    : AFSPC     
+SITE      : VS        
+PAD       : SLC3W     
+FLIGHT_ID : 45E       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

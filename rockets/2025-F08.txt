@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-F08  
+LIFTOFF   : 2025/09/18-15:00:00
+ROCKET    : Zoljanah  
+COUNTRY   : IR        
+AGENCY    : IRGC      
+SITE      : SEM       
+PAD       : -         
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

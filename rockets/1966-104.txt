@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-104  
+LIFTOFF   : 1966/11/11-20:46:33
+ROCKET    : Titan II GLV
+COUNTRY   : US        
+AGENCY    : AFSSD/MSC 
+SITE      : CC        
+PAD       : LC19      
+FLIGHT_ID : GLV-12    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

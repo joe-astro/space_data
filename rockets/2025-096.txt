@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-096  
+LIFTOFF   : 2025/05/11-13:27:00
+ROCKET    : Chang Zheng 6A
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : TYSC      
+PAD       : LC9A      
+FLIGHT_ID : Y9        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2017-F03  
+LIFTOFF   : 2017/07/02-11:23:23
+ROCKET    : Chang Zheng 5
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : WEN       
+PAD       : LC101     
+FLIGHT_ID : Y2        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

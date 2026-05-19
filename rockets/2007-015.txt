@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2007-015  
+LIFTOFF   : 2007/04/25-20:26:03
+ROCKET    : Pegasus XL
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : V         
+PAD       : RW30/12   
+FLIGHT_ID : F38       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

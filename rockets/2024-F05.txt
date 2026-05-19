@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-F05  
+LIFTOFF   : 2024/12/27-01:03:31
+ROCKET    : Lijian-1  
+COUNTRY   : CN        
+AGENCY    : ZKYT      
+SITE      : JQ        
+PAD       : LC130     
+FLIGHT_ID : Y6        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

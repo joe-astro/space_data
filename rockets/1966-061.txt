@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-061  
+LIFTOFF   : 1966/07/08-05:31:00
+ROCKET    : Kosmos 63S1
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : GTsP-4    
+PAD       : LC86/1    
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1999-056  
+LIFTOFF   : 1999/10/10-03:28:00
+ROCKET    : Zenit-3SL 
+COUNTRY   : CYM       
+AGENCY    : SEALC     
+SITE      : KLA       
+PAD       : -         
+FLIGHT_ID : 3L/DM-SL-3L
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

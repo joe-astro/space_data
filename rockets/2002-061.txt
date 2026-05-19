@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2002-061  
+LIFTOFF   : 2002/12/29-16:40:04
+ROCKET    : Chang Zheng 2F
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : JQ        
+PAD       : LC921     
+FLIGHT_ID : Y4        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

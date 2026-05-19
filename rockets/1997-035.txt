@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-035  
+LIFTOFF   : 1997/07/23-03:43:01
+ROCKET    : Delta 7925
+COUNTRY   : US        
+AGENCY    : MDSSC     
+SITE      : CC        
+PAD       : LC17A     
+FLIGHT_ID : D245      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

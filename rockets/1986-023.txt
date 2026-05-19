@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1986-023  
+LIFTOFF   : 1986/03/19-10:08:25
+ROCKET    : Soyuz-U2  
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-5    
+PAD       : LC1       
+FLIGHT_ID : B 15000-010
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

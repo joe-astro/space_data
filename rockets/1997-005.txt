@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-005  
+LIFTOFF   : 1997/02/12-04:50:00
+ROCKET    : M-V       
+COUNTRY   : J         
+AGENCY    : ISAS      
+SITE      : KASC      
+PAD       : M-V       
+FLIGHT_ID : M-V-1     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

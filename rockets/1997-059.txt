@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-059  
+LIFTOFF   : 1997/10/05-21:01:01
+ROCKET    : Atlas IIAS
+COUNTRY   : US        
+AGENCY    : LMA       
+SITE      : CC        
+PAD       : LC36B     
+FLIGHT_ID : AC-135    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

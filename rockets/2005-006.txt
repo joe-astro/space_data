@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2005-006  
+LIFTOFF   : 2005/02/26-09:25:00
+ROCKET    : H-IIA 2022
+COUNTRY   : J         
+AGENCY    : RSC       
+SITE      : TNSC      
+PAD       : Y         
+FLIGHT_ID : H-IIA-7F  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

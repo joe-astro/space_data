@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1972-085  
+LIFTOFF   : 1972/10/26-22:05:01
+ROCKET    : Vostok 8A92M
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-53   
+PAD       : LC43/4    
+FLIGHT_ID : Kh15000-006
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

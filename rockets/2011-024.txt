@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2011-024  
+LIFTOFF   : 2011/06/10-14:20:13
+ROCKET    : Delta 7320-10C
+COUNTRY   : US        
+AGENCY    : ULAB      
+SITE      : V         
+PAD       : SLC2W     
+FLIGHT_ID : D354      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

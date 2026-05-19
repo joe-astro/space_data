@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2003-041  
+LIFTOFF   : 2003/09/09-04:29:00
+ROCKET    : Titan 401B/Centaur
+COUNTRY   : US        
+AGENCY    : 3SLS/AFSMC
+SITE      : CC        
+PAD       : SLC40     
+FLIGHT_ID : 4B-36/TC-20
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

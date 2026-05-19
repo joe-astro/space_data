@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2020-043  
+LIFTOFF   : 2020/07/04-23:44:04
+ROCKET    : Chang Zheng 2D
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : JQ        
+PAD       : LC43/94   
+FLIGHT_ID : Y29       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

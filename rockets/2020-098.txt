@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2020-098  
+LIFTOFF   : 2020/12/15-10:09:27
+ROCKET    : Electron  
+COUNTRY   : NZ        
+AGENCY    : RLABN     
+SITE      : MAHIA     
+PAD       : LC1A      
+FLIGHT_ID : 17        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

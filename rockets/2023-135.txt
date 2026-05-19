@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-135  
+LIFTOFF   : 2023/09/05-09:34:46
+ROCKET    : Gushenxing 1
+COUNTRY   : CN        
+AGENCY    : XIDO      
+SITE      : HHAI      
+PAD       : LP4       
+FLIGHT_ID : Y1        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

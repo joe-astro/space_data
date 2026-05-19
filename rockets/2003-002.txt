@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2003-002  
+LIFTOFF   : 2003/01/13-00:45:00
+ROCKET    : Delta 7320-10
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : V         
+PAD       : SLC2W     
+FLIGHT_ID : D294      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-103  
+LIFTOFF   : 2025/05/17-04:12:00
+ROCKET    : Zhuque-2E 
+COUNTRY   : CN        
+AGENCY    : LANDSP    
+SITE      : JQ        
+PAD       : LC43/96A  
+FLIGHT_ID : Y2        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

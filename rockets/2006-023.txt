@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2006-023  
+LIFTOFF   : 2006/06/18-07:50:00
+ROCKET    : Zenit-3SL 
+COUNTRY   : US        
+AGENCY    : SEALP     
+SITE      : KLA       
+PAD       : -         
+FLIGHT_ID : SL20/DM-SL-21L
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

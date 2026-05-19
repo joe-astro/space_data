@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2019-087  
+LIFTOFF   : 2019/12/07-08:52:00
+ROCKET    : Kuaizhou-1A
+COUNTRY   : CN        
+AGENCY    : EXPACE    
+SITE      : TYSC      
+PAD       : -         
+FLIGHT_ID : Y12       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-046  
+LIFTOFF   : 1994/08/03-14:38:00
+ROCKET    : Pegasus   
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : EAFB      
+PAD       : RW04/22   
+FLIGHT_ID : F7        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

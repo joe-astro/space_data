@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2016-061  
+LIFTOFF   : 2016/10/16-23:30:31
+ROCKET    : Chang Zheng 2F
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : JQ        
+PAD       : LC921     
+FLIGHT_ID : Y11       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

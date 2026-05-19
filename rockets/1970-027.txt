@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1970-027  
+LIFTOFF   : 1970/04/08-10:50:01
+ROCKET    : Titan IIIC
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : 3C-18     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

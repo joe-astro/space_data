@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2002-056  
+LIFTOFF   : 2002/12/14-01:31:00
+ROCKET    : H-IIA 202 
+COUNTRY   : J         
+AGENCY    : NASDA     
+SITE      : TNSC      
+PAD       : Y         
+FLIGHT_ID : H-IIA-4F  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

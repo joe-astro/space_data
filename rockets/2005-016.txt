@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2005-016  
+LIFTOFF   : 2005/04/30-00:50:00
+ROCKET    : Titan 405B
+COUNTRY   : US        
+AGENCY    : 3SLS/AFSMC
+SITE      : CC        
+PAD       : SLC40     
+FLIGHT_ID : 4B-30     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

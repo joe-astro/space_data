@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2001-051  
+LIFTOFF   : 2001/11/26-18:24:12
+ROCKET    : Soyuz-FG  
+COUNTRY   : RU        
+AGENCY    : RAKA      
+SITE      : GIK-5     
+PAD       : LC1       
+FLIGHT_ID : F 15000-002
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

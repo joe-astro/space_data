@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2002-034  
+LIFTOFF   : 2002/07/03-06:47:41
+ROCKET    : Delta 7425-9.5
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : CC        
+PAD       : SLC17A    
+FLIGHT_ID : D292      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

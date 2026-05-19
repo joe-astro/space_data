@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1963-028  
+LIFTOFF   : 1963/07/12-20:45:59
+ROCKET    : Atlas Agena D
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : PA        
+PAD       : LC2-3     
+FLIGHT_ID : 201D/4702 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1961 PHI  
+LIFTOFF   : 1961/08/23-10:04:10
+ROCKET    : Atlas Agena B
+COUNTRY   : US        
+AGENCY    : MSFC/AFSSD
+SITE      : CC        
+PAD       : LC12      
+FLIGHT_ID : 111D/6001 (AA1)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-071  
+LIFTOFF   : 1967/07/25-03:48:10
+ROCKET    : Thor SLV-2A Agena D
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : V         
+PAD       : SLC2W     
+FLIGHT_ID : 496/2732  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

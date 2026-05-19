@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1987-078  
+LIFTOFF   : 1987/09/16-00:45:28
+ROCKET    : Ariane 3  
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELA1      
+FLIGHT_ID : V19 L19   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

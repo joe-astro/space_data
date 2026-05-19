@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2001-022  
+LIFTOFF   : 2001/05/29-17:55:00
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-1     
+PAD       : LC43/4    
+FLIGHT_ID : 77023  -841 076
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

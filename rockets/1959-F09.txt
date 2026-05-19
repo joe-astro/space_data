@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1959-F09  
+LIFTOFF   : 1959/11/26-07:26:00
+ROCKET    : Atlas Able
+COUNTRY   : US        
+AGENCY    : AFBMD     
+SITE      : CC        
+PAD       : LC14      
+FLIGHT_ID : 20D       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

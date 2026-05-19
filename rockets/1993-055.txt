@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1993-055  
+LIFTOFF   : 1993/08/31-04:40:00
+ROCKET    : Tsiklon-3 
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GNIIPV    
+PAD       : LC32/1    
+FLIGHT_ID : 45092-804 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

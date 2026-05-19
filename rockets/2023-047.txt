@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-047  
+LIFTOFF   : 2023/03/30-10:50:00
+ROCKET    : Chang Zheng 2D
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : TYSC      
+PAD       : LC9       
+FLIGHT_ID : Y90       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

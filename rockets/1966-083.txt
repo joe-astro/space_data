@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-083  
+LIFTOFF   : 1966/09/16-17:59:00
+ROCKET    : Atlas SLV-3 Agena D
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : VS        
+PAD       : SLC4E     
+FLIGHT_ID : 7123/4832 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

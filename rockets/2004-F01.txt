@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2004-F01  
+LIFTOFF   : 2004/09/06-10:53:00
+ROCKET    : Shavit 1  
+COUNTRY   : IL        
+AGENCY    : ISA       
+SITE      : PALB      
+PAD       : -         
+FLIGHT_ID : 6         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

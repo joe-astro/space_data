@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-111  
+LIFTOFF   : 2023/08/03-03:47:47
+ROCKET    : Chang Zheng 4C
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : JQ        
+PAD       : LC43/94   
+FLIGHT_ID : Y44       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

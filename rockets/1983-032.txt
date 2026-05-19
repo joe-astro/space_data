@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1983-032  
+LIFTOFF   : 1983/04/15-18:45:00
+ROCKET    : Titan 24B 
+COUNTRY   : US        
+AGENCY    : AFSD      
+SITE      : VS        
+PAD       : SLC4W     
+FLIGHT_ID : 24B-27 (3B-63)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

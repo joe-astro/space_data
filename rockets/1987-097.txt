@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1987-097  
+LIFTOFF   : 1987/11/29-03:27:20
+ROCKET    : Titan 34D/Transtage
+COUNTRY   : US        
+AGENCY    : AFSD      
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : 34D-8  (05D-4)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

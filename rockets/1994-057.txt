@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-057  
+LIFTOFF   : 1994/08/29-17:38:00
+ROCKET    : Atlas E   
+COUNTRY   : US        
+AGENCY    : AFSPC     
+SITE      : VS        
+PAD       : SLC3W     
+FLIGHT_ID : 20E       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

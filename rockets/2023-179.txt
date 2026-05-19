@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-179  
+LIFTOFF   : 2023/11/21-13:42:58
+ROCKET    : Cheonlima-1
+COUNTRY   : KP        
+AGENCY    : KCST      
+SITE      : SOHAE     
+PAD       : LC2       
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

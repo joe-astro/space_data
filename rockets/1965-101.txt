@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1965-101  
+LIFTOFF   : 1965/12/06-21:05:47
+ROCKET    : Scout X-4 
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : VS        
+PAD       : PALC-D    
+FLIGHT_ID : S139R     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

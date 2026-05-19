@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2018-077  
+LIFTOFF   : 2018/10/09-02:43:03
+ROCKET    : Chang Zheng 2C/YZ-1S
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : JQ        
+PAD       : LC603     
+FLIGHT_ID : Y38       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

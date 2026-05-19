@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1959-F06  
+LIFTOFF   : 1959/06/18-08:08:00
+ROCKET    : Vostok-L 8K72
+COUNTRY   : SU        
+AGENCY    : MVS       
+SITE      : NIIP-5    
+PAD       : LC1       
+FLIGHT_ID : I1-7      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

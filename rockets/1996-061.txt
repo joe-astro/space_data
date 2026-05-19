@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1996-061  
+LIFTOFF   : 1996/11/04-17:08:56
+ROCKET    : Pegasus XL
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : WIMB      
+PAD       : RW04/22?  
+FLIGHT_ID : F14       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

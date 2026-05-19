@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1992-074  
+LIFTOFF   : 1992/10/30-14:59:00
+ROCKET    : Proton-K/DM-2
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GIK-5     
+PAD       : LC81/23   
+FLIGHT_ID : 372-01    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

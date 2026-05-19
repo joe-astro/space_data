@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1977-112  
+LIFTOFF   : 1977/12/08-17:45:00
+ROCKET    : Atlas F/MSD
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : VS        
+PAD       : SLC3W     
+FLIGHT_ID : 50F       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

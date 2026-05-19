@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-U01  
+LIFTOFF   : 2024/03/14-13:25:00
+ROCKET    : Starship V1.0
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : STB       
+PAD       : OLP1      
+FLIGHT_ID : B10/S28   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

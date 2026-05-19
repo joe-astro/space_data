@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2018-094  
+LIFTOFF   : 2018/11/19-23:40:04
+ROCKET    : Chang Zheng 2D
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : JQ        
+PAD       : LC603     
+FLIGHT_ID : Y28       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

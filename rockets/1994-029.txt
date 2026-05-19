@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-029  
+LIFTOFF   : 1994/05/19-17:03:00
+ROCKET    : Pegasus/HAPS
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : EAFB      
+PAD       : RW04/22   
+FLIGHT_ID : 005/F5    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

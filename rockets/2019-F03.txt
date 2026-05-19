@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2019-F03  
+LIFTOFF   : 2019/03/27-09:39:00
+ROCKET    : OS-M1     
+COUNTRY   : CN        
+AGENCY    : LYK       
+SITE      : JQ        
+PAD       : -         
+FLIGHT_ID : OS-M1     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

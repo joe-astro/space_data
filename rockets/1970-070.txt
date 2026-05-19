@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1970-070  
+LIFTOFF   : 1970/09/03-08:39:45
+ROCKET    : Thor Burner 2
+COUNTRY   : US        
+AGENCY    : 10ADS     
+SITE      : V         
+PAD       : SLC10W    
+FLIGHT_ID : 288/BII-13
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

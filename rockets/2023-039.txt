@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-039  
+LIFTOFF   : 2023/03/22-09:09:00
+ROCKET    : Kuaizhou-1A
+COUNTRY   : CN        
+AGENCY    : XIDO      
+SITE      : JQ        
+PAD       : LC43/95A  
+FLIGHT_ID : Y19       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

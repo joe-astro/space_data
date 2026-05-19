@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1996-010  
+LIFTOFF   : 1996/02/19-08:19:00
+ROCKET    : Proton-K/DM-2
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GIK-5     
+PAD       : LC200/39  
+FLIGHT_ID : 383-02    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2017-031  
+LIFTOFF   : 2017/06/05-11:58:00
+ROCKET    : GSLV Mk III
+COUNTRY   : IN        
+AGENCY    : ISRO      
+SITE      : SHAR      
+PAD       : SLP       
+FLIGHT_ID : LVM3-D1   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-028  
+LIFTOFF   : 2021/04/08-23:01:00
+ROCKET    : Chang Zheng 4B
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : TYSC      
+PAD       : LC9       
+FLIGHT_ID : Y49       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

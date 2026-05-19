@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2017-039  
+LIFTOFF   : 2017/06/25-20:25:14
+ROCKET    : Falcon 9  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : VS        
+PAD       : SLC4E     
+FLIGHT_ID : 038/B1036    F038
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

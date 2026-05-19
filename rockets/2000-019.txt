@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-019  
+LIFTOFF   : 2000/04/17-21:06:00
+ROCKET    : Proton-K/DM-2M
+COUNTRY   : RU        
+AGENCY    : KHRU      
+SITE      : GIK-5     
+PAD       : LC200/39  
+FLIGHT_ID : 397-01    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

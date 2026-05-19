@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2011-043  
+LIFTOFF   : 2011/08/15-22:57:19
+ROCKET    : Chang Zheng 4B
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : TYSC      
+PAD       : LC9       
+FLIGHT_ID : Y14       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

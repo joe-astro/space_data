@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2009-F03  
+LIFTOFF   : 2009/08/25-08:00:33
+ROCKET    : Naro-1    
+COUNTRY   : KR        
+AGENCY    : KARI      
+SITE      : NARO      
+PAD       : LC1       
+FLIGHT_ID : 74501     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

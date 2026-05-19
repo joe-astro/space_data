@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2009-022  
+LIFTOFF   : 2009/04/29-16:58:00
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-1     
+PAD       : LC16/2    
+FLIGHT_ID : 78075  -152 105
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

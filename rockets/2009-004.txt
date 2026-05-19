@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2009-004  
+LIFTOFF   : 2009/02/02-18:34:00
+ROCKET    : Safir     
+COUNTRY   : IR        
+AGENCY    : IRSA      
+SITE      : SEM       
+PAD       : SAF       
+FLIGHT_ID : GBS.0092  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

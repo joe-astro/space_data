@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2009-033  
+LIFTOFF   : 2009/06/27-22:51:00
+ROCKET    : Delta 4M+(4,2)
+COUNTRY   : US        
+AGENCY    : ULAB      
+SITE      : CC        
+PAD       : SLC37B    
+FLIGHT_ID : D4-10/D342
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

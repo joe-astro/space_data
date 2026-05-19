@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2010-020  
+LIFTOFF   : 2010/05/20-21:58:22
+ROCKET    : H-IIA 202 
+COUNTRY   : J         
+AGENCY    : MHI       
+SITE      : TNSC      
+PAD       : Y         
+FLIGHT_ID : H-IIA-17  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

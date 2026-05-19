@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1969-074  
+LIFTOFF   : 1969/08/23-16:00:00
+ROCKET    : Titan 23B 
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : VS        
+PAD       : SLC4W     
+FLIGHT_ID : 23B-1 (3B-23)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

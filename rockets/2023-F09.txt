@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-F09  
+LIFTOFF   : 2023/09/21-04:59:10
+ROCKET    : Gushenxing 1
+COUNTRY   : CN        
+AGENCY    : XIDO      
+SITE      : JQ        
+PAD       : LC43/95A  
+FLIGHT_ID : Y11       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

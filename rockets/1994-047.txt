@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-047  
+LIFTOFF   : 1994/08/03-23:57:02
+ROCKET    : Atlas IIA 
+COUNTRY   : US        
+AGENCY    : MMCLS     
+SITE      : CC        
+PAD       : LC36A     
+FLIGHT_ID : AC-107    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

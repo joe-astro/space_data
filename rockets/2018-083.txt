@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2018-083  
+LIFTOFF   : 2018/10/29-00:43:14
+ROCKET    : Chang Zheng 2C
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : JQ        
+PAD       : LC603     
+FLIGHT_ID : Y22       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

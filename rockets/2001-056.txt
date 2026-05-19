@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2001-056  
+LIFTOFF   : 2001/12/10-17:18:57
+ROCKET    : Zenit-2   
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-5     
+PAD       : LC45/1    
+FLIGHT_ID : 45021-101/19L
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

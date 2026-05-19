@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-066  
+LIFTOFF   : 2000/10/21-05:52:00
+ROCKET    : Zenit-3SL 
+COUNTRY   : US        
+AGENCY    : SEALP     
+SITE      : KLA       
+PAD       : -         
+FLIGHT_ID : 6L/DM-SL-6L
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

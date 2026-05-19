@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1991-058  
+LIFTOFF   : 1991/08/21-10:50:00
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-53   
+PAD       : LC43/3    
+FLIGHT_ID : 78012  -269
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

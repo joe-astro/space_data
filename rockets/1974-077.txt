@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1974-077  
+LIFTOFF   : 1974/10/15-07:47:00
+ROCKET    : Scout B-1 
+COUNTRY   : I         
+AGENCY    : CRA       
+SITE      : SMLC      
+PAD       : -         
+FLIGHT_ID : S187C     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

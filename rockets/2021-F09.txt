@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-F09  
+LIFTOFF   : 2021/10/21-08:00:00
+ROCKET    : Nuri      
+COUNTRY   : KR        
+AGENCY    : KARI      
+SITE      : NARO      
+PAD       : LC2       
+FLIGHT_ID : 1         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1964-020  
+LIFTOFF   : 1964/04/23-18:43:00
+ROCKET    : Atlas Agena D
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : PA        
+PAD       : LC2-3     
+FLIGHT_ID : 351D/4805 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-151  
+LIFTOFF   : 2022/11/11-22:52:00
+ROCKET    : Chang Zheng 6A
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : TYSC      
+PAD       : LC9A      
+FLIGHT_ID : Y2        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

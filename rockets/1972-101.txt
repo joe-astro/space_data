@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1972-101  
+LIFTOFF   : 1972/12/20-22:20:00
+ROCKET    : Atlas SLV-3A Agena D
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : CC        
+PAD       : LC13      
+FLIGHT_ID : 5204A/2805?
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

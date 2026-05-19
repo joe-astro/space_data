@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1970-009  
+LIFTOFF   : 1970/02/04-02:59:50
+ROCKET    : Thorad SLV-2G Agena D
+COUNTRY   : US        
+AGENCY    : LERC/SAMSO
+SITE      : V         
+PAD       : SLC2E     
+FLIGHT_ID : 534/6111 (TA12)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

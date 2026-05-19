@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1993-042  
+LIFTOFF   : 1993/06/26-13:27:00
+ROCKET    : Delta 7925
+COUNTRY   : US        
+AGENCY    : MDSSC     
+SITE      : CC        
+PAD       : LC17A     
+FLIGHT_ID : D221      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

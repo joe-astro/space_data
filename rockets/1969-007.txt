@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1969-007  
+LIFTOFF   : 1969/01/22-19:10:00
+ROCKET    : Titan IIIB
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : VS        
+PAD       : SLC4W     
+FLIGHT_ID : 3B-6      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

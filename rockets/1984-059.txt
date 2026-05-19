@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1984-059  
+LIFTOFF   : 1984/06/13-11:37:00
+ROCKET    : Atlas E/SGS-2
+COUNTRY   : US        
+AGENCY    : AFSD      
+SITE      : VS        
+PAD       : SLC3W     
+FLIGHT_ID : 42E       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

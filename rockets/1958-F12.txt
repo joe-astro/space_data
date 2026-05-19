@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1958-F12  
+LIFTOFF   : 1958/08/25-00:00:00
+ROCKET    : NOTS EV1  
+COUNTRY   : US        
+AGENCY    : NOTS      
+SITE      : NOTS      
+PAD       : RW03/21?  
+FLIGHT_ID : 4         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

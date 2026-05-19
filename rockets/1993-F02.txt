@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1993-F02  
+LIFTOFF   : 1993/08/02-19:59:00
+ROCKET    : Titan 403A
+COUNTRY   : US        
+AGENCY    : AFSMC     
+SITE      : VS        
+PAD       : SLC4E     
+FLIGHT_ID : K-11   (45F-9)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

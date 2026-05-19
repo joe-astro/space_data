@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-035  
+LIFTOFF   : 1994/06/24-13:50:02
+ROCKET    : Atlas I   
+COUNTRY   : US        
+AGENCY    : MMCLS     
+SITE      : CC        
+PAD       : LC36B     
+FLIGHT_ID : AC-76     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

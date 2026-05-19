@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-067  
+LIFTOFF   : 1997/11/06-00:30:00
+ROCKET    : Delta 7925
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : CC        
+PAD       : LC17A     
+FLIGHT_ID : D249      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

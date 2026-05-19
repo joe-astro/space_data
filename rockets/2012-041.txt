@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2012-041  
+LIFTOFF   : 2012/07/28-01:35:34
+ROCKET    : Rokot     
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-1     
+PAD       : LC133/3   
+FLIGHT_ID : 492-6391-835/72515
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

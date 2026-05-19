@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-010  
+LIFTOFF   : 1967/02/08-08:00:52
+ROCKET    : Thor Burner 2
+COUNTRY   : US        
+AGENCY    : S4300     
+SITE      : V         
+PAD       : 4300B6    
+FLIGHT_ID : 169/BII-2 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

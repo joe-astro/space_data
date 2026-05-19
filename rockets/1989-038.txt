@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1989-038  
+LIFTOFF   : 1989/05/25-08:50:00
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-53   
+PAD       : LC43/3    
+FLIGHT_ID : 76047  -145
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

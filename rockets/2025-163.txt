@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-163  
+LIFTOFF   : 2025/07/30-12:10:25
+ROCKET    : GSLV Mk II
+COUNTRY   : IN        
+AGENCY    : ISRO/NSIL 
+SITE      : SHAR      
+PAD       : SLP       
+FLIGHT_ID : GSLV-F16  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

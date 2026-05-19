@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-F06  
+LIFTOFF   : 2025/07/29-22:35:00
+ROCKET    : Eris Block 1
+COUNTRY   : AU        
+AGENCY    : GILM      
+SITE      : BOWEN     
+PAD       : -         
+FLIGHT_ID : 1         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

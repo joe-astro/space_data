@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2017-F05  
+LIFTOFF   : 2017/11/28-05:41:46
+ROCKET    : Soyuz-2-1B
+COUNTRY   : RU        
+AGENCY    : FKA       
+SITE      : VOST      
+PAD       : PU1S      
+FLIGHT_ID : N 15000-001/122-01
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2006-029  
+LIFTOFF   : 2006/07/12-14:53:36
+ROCKET    : Dnepr     
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : YAS       
+PAD       : Sh370/11  
+FLIGHT_ID : 450-2973-806
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

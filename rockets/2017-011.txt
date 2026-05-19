@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2017-011  
+LIFTOFF   : 2017/03/01-17:49:51
+ROCKET    : Atlas V 401
+COUNTRY   : US        
+AGENCY    : ULAL      
+SITE      : VS        
+PAD       : SLC3E     
+FLIGHT_ID : AV-068    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

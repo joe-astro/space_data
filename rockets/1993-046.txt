@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1993-046  
+LIFTOFF   : 1993/07/19-22:04:02
+ROCKET    : Atlas II  
+COUNTRY   : US        
+AGENCY    : GDCLS     
+SITE      : CC        
+PAD       : LC36A     
+FLIGHT_ID : AC-104 MLV-3/IABS-3
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

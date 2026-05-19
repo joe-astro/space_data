@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1998-060  
+LIFTOFF   : 1998/10/23-00:02:00
+ROCKET    : Pegasus H 
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : CC        
+PAD       : RW30/12   
+FLIGHT_ID : F24/P-33  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

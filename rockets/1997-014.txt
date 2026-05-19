@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-014  
+LIFTOFF   : 1997/04/06-16:04:05
+ROCKET    : Soyuz-U   
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GIK-5     
+PAD       : LC1       
+FLIGHT_ID : Kh15000-652
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

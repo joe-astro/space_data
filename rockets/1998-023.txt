@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1998-023  
+LIFTOFF   : 1998/04/24-22:38:34
+ROCKET    : Delta 7420-10C
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : CC        
+PAD       : LC17A     
+FLIGHT_ID : D256      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

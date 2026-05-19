@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2013-021  
+LIFTOFF   : 2013/05/07-02:06:31
+ROCKET    : Vega      
+COUNTRY   : I-ESA     
+AGENCY    : ESA/AE    
+SITE      : CSG       
+PAD       : ZLV       
+FLIGHT_ID : VV02      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

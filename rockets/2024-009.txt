@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-009  
+LIFTOFF   : 2024/01/11-05:30:00
+ROCKET    : Yinli-1   
+COUNTRY   : CN        
+AGENCY    : DFK       
+SITE      : YJ        
+PAD       : LP1       
+FLIGHT_ID : Y1        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

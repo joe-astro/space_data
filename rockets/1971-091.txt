@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1971-091  
+LIFTOFF   : 1971/10/21-11:32:00
+ROCKET    : Thor Delta N6
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : V         
+PAD       : SLC2E     
+FLIGHT_ID : 572/D086  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

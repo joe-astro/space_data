@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-064  
+LIFTOFF   : 1997/10/24-02:32:00
+ROCKET    : Titan 403A
+COUNTRY   : US        
+AGENCY    : 4SLS/AFSMC
+SITE      : VS        
+PAD       : SLC4E     
+FLIGHT_ID : 4A-18 (K-18, 45F-3)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

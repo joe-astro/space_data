@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-025  
+LIFTOFF   : 1994/04/28-17:14:00
+ROCKET    : Soyuz-U   
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GIK-5     
+PAD       : LC31      
+FLIGHT_ID : 78023  -751
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2016-058  
+LIFTOFF   : 2016/09/16-01:43:35
+ROCKET    : Vega      
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ZLV       
+FLIGHT_ID : VV07      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

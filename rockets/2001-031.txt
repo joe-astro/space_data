@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2001-031  
+LIFTOFF   : 2001/07/23-07:23:01
+ROCKET    : Atlas IIA 
+COUNTRY   : US        
+AGENCY    : ILSL      
+SITE      : CC        
+PAD       : SLC36A    
+FLIGHT_ID : AC-142    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

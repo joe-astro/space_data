@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-193  
+LIFTOFF   : 2023/12/08-23:39:03
+ROCKET    : Zhuque-2  
+COUNTRY   : CN        
+AGENCY    : LANDSP    
+SITE      : JQ        
+PAD       : LC43/96   
+FLIGHT_ID : Y3        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

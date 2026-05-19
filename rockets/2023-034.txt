@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-034  
+LIFTOFF   : 2023/03/15-11:41:00
+ROCKET    : Chang Zheng 11
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : JQ        
+PAD       : LC43/95A  
+FLIGHT_ID : Y11       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

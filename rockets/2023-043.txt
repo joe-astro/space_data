@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-043  
+LIFTOFF   : 2023/03/26-03:30:20
+ROCKET    : LVM3      
+COUNTRY   : IN        
+AGENCY    : NSIL      
+SITE      : SHAR      
+PAD       : SLP       
+FLIGHT_ID : LVM3-M3   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

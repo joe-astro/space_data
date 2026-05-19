@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2012-071  
+LIFTOFF   : 2012/12/11-18:03:00
+ROCKET    : Atlas V 501
+COUNTRY   : US        
+AGENCY    : ULAL      
+SITE      : CC        
+PAD       : SLC41     
+FLIGHT_ID : AV-034    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

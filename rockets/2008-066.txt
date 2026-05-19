@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2008-066  
+LIFTOFF   : 2008/12/23-00:54:04
+ROCKET    : Chang Zheng 3A
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : XSC       
+PAD       : LC3?      
+FLIGHT_ID : Y20       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

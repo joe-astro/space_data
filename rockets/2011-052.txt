@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2011-052  
+LIFTOFF   : 2011/09/27-15:49:00
+ROCKET    : Minotaur IV+
+COUNTRY   : US        
+AGENCY    : OSCC/RSLP 
+SITE      : KLC       
+PAD       : LP1       
+FLIGHT_ID : 5         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

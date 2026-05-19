@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1999-021  
+LIFTOFF   : 1999/04/21-04:59:12
+ROCKET    : Dnepr     
+COUNTRY   : RU        
+AGENCY    : KTRAS/RVSNR
+SITE      : GIK-5     
+PAD       : LC109/95  
+FLIGHT_ID : 670-3542-509
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

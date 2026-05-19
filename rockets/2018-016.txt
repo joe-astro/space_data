@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2018-016  
+LIFTOFF   : 2018/02/03-05:03:00
+ROCKET    : SS-520    
+COUNTRY   : J         
+AGENCY    : JAXA      
+SITE      : USC       
+PAD       : K         
+FLIGHT_ID : SS-520-5  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

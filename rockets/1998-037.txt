@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1998-037  
+LIFTOFF   : 1998/06/18-22:48:01
+ROCKET    : Atlas IIAS
+COUNTRY   : US        
+AGENCY    : LMA       
+SITE      : CC        
+PAD       : SLC36A    
+FLIGHT_ID : AC-153    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

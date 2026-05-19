@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1958 EPS  
+LIFTOFF   : 1958/07/26-15:00:57
+ROCKET    : Jupiter C 
+COUNTRY   : US        
+AGENCY    : ABMA      
+SITE      : CC        
+PAD       : LC5       
+FLIGHT_ID : RS/CC-44 TT
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

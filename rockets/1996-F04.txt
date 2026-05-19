@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1996-F04  
+LIFTOFF   : 1996/06/20-18:44:59
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GIK-1     
+PAD       : LC16/2    
+FLIGHT_ID : 77044  -843
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

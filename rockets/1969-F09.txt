@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1969-F09  
+LIFTOFF   : 1969/07/02-22:55:00
+ROCKET    : Europa I  
+COUNTRY   : I-ELDO    
+AGENCY    : ELDO      
+SITE      : WOO       
+PAD       : LA6A      
+FLIGHT_ID : F-8       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2017-064  
+LIFTOFF   : 2017/10/13-09:27:44
+ROCKET    : Rokot     
+COUNTRY   : RU        
+AGENCY    : EUROK     
+SITE      : GIK-1     
+PAD       : LC133/3   
+FLIGHT_ID : 511-1992-009P/72528
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-014  
+LIFTOFF   : 2000/03/12-09:29:00
+ROCKET    : Taurus 1110
+COUNTRY   : US        
+AGENCY    : OSCC      
+SITE      : V         
+PAD       : 576E      
+FLIGHT_ID : T5        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

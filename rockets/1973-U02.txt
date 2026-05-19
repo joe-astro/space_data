@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1973-U02  
+LIFTOFF   : 1973/05/21-08:47:00
+ROCKET    : Diamant B 
+COUNTRY   : F         
+AGENCY    : CNES      
+SITE      : CSG       
+PAD       : Diamant   
+FLIGHT_ID : No. 5     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

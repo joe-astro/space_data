@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2004-047  
+LIFTOFF   : 2004/11/20-17:16:01
+ROCKET    : Delta 7320-10C
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : CC        
+PAD       : SLC17A    
+FLIGHT_ID : D309      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

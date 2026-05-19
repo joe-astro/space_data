@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1961 PSI  
+LIFTOFF   : 1961/08/30-20:00:00
+ROCKET    : Thor Agena B
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : V         
+PAD       : 75-3-4    
+FLIGHT_ID : 323/1112  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

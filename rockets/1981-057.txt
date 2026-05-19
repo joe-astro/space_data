@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1981-057  
+LIFTOFF   : 1981/06/19-12:32:59
+ROCKET    : Ariane 1  
+COUNTRY   : I-ESA     
+AGENCY    : ESA       
+SITE      : CSG       
+PAD       : ELA1      
+FLIGHT_ID : L03       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

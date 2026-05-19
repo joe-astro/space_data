@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-F06  
+LIFTOFF   : 2022/12/21-01:47:31
+ROCKET    : Vega C    
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ZLV       
+FLIGHT_ID : VV22      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

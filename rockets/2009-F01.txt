@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2009-F01  
+LIFTOFF   : 2009/02/24-09:55:30
+ROCKET    : Taurus 3110
+COUNTRY   : US        
+AGENCY    : OSCC      
+SITE      : V         
+PAD       : 576E      
+FLIGHT_ID : T8 (XL)   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

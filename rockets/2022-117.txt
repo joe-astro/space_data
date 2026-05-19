@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-117  
+LIFTOFF   : 2022/09/24-22:25:30
+ROCKET    : Delta 4H  
+COUNTRY   : US        
+AGENCY    : ULAB      
+SITE      : VS        
+PAD       : SLC6      
+FLIGHT_ID : D4-43/D387
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

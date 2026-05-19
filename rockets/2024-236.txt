@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-236  
+LIFTOFF   : 2024/12/06-03:14:00
+ROCKET    : Simorgh   
+COUNTRY   : IR        
+AGENCY    : IRSA      
+SITE      : SEM       
+PAD       : IKSC      
+FLIGHT_ID : 8 TQS.C001
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

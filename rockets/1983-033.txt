@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1983-033  
+LIFTOFF   : 1983/04/17-05:35:45
+ROCKET    : SLV-3     
+COUNTRY   : IN        
+AGENCY    : ISRO      
+SITE      : SHAR      
+PAD       : SLV       
+FLIGHT_ID : SLV-3-D2  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

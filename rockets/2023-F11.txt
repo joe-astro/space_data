@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-F11  
+LIFTOFF   : 2023/11/18-13:02:53
+ROCKET    : Starship V1.0
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : STB       
+PAD       : OLP1      
+FLIGHT_ID : B09/S25   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

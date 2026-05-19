@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2009-071  
+LIFTOFF   : 2009/12/14-14:09:33
+ROCKET    : Delta 7320-10C
+COUNTRY   : US        
+AGENCY    : ULAB      
+SITE      : V         
+PAD       : SLC2W     
+FLIGHT_ID : D347      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

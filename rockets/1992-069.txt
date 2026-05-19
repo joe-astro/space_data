@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1992-069  
+LIFTOFF   : 1992/10/21-10:21:22
+ROCKET    : Molniya 8K78M-PVB
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : NIIP-53   
+PAD       : LC16/2    
+FLIGHT_ID : 77053  -604
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

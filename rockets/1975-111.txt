@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1975-111  
+LIFTOFF   : 1975/11/26-03:27:52
+ROCKET    : Chang Zheng 2
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : JQ        
+PAD       : LA2B      
+FLIGHT_ID : Y2       (4)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-113  
+LIFTOFF   : 1966/12/14-18:14:00
+ROCKET    : Titan IIIB
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : VS        
+PAD       : SLC4W     
+FLIGHT_ID : 3B-3      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

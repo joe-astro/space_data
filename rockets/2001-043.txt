@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2001-043  
+LIFTOFF   : 2001/09/30-02:40:00
+ROCKET    : Athena-1  
+COUNTRY   : US        
+AGENCY    : LMA       
+SITE      : KLC       
+PAD       : LP1       
+FLIGHT_ID : LM-001    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

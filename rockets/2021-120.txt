@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-120  
+LIFTOFF   : 2021/12/09-00:02:07
+ROCKET    : Electron  
+COUNTRY   : NZ        
+AGENCY    : RLABN     
+SITE      : MAHIA     
+PAD       : LC1A      
+FLIGHT_ID : 23        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

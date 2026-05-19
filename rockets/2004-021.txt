@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2004-021  
+LIFTOFF   : 2004/06/10-01:28:00
+ROCKET    : Zenit-2   
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-5     
+PAD       : LC45/1    
+FLIGHT_ID : 70121-402/1-95
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

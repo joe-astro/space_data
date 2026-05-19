@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1970-098  
+LIFTOFF   : 1970/11/18-21:28:00
+ROCKET    : Thorad SLV-2H Agena D
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : VS        
+PAD       : SLC3W     
+FLIGHT_ID : 552/1658  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

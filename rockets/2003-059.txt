@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2003-059  
+LIFTOFF   : 2003/12/27-21:30:00
+ROCKET    : Soyuz-FG  
+COUNTRY   : F         
+AGENCY    : STSM      
+SITE      : GIK-5     
+PAD       : LC31      
+FLIGHT_ID : D 15000-008/1006
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

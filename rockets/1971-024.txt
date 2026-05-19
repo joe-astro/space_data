@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1971-024  
+LIFTOFF   : 1971/04/01-02:57:07
+ROCKET    : Thor Delta E1
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : V         
+PAD       : SLC2E     
+FLIGHT_ID : 491/D084  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

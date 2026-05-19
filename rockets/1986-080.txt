@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1986-080  
+LIFTOFF   : 1986/10/22-08:00:00
+ROCKET    : Zenit-2   
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-5    
+PAD       : LC45/1    
+FLIGHT_ID : 67041-503/6L
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

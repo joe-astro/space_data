@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-047  
+LIFTOFF   : 2024/03/12-15:03:00
+ROCKET    : Electron  
+COUNTRY   : NZ        
+AGENCY    : RLABN     
+SITE      : MAHIA     
+PAD       : LC1B      
+FLIGHT_ID : 45        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

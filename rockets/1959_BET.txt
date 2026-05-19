@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1959 BET  
+LIFTOFF   : 1959/02/28-21:49:16
+ROCKET    : Thor Agena A
+COUNTRY   : US        
+AGENCY    : AFBMD     
+SITE      : V         
+PAD       : 75-3-4    
+FLIGHT_ID : 163/1022  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

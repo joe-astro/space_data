@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2007-061  
+LIFTOFF   : 2007/12/14-13:17:34
+ROCKET    : Soyuz-FG  
+COUNTRY   : F         
+AGENCY    : STSM      
+SITE      : GIK-5     
+PAD       : LC31      
+FLIGHT_ID : Ts15000-025/1015-2
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

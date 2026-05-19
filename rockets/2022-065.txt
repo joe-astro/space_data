@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-065  
+LIFTOFF   : 2022/06/21-07:00:00
+ROCKET    : Nuri      
+COUNTRY   : KR        
+AGENCY    : KARI      
+SITE      : NARO      
+PAD       : LC2       
+FLIGHT_ID : 2         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

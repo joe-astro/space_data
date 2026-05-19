@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-049  
+LIFTOFF   : 1966/06/07-02:48:00
+ROCKET    : Atlas SLV-3 Agena B
+COUNTRY   : US        
+AGENCY    : LERC/AFSSD
+SITE      : CC        
+PAD       : LC12      
+FLIGHT_ID : 5601/6502 (AA16)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

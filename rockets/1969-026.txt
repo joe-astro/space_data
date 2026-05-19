@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1969-026  
+LIFTOFF   : 1969/03/19-21:38:00
+ROCKET    : Thorad SLV-2G Agena D
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : VS        
+PAD       : SLC3W     
+FLIGHT_ID : 541/1651  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

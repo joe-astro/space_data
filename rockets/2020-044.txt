@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2020-044  
+LIFTOFF   : 2020/07/06-01:00:00
+ROCKET    : Shavit 2  
+COUNTRY   : IL        
+AGENCY    : ISA       
+SITE      : PALB      
+PAD       : -         
+FLIGHT_ID : 11        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

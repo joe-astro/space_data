@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1959 NU   
+LIFTOFF   : 1959/03/03-05:10:56
+ROCKET    : Juno II   
+COUNTRY   : US        
+AGENCY    : ABMA      
+SITE      : CC        
+PAD       : LC5       
+FLIGHT_ID : AM-14     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

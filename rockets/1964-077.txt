@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1964-077  
+LIFTOFF   : 1964/11/28-14:22:01
+ROCKET    : Atlas Agena D
+COUNTRY   : US        
+AGENCY    : LERC/AFSSD
+SITE      : CC        
+PAD       : LC12      
+FLIGHT_ID : 288D/6932 (AA12)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

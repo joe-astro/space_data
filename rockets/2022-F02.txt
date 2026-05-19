@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-F02  
+LIFTOFF   : 2022/05/13-07:09:00
+ROCKET    : Shuang Quxian 1
+COUNTRY   : CN        
+AGENCY    : XJRY      
+SITE      : JQ        
+PAD       : LC43/95B  
+FLIGHT_ID : Y4        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

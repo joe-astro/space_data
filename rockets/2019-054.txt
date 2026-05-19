@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2019-054  
+LIFTOFF   : 2019/08/19-12:12:00
+ROCKET    : Electron  
+COUNTRY   : NZ        
+AGENCY    : RLABN     
+SITE      : MAHIA     
+PAD       : LC1A      
+FLIGHT_ID : 8         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

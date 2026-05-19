@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1963-049  
+LIFTOFF   : 1963/12/05-21:51:00
+ROCKET    : Thor Ablestar
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : V         
+PAD       : 75-1-1    
+FLIGHT_ID : 385/AB015 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

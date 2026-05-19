@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1981-085  
+LIFTOFF   : 1981/09/03-18:29:00
+ROCKET    : Titan IIID
+COUNTRY   : US        
+AGENCY    : AFSD      
+SITE      : VS        
+PAD       : SLC4E     
+FLIGHT_ID : 23D-22    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

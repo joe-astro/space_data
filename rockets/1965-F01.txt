@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1965-F01  
+LIFTOFF   : 1965/01/21-21:34:54
+ROCKET    : Atlas D   
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : V         
+PAD       : 576B3     
+FLIGHT_ID : 172D      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-F01  
+LIFTOFF   : 2022/02/10-20:00:00
+ROCKET    : Astra Rocket 3.3
+COUNTRY   : US        
+AGENCY    : ASTRV     
+SITE      : SPFLA     
+PAD       : SLC46     
+FLIGHT_ID : LV0008    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

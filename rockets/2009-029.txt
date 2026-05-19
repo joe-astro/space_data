@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2009-029  
+LIFTOFF   : 2009/05/21-21:53:33
+ROCKET    : Soyuz-2-1A
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-1     
+PAD       : LC43/4    
+FLIGHT_ID : 77067  -162 005
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2019-F02  
+LIFTOFF   : 2019/02/05-00:00:00
+ROCKET    : Safir     
+COUNTRY   : IR        
+AGENCY    : IRSA      
+SITE      : SEM       
+PAD       : SAF       
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

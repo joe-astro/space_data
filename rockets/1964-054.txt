@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1964-054  
+LIFTOFF   : 1964/09/05-01:23:00
+ROCKET    : Atlas Agena B
+COUNTRY   : US        
+AGENCY    : LERC/AFSSD
+SITE      : CC        
+PAD       : LC12      
+FLIGHT_ID : 195D/6501 (AA10)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

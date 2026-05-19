@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2016-080  
+LIFTOFF   : 2016/12/20-11:00:00
+ROCKET    : Epsilon   
+COUNTRY   : J         
+AGENCY    : JAXA      
+SITE      : USC       
+PAD       : EP        
+FLIGHT_ID : E-2       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

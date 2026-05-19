@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1977-076  
+LIFTOFF   : 1977/08/20-14:29:44
+ROCKET    : Titan IIIE
+COUNTRY   : US        
+AGENCY    : LERC/SAMSO
+SITE      : CC        
+PAD       : LC41      
+FLIGHT_ID : 23E-7/TC-7
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

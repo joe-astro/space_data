@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1971-089  
+LIFTOFF   : 1971/10/17-13:36:00
+ROCKET    : Thorad SLV-2G Agena D
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : V         
+PAD       : SLC1W     
+FLIGHT_ID : 570/?     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-073  
+LIFTOFF   : 1967/07/28-14:21:07
+ROCKET    : Thor SLV-2A Agena D
+COUNTRY   : US        
+AGENCY    : LERC/SAMSO
+SITE      : V         
+PAD       : SLC2E     
+FLIGHT_ID : 478/6802 (TA8)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

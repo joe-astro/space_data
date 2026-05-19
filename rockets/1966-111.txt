@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-111  
+LIFTOFF   : 1966/12/11-21:09:57
+ROCKET    : Atlas D   
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : V         
+PAD       : ABRESB3   
+FLIGHT_ID : 89D       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1975-055  
+LIFTOFF   : 1975/06/18-09:00:00
+ROCKET    : Atlas SLV-3A Agena D
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : CC        
+PAD       : LC13      
+FLIGHT_ID : 5506A/2806?
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

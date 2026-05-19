@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1999-028  
+LIFTOFF   : 1999/05/22-09:36:00
+ROCKET    : Titan 404B
+COUNTRY   : US        
+AGENCY    : 2SLS/AFSMC
+SITE      : VS        
+PAD       : SLC4E     
+FLIGHT_ID : 4B-12     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

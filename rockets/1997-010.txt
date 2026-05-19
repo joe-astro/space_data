@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-010  
+LIFTOFF   : 1997/03/04-02:00:02
+ROCKET    : Start-1.2 
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GIK-2     
+PAD       : LC5       
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

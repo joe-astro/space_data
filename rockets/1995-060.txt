@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1995-060  
+LIFTOFF   : 1995/11/06-05:15:01
+ROCKET    : Titan 401A/Centaur
+COUNTRY   : US        
+AGENCY    : AFSMC     
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : K-21/TC-13  (45E-7)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

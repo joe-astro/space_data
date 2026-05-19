@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-036  
+LIFTOFF   : 1967/04/20-11:21:10
+ROCKET    : Thor Delta E
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : V         
+PAD       : SLC2E     
+FLIGHT_ID : 484/D048  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

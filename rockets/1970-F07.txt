@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1970-F07  
+LIFTOFF   : 1970/09/02-00:34:05
+ROCKET    : Black Arrow
+COUNTRY   : UK        
+AGENCY    : RAE       
+SITE      : WOO       
+PAD       : LA5B      
+FLIGHT_ID : R-2       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

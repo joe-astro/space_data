@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2006-F01  
+LIFTOFF   : 2006/03/24-22:30:00
+ROCKET    : Falcon 1  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : KMR       
+PAD       : OM        
+FLIGHT_ID : F001      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

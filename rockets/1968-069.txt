@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1968-069  
+LIFTOFF   : 1968/08/16-11:24:33
+ROCKET    : Thor Delta N
+COUNTRY   : US        
+AGENCY    : GSFC      
+SITE      : V         
+PAD       : SLC2E     
+FLIGHT_ID : 528/D058  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

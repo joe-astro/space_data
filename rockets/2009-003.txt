@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2009-003  
+LIFTOFF   : 2009/01/30-13:30:00
+ROCKET    : Tsiklon-3 
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-1     
+PAD       : LC32/2    
+FLIGHT_ID : 450-84-  701
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

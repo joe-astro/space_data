@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1998-036  
+LIFTOFF   : 1998/06/15-22:58:05
+ROCKET    : Tsiklon-3 
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-1     
+PAD       : LC32/1    
+FLIGHT_ID : 450-91-  702
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

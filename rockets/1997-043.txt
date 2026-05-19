@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-043  
+LIFTOFF   : 1997/08/21-00:38:40
+ROCKET    : Delta 7920-10C
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : V         
+PAD       : SLC2W     
+FLIGHT_ID : D246      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

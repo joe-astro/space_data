@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1960 KAP  
+LIFTOFF   : 1960/08/18-19:57:08
+ROCKET    : Thor Agena A
+COUNTRY   : US        
+AGENCY    : AFBMD     
+SITE      : V         
+PAD       : 75-3-4    
+FLIGHT_ID : 237/1056  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

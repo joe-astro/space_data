@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-024  
+LIFTOFF   : 2022/03/08-05:06:00
+ROCKET    : Qased     
+COUNTRY   : IR        
+AGENCY    : IRGC      
+SITE      : SHAHR     
+PAD       : LP1       
+FLIGHT_ID : OM-C2     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

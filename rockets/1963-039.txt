@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1963-039  
+LIFTOFF   : 1963/10/17-02:37:00
+ROCKET    : Atlas Agena D
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : CC        
+PAD       : LC13      
+FLIGHT_ID : 197D/1801 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

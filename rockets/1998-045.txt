@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1998-045  
+LIFTOFF   : 1998/07/28-09:15:00
+ROCKET    : Zenit-2   
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-5     
+PAD       : LC45/1    
+FLIGHT_ID : 45092-803/1-98
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

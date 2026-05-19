@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2005-F04  
+LIFTOFF   : 2005/06/09-00:00:00
+ROCKET    : KT-1      
+COUNTRY   : CN        
+AGENCY    : PLA2AC    
+SITE      : TYSC      
+PAD       : -         
+FLIGHT_ID : UNCONFIRMED
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

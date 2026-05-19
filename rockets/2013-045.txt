@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2013-045  
+LIFTOFF   : 2013/08/31-20:05:00
+ROCKET    : Zenit-3SLB
+COUNTRY   : RU        
+AGENCY    : SIS/ELUS  
+SITE      : GIK-5     
+PAD       : LC45/1    
+FLIGHT_ID : SB60.6/SLB 6L
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

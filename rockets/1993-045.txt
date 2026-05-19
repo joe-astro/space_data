@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1993-045  
+LIFTOFF   : 1993/07/14-16:40:00
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GNIIPV    
+PAD       : LC43/3    
+FLIGHT_ID : 76024  -994
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

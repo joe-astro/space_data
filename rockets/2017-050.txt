@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2017-050  
+LIFTOFF   : 2017/08/26-06:04:00
+ROCKET    : Minotaur IV
+COUNTRY   : US        
+AGENCY    : OATKC     
+SITE      : SPFLA     
+PAD       : SLC46     
+FLIGHT_ID : 6         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

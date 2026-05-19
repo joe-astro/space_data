@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1995-066  
+LIFTOFF   : 1995/12/05-21:18:00
+ROCKET    : Titan 404A
+COUNTRY   : US        
+AGENCY    : 4SLS/AFSMC
+SITE      : VS        
+PAD       : SLC4E     
+FLIGHT_ID : K-15        (45J-3)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

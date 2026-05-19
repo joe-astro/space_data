@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-047  
+LIFTOFF   : 2000/08/17-23:45:01
+ROCKET    : Titan 403B
+COUNTRY   : US        
+AGENCY    : 2SLS/AFSMC
+SITE      : VS        
+PAD       : SLC4E     
+FLIGHT_ID : 4B-28     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

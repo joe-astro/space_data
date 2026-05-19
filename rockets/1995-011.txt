@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1995-011  
+LIFTOFF   : 1995/03/18-08:01:00
+ROCKET    : H-II      
+COUNTRY   : J         
+AGENCY    : NASDA     
+SITE      : TNSC      
+PAD       : Y         
+FLIGHT_ID : H-II-3F   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

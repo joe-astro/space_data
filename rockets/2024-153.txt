@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-153  
+LIFTOFF   : 2024/08/29-05:22:00
+ROCKET    : Gushenxing 1
+COUNTRY   : CN        
+AGENCY    : XIDO      
+SITE      : HHAI      
+PAD       : LP6       
+FLIGHT_ID : Y3        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2019-068  
+LIFTOFF   : 2019/10/11-02:00:00
+ROCKET    : Pegasus XL
+COUNTRY   : US        
+AGENCY    : NGISD     
+SITE      : CC        
+PAD       : RW13      
+FLIGHT_ID : F44 /N51  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-020  
+LIFTOFF   : 1997/05/05-14:55:28
+ROCKET    : Delta 7920-10C
+COUNTRY   : US        
+AGENCY    : MDSSC     
+SITE      : V         
+PAD       : SLC2W     
+FLIGHT_ID : D242      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

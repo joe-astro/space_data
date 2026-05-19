@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2011-025  
+LIFTOFF   : 2011/06/15-09:15:03
+ROCKET    : Safir     
+COUNTRY   : IR        
+AGENCY    : IRSA      
+SITE      : SEM       
+PAD       : SAF       
+FLIGHT_ID : UIS.0001  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

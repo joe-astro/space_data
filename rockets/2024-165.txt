@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-165  
+LIFTOFF   : 2024/09/14-06:00:00
+ROCKET    : Qaem-100  
+COUNTRY   : IR        
+AGENCY    : IRGC      
+SITE      : SHAHR     
+PAD       : -         
+FLIGHT_ID : OM-B2     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

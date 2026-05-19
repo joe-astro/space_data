@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1960-F03  
+LIFTOFF   : 1960/02/26-17:25:30
+ROCKET    : Atlas Agena A
+COUNTRY   : US        
+AGENCY    : AFBMD     
+SITE      : CC        
+PAD       : LC14      
+FLIGHT_ID : 29D/1008  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

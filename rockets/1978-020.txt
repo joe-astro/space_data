@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1978-020  
+LIFTOFF   : 1978/02/22-23:44:00
+ROCKET    : Atlas F/SVS
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : VS        
+PAD       : SLC3E     
+FLIGHT_ID : 64F       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

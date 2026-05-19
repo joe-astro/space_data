@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-072  
+LIFTOFF   : 1967/07/27-19:00:03
+ROCKET    : Atlas D   
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : V         
+PAD       : ABRESB3   
+FLIGHT_ID : 92D       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

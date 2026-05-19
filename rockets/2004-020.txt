@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2004-020  
+LIFTOFF   : 2004/05/28-06:00:00
+ROCKET    : Tsiklon-2 
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-5     
+PAD       : LC90/20   
+FLIGHT_ID : 670-92-  803
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

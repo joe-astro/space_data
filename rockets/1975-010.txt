@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1975-010  
+LIFTOFF   : 1975/02/06-16:35:00
+ROCKET    : Diamant BP.4
+COUNTRY   : F         
+AGENCY    : CNES      
+SITE      : CSG       
+PAD       : Diamant   
+FLIGHT_ID : No. 1     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

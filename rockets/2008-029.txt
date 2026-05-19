@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2008-029  
+LIFTOFF   : 2008/06/11-16:05:01
+ROCKET    : Delta 7920H
+COUNTRY   : US        
+AGENCY    : ULAB      
+SITE      : CC        
+PAD       : SLC17B    
+FLIGHT_ID : D333      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

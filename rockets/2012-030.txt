@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2012-030  
+LIFTOFF   : 2012/06/01-05:22:59
+ROCKET    : Zenit-3SL 
+COUNTRY   : US        
+AGENCY    : ELUS      
+SITE      : KLA       
+PAD       : -         
+FLIGHT_ID : SL33/DM SL-32L
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

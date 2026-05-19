@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1965-072  
+LIFTOFF   : 1965/09/10-04:41:38
+ROCKET    : Thor Burner 1
+COUNTRY   : US        
+AGENCY    : S4300     
+SITE      : V         
+PAD       : 4300B6    
+FLIGHT_ID : 213       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1962 GAM  
+LIFTOFF   : 1962/02/20-14:47:39
+ROCKET    : Atlas D   
+COUNTRY   : US        
+AGENCY    : AFSSD/STGL
+SITE      : CC        
+PAD       : LC14      
+FLIGHT_ID : 109D      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

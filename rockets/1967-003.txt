@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-003  
+LIFTOFF   : 1967/01/18-14:19:08
+ROCKET    : Titan IIIC
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : CC        
+PAD       : LC41      
+FLIGHT_ID : 3C-13     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

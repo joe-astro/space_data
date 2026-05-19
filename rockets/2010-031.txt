@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2010-031  
+LIFTOFF   : 2010/06/22-19:00:00
+ROCKET    : Shavit 2  
+COUNTRY   : IL        
+AGENCY    : ISA       
+SITE      : PALB      
+PAD       : -         
+FLIGHT_ID : 8         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

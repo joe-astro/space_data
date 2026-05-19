@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1990-050  
+LIFTOFF   : 1990/06/08-05:21:41
+ROCKET    : Titan 405A
+COUNTRY   : US        
+AGENCY    : AFSSD2    
+SITE      : CC        
+PAD       : LC41      
+FLIGHT_ID : K-4    (45H-4)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

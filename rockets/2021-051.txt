@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-051  
+LIFTOFF   : 2021/06/13-08:11:00
+ROCKET    : Pegasus XL
+COUNTRY   : US        
+AGENCY    : NGISD     
+SITE      : VSFB      
+PAD       : RW30/12   
+FLIGHT_ID : F45 /XS053
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

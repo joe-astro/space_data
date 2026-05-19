@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2015-070  
+LIFTOFF   : 2015/12/03-04:04:01
+ROCKET    : Vega      
+COUNTRY   : I-ESA     
+AGENCY    : ESA/AE    
+SITE      : CSG       
+PAD       : ZLV       
+FLIGHT_ID : VV06      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

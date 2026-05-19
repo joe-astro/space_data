@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2003-014  
+LIFTOFF   : 2003/04/12-00:47:01
+ROCKET    : Atlas 3B  
+COUNTRY   : US        
+AGENCY    : ILSL      
+SITE      : CC        
+PAD       : SLC36B    
+FLIGHT_ID : AC-205    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

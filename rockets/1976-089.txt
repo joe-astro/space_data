@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1976-089  
+LIFTOFF   : 1976/09/01-21:14:02
+ROCKET    : Scout D-1 
+COUNTRY   : US        
+AGENCY    : AFSC      
+SITE      : VS        
+PAD       : SLC5      
+FLIGHT_ID : S197C     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

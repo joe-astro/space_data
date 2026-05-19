@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-017  
+LIFTOFF   : 1994/03/13-22:32:00
+ROCKET    : ARPA Taurus
+COUNTRY   : US        
+AGENCY    : OSCC      
+SITE      : V         
+PAD       : 576E      
+FLIGHT_ID : T1   1110 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

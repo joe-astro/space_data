@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1959 DEL  
+LIFTOFF   : 1959/08/07-14:24:20
+ROCKET    : Thor Able III
+COUNTRY   : US        
+AGENCY    : AFBMD     
+SITE      : CC        
+PAD       : LC17A     
+FLIGHT_ID : 134       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

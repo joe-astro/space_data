@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1958-U01  
+LIFTOFF   : 1958/09/26-15:38:00
+ROCKET    : Vanguard  
+COUNTRY   : US        
+AGENCY    : NRL       
+SITE      : CC        
+PAD       : LC18A     
+FLIGHT_ID : SLV-3     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-F04  
+LIFTOFF   : 2024/12/18-02:00:00
+ROCKET    : Kairos    
+COUNTRY   : J         
+AGENCY    : SPONE     
+SITE      : KII       
+PAD       : LC1       
+FLIGHT_ID : 2         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

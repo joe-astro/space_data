@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1975-083  
+LIFTOFF   : 1975/09/09-18:39:00
+ROCKET    : Titan IIIE
+COUNTRY   : US        
+AGENCY    : LERC/SAMSO
+SITE      : CC        
+PAD       : LC41      
+FLIGHT_ID : 23E-3/TC-3
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

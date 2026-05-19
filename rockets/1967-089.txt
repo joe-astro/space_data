@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-089  
+LIFTOFF   : 1967/09/19-14:45:03
+ROCKET    : R-36O 8K69
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC161/35  
+FLIGHT_ID : Ya22500-14L
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

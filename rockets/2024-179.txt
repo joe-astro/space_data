@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-179  
+LIFTOFF   : 2024/10/04-11:25:00
+ROCKET    : Vulcan Centaur VC2S
+COUNTRY   : US        
+AGENCY    : ULAD      
+SITE      : CC        
+PAD       : SLC41     
+FLIGHT_ID : V-002     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

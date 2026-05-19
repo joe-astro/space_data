@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-041  
+LIFTOFF   : 1994/07/14-05:13:30
+ROCKET    : Kosmos 11K65M
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GNIIPV    
+PAD       : LC133/3   
+FLIGHT_ID : 65035-612 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

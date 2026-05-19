@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2005-031  
+LIFTOFF   : 2005/08/23-21:09:59
+ROCKET    : Dnepr     
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-5     
+PAD       : LC109/95  
+FLIGHT_ID : 510-3342-621
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

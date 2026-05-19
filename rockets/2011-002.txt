@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2011-002  
+LIFTOFF   : 2011/01/20-21:10:30
+ROCKET    : Delta 4H  
+COUNTRY   : US        
+AGENCY    : ULAB      
+SITE      : VS        
+PAD       : SLC6      
+FLIGHT_ID : D4-15/D352
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

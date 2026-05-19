@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1998-004  
+LIFTOFF   : 1998/01/29-16:33:42
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-5     
+PAD       : LC1       
+FLIGHT_ID : S 15000-657
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

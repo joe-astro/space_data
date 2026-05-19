@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1965-017  
+LIFTOFF   : 1965/03/11-13:39:59
+ROCKET    : Thor Ablestar
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : V         
+PAD       : 75-1-1    
+FLIGHT_ID : 440/AB018 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

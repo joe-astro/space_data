@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-007  
+LIFTOFF   : 1997/02/17-01:42:02
+ROCKET    : Atlas IIAS
+COUNTRY   : US        
+AGENCY    : LMA       
+SITE      : CC        
+PAD       : LC36B     
+FLIGHT_ID : AC-127    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

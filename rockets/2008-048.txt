@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2008-048  
+LIFTOFF   : 2008/09/28-23:15:00
+ROCKET    : Falcon 1  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : KMR       
+PAD       : OM        
+FLIGHT_ID : F004      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

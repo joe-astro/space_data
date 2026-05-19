@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1989-046  
+LIFTOFF   : 1989/06/14-13:18:01
+ROCKET    : Titan 402A/IUS
+COUNTRY   : US        
+AGENCY    : AFSSD2    
+SITE      : CC        
+PAD       : LC41      
+FLIGHT_ID : K-1    (45D-1)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

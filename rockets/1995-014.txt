@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1995-014  
+LIFTOFF   : 1995/03/22-16:44:59
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GIK-1     
+PAD       : LC43/3    
+FLIGHT_ID : 77031  -507
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-103  
+LIFTOFF   : 1966/11/11-19:07:59
+ROCKET    : Atlas SLV-3 Agena D
+COUNTRY   : US        
+AGENCY    : MSC/AFSSD 
+SITE      : CC        
+PAD       : LC14      
+FLIGHT_ID : 5307/5001R
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

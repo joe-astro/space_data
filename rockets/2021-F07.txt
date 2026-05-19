@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-F07  
+LIFTOFF   : 2021/08/28-22:35:00
+ROCKET    : Astra Rocket 3.3
+COUNTRY   : US        
+AGENCY    : ASTRV     
+SITE      : PSCA      
+PAD       : LP3B      
+FLIGHT_ID : LV0006    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

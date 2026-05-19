@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1992-053  
+LIFTOFF   : 1992/08/12-05:44:01
+ROCKET    : Kosmos 11K65M
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : NIIP-53   
+PAD       : LC132/1   
+FLIGHT_ID : 65078-421 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

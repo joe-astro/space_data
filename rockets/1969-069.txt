@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1969-069  
+LIFTOFF   : 1969/08/12-11:01:04
+ROCKET    : Atlas SLV-3C Centaur
+COUNTRY   : US        
+AGENCY    : LERC      
+SITE      : CC        
+PAD       : LC36A     
+FLIGHT_ID : AC-18     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2009-043  
+LIFTOFF   : 2009/08/17-10:35:00
+ROCKET    : Delta 7925-9.5
+COUNTRY   : US        
+AGENCY    : ULAB      
+SITE      : CC        
+PAD       : SLC17A    
+FLIGHT_ID : D343      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1999-020  
+LIFTOFF   : 1999/04/15-18:32:00
+ROCKET    : Delta 7920-10
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : V         
+PAD       : SLC2W     
+FLIGHT_ID : D268      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

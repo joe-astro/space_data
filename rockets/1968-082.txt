@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1968-082  
+LIFTOFF   : 1968/10/02-13:35:01
+ROCKET    : R-36O 8K69
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC161/35  
+FLIGHT_ID : V 22500-10T
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

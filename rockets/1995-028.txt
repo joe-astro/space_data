@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1995-028  
+LIFTOFF   : 1995/06/08-04:43:00
+ROCKET    : Tsiklon-2 
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GIK-5     
+PAD       : LC90/20   
+FLIGHT_ID : 51041-505 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

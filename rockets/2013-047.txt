@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2013-047  
+LIFTOFF   : 2013/09/07-03:27:00
+ROCKET    : Minotaur V
+COUNTRY   : US        
+AGENCY    : OSCC      
+SITE      : MARS      
+PAD       : Pad 0B    
+FLIGHT_ID : 1         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

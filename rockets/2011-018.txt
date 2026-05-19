@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2011-018  
+LIFTOFF   : 2011/05/04-17:41:33
+ROCKET    : Soyuz-2-1A
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-1     
+PAD       : LC43/4    
+FLIGHT_ID : 760-12 -230 015
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

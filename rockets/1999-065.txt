@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1999-065  
+LIFTOFF   : 1999/12/04-18:53:00
+ROCKET    : Pegasus XL/HAPS
+COUNTRY   : US        
+AGENCY    : OSC       
+SITE      : WIMB      
+PAD       : RW22      
+FLIGHT_ID : F28       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-F03  
+LIFTOFF   : 2024/07/10-23:40:00
+ROCKET    : Shuang Quxian 1
+COUNTRY   : CN        
+AGENCY    : XJRY      
+SITE      : JQ        
+PAD       : LC43/95A  
+FLIGHT_ID : Y8        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

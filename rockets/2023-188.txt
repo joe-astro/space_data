@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-188  
+LIFTOFF   : 2023/12/04-05:00:00
+ROCKET    : ADD TV2   
+COUNTRY   : KR        
+AGENCY    : ADD       
+SITE      : JEJU      
+PAD       : -         
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

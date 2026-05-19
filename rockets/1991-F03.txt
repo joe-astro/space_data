@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1991-F03  
+LIFTOFF   : 1991/08/30-08:58:01
+ROCKET    : Zenit-2   
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : GIK-5     
+PAD       : LC45/1    
+FLIGHT_ID : 51019-217/16L/2-88
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

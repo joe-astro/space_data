@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2001-U01  
+LIFTOFF   : 2001/09/21-18:49:30
+ROCKET    : Taurus 2110
+COUNTRY   : US        
+AGENCY    : OSCC      
+SITE      : V         
+PAD       : 576E      
+FLIGHT_ID : T6        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

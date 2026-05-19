@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-221  
+LIFTOFF   : 2024/11/27-02:00:00
+ROCKET    : Zhuque-2E 
+COUNTRY   : CN        
+AGENCY    : LANDSP    
+SITE      : JQ        
+PAD       : LC43/96A  
+FLIGHT_ID : Y1        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

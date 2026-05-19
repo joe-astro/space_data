@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1992-095  
+LIFTOFF   : 1992/12/29-13:30:01
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : NIIP-53   
+PAD       : LC43/3    
+FLIGHT_ID : U 15000-033
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

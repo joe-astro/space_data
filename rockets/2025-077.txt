@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-077  
+LIFTOFF   : 2025/04/16-19:33:00
+ROCKET    : Minotaur IV
+COUNTRY   : US        
+AGENCY    : NGIS      
+SITE      : VS        
+PAD       : SLC8      
+FLIGHT_ID : 8         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

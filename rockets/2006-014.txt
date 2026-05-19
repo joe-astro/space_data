@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2006-014  
+LIFTOFF   : 2006/04/25-16:47:16
+ROCKET    : Start-1   
+COUNTRY   : RU        
+AGENCY    : PU        
+SITE      : GIK-2     
+PAD       : LC5       
+FLIGHT_ID : 645-3621-441
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2018-007  
+LIFTOFF   : 2018/01/17-21:06:11
+ROCKET    : Epsilon   
+COUNTRY   : J         
+AGENCY    : JAXA      
+SITE      : USC       
+PAD       : EP        
+FLIGHT_ID : E-3       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2017-068  
+LIFTOFF   : 2017/10/31-21:37:00
+ROCKET    : Minotaur-C 3210
+COUNTRY   : US        
+AGENCY    : OATKC     
+SITE      : V         
+PAD       : 576E      
+FLIGHT_ID : T10 (XL)  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

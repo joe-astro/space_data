@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1990-022  
+LIFTOFF   : 1990/03/14-15:27:00
+ROCKET    : Tsiklon-2 
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : GIK-5     
+PAD       : LC90      
+FLIGHT_ID : 67076-103 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

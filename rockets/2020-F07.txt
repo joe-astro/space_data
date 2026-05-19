@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2020-F07  
+LIFTOFF   : 2020/09/12-03:19:00
+ROCKET    : Astra Rocket 3.1
+COUNTRY   : US        
+AGENCY    : ASTRV     
+SITE      : PSCA      
+PAD       : LP3B      
+FLIGHT_ID : LV0004    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

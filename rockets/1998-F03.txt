@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1998-F03  
+LIFTOFF   : 1998/08/27-01:17:00
+ROCKET    : Delta 8930
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : CC        
+PAD       : LC17B     
+FLIGHT_ID : D259      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

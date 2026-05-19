@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-180  
+LIFTOFF   : 2025/08/19-07:33:07
+ROCKET    : Lijian-1  
+COUNTRY   : CN        
+AGENCY    : ZKYT      
+SITE      : JQ        
+PAD       : LC130     
+FLIGHT_ID : Y10       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

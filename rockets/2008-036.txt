@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2008-036  
+LIFTOFF   : 2008/07/22-02:40:09
+ROCKET    : Kosmos 11K65M
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-1     
+PAD       : LC132/1   
+FLIGHT_ID : 53752-101 SL
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

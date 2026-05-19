@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1958-F03  
+LIFTOFF   : 1958/04/27-09:01:00
+ROCKET    : Sputnik 8A91
+COUNTRY   : SU        
+AGENCY    : MVS       
+SITE      : NIIP-5    
+PAD       : LC1       
+FLIGHT_ID : B1-2      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1968-059  
+LIFTOFF   : 1968/07/11-19:30:00
+ROCKET    : Atlas F   
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : V         
+PAD       : ABRESA2   
+FLIGHT_ID : 75F       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

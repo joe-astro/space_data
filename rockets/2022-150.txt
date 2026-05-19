@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-150  
+LIFTOFF   : 2022/11/10-09:49:00
+ROCKET    : Atlas V 401
+COUNTRY   : US        
+AGENCY    : ULAL      
+SITE      : VSFBS     
+PAD       : SLC3E     
+FLIGHT_ID : AV-098    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

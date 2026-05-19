@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1985-F02  
+LIFTOFF   : 1985/08/28-21:20:00
+ROCKET    : Titan 34D 
+COUNTRY   : US        
+AGENCY    : AFSD      
+SITE      : VS        
+PAD       : SLC4E     
+FLIGHT_ID : 34D-7  (04D-6)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

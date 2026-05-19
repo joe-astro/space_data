@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-044  
+LIFTOFF   : 2022/04/29-19:55:22
+ROCKET    : Angara-1.2
+COUNTRY   : RU        
+AGENCY    : KHRU      
+SITE      : GIK-1     
+PAD       : LC35/1    
+FLIGHT_ID : 71602?/1L 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

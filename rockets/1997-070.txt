@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-070  
+LIFTOFF   : 1997/11/12-17:00:00
+ROCKET    : Proton-K/DM-2M
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-5     
+PAD       : LC200/39  
+FLIGHT_ID : 382-01    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

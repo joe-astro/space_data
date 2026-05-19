@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-F03  
+LIFTOFF   : 1997/11/02-12:25:00
+ROCKET    : VLS-1     
+COUNTRY   : BR        
+AGENCY    : AEB       
+SITE      : ALCA      
+PAD       : VLS       
+FLIGHT_ID : V01       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

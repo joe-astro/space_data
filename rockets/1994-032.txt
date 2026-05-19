@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-032  
+LIFTOFF   : 1994/06/07-07:20:00
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GNIIPV    
+PAD       : LC16/2    
+FLIGHT_ID : 78012  -831
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

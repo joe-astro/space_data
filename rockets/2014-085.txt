@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2014-085  
+LIFTOFF   : 2014/12/23-05:57:00
+ROCKET    : Angara A5 
+COUNTRY   : RU        
+AGENCY    : KHRU      
+SITE      : GIK-1     
+PAD       : LC35/1    
+FLIGHT_ID : 71751 (1LM)/88801
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

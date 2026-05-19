@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1964-F10  
+LIFTOFF   : 1964/09/01-15:00:06
+ROCKET    : Titan IIIA
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : CC        
+PAD       : LC20      
+FLIGHT_ID : 3A-2      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

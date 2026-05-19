@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1980-F02  
+LIFTOFF   : 1980/07/15-02:22:11
+ROCKET    : Thor DSV-2U
+COUNTRY   : US        
+AGENCY    : S394I     
+SITE      : V         
+PAD       : SLC10W    
+FLIGHT_ID : 304       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

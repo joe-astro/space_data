@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-260  
+LIFTOFF   : 2025/11/13-20:55:00
+ROCKET    : New Glenn 
+COUNTRY   : US        
+AGENCY    : BLOR      
+SITE      : CC        
+PAD       : LC36      
+FLIGHT_ID : NG2       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

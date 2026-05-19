@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1997-008  
+LIFTOFF   : 1997/02/23-20:20:01
+ROCKET    : Titan 402B/IUS
+COUNTRY   : US        
+AGENCY    : 3SLS/AFSMC
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : 4B-24 (K-24, 45D-4)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1992-032  
+LIFTOFF   : 1992/06/10-00:00:00
+ROCKET    : Atlas IIA 
+COUNTRY   : US        
+AGENCY    : GDCLS     
+SITE      : CC        
+PAD       : LC36B     
+FLIGHT_ID : AC-105    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

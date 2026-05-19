@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-024  
+LIFTOFF   : 2024/02/03-03:06:00
+ROCKET    : Jielong-3 
+COUNTRY   : CN        
+AGENCY    : CZHJ      
+SITE      : YJ        
+PAD       : LP2       
+FLIGHT_ID : Y3        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

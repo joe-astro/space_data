@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1969-U01  
+LIFTOFF   : 1969/07/21-17:54:01
+ROCKET    : LM AS     
+COUNTRY   : US        
+AGENCY    : MSC       
+SITE      : TRAN      
+PAD       : LM5-DS    
+FLIGHT_ID : 5         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

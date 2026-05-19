@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1998-048  
+LIFTOFF   : 1998/08/19-23:01:46
+ROCKET    : Chang Zheng 2C-III/SD
+COUNTRY   : CN        
+AGENCY    : CALT      
+SITE      : TYSC      
+PAD       : LC7       
+FLIGHT_ID : Y5        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2018-F02  
+LIFTOFF   : 2018/10/27-08:00:00
+ROCKET    : Zhuque-1  
+COUNTRY   : CN        
+AGENCY    : LANDSP    
+SITE      : JQ        
+PAD       : LC43/95?  
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

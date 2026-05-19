@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2002-046  
+LIFTOFF   : 2002/09/26-14:27:14
+ROCKET    : Kosmos 11K65M
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-1     
+PAD       : LC132/1   
+FLIGHT_ID : 65021-706 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

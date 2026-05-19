@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1957-F01  
+LIFTOFF   : 1957/12/06-16:44:35
+ROCKET    : Vanguard  
+COUNTRY   : US        
+AGENCY    : NRL       
+SITE      : CC        
+PAD       : LC18A     
+FLIGHT_ID : TV-3      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

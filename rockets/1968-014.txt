@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1968-014  
+LIFTOFF   : 1968/03/04-13:06:01
+ROCKET    : Atlas SLV-3A Agena D
+COUNTRY   : US        
+AGENCY    : LERC/SAMSO
+SITE      : CC        
+PAD       : LC13      
+FLIGHT_ID : 5602A/6503 (AA26)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

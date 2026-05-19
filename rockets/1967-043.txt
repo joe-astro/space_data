@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-043  
+LIFTOFF   : 1967/05/09-21:50:42
+ROCKET    : Thorad SLV-2G Agena D
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : V         
+PAD       : SLC1E     
+FLIGHT_ID : 508/1634  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

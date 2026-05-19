@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1999-049  
+LIFTOFF   : 1999/09/22-14:33:00
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : F         
+AGENCY    : STSM      
+SITE      : GIK-5     
+PAD       : LC1       
+FLIGHT_ID : S 15000-061
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

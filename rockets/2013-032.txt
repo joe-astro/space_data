@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2013-032  
+LIFTOFF   : 2013/06/27-16:53:00
+ROCKET    : Strela    
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-5     
+PAD       : LC175/59  
+FLIGHT_ID : 492-6391-832
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

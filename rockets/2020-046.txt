@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2020-046  
+LIFTOFF   : 2020/07/15-13:46:00
+ROCKET    : Minotaur IV
+COUNTRY   : US        
+AGENCY    : NGIS      
+SITE      : MARS      
+PAD       : Pad 0B    
+FLIGHT_ID : 7         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

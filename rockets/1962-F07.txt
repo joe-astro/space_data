@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1962-F07  
+LIFTOFF   : 1962/07/22-09:21:23
+ROCKET    : Atlas Agena B
+COUNTRY   : US        
+AGENCY    : MSFC/AFSSD
+SITE      : CC        
+PAD       : LC12      
+FLIGHT_ID : 145D/6901 (AA5)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

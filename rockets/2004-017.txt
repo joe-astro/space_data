@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2004-017  
+LIFTOFF   : 2004/05/19-22:22:01
+ROCKET    : Atlas IIAS
+COUNTRY   : US        
+AGENCY    : ILSL      
+SITE      : CC        
+PAD       : SLC36B    
+FLIGHT_ID : AC-166    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1972-091  
+LIFTOFF   : 1972/11/15-22:13:46
+ROCKET    : Scout D-1 
+COUNTRY   : I         
+AGENCY    : CRA       
+SITE      : SMLC      
+PAD       : -         
+FLIGHT_ID : S170CR    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

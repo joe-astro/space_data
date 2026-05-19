@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2009-037  
+LIFTOFF   : 2009/07/14-03:36:00
+ROCKET    : Falcon 1  
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : KMR       
+PAD       : OM        
+FLIGHT_ID : F005      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

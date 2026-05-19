@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1972-U02  
+LIFTOFF   : 1972/04/24-01:25:48
+ROCKET    : LM AS     
+COUNTRY   : US        
+AGENCY    : MSC       
+SITE      : DES       
+PAD       : LM11-DS   
+FLIGHT_ID : 11        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

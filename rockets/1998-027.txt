@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1998-027  
+LIFTOFF   : 1998/05/07-08:53:22
+ROCKET    : Molniya 8K78M
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-1     
+PAD       : LC16/2    
+FLIGHT_ID : 78051  -676
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1999-044  
+LIFTOFF   : 1999/08/18-18:00:01
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-1     
+PAD       : LC43/3    
+FLIGHT_ID : 77017  -785
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

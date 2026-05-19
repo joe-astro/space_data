@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-084  
+LIFTOFF   : 1994/12/22-22:19:02
+ROCKET    : Titan 402A/IUS
+COUNTRY   : US        
+AGENCY    : AFSMC     
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : K-14        (45D-3)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

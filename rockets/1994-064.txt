@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-064  
+LIFTOFF   : 1994/10/06-06:35:02
+ROCKET    : Atlas IIAS
+COUNTRY   : US        
+AGENCY    : MMCLS     
+SITE      : CC        
+PAD       : LC36B     
+FLIGHT_ID : AC-111    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-178  
+LIFTOFF   : 2022/12/29-04:43:00
+ROCKET    : Chang Zheng 3B
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : XSC       
+PAD       : LC2       
+FLIGHT_ID : Y88       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1969-U02  
+LIFTOFF   : 1969/11/20-14:25:56
+ROCKET    : LM AS     
+COUNTRY   : US        
+AGENCY    : MSC       
+SITE      : SV3       
+PAD       : LM6-DS    
+FLIGHT_ID : 6         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

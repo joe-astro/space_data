@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-072  
+LIFTOFF   : 2022/06/30-12:32:00
+ROCKET    : PSLV      
+COUNTRY   : IN        
+AGENCY    : ISRO/NSIL 
+SITE      : SHAR      
+PAD       : SLP       
+FLIGHT_ID : PLSV-C53  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

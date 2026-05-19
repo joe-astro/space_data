@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1961 NU   
+LIFTOFF   : 1961/04/27-14:16:38
+ROCKET    : Juno II   
+COUNTRY   : US        
+AGENCY    : MSFC      
+SITE      : CC        
+PAD       : LC26B     
+FLIGHT_ID : AM-19E    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

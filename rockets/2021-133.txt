@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-133  
+LIFTOFF   : 2021/12/27-19:00:00
+ROCKET    : Angara A5/Persei
+COUNTRY   : RU        
+AGENCY    : KHRU      
+SITE      : GIK-1     
+PAD       : LC35/1    
+FLIGHT_ID : 71753 (3L)/1L
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

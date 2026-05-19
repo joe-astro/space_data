@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1961 ALP  
+LIFTOFF   : 1961/01/31-20:21:19
+ROCKET    : Atlas Agena A
+COUNTRY   : US        
+AGENCY    : AFBMD     
+SITE      : PA        
+PAD       : LC1-1     
+FLIGHT_ID : 70D/2102  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2012-024  
+LIFTOFF   : 2012/05/17-14:05:00
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : VVKO      
+SITE      : GIK-1     
+PAD       : LC16/2    
+FLIGHT_ID : 780-31 -229 131
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

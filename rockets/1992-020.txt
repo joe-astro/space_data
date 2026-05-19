@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1992-020  
+LIFTOFF   : 1992/04/15-07:17:43
+ROCKET    : Kosmos 11K65M
+COUNTRY   : RU        
+AGENCY    : UNKSR     
+SITE      : NIIP-53   
+PAD       : LC132/1   
+FLIGHT_ID : 47178-419 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

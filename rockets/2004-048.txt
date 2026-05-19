@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2004-048  
+LIFTOFF   : 2004/12/17-12:07:00
+ROCKET    : Atlas V 521
+COUNTRY   : US        
+AGENCY    : ILSL      
+SITE      : CC        
+PAD       : SLC41     
+FLIGHT_ID : AV-005    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

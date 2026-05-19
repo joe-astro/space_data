@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2022-149  
+LIFTOFF   : 2022/11/07-10:32:42
+ROCKET    : Antares 230+
+COUNTRY   : US        
+AGENCY    : NGIS      
+SITE      : MARS      
+PAD       : Pad 0A    
+FLIGHT_ID : 2TRS2S1.17? (17)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

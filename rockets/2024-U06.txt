@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-U06  
+LIFTOFF   : 2024/11/19-22:00:00
+ROCKET    : Starship V1.0
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : STB       
+PAD       : OLP1      
+FLIGHT_ID : B13/S31   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

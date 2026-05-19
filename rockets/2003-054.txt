@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2003-054  
+LIFTOFF   : 2003/12/02-10:04:00
+ROCKET    : Atlas IIAS
+COUNTRY   : US        
+AGENCY    : ILSL      
+SITE      : VS        
+PAD       : SLC3E     
+FLIGHT_ID : AC-164 MLV-14
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

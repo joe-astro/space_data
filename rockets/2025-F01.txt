@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-F01  
+LIFTOFF   : 2025/01/16-22:37:00
+ROCKET    : Starship V2
+COUNTRY   : US        
+AGENCY    : SPX       
+SITE      : STB       
+PAD       : OLP1      
+FLIGHT_ID : B14/S33   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

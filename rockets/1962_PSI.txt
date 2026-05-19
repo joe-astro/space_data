@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1962 PSI  
+LIFTOFF   : 1962/06/17-18:14:18
+ROCKET    : Atlas Agena B
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : PA        
+PAD       : LC1-1     
+FLIGHT_ID : 115D/2402 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

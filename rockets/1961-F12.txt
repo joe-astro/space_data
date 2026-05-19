@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1961-F12  
+LIFTOFF   : 1961/11/01-15:32:00
+ROCKET    : Blue Scout II
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : CC        
+PAD       : LC18B     
+FLIGHT_ID : D-8       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

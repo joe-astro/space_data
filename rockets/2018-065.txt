@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2018-065  
+LIFTOFF   : 2018/08/12-07:31:00
+ROCKET    : Delta 4H/Star 48BV
+COUNTRY   : US        
+AGENCY    : ULAB      
+SITE      : CC        
+PAD       : SLC37B    
+FLIGHT_ID : D4-37/D380
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

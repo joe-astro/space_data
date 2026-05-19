@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1984-081  
+LIFTOFF   : 1984/08/04-13:32:54
+ROCKET    : Ariane 3  
+COUNTRY   : F         
+AGENCY    : AE        
+SITE      : CSG       
+PAD       : ELA1      
+FLIGHT_ID : V10 L12   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2005-005  
+LIFTOFF   : 2005/02/12-21:03:01
+ROCKET    : Ariane 5ECA
+COUNTRY   : I-ESA     
+AGENCY    : ESA       
+SITE      : CSG       
+PAD       : ELA3      
+FLIGHT_ID : V164 (521)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

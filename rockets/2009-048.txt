@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2009-048  
+LIFTOFF   : 2009/09/10-17:01:46
+ROCKET    : H-IIB     
+COUNTRY   : J         
+AGENCY    : JAXA      
+SITE      : TNSC      
+PAD       : Y2        
+FLIGHT_ID : H-IIB-TF1 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

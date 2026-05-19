@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1982-054  
+LIFTOFF   : 1982/06/03-21:30:00
+ROCKET    : K65M-RB   
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : GTsP-4    
+PAD       : LC107/1   
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

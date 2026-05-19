@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1992-029  
+LIFTOFF   : 1992/05/28-19:09:59
+ROCKET    : Soyuz-U   
+COUNTRY   : RU        
+AGENCY    : UNKSR     
+SITE      : NIIP-53   
+PAD       : LC16/2    
+FLIGHT_ID : 78023  -986
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

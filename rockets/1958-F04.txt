@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1958-F04  
+LIFTOFF   : 1958/04/29-02:53:00
+ROCKET    : Vanguard  
+COUNTRY   : US        
+AGENCY    : NRL       
+SITE      : CC        
+PAD       : LC18A     
+FLIGHT_ID : TV-5      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

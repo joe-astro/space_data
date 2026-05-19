@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-024  
+LIFTOFF   : 2000/05/08-16:01:00
+ROCKET    : Titan 402B/IUS
+COUNTRY   : US        
+AGENCY    : 3SLS/AFSMC
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : 4B-29     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

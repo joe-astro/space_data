@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-031  
+LIFTOFF   : 2021/04/25-22:14:08
+ROCKET    : Soyuz-2-1B
+COUNTRY   : F         
+AGENCY    : STSM      
+SITE      : VOST      
+PAD       : PU1S      
+FLIGHT_ID : V 15000-006/123-11
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-018  
+LIFTOFF   : 2024/01/28-00:04:00
+ROCKET    : Simorgh   
+COUNTRY   : IR        
+AGENCY    : IRSA      
+SITE      : SEM       
+PAD       : IKSC      
+FLIGHT_ID : 7 DRS.C001
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

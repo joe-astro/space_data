@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-110  
+LIFTOFF   : 2024/06/06-05:00:00
+ROCKET    : Gushenxing 1
+COUNTRY   : CN        
+AGENCY    : XIDO      
+SITE      : JQ        
+PAD       : LC43/95A  
+FLIGHT_ID : Y13       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

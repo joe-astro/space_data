@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1999-051  
+LIFTOFF   : 1999/09/24-18:21:08
+ROCKET    : Athena-2  
+COUNTRY   : US        
+AGENCY    : LMA       
+SITE      : VS        
+PAD       : SLC6      
+FLIGHT_ID : LM-007    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

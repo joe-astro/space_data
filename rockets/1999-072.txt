@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1999-072  
+LIFTOFF   : 1999/12/26-08:00:00
+ROCKET    : Tsiklon-2 
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-5     
+PAD       : LC90/20   
+FLIGHT_ID : 450-82-  801
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

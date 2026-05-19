@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1971-067  
+LIFTOFF   : 1971/08/07-00:11:00
+ROCKET    : Atlas F   
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : V         
+PAD       : BMRSA2    
+FLIGHT_ID : 76F       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

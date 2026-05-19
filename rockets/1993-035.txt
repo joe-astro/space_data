@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1993-035  
+LIFTOFF   : 1993/05/26-03:23:59
+ROCKET    : Molniya 8K78M
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GNIIPV    
+PAD       : LC43/4    
+FLIGHT_ID : 77044  -660
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1996-026  
+LIFTOFF   : 1996/04/24-23:37:02
+ROCKET    : Titan 401A/Centaur
+COUNTRY   : US        
+AGENCY    : 3SLS/AFSMC
+SITE      : CC        
+PAD       : LC41      
+FLIGHT_ID : K-16/TC-15  (45E-4)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1977-012  
+LIFTOFF   : 1977/02/19-05:15:00
+ROCKET    : Mu-3H     
+COUNTRY   : J         
+AGENCY    : ISAS      
+SITE      : KASC      
+PAD       : M         
+FLIGHT_ID : M-3H-1    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

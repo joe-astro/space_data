@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1965-009  
+LIFTOFF   : 1965/02/16-14:37:03
+ROCKET    : Saturn I  
+COUNTRY   : US        
+AGENCY    : MSFC      
+SITE      : CC        
+PAD       : LC37B     
+FLIGHT_ID : SA-9      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1962 ALP  
+LIFTOFF   : 1962/01/26-20:30:11
+ROCKET    : Atlas Agena B
+COUNTRY   : US        
+AGENCY    : MSFC/AFSSD
+SITE      : CC        
+PAD       : LC12      
+FLIGHT_ID : 121D/6003 (AA3)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

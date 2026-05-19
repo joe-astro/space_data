@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1991-082  
+LIFTOFF   : 1991/11/28-13:23:00
+ROCKET    : Atlas E   
+COUNTRY   : US        
+AGENCY    : AFSPC     
+SITE      : VS        
+PAD       : SLC3W     
+FLIGHT_ID : 53E       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

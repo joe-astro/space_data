@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2008-037  
+LIFTOFF   : 2008/07/26-18:31:36
+ROCKET    : Soyuz-2-1B
+COUNTRY   : RU        
+AGENCY    : KVR       
+SITE      : GIK-1     
+PAD       : LC43/4    
+FLIGHT_ID : 77057  -145 003
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1960 ALP  
+LIFTOFF   : 1960/03/11-13:00:07
+ROCKET    : Thor Able IV
+COUNTRY   : US        
+AGENCY    : AFBMD     
+SITE      : CC        
+PAD       : LC17A     
+FLIGHT_ID : 219       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

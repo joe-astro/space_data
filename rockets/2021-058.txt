@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-058  
+LIFTOFF   : 2021/06/30-14:47:00
+ROCKET    : LauncherOne
+COUNTRY   : US        
+AGENCY    : VORB      
+SITE      : MHV       
+PAD       : RW12/30   
+FLIGHT_ID : R04       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1970-056  
+LIFTOFF   : 1970/07/28-22:00:28
+ROCKET    : R-36O 8K69
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : NIIP-5    
+PAD       : LC191/66  
+FLIGHT_ID : Yu45021-49T
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

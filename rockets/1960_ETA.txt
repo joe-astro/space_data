@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1960 ETA  
+LIFTOFF   : 1960/06/22-05:54:00
+ROCKET    : Thor Ablestar
+COUNTRY   : US        
+AGENCY    : AFBMD     
+SITE      : CC        
+PAD       : LC17B     
+FLIGHT_ID : 281/AB003 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

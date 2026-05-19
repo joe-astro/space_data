@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1963-F06  
+LIFTOFF   : 1963/04/26-00:00:00
+ROCKET    : Scout X-2M
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : PA        
+PAD       : LC-D      
+FLIGHT_ID : S121      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

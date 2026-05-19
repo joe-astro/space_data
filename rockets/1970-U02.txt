@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1970-U02  
+LIFTOFF   : 1970/06/12-01:10:32
+ROCKET    : Europa I  
+COUNTRY   : I-ELDO    
+AGENCY    : ELDO      
+SITE      : WOO       
+PAD       : LA6A      
+FLIGHT_ID : F-9       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

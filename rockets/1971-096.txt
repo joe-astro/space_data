@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1971-096  
+LIFTOFF   : 1971/11/15-05:52:00
+ROCKET    : Scout B   
+COUNTRY   : I         
+AGENCY    : CRA       
+SITE      : SMLC      
+PAD       : -         
+FLIGHT_ID : S163CR    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

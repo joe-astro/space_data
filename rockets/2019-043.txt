@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2019-043  
+LIFTOFF   : 2019/07/25-05:00:00
+ROCKET    : Shuang Quxian 1
+COUNTRY   : CN        
+AGENCY    : XJRY      
+SITE      : JQ        
+PAD       : -         
+FLIGHT_ID : Y1        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

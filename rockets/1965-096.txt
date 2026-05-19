@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1965-096  
+LIFTOFF   : 1965/11/26-14:47:21
+ROCKET    : Diamant A 
+COUNTRY   : F         
+AGENCY    : CNES      
+SITE      : HMG       
+PAD       : Brigitte  
+FLIGHT_ID : No. 1     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

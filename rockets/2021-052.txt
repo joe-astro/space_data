@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-052  
+LIFTOFF   : 2021/06/15-13:35:00
+ROCKET    : Minotaur I
+COUNTRY   : US        
+AGENCY    : NGISC     
+SITE      : MARS      
+PAD       : Pad 0B    
+FLIGHT_ID : 12        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2003-F02  
+LIFTOFF   : 2003/11/29-04:33:00
+ROCKET    : H-IIA 2024
+COUNTRY   : J         
+AGENCY    : NASDA     
+SITE      : TNSC      
+PAD       : Y         
+FLIGHT_ID : H-IIA-6F  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

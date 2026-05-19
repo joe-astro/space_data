@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1971-F10  
+LIFTOFF   : 1971/11/05-13:00:00
+ROCKET    : Europa II 
+COUNTRY   : I-ELDO    
+AGENCY    : ELDO      
+SITE      : CSG       
+PAD       : CECLES    
+FLIGHT_ID : F-11      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

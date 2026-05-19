@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1987-015  
+LIFTOFF   : 1987/02/12-06:40:00
+ROCKET    : Titan 34B 
+COUNTRY   : US        
+AGENCY    : AFSD      
+SITE      : VS        
+PAD       : SLC4W     
+FLIGHT_ID : 34B-51 (3B-66)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

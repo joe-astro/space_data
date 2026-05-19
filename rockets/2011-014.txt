@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2011-014  
+LIFTOFF   : 2011/04/15-04:24:10
+ROCKET    : Atlas V 411
+COUNTRY   : US        
+AGENCY    : ULAL      
+SITE      : VS        
+PAD       : SLC3E     
+FLIGHT_ID : AV-027    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

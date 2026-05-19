@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1967-038  
+LIFTOFF   : 1967/04/26-10:06:24
+ROCKET    : Scout B   
+COUNTRY   : I         
+AGENCY    : CRA       
+SITE      : SMLC      
+PAD       : -         
+FLIGHT_ID : S153C     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

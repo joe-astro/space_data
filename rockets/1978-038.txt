@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1978-038  
+LIFTOFF   : 1978/04/07-00:45:01
+ROCKET    : Atlas SLV-3A Agena D
+COUNTRY   : US        
+AGENCY    : SAMSO     
+SITE      : CC        
+PAD       : LC13      
+FLIGHT_ID : 5505A/1554
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

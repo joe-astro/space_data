@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2010-062  
+LIFTOFF   : 2010/11/20-01:25:00
+ROCKET    : Minotaur IV
+COUNTRY   : US        
+AGENCY    : RSLP      
+SITE      : KLC       
+PAD       : LP1       
+FLIGHT_ID : 3         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

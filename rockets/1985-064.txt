@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1985-064  
+LIFTOFF   : 1985/08/01-05:36:00
+ROCKET    : Tsiklon-2 
+COUNTRY   : SU        
+AGENCY    : UNKS      
+SITE      : NIIP-5    
+PAD       : LC90      
+FLIGHT_ID : 51099-804 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1959 IOT  
+LIFTOFF   : 1959/10/13-15:30:04
+ROCKET    : Juno II   
+COUNTRY   : US        
+AGENCY    : ABMA      
+SITE      : CC        
+PAD       : LC5       
+FLIGHT_ID : AM-19A    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

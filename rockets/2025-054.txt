@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-054  
+LIFTOFF   : 2025/03/16-10:50:00
+ROCKET    : Angara-1.2
+COUNTRY   : RU        
+AGENCY    : KHRU      
+SITE      : GIK-1     
+PAD       : LC35/1    
+FLIGHT_ID : 71605/4L  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

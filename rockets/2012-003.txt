@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2012-003  
+LIFTOFF   : 2012/01/20-00:38:00
+ROCKET    : Delta 4M+(5,4)
+COUNTRY   : US        
+AGENCY    : ULAB      
+SITE      : CC        
+PAD       : SLC37B    
+FLIGHT_ID : D4-18/D358
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

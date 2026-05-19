@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-025  
+LIFTOFF   : 1966/03/30-09:20:12
+ROCKET    : Atlas D   
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : V         
+PAD       : ABRESB3   
+FLIGHT_ID : 72D/NB20.152  RS
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

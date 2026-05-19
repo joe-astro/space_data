@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2020-015  
+LIFTOFF   : 2020/02/20-08:24:54
+ROCKET    : Soyuz-2-1A
+COUNTRY   : RU        
+AGENCY    : VVKO      
+SITE      : GIK-1     
+PAD       : LC43/3    
+FLIGHT_ID : 780-21- 118/111-303
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

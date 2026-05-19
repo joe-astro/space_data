@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2021-F03  
+LIFTOFF   : 2021/06/12-00:00:00
+ROCKET    : Simorgh   
+COUNTRY   : IR        
+AGENCY    : IRSA      
+SITE      : SEM       
+PAD       : IKSC      
+FLIGHT_ID : 5         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1957 BET  
+LIFTOFF   : 1957/11/03-02:30:42
+ROCKET    : Sputnik 8K71PS
+COUNTRY   : SU        
+AGENCY    : MVS       
+SITE      : NIIP-5    
+PAD       : LC1       
+FLIGHT_ID : M1-2PS    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

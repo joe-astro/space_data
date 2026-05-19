@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1961-F09  
+LIFTOFF   : 1961/09/09-19:28:27
+ROCKET    : Atlas Agena B
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : PA        
+PAD       : LC1-1     
+FLIGHT_ID : 106D/2120 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

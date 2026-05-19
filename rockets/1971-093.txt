@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1971-093  
+LIFTOFF   : 1971/10/28-04:09:29
+ROCKET    : Black Arrow
+COUNTRY   : UK        
+AGENCY    : RAE       
+SITE      : WOO       
+PAD       : LA5B      
+FLIGHT_ID : R-3       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1981-093  
+LIFTOFF   : 1981/09/19-21:28:40
+ROCKET    : Feng Bao 1
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : JQ        
+PAD       : LA2B      
+FLIGHT_ID : XCZ-1-02  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

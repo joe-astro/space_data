@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1962 MU   
+LIFTOFF   : 1962/04/23-20:50:00
+ROCKET    : Atlas Agena B
+COUNTRY   : US        
+AGENCY    : MSFC/AFSSD
+SITE      : CC        
+PAD       : LC12      
+FLIGHT_ID : 133D/6004 (AA4)
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

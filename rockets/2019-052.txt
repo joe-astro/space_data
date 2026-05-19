@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2019-052  
+LIFTOFF   : 2019/08/17-04:11:00
+ROCKET    : Jielong-1 
+COUNTRY   : CN        
+AGENCY    : CZHJ      
+SITE      : JQ        
+PAD       : -         
+FLIGHT_ID : Y1        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-056  
+LIFTOFF   : 2000/09/25-10:10:00
+ROCKET    : Zenit-2   
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-5     
+PAD       : LC45/1    
+FLIGHT_ID : 67013-303/16NI
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-011  
+LIFTOFF   : 2023/01/24-23:00:00
+ROCKET    : Electron  
+COUNTRY   : US        
+AGENCY    : RLABU     
+SITE      : MARS      
+PAD       : Pad 0C    
+FLIGHT_ID : 33        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

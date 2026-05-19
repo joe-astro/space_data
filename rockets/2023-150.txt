@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-150  
+LIFTOFF   : 2023/09/27-06:00:00
+ROCKET    : Qased     
+COUNTRY   : IR        
+AGENCY    : IRGC      
+SITE      : SHAHR     
+PAD       : LP1       
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2020-F04  
+LIFTOFF   : 2020/05/25-19:50:00
+ROCKET    : LauncherOne
+COUNTRY   : US        
+AGENCY    : VORB      
+SITE      : MHV       
+PAD       : RW12/30   
+FLIGHT_ID : R02       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

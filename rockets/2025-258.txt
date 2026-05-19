@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-258  
+LIFTOFF   : 2025/11/10-02:41:56
+ROCKET    : Chang Zheng 12
+COUNTRY   : CN        
+AGENCY    : SAST      
+SITE      : HCSLS     
+PAD       : LC2       
+FLIGHT_ID : Y3        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

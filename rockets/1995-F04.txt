@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1995-F04  
+LIFTOFF   : 1995/08/15-22:30:00
+ROCKET    : LLV-1     
+COUNTRY   : US        
+AGENCY    : LMA       
+SITE      : VS        
+PAD       : SLC6      
+FLIGHT_ID : DLV       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

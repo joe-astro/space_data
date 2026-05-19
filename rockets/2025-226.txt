@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-226  
+LIFTOFF   : 2025/10/11-02:20:00
+ROCKET    : Yinli-1   
+COUNTRY   : CN        
+AGENCY    : DFK       
+SITE      : HHAI      
+PAD       : LP4A      
+FLIGHT_ID : Y2        
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

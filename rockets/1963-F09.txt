@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1963-F09  
+LIFTOFF   : 1963/06/12-00:00:00
+ROCKET    : Atlas Agena B
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : PA        
+PAD       : LC1-2     
+FLIGHT_ID : 139D/1204 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

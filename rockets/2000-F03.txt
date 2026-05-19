@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2000-F03  
+LIFTOFF   : 2000/12/27-09:56:31
+ROCKET    : Tsiklon-3 
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-1     
+PAD       : LC32/1    
+FLIGHT_ID : 450-34-  503
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

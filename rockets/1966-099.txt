@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1966-099  
+LIFTOFF   : 1966/11/03-13:50:42
+ROCKET    : Titan IIIC
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : CC        
+PAD       : LC40      
+FLIGHT_ID : 3C-9      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

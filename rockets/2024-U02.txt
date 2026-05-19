@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2024-U02  
+LIFTOFF   : 2024/06/03-23:38:00
+ROCKET    : CE-5 SSQ  
+COUNTRY   : CN        
+AGENCY    : CAST      
+SITE      : APBS      
+PAD       : CE-6 ZQ   
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

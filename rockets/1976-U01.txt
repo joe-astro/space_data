@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1976-U01  
+LIFTOFF   : 1976/08/19-05:25:00
+ROCKET    : E-8-5 VA  
+COUNTRY   : SU        
+AGENCY    : NPOL      
+SITE      : CRI24     
+PAD       : KT-413    
+FLIGHT_ID : No. 413   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

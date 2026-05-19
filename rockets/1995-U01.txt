@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1995-U01  
+LIFTOFF   : 1995/01/15-13:45:00
+ROCKET    : Mu-3S-II  
+COUNTRY   : J         
+AGENCY    : ISAS      
+SITE      : KASC      
+PAD       : M1        
+FLIGHT_ID : M-3S2-8   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

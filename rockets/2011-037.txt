@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2011-037  
+LIFTOFF   : 2011/07/18-02:31:18
+ROCKET    : Zenit-3SLBF
+COUNTRY   : RU        
+AGENCY    : KVR?      
+SITE      : GIK-5     
+PAD       : LC45/1    
+FLIGHT_ID : SLB80.3/1-2002
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

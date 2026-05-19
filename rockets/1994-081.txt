@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1994-081  
+LIFTOFF   : 1994/12/14-14:21:00
+ROCKET    : Molniya 8K78M
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GIK-1     
+PAD       : LC43/4    
+FLIGHT_ID : 77031  -672
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

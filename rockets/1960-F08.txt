@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1960-F08  
+LIFTOFF   : 1960/06/29-22:00:44
+ROCKET    : Thor Agena A
+COUNTRY   : US        
+AGENCY    : AFBMD     
+SITE      : V         
+PAD       : 75-3-4    
+FLIGHT_ID : 160/1053  
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

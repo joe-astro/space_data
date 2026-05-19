@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2004-050  
+LIFTOFF   : 2004/12/21-21:50:00
+ROCKET    : Delta 4H  
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : CC        
+PAD       : SLC37B    
+FLIGHT_ID : D4-4/D310 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

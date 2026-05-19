@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1998-038  
+LIFTOFF   : 1998/06/24-18:29:58
+ROCKET    : Soyuz-U-PVB
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GIK-1     
+PAD       : LC43/3    
+FLIGHT_ID : Kh15000-043
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

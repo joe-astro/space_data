@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1974-008  
+LIFTOFF   : 1974/02/16-05:00:00
+ROCKET    : Mu-3C     
+COUNTRY   : J         
+AGENCY    : ISAS      
+SITE      : KASC      
+PAD       : M         
+FLIGHT_ID : M-3C-1    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

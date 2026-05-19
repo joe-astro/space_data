@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1993-077  
+LIFTOFF   : 1993/12/16-00:40:02
+ROCKET    : Atlas IIAS
+COUNTRY   : US        
+AGENCY    : GDCLS     
+SITE      : CC        
+PAD       : LC36B     
+FLIGHT_ID : AC-108    
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

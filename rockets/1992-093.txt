@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1992-093  
+LIFTOFF   : 1992/12/25-05:56:00
+ROCKET    : Zenit-2   
+COUNTRY   : RU        
+AGENCY    : VKSR      
+SITE      : GIK-5     
+PAD       : LC45/1    
+FLIGHT_ID : 67033-306/3-90
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

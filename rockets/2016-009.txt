@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2016-009  
+LIFTOFF   : 2016/02/07-00:30:00
+ROCKET    : Kwangmyongsong
+COUNTRY   : KP        
+AGENCY    : NADA      
+SITE      : SOHAE     
+PAD       : LC1       
+FLIGHT_ID : 5         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

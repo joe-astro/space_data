@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1990-105  
+LIFTOFF   : 1990/12/01-15:57:00
+ROCKET    : Atlas E   
+COUNTRY   : US        
+AGENCY    : AFSPC     
+SITE      : VS        
+PAD       : SLC3W     
+FLIGHT_ID : 61E       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

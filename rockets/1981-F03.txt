@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1981-F03  
+LIFTOFF   : 1981/12/19-01:10:00
+ROCKET    : Atlas E/SVS
+COUNTRY   : US        
+AGENCY    : AFSD      
+SITE      : VS        
+PAD       : SLC3E     
+FLIGHT_ID : 76E       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2003-001  
+LIFTOFF   : 2003/01/06-14:19:00
+ROCKET    : Titan II SLV
+COUNTRY   : US        
+AGENCY    : 2SLS/AFSMC
+SITE      : VS        
+PAD       : SLC4W     
+FLIGHT_ID : 23G-4     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

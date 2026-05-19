@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2023-F04  
+LIFTOFF   : 2023/03/23-03:25:00
+ROCKET    : Terran 1  
+COUNTRY   : US        
+AGENCY    : RELSP     
+SITE      : CC        
+PAD       : LC16      
+FLIGHT_ID : 1         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

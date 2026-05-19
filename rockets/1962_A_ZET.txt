@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1962 A ZET
+LIFTOFF   : 1962/07/18-20:51:20
+ROCKET    : Atlas Agena B
+COUNTRY   : US        
+AGENCY    : AFSSD     
+SITE      : PA        
+PAD       : LC1-1     
+FLIGHT_ID : 120D/2403 
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2003-008  
+LIFTOFF   : 2003/03/11-00:59:00
+ROCKET    : Delta 4M  
+COUNTRY   : US        
+AGENCY    : BLS       
+SITE      : CC        
+PAD       : SLC37B    
+FLIGHT_ID : D4-2/D296/IABS-10
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

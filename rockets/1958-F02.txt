@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1958-F02  
+LIFTOFF   : 1958/03/05-18:27:57
+ROCKET    : Jupiter C 
+COUNTRY   : US        
+AGENCY    : ABMA      
+SITE      : CC        
+PAD       : LC26A     
+FLIGHT_ID : RS/CC-26 UV
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

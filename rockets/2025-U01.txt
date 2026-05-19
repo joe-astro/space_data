@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2025-U01  
+LIFTOFF   : 2025/04/29-13:37:47
+ROCKET    : Firefly Alpha
+COUNTRY   : US        
+AGENCY    : FFLY      
+SITE      : VSFB      
+PAD       : SLC2W     
+FLIGHT_ID : FLTA006   
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

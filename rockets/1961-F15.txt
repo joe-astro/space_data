@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1961-F15  
+LIFTOFF   : 1961/12/21-12:30:00
+ROCKET    : Kosmos 63S1
+COUNTRY   : SU        
+AGENCY    : RVSN      
+SITE      : GTsP-4    
+PAD       : Mayak-2   
+FLIGHT_ID : 2LK       
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

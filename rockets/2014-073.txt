@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2014-073  
+LIFTOFF   : 2014/11/21-06:37:08
+ROCKET    : Kuaizhou  
+COUNTRY   : CN        
+AGENCY    : PLA2AC    
+SITE      : JQ        
+PAD       : LC43/95   
+FLIGHT_ID : 2         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

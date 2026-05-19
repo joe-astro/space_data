@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 2008-032  
+LIFTOFF   : 2008/06/20-07:46:25
+ROCKET    : Delta 7320-10C
+COUNTRY   : US        
+AGENCY    : ULAB      
+SITE      : V         
+PAD       : SLC2W     
+FLIGHT_ID : D334      
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

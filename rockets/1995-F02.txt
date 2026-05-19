@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1995-F02  
+LIFTOFF   : 1995/03/28-10:00:00
+ROCKET    : Start     
+COUNTRY   : RU        
+AGENCY    : RVSNR     
+SITE      : GNIIP     
+PAD       : LC158     
+FLIGHT_ID : -         
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :

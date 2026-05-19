@@ -1,0 +1,14 @@
+# LAUNCH file
+# -----------------------------
+COSPAR    : 1992-023  
+LIFTOFF   : 1992/04/25-08:53:00
+ROCKET    : Titan II SLV
+COUNTRY   : US        
+AGENCY    : AFSSD2    
+SITE      : VS        
+PAD       : SLC4W     
+FLIGHT_ID : 23G-3     
+ALT_ID_1  :
+ALT_ID_2  :
+ALT_ID_3  :
+NOTES     :
