@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 40069
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  40069
+LAUNCH_TAG          =  2014-037
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Meteor-M No. 2
+PL_NAME             =  Meteor-M No. 2
+ALT_NAMES           =  Meteor-M No. 210-522-42:RA
+#
+MANUFACTURER        =  VNIIEMI
+BUS_TYPE            =  Resurs-O
+MOTOR               =  -
+BOL_MASS            =   2879.0 # 
+CURR_MASS           =   2879.0 # 
+DRY_MASS            =   2600.0 # ?
+BUS_SHAPE           =  Cyl+panels
+LENGTH              =      6.5 # 
+DIAMETER            =      2.9 # 
+SPAN                =     14.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2014/07/08-00:00:00 # 
+LAUNCH_VEHICLE      =  S40078
+LAUNCH_SITE         =  
+#
+PARENT              =  S40078
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RGMS/VNIIEMI
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2014/07/09-00:00:00 # 
+PERIGEE             =       818.0 #  
+APOGEE              =       828.0 # 
+INCL                =       98.81 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

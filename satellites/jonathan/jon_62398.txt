@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 62398
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  62398
+LAUNCH_TAG          =  2024-247
+PIECE               =  X
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ONDOSAT-OWL-7
+PL_NAME             =  OWLSAT-07
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ONDO
+BUS_TYPE            =  Cubesat 0.5U
+MOTOR               =  -
+BOL_MASS            =     0.25 # 
+CURR_MASS           =     0.25 # 
+DRY_MASS            =     0.25 # 
+BUS_SHAPE           =  Box
+LENGTH              =     0.05 # 
+DIAMETER            =     0.05 # 
+SPAN                =     0.05 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/12/21-00:00:00 # 
+LAUNCH_VEHICLE      =  A11382
+LAUNCH_SITE         =  
+#
+PARENT              =  A11382
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ONDO
+COUNTRY             =  MN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/12/21-00:00:00 # 
+PERIGEE             =       509.0 #  
+APOGEE              =       512.0 # 
+INCL                =        45.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  K

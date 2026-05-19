@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 19195
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  19195
+LAUNCH_TAG          =  1988-046
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-1950
+PL_NAME             =  Musson No. 21L
+ALT_NAMES           =  Geo-IK No. 21L:P,11F666 No. 794-25-2-21:RA
+#
+MANUFACTURER        =  NPOPM
+BUS_TYPE            =  KAUR-1 11F666
+MOTOR               =  -
+BOL_MASS            =   1548.0 # 
+CURR_MASS           =   1548.0 # 
+DRY_MASS            =   1548.0 # 
+BUS_SHAPE           =  Cyl + 2 Pan + Ant
+LENGTH              =      5.8 # 
+DIAMETER            =      2.4 # 
+SPAN                =     17.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1988/05/30-00:00:00 # 
+LAUNCH_VEHICLE      =  S19196
+LAUNCH_SITE         =  
+#
+PARENT              =  S19196
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  VTS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1988/06/30-00:00:00 # 
+PERIGEE             =      1485.0 #  
+APOGEE              =      1521.0 # 
+INCL                =        73.6 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

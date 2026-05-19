@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 14237
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  14237
+LAUNCH_TAG          =  1983-078
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OPS 7304
+PL_NAME             =  JUMPSEAT 7 (or QUASAR 5)
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  HSES
+BUS_TYPE            =  Jumpseat
+MOTOR               =  -
+BOL_MASS            =   1000.0 # ?
+CURR_MASS           =   1000.0 # ?
+DRY_MASS            =   1000.0 # ?
+BUS_SHAPE           =  Cyl + 2 Pan + Dish
+LENGTH              =      5.0 # ?
+DIAMETER            =      1.5 # 
+SPAN                =     10.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1983/07/31-00:00:00 # 
+LAUNCH_VEHICLE      =  S14238
+LAUNCH_SITE         =  
+#
+PARENT              =  S14238
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1900/01/01-00:00:00 # 
+PERIGEE             =       342.0 #  
+APOGEE              =     38347.0 # 
+INCL                =        63.6 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

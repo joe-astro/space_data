@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 27603
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  27603
+LAUNCH_TAG          =  2002-057
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      G
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  G
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  NSS 6
+PL_NAME             =  NSS 6
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LMCSS
+BUS_TYPE            =  A2100AX
+MOTOR               =  Leros 1C
+BOL_MASS            =   4575.0 # 
+CURR_MASS           =   4575.0 # 
+DRY_MASS            =   2200.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      7.3 # 
+DIAMETER            =      3.6 # 
+SPAN                =     26.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2002/12/17-00:00:00 # 
+LAUNCH_VEHICLE      =  S27604
+LAUNCH_SITE         =  
+#
+PARENT              =  S27604
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NSS
+COUNTRY             =  NL
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2002/12/26-00:00:00 # 
+PERIGEE             =     35668.0 #  
+APOGEE              =     35736.0 # 
+INCL                =        0.06 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/D
+OQUAL               =  -

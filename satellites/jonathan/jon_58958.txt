@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 58958
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  58958
+LAUNCH_TAG          =  2024-028
+PIECE               =  D
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  RAPTOR 3
+PL_NAME             =  SDA-0C TRL L3H-3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  HARRL3
+BUS_TYPE            =  TPL0-L3H
+MOTOR               =  -
+BOL_MASS            =   1000.0 # ?
+CURR_MASS           =   1000.0 # ?
+DRY_MASS            =   1000.0 # ?
+BUS_SHAPE           =  Box + panels
+LENGTH              =      1.0 # ?
+DIAMETER            =      0.6 # 
+SPAN                =      2.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/02/14-00:00:00 # 
+LAUNCH_VEHICLE      =  A11149
+LAUNCH_SITE         =  
+#
+PARENT              =  A11149
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SDA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/02/15-00:00:00 # 
+PERIGEE             =       991.0 #  
+APOGEE              =      1003.0 # 
+INCL                =       39.99 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

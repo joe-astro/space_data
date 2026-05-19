@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 28901
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  28901
+LAUNCH_TAG          =  2005-045
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Venus Express
+PL_NAME             =  Venus Express
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  EADSB
+BUS_TYPE            =  Rosetta
+MOTOR               =  S400-12
+BOL_MASS            =   1240.0 # 
+CURR_MASS           =   1240.0 # 
+DRY_MASS            =    670.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      1.5 # 
+DIAMETER            =      1.8 # 
+SPAN                =      8.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2005/11/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A06996
+LAUNCH_SITE         =  
+#
+PARENT              =  A06996
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ESA
+COUNTRY             =  I-ESA
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2005/11/09-00:00:00 # 
+PERIGEE             =       334.0 #  
+APOGEE              =   -114954.0 # 
+INCL                =       51.67 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

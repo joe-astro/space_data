@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 37851
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  37851
+LAUNCH_TAG          =  2011-061
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  DICE-1
+PL_NAME             =  DICE-1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  USU
+BUS_TYPE            =  Cubesat 1.5U
+MOTOR               =  -
+BOL_MASS            =      2.0 # 
+CURR_MASS           =      2.0 # 
+DRY_MASS            =      2.0 # 
+BUS_SHAPE           =  Box + Ant
+LENGTH              =      0.2 # 
+DIAMETER            =      0.1 # 
+SPAN                =     10.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2011/10/28-00:00:00 # 
+LAUNCH_VEHICLE      =  S37856
+LAUNCH_SITE         =  
+#
+PARENT              =  S37856
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2024/08/11-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  USU
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2011/11/04-00:00:00 # 
+PERIGEE             =       457.0 #  
+APOGEE              =       815.0 # 
+INCL                =       101.7 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

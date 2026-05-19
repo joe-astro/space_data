@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03670
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03670
+LAUNCH_TAG          =  1969-009
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  FW4D
+PL_NAME             =  FW4D S/N 2226-10
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  UTC
+BUS_TYPE            =  FW4
+MOTOR               =  -
+BOL_MASS            =     40.0 # ?
+CURR_MASS           =     40.0 # ?
+DRY_MASS            =     40.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.5 # 
+DIAMETER            =      0.5 # 
+SPAN                =      1.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1969/01/30-00:00:00 # 
+LAUNCH_VEHICLE      =  R19599
+LAUNCH_SITE         =  
+#
+PARENT              =  R19599
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1969/03/02-00:00:00 # 
+PERIGEE             =       575.0 #  
+APOGEE              =      3514.0 # 
+INCL                =       88.41 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

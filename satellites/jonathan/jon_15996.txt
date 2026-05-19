@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 15996
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  15996
+LAUNCH_TAG          =  1985-076
+PIECE               =  E
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C -M-S-
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  PAM-D
+PL_NAME             =  Star 48B S/N 10041-17
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  THKE
+BUS_TYPE            =  Star 48
+MOTOR               =  -
+BOL_MASS            =   2296.0 # 
+CURR_MASS           =    132.0 # 
+DRY_MASS            =    132.0 # 
+BUS_SHAPE           =  Sphere + Cone
+LENGTH              =      2.3 # 
+DIAMETER            =      1.2 # 
+SPAN                =      2.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1985/08/27-00:00:00 # 
+LAUNCH_VEHICLE      =  A04131
+LAUNCH_SITE         =  
+#
+PARENT              =  A04131
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AUSS
+COUNTRY             =  AU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1985/10/28-00:00:00 # 
+PERIGEE             =       388.0 #  
+APOGEE              =     36172.0 # 
+INCL                =       26.22 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

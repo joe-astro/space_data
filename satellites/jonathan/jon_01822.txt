@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 01822
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  01822
+LAUNCH_TAG          =  1965-082
+PIECE               =  DM
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3-----*
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  *
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Transtage 4 main debris
+PL_NAME             =  Transtage 4
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MM
+BUS_TYPE            =  Transtage
+MOTOR               =  -
+BOL_MASS            =   1950.0 # 
+CURR_MASS           =   1950.0 # 
+DRY_MASS            =   1950.0 # 
+BUS_SHAPE           =  Cyl + 2 Nozzle
+LENGTH              =      4.6 # 
+DIAMETER            =      3.1 # 
+SPAN                =      4.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1965/10/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A00804
+LAUNCH_SITE         =  
+#
+PARENT              =  A00804
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2003/12/02-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSSD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1966/01/01-00:00:00 # 
+PERIGEE             =       628.0 #  
+APOGEE              =       756.0 # 
+INCL                =       32.16 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

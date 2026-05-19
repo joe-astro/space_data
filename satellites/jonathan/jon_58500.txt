@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 58500
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  58500
+LAUNCH_TAG          =  2023-188
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Doory-Sat
+PL_NAME             =  S-STEP
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  HANWHA
+BUS_TYPE            =  S-STEP
+MOTOR               =  -
+BOL_MASS            =     80.0 # 
+CURR_MASS           =     80.0 # 
+DRY_MASS            =     80.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.2 # 
+DIAMETER            =      2.0 # 
+SPAN                =      2.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/12/04-00:00:00 # 
+LAUNCH_VEHICLE      =  S58501
+LAUNCH_SITE         =  
+#
+PARENT              =  S58501
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  HANWHA
+COUNTRY             =  KR
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/12/04-00:00:00 # 
+PERIGEE             =       638.0 #  
+APOGEE              =       650.0 # 
+INCL                =       46.98 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

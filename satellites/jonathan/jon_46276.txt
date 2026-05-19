@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 46276
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  46276
+LAUNCH_TAG          =  2020-061
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  UPMSat-2
+PL_NAME             =  UPMSat-2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  UPM
+BUS_TYPE            =  UPMSAT-2
+MOTOR               =  -
+BOL_MASS            =     45.0 # 
+CURR_MASS           =     45.0 # 
+DRY_MASS            =     45.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.6 # 
+DIAMETER            =      0.5 # 
+SPAN                =      0.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2020/09/03-00:00:00 # 
+LAUNCH_VEHICLE      =  A09628
+LAUNCH_SITE         =  
+#
+PARENT              =  A09628
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2025/10/11-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  UPM
+COUNTRY             =  E
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2020/09/05-00:00:00 # 
+PERIGEE             =       517.0 #  
+APOGEE              =       518.0 # 
+INCL                =       97.46 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 64723
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  64723
+LAUNCH_TAG          =  2025-143
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Meteosat 13
+PL_NAME             =  MTG-S1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  THALES
+BUS_TYPE            =  MTG
+MOTOR               =  S400 x2
+BOL_MASS            =   3800.0 # 
+CURR_MASS           =   3800.0 # 
+DRY_MASS            =   2000.0 # ?
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      5.2 # 
+DIAMETER            =      2.3 # 
+SPAN                =     10.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/07/01-00:00:00 # 
+LAUNCH_VEHICLE      =  A11543
+LAUNCH_SITE         =  
+#
+PARENT              =  A11543
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  EUMET
+COUNTRY             =  I-EUM
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/07/01-00:00:00 # 
+PERIGEE             =       334.0 #  
+APOGEE              =     65207.0 # 
+INCL                =       21.22 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  HEO
+OQUAL               =  -

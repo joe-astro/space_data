@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 28424
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  28424
+LAUNCH_TAG          =  2004-039
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Fanhui Shi Weixing (20)
+PL_NAME             =  Jianbing-4 02 xing
+ALT_NAMES           =  FSW (20)
+#
+MANUFACTURER        =  CAST
+BUS_TYPE            =  FSW
+MOTOR               =  -
+BOL_MASS            =   1260.0 # ?
+CURR_MASS           =   2350.0 # ?
+DRY_MASS            =   1260.0 # ?
+BUS_SHAPE           =  Frust
+LENGTH              =      1.6 # 
+DIAMETER            =      2.2 # 
+SPAN                =      2.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2004/09/27-00:00:00 # 
+LAUNCH_VEHICLE      =  S28425
+LAUNCH_SITE         =  
+#
+PARENT              =  S28425
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2004/11/09-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CNSA
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2004/10/04-00:00:00 # 
+PERIGEE             =       206.0 #  
+APOGEE              =       323.0 # 
+INCL                =        63.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

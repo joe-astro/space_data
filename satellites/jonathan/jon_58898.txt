@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 58898
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  58898
+LAUNCH_TAG          =  2024-021
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP-H-V-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  V
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  S.S. Patricia Robertson
+PL_NAME             =  Cygnus NG-20
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NGISD
+BUS_TYPE            =  EPCM
+MOTOR               =  -
+BOL_MASS            =   2474.0 # 
+CURR_MASS           =   8050.0 # 
+DRY_MASS            =   2474.0 # 
+BUS_SHAPE           =  Cyl+ 2 pan
+LENGTH              =      6.4 # 
+DIAMETER            =      2.9 # 
+SPAN                =     10.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/01/30-00:00:00 # 
+LAUNCH_VEHICLE      =  A11142
+LAUNCH_SITE         =  
+#
+PARENT              =  A11142
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NGIS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/01/30-00:00:00 # 
+PERIGEE             =       242.0 #  
+APOGEE              =       251.0 # 
+INCL                =        51.7 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  GRP
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

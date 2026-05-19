@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 44301
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  44301
+LAUNCH_TAG          =  1987-043
+PIECE               =  J
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  X    c
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  X
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  deb USA 22
+PL_NAME             =  -
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MM
+BUS_TYPE            =  NOSS MSD
+MOTOR               =  -
+BOL_MASS            =    559.0 # 
+CURR_MASS           =    590.0 # 
+DRY_MASS            =    559.0 # 
+BUS_SHAPE           =  Box + Ant
+LENGTH              =      1.6 # 
+DIAMETER            =      1.5 # 
+SPAN                =      2.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1987/05/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A04414
+LAUNCH_SITE         =  
+#
+PARENT              =  A04414
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2022/08/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/NRL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2019/05/31-00:00:00 # 
+PERIGEE             =       367.0 #  
+APOGEE              =      1299.0 # 
+INCL                =       63.29 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

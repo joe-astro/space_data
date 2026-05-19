@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 17181
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  17181
+LAUNCH_TAG          =  1986-096
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  FLTSATCOM F7
+PL_NAME             =  FLTSATCOM F7
+ALT_NAMES           =  USA 20
+#
+MANUFACTURER        =  TRW
+BUS_TYPE            =  FLTSATCOM
+MOTOR               =  Star 37FM
+BOL_MASS            =    957.0 # 
+CURR_MASS           =   1928.0 # 
+DRY_MASS            =    822.0 # 
+BUS_SHAPE           =  Hex Cyl + Dish + 2 Pan
+LENGTH              =      1.3 # 
+DIAMETER            =      2.4 # 
+SPAN                =     13.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1986/12/05-00:00:00 # 
+LAUNCH_VEHICLE      =  S17182
+LAUNCH_SITE         =  
+#
+PARENT              =  S17182
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  USNESC/AFSD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1987/01/05-00:00:00 # 
+PERIGEE             =     35548.0 #  
+APOGEE              =     36022.0 # 
+INCL                =        5.21 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00727
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00727
+LAUNCH_TAG          =  1964-001
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  HAYLOFT
+PL_NAME             =  AFTRACK 37/Mission 7210
+ALT_NAMES           =  NRO Mission 7210
+#
+MANUFACTURER        =  HRBS
+BUS_TYPE            =  AFTRACK
+MOTOR               =  -
+BOL_MASS            =      5.0 # 
+CURR_MASS           =    700.0 # ?
+DRY_MASS            =      5.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.1 # ?
+DIAMETER            =      0.2 # ?
+SPAN                =      0.2 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1964/01/11-00:00:00 # 
+LAUNCH_VEHICLE      =  A00435
+LAUNCH_SITE         =  
+#
+PARENT              =  A00435
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1964/02/13-00:00:00 # 
+PERIGEE             =       906.0 #  
+APOGEE              =       932.0 # 
+INCL                =       69.91 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AO
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

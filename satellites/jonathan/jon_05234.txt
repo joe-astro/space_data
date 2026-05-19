@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 05234
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  05234
+LAUNCH_TAG          =  1971-045
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Mars-2
+PL_NAME             =  4M No. 171
+ALT_NAMES           =  M-71:P
+#
+MANUFACTURER        =  NPOL
+BUS_TYPE            =  Mars
+MOTOR               =  KTDU-425
+BOL_MASS            =   3440.0 # 
+CURR_MASS           =   4650.0 # 
+DRY_MASS            =   2350.0 # ?
+BUS_SHAPE           =  Cyl + 2 Pan
+LENGTH              =      4.1 # 
+DIAMETER            =      2.0 # 
+SPAN                =      5.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1971/05/19-00:00:00 # 
+LAUNCH_VEHICLE      =  A01970
+LAUNCH_SITE         =  
+#
+PARENT              =  A01970
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1971/05/20-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  IKI/BABTS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1971/05/19-00:00:00 # 
+PERIGEE             =       170.0 #  
+APOGEE              =         inf # 
+INCL                =        51.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

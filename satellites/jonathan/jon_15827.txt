@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 15827
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  15827
+LAUNCH_TAG          =  1985-049
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-1661
+PL_NAME             =  Oko 63D6 No. 5012
+ALT_NAMES           =  63D6 No. 523-25-058:RA
+#
+MANUFACTURER        =  NPOL/KOMET
+BUS_TYPE            =  Oko
+MOTOR               =  -
+BOL_MASS            =   1250.0 # ?
+CURR_MASS           =   1250.0 # ?
+DRY_MASS            =   1150.0 # ?
+BUS_SHAPE           =  Cyl + 2 Pan
+LENGTH              =      4.0 # 
+DIAMETER            =      2.0 # 
+SPAN                =      5.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1985/06/18-00:00:00 # 
+LAUNCH_VEHICLE      =  S15830
+LAUNCH_SITE         =  
+#
+PARENT              =  S15830
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  PVO
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1985/08/17-00:00:00 # 
+PERIGEE             =       666.0 #  
+APOGEE              =     39696.0 # 
+INCL                =       62.96 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  HEO/M
+OQUAL               =  -

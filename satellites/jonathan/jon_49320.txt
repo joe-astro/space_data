@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 49320
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  49320
+LAUNCH_TAG          =  2021-091
+PIECE               =  F
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Jin Zijing Weixing 2
+PL_NAME             =  JZJ-2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GHK?
+BUS_TYPE            =  Cubesat 6U?
+MOTOR               =  -
+BOL_MASS            =     10.0 # 
+CURR_MASS           =     10.0 # 
+DRY_MASS            =     10.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/10/14-00:00:00 # 
+LAUNCH_VEHICLE      =  A09877
+LAUNCH_SITE         =  
+#
+PARENT              =  A09877
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2025/01/09-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  HKATG
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/10/14-00:00:00 # 
+PERIGEE             =       502.0 #  
+APOGEE              =       522.0 # 
+INCL                =       97.45 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

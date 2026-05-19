@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00308
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00308
+LAUNCH_TAG          =  1962-OME
+PIECE               =  1
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  FTV 2312
+PL_NAME             =  Project 102 Group 2-D
+ALT_NAMES           =  :UF,:P,NRO Mission 7152:CM,Ferret 2:JP
+#
+MANUFACTURER        =  LMSC/CHAIL
+BUS_TYPE            =  SAMOS F-2
+MOTOR               =  -
+BOL_MASS            =    345.0 # 
+CURR_MASS           =   1145.0 # 
+DRY_MASS            =    345.0 # 
+BUS_SHAPE           =  Irr
+LENGTH              =      4.0 # ?
+DIAMETER            =      1.5 # 
+SPAN                =      4.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1962/06/18-00:00:00 # 
+LAUNCH_VEHICLE      =  A00223
+LAUNCH_SITE         =  
+#
+PARENT              =  A00223
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1963/10/30-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1962/07/18-00:00:00 # 
+PERIGEE             =       370.0 #  
+APOGEE              =       395.0 # 
+INCL                =       82.11 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

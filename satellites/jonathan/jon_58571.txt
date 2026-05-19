@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 58571
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  58571
+LAUNCH_TAG          =  2023-174
+PIECE               =  DC
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  SpaceANT-D
+PL_NAME             =  SpaceANT-D
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPCIN
+BUS_TYPE            =  PocketQube 1P
+MOTOR               =  -
+BOL_MASS            =     0.25 # 
+CURR_MASS           =     0.25 # 
+DRY_MASS            =     0.25 # 
+BUS_SHAPE           =  Box
+LENGTH              =     0.05 # 
+DIAMETER            =     0.05 # 
+SPAN                =     0.05 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/11/11-00:00:00 # 
+LAUNCH_VEHICLE      =  A11101
+LAUNCH_SITE         =  
+#
+PARENT              =  A11101
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2025/04/15-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPCIN
+COUNTRY             =  MY
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/12/13-00:00:00 # 
+PERIGEE             =       508.0 #  
+APOGEE              =       519.0 # 
+INCL                =       97.48 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

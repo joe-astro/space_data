@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 40388
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  40388
+LAUNCH_TAG          =  2015-006
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Safir LBS.2001 Stage 2
+PL_NAME             =  -
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  IRSA
+BUS_TYPE            =  Safir Stage 3
+MOTOR               =  -
+BOL_MASS            =    390.0 # 
+CURR_MASS           =    390.0 # 
+DRY_MASS            =    390.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      5.0 # ?
+DIAMETER            =      1.3 # ?
+SPAN                =      5.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2015/02/02-00:00:00 # 
+LAUNCH_VEHICLE      =  R72985
+LAUNCH_SITE         =  
+#
+PARENT              =  R72985
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  IRSA
+COUNTRY             =  IR
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2015/02/02-00:00:00 # 
+PERIGEE             =       224.0 #  
+APOGEE              =       459.0 # 
+INCL                =       55.54 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 59807
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  59807
+LAUNCH_TAG          =  2024-094
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Beijing-3C 03
+PL_NAME             =  Beijing 3 hao C 03 xing
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  DFHZ
+BUS_TYPE            =  BJ3C
+MOTOR               =  -
+BOL_MASS            =   1000.0 # ?
+CURR_MASS           =   1000.0 # ?
+DRY_MASS            =   1000.0 # ?
+BUS_SHAPE           =  Hex cyl + 3 pan
+LENGTH              =      1.0 # ?
+DIAMETER            =      1.0 # ?
+SPAN                =      5.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/05/20-00:00:00 # 
+LAUNCH_VEHICLE      =  A11214
+LAUNCH_SITE         =  
+#
+PARENT              =  A11214
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  21AT
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/05/20-00:00:00 # 
+PERIGEE             =       486.0 #  
+APOGEE              =       501.0 # 
+INCL                =       97.47 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

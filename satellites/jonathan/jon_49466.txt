@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 49466
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  49466
+LAUNCH_TAG          =  2021-105
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  CERES 3
+PL_NAME             =  CERES 3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ADST/THALES
+BUS_TYPE            =  CERES
+MOTOR               =  -
+BOL_MASS            =    446.0 # 
+CURR_MASS           =    446.0 # 
+DRY_MASS            =    400.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      3.0 # ?
+DIAMETER            =      1.0 # ?
+SPAN                =      5.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/11/16-00:00:00 # 
+LAUNCH_VEHICLE      =  A09904
+LAUNCH_SITE         =  
+#
+PARENT              =  A09904
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DGA/CNES
+COUNTRY             =  F
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/11/16-00:00:00 # 
+PERIGEE             =       670.0 #  
+APOGEE              =       673.0 # 
+INCL                =        75.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

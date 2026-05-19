@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 14916
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  14916
+LAUNCH_TAG          =  1984-014
+PIECE               =  C
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  H
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Soyuz T-10 BO part
+PL_NAME             =  Soyuz BO part
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOE
+BUS_TYPE            =  Soyuz BO part
+MOTOR               =  -
+BOL_MASS            =      0.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =      0.0 # 
+BUS_SHAPE           =  -
+LENGTH              =      0.0 # 
+DIAMETER            =      0.0 # 
+SPAN                =      0.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1984/02/08-00:00:00 # 
+LAUNCH_VEHICLE      =  S14918
+LAUNCH_SITE         =  
+#
+PARENT              =  S14918
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1984/05/26-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NPOE
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1984/04/11-00:00:00 # 
+PERIGEE             =       251.0 #  
+APOGEE              =       296.0 # 
+INCL                =       51.62 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

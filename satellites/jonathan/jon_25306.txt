@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 25306
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  25306
+LAUNCH_TAG          =  1998-023
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      G
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  G
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Globalstar M014
+PL_NAME             =  Globalstar FM14
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LOR
+BUS_TYPE            =  LS-400
+MOTOR               =  -
+BOL_MASS            =    450.0 # 
+CURR_MASS           =    450.0 # 
+DRY_MASS            =    380.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      1.5 # 
+DIAMETER            =      0.6 # 
+SPAN                =     12.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1998/04/24-00:00:00 # 
+LAUNCH_VEHICLE      =  A06080
+LAUNCH_SITE         =  
+#
+PARENT              =  A06080
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GLOBT
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1998/05/24-00:00:00 # 
+PERIGEE             =      1394.0 #  
+APOGEE              =      1432.0 # 
+INCL                =       52.03 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

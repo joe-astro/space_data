@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20391
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20391
+LAUNCH_TAG          =  1989-101
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-2054
+PL_NAME             =  Al'tair No. 14L
+ALT_NAMES           =  11F669 No. 800-35-214:RA
+#
+MANUFACTURER        =  NPOPM
+BUS_TYPE            =  KAUR-4 Al'tair
+MOTOR               =  -
+BOL_MASS            =   2400.0 # 
+CURR_MASS           =   2400.0 # 
+DRY_MASS            =   2200.0 # ?
+BUS_SHAPE           =  Cyl + 2 Pan + 2 Dish
+LENGTH              =      6.6 # ?
+DIAMETER            =      4.1 # 
+SPAN                =     16.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1989/12/27-00:00:00 # 
+LAUNCH_VEHICLE      =  S20394
+LAUNCH_SITE         =  
+#
+PARENT              =  S20394
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  UNKS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/01/26-00:00:00 # 
+PERIGEE             =     35706.0 #  
+APOGEE              =     35859.0 # 
+INCL                =        1.44 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

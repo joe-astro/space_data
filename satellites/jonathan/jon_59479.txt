@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 59479
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  59479
+LAUNCH_TAG          =  2024-069
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  GMM KA
+PL_NAME             =  Angara test payload
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  KHRU
+BUS_TYPE            =  GVM
+MOTOR               =  -
+BOL_MASS            =   2400.0 # 
+CURR_MASS           =  20000.0 # ?
+DRY_MASS            =   2400.0 # 
+BUS_SHAPE           =  Flared cyl
+LENGTH              =      4.0 # ?
+DIAMETER            =      2.0 # ?
+SPAN                =      4.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/04/11-00:00:00 # 
+LAUNCH_VEHICLE      =  A11190
+LAUNCH_SITE         =  
+#
+PARENT              =  A11190
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  KHRU
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/04/23-00:00:00 # 
+PERIGEE             =     36051.0 #  
+APOGEE              =     36469.0 # 
+INCL                =        0.07 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AO
+JON_OP_ORBIT        =  GEO/D
+OQUAL               =  -

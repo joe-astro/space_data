@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 13666
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  13666
+LAUNCH_TAG          =  1982-110
+PIECE               =  E
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C -M-S-
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  PAM-D
+PL_NAME             =  Star 48  S/N 10018-3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  THKE
+BUS_TYPE            =  Star 48
+MOTOR               =  -
+BOL_MASS            =   2153.0 # 
+CURR_MASS           =   2153.0 # 
+DRY_MASS            =    190.0 # 
+BUS_SHAPE           =  Ell + Cone
+LENGTH              =      1.8 # 
+DIAMETER            =      1.2 # 
+SPAN                =      1.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1982/11/11-00:00:00 # 
+LAUNCH_VEHICLE      =  A03553
+LAUNCH_SITE         =  
+#
+PARENT              =  A03553
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TCAN
+COUNTRY             =  CA
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1982/12/12-00:00:00 # 
+PERIGEE             =       331.0 #  
+APOGEE              =     37242.0 # 
+INCL                =       23.54 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

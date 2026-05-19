@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20669
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20669
+LAUNCH_TAG          =  1990-056
+PIECE               =  C
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  M
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Orbus 21S
+PL_NAME             =  Orbus 21S
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CSD
+BUS_TYPE            =  Orbus 21
+MOTOR               =  -
+BOL_MASS            =   8574.0 # 
+CURR_MASS           =    727.0 # 
+DRY_MASS            =    727.0 # 
+BUS_SHAPE           =  Cyl + Cone
+LENGTH              =      3.2 # 
+DIAMETER            =      2.3 # 
+SPAN                =      3.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1990/06/23-00:00:00 # 
+LAUNCH_VEHICLE      =  S20668
+LAUNCH_SITE         =  
+#
+PARENT              =  S20668
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2001/07/18-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  INTEL
+COUNTRY             =  I-INT
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/07/24-00:00:00 # 
+PERIGEE             =       258.0 #  
+APOGEE              =     38342.0 # 
+INCL                =       24.22 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  N
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 16196
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  16196
+LAUNCH_TAG          =  1985-064
+PIECE               =  C
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  M
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-1670 DU
+PL_NAME             =  US-A DU
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  KOMET
+BUS_TYPE            =  US-A DU
+MOTOR               =  -
+BOL_MASS            =   2593.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =   1993.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      3.7 # 
+DIAMETER            =      1.3 # 
+SPAN                =      3.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1985/08/01-00:00:00 # 
+LAUNCH_VEHICLE      =  A04114
+LAUNCH_SITE         =  
+#
+PARENT              =  A04114
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1985/12/08-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  VMF
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1985/10/24-00:00:00 # 
+PERIGEE             =       246.0 #  
+APOGEE              =       258.0 # 
+INCL                =       65.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 25605
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  25605
+LAUNCH_TAG          =  1999-001
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Mars Polar Lander
+PL_NAME             =  MPL
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LMA/DENV
+BUS_TYPE            =  Mars Surveyor
+MOTOR               =  -
+BOL_MASS            =    354.0 # 
+CURR_MASS           =    575.0 # 
+DRY_MASS            =    290.0 # 
+BUS_SHAPE           =  Box + Cone
+LENGTH              =      1.0 # 
+DIAMETER            =      3.6 # 
+SPAN                =      3.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1999/01/03-00:00:00 # 
+LAUNCH_VEHICLE      =  A06163
+LAUNCH_SITE         =  
+#
+PARENT              =  A06163
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JPL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1999/01/03-00:00:00 # 
+PERIGEE             =       185.0 #  
+APOGEE              =    -84447.0 # 
+INCL                =       28.43 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSA
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

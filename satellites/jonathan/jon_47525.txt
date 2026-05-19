@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 47525
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  47525
+LAUNCH_TAG          =  2021-006
+PIECE               =  DR
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P        m
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =  m
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Lemur-2-JenniferSong
+PL_NAME             =  Lemur-2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPIREG
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      4.6 # 
+CURR_MASS           =      4.6 # 
+DRY_MASS            =      4.6 # 
+BUS_SHAPE           =  Box+2 pan
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/01/24-00:00:00 # 
+LAUNCH_VEHICLE      =  S47435  C3
+LAUNCH_SITE         =  
+#
+PARENT              =  S47435  C3
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2023/12/30-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPIRE
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/01/27-00:00:00 # 
+PERIGEE             =       522.0 #  
+APOGEE              =       535.0 # 
+INCL                =       97.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

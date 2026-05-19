@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 62789
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  62789
+LAUNCH_TAG          =  2025-016
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      O
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Qianfan Jigui 06-05
+PL_NAME             =  Qianfan Jigui 06-05
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SECM
+BUS_TYPE            =  Qianfan
+MOTOR               =  -
+BOL_MASS            =    267.0 # ?
+CURR_MASS           =    267.0 # 
+DRY_MASS            =    267.0 # ?
+BUS_SHAPE           =  Box+pan
+LENGTH              =      0.3 # ?
+DIAMETER            =      3.0 # ?
+SPAN                =     10.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/01/23-00:00:00 # 
+LAUNCH_VEHICLE      =  S62803
+LAUNCH_SITE         =  
+#
+PARENT              =  S62803
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  YUANX
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/02/08-00:00:00 # 
+PERIGEE             =       794.0 #  
+APOGEE              =       820.0 # 
+INCL                =       88.99 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  -

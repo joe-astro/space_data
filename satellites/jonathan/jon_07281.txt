@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 07281
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  07281
+LAUNCH_TAG          =  1974-028
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-650
+PL_NAME             =  Geoid No. 20L
+ALT_NAMES           =  11F621 No. Yu226-20L:RA
+#
+MANUFACTURER        =  OKB10
+BUS_TYPE            =  KAUR-1 11F621
+MOTOR               =  -
+BOL_MASS            =    800.0 # 
+CURR_MASS           =    800.0 # 
+DRY_MASS            =    800.0 # 
+BUS_SHAPE           =  Cyl + Ant
+LENGTH              =      3.0 # 
+DIAMETER            =      2.0 # 
+SPAN                =     17.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1974/04/29-00:00:00 # 
+LAUNCH_VEHICLE      =  S07284
+LAUNCH_SITE         =  
+#
+PARENT              =  S07284
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  VTS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1974/05/30-00:00:00 # 
+PERIGEE             =      1368.0 #  
+APOGEE              =      1401.0 # 
+INCL                =       74.04 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

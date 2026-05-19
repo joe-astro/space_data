@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 29507
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  29507
+LAUNCH_TAG          =  2006-046
+PIECE               =  C
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  CZ-4B Y16 Stage 3
+PL_NAME             =  CZ-4B Stage 3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SAST
+BUS_TYPE            =  CZ-4 Stage 3
+MOTOR               =  -
+BOL_MASS            =   1000.0 # ?
+CURR_MASS           =   1000.0 # ?
+DRY_MASS            =   1000.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      6.9 # 
+DIAMETER            =      2.9 # 
+SPAN                =      6.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2006/10/23-00:00:00 # 
+LAUNCH_VEHICLE      =  R68534
+LAUNCH_SITE         =  
+#
+PARENT              =  R68534
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CNSA
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2006/10/31-00:00:00 # 
+PERIGEE             =       560.0 #  
+APOGEE              =       621.0 # 
+INCL                =       97.68 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

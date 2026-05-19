@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02132
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02132
+LAUNCH_TAG          =  1966-027
+PIECE               =  F
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  TD
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  T
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Otdelyaemiy otsek No. 2
+PL_NAME             =  Otdelyaemiy otsek No. 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TSKBEM
+BUS_TYPE            =  E-6 OO
+MOTOR               =  -
+BOL_MASS            =    156.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =    156.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.7 # 
+DIAMETER            =      0.3 # 
+SPAN                =      0.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1966/03/31-00:00:00 # 
+LAUNCH_VEHICLE      =  S02126
+LAUNCH_SITE         =  
+#
+PARENT              =  S02126
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1966/04/03-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TSKBEM
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1966/03/31-00:00:00 # 
+PERIGEE             =       200.0 #  
+APOGEE              =    500000.0 # ?
+INCL                =        52.0 # ?
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSA
+JON_OP_ORBIT        =  CLO
+OQUAL               =  -

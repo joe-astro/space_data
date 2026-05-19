@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 21089
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  21089
+LAUNCH_TAG          =  1991-007
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-2123
+PL_NAME             =  Tsikada No. 32L
+ALT_NAMES           =  RS-12/RS-13,11F643 No. 537-34-142:RA
+#
+MANUFACTURER        =  POL
+BUS_TYPE            =  KAUR-1 11F643
+MOTOR               =  -
+BOL_MASS            =    800.0 # 
+CURR_MASS           =    800.0 # 
+DRY_MASS            =    800.0 # 
+BUS_SHAPE           =  Cyl + Ant
+LENGTH              =      5.0 # 
+DIAMETER            =      2.1 # 
+SPAN                =     17.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1991/02/05-00:00:00 # 
+LAUNCH_VEHICLE      =  S21090
+LAUNCH_SITE         =  
+#
+PARENT              =  S21090
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  VMF
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1991/03/08-00:00:00 # 
+PERIGEE             =       964.0 #  
+APOGEE              =      1006.0 # 
+INCL                =       82.92 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 38072
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  38072
+LAUNCH_TAG          =  2012-002
+PIECE               =  C
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  M
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  FG-36 AKM
+PL_NAME             =  Shanxi AKM
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ARMT
+BUS_TYPE            =  Shanxi AKM
+MOTOR               =  -
+BOL_MASS            =    739.0 # 
+CURR_MASS           =     50.0 # ?
+DRY_MASS            =     50.0 # ?
+BUS_SHAPE           =  Cyl + Cone
+LENGTH              =      1.5 # 
+DIAMETER            =      1.0 # 
+SPAN                =      1.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2012/01/13-00:00:00 # 
+LAUNCH_VEHICLE      =  S38049
+LAUNCH_SITE         =  
+#
+PARENT              =  S38049
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CASC
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2012/03/06-00:00:00 # 
+PERIGEE             =     35813.0 #  
+APOGEE              =     36255.0 # 
+INCL                =        2.34 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/D
+OQUAL               =  -

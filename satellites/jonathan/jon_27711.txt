@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 27711
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  27711
+LAUNCH_TAG          =  2003-012
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Milstar 6
+PL_NAME             =  Milstar DFS-6
+ALT_NAMES           =  USA 169:U,Milstar II F4
+#
+MANUFACTURER        =  LMMS
+BUS_TYPE            =  Milstar
+MOTOR               =  AOCS
+BOL_MASS            =   4500.0 # 
+CURR_MASS           =   4500.0 # 
+DRY_MASS            =   4200.0 # ?
+BUS_SHAPE           =  Truss + Ant
+LENGTH              =     15.5 # 
+DIAMETER            =      5.0 # ?
+SPAN                =     35.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2003/04/08-00:00:00 # 
+LAUNCH_VEHICLE      =  S27712
+LAUNCH_SITE         =  
+#
+PARENT              =  S27712
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSMC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2003/04/08-00:00:00 # 
+PERIGEE             =     35728.0 #  
+APOGEE              =     35736.0 # 
+INCL                =        4.45 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/ID
+OQUAL               =  -

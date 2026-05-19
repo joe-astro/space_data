@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 58016
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  58016
+LAUNCH_TAG          =  2023-155
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  THEOS-2
+PL_NAME             =  T2V
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ASTT
+BUS_TYPE            =  Astrobus-S
+MOTOR               =  -
+BOL_MASS            =    417.0 # 
+CURR_MASS           =    417.0 # 
+DRY_MASS            =    417.0 # 
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      1.8 # 
+DIAMETER            =      1.2 # 
+SPAN                =      3.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/10/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A11053
+LAUNCH_SITE         =  
+#
+PARENT              =  A11053
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GISTDA
+COUNTRY             =  T
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/10/09-00:00:00 # 
+PERIGEE             =       603.0 #  
+APOGEE              =       605.0 # 
+INCL                =       97.93 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

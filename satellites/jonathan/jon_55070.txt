@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 55070
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  55070
+LAUNCH_TAG          =  2023-001
+PIECE               =  BP
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Flock 4y-26
+PL_NAME             =  Dove 24c4
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  PLAN
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      5.7 # 
+CURR_MASS           =      5.7 # 
+DRY_MASS            =      5.7 # 
+BUS_SHAPE           =  Box+2 pan
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/01/03-00:00:00 # 
+LAUNCH_VEHICLE      =  A10827
+LAUNCH_SITE         =  
+#
+PARENT              =  A10827
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2025/07/29-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  PLAN
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/01/03-00:00:00 # 
+PERIGEE             =       524.0 #  
+APOGEE              =       537.0 # 
+INCL                =       97.49 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

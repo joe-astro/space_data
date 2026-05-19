@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00767
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00767
+LAUNCH_TAG          =  1964-013
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos 63S1 (N20) Stage 2
+PL_NAME             =  S1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  OKB586
+BUS_TYPE            =  S1
+MOTOR               =  -
+BOL_MASS            =    840.0 # 
+CURR_MASS           =    840.0 # 
+DRY_MASS            =    840.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      8.0 # 
+DIAMETER            =      1.6 # 
+SPAN                =      8.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1964/03/18-00:00:00 # 
+LAUNCH_VEHICLE      =  R09082
+LAUNCH_SITE         =  
+#
+PARENT              =  R09082
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1964/05/17-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1964/05/13-00:00:00 # 
+PERIGEE             =       208.0 #  
+APOGEE              =       237.0 # 
+INCL                =       48.99 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

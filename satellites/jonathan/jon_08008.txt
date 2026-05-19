@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 08008
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  08008
+LAUNCH_TAG          =  1975-061
+PIECE               =  C
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  F
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  F
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Sensor cover
+PL_NAME             =  Zenit-4MK sensor cover
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TSSKB
+BUS_TYPE            =  Zenit deb
+MOTOR               =  -
+BOL_MASS            =      0.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =      0.0 # 
+BUS_SHAPE           =  -
+LENGTH              =      0.0 # 
+DIAMETER            =      0.0 # 
+SPAN                =      0.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1975/07/03-00:00:00 # 
+LAUNCH_VEHICLE      =  S08006
+LAUNCH_SITE         =  
+#
+PARENT              =  S08006
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1975/07/15-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GUKOSR
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1975/07/04-00:00:00 # 
+PERIGEE             =       126.0 #  
+APOGEE              =       318.0 # 
+INCL                =       62.75 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

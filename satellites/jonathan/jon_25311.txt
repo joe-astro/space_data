@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 25311
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  25311
+LAUNCH_TAG          =  1998-024
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Nilesat 101
+PL_NAME             =  Nilesat 101
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MMST
+BUS_TYPE            =  Eurostar 2000
+MOTOR               =  R-4D-11-300
+BOL_MASS            =   1840.0 # 
+CURR_MASS           =   1840.0 # 
+DRY_MASS            =    795.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      2.0 # 
+DIAMETER            =      1.7 # 
+SPAN                =     21.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1998/04/28-00:00:00 # 
+LAUNCH_VEHICLE      =  R64094
+LAUNCH_SITE         =  
+#
+PARENT              =  R64094
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NILE
+COUNTRY             =  EG
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1998/06/17-00:00:00 # 
+PERIGEE             =     35779.0 #  
+APOGEE              =     35793.0 # 
+INCL                =        0.02 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

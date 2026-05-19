@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 10033
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  10033
+LAUNCH_TAG          =  1977-044
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  DMSP F-2
+PL_NAME             =  DMSP Block 5D S-2
+ALT_NAMES           =  DMSP 13536
+#
+MANUFACTURER        =  RCA
+BUS_TYPE            =  Block 5D
+MOTOR               =  Star 37S
+BOL_MASS            =    447.0 # 
+CURR_MASS           =   1177.0 # 
+DRY_MASS            =    447.0 # 
+BUS_SHAPE           =  Box + Pan
+LENGTH              =      6.1 # 
+DIAMETER            =      1.5 # 
+SPAN                =      6.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1977/06/05-00:00:00 # 
+LAUNCH_VEHICLE      =  A02825
+LAUNCH_SITE         =  
+#
+PARENT              =  A02825
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SAMSO
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1991/09/14-00:00:00 # 
+PERIGEE             =       790.0 #  
+APOGEE              =       833.0 # 
+INCL                =       99.03 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AO
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 15010
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  15010
+LAUNCH_TAG          =  1984-053
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Tsiklon-2 67-042 Stage 2
+PL_NAME             =  11S692
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  11S692
+MOTOR               =  -
+BOL_MASS            =   4000.0 # 
+CURR_MASS           =   4000.0 # 
+DRY_MASS            =   4000.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =     10.9 # 
+DIAMETER            =      3.0 # 
+SPAN                =     10.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1984/05/30-00:00:00 # 
+LAUNCH_VEHICLE      =  L61026
+LAUNCH_SITE         =  
+#
+PARENT              =  L61026
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1984/05/31-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1984/05/31-00:00:00 # 
+PERIGEE             =       109.0 #  
+APOGEE              =       338.0 # 
+INCL                =        65.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

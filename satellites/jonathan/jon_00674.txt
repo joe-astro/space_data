@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00674
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00674
+LAUNCH_TAG          =  1963-039
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Vela I-A
+PL_NAME             =  Vela 1A
+ALT_NAMES           =  FTV 1801
+#
+MANUFACTURER        =  TRW
+BUS_TYPE            =  Vela
+MOTOR               =  BE3A
+BOL_MASS            =    115.0 # 
+CURR_MASS           =    217.0 # ?
+DRY_MASS            =    115.0 # 
+BUS_SHAPE           =  Poly
+LENGTH              =      1.4 # 
+DIAMETER            =      1.4 # 
+SPAN                =      1.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1963/10/17-00:00:00 # 
+LAUNCH_VEHICLE      =  A00398
+LAUNCH_SITE         =  
+#
+PARENT              =  A00398
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1980/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSSD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1964/04/01-00:00:00 # 
+PERIGEE             =    101081.0 #  
+APOGEE              =    116581.0 # 
+INCL                =       38.71 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  VHEO
+OQUAL               =  -

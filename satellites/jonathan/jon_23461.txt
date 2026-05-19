@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 23461
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  23461
+LAUNCH_TAG          =  1995-001
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      G
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  G
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  INTELSAT 704
+PL_NAME             =  INTELSAT VII F4
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LOR
+BUS_TYPE            =  FS-1300
+MOTOR               =  R-4D-11
+BOL_MASS            =   3695.0 # ?
+CURR_MASS           =   3695.0 # ?
+DRY_MASS            =   1500.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      4.2 # 
+DIAMETER            =      2.5 # 
+SPAN                =     21.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1995/01/10-00:00:00 # 
+LAUNCH_VEHICLE      =  S23462
+LAUNCH_SITE         =  
+#
+PARENT              =  S23462
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2001/07/18-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  INTEL
+COUNTRY             =  I-INT
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1995/02/21-00:00:00 # 
+PERIGEE             =     35687.0 #  
+APOGEE              =     35791.0 # 
+INCL                =        0.05 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  N
+JON_OP_ORBIT        =  GEO/D
+OQUAL               =  -

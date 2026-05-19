@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 04054
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  04054
+LAUNCH_TAG          =  1969-065
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OPS 8285
+PL_NAME             =  STRAWMAN 2
+ALT_NAMES           =  NRO Mission 7165,THRESHER 2:P
+#
+MANUFACTURER        =  LMSC/CHAIL
+BUS_TYPE            =  STRAWMAN
+MOTOR               =  -
+BOL_MASS            =    975.0 # ?
+CURR_MASS           =   1796.0 # ?
+DRY_MASS            =    975.0 # ?
+BUS_SHAPE           =  Cyl + Ant
+LENGTH              =      3.0 # ?
+DIAMETER            =      1.5 # 
+SPAN                =     10.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1969/07/31-00:00:00 # 
+LAUNCH_VEHICLE      =  A01644
+LAUNCH_SITE         =  
+#
+PARENT              =  A01644
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1973/01/04-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1969/09/01-00:00:00 # 
+PERIGEE             =       459.0 #  
+APOGEE              =       538.0 # 
+INCL                =       75.02 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

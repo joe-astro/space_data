@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 44344
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  44344
+LAUNCH_TAG          =  2019-036
+PIECE               =  F
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  DSX
+PL_NAME             =  DSX
+ALT_NAMES           =  STP-2:PN
+#
+MANUFACTURER        =  MICSY
+BUS_TYPE            =  ESPA
+MOTOR               =  -
+BOL_MASS            =    668.0 # 
+CURR_MASS           =    668.0 # 
+DRY_MASS            =    668.0 # 
+BUS_SHAPE           =  Annulus+antennae
+LENGTH              =      0.6 # 
+DIAMETER            =      2.6 # 
+SPAN                =     80.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2019/06/25-00:00:00 # 
+LAUNCH_VEHICLE      =  A09439
+LAUNCH_SITE         =  
+#
+PARENT              =  A09439
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFRL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2019/08/25-00:00:00 # 
+PERIGEE             =      5999.0 #  
+APOGEE              =     12039.0 # 
+INCL                =        42.2 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

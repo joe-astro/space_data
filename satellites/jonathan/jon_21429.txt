@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 21429
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  21429
+LAUNCH_TAG          =  1991-043
+PIECE               =  D
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Blok-ML No. 186
+PL_NAME             =  Blok-ML No. 186
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOE
+BUS_TYPE            =  Blok-L
+MOTOR               =  -
+BOL_MASS            =   4500.0 # 
+CURR_MASS           =    900.0 # 
+DRY_MASS            =    900.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      3.3 # 
+DIAMETER            =      2.3 # 
+SPAN                =      3.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1991/06/18-00:00:00 # 
+LAUNCH_VEHICLE      =  S21428
+LAUNCH_SITE         =  
+#
+PARENT              =  S21428
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1991/07/18-00:00:00 # 
+PERIGEE             =       449.0 #  
+APOGEE              =     40627.0 # 
+INCL                =        62.9 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  HEO/M
+OQUAL               =  -

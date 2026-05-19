@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 08330
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  08330
+LAUNCH_TAG          =  1975-091
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      M
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  M
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  INTELSAT IVA F1
+PL_NAME             =  INTELSAT IVA F1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  HSES
+BUS_TYPE            =  HS-353
+MOTOR               =  SVM-4A
+BOL_MASS            =    736.0 # 
+CURR_MASS           =   1479.0 # 
+DRY_MASS            =    610.0 # 
+BUS_SHAPE           =  Cyl + 2 Dish
+LENGTH              =      7.0 # 
+DIAMETER            =      2.4 # 
+SPAN                =      7.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1975/09/26-00:00:00 # 
+LAUNCH_VEHICLE      =  S08331
+LAUNCH_SITE         =  
+#
+PARENT              =  S08331
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2001/07/18-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  INTEL
+COUNTRY             =  I-INT
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1977/01/17-00:00:00 # 
+PERIGEE             =     35785.0 #  
+APOGEE              =     35788.0 # 
+INCL                =        0.05 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  N
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

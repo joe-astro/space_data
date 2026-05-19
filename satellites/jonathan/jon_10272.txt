@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 10272
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  10272
+LAUNCH_TAG          =  1977-076
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3  D
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Centaur TC-7
+PL_NAME             =  Centaur D-1T TC-7
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GDCKM
+BUS_TYPE            =  Centaur D-1T
+MOTOR               =  -
+BOL_MASS            =   2630.0 # ?
+CURR_MASS           =   2630.0 # ?
+DRY_MASS            =   2630.0 # ?
+BUS_SHAPE           =  Cyl + Truss
+LENGTH              =      9.6 # 
+DIAMETER            =      3.1 # 
+SPAN                =      9.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1977/08/20-00:00:00 # 
+LAUNCH_VEHICLE      =  R38329
+LAUNCH_SITE         =  
+#
+PARENT              =  R38329
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LERC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1977/08/20-00:00:00 # 
+PERIGEE             =       195.0 #  
+APOGEE              =    -29535.0 # 
+INCL                =       41.87 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

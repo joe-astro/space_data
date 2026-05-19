@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 16181
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  16181
+LAUNCH_TAG          =  1985-097
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-1697
+PL_NAME             =  Tselina-2 GVM
+ALT_NAMES           =  EPN No. 03.694:P,EPN 03.694 No. 450-61-501:RA
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  Tselina-2
+MOTOR               =  -
+BOL_MASS            =   3250.0 # 
+CURR_MASS           =   3250.0 # 
+DRY_MASS            =   3250.0 # 
+BUS_SHAPE           =  Cyl + 2 Pan + Ant
+LENGTH              =      4.5 # 
+DIAMETER            =      1.4 # 
+SPAN                =     22.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1985/10/22-00:00:00 # 
+LAUNCH_VEHICLE      =  S16182
+LAUNCH_SITE         =  
+#
+PARENT              =  S16182
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  YUZH
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1985/11/22-00:00:00 # 
+PERIGEE             =       848.0 #  
+APOGEE              =       855.0 # 
+INCL                =       70.99 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

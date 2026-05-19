@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 48917
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  48917
+LAUNCH_TAG          =  2021-059
+PIECE               =  AQ
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P        m
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =  m
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ICEYE-X15
+PL_NAME             =  ICEYE-X15
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ICEYE
+BUS_TYPE            =  ICEYE
+MOTOR               =  -
+BOL_MASS            =     80.0 # 
+CURR_MASS           =     80.0 # 
+DRY_MASS            =     80.0 # 
+BUS_SHAPE           =  Box + pan
+LENGTH              =      0.8 # 
+DIAMETER            =      0.6 # 
+SPAN                =      1.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/06/30-00:00:00 # 
+LAUNCH_VEHICLE      =  A09782  A4E3
+LAUNCH_SITE         =  
+#
+PARENT              =  A09782  A4E3
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2025/08/13-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ICEYE
+COUNTRY             =  FI
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/07/06-00:00:00 # 
+PERIGEE             =       523.0 #  
+APOGEE              =       536.0 # 
+INCL                =       97.52 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

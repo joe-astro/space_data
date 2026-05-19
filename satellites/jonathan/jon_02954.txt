@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02954
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02954
+LAUNCH_TAG          =  1967-089
+PIECE               =  C
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  R-36O No. 14L Stage 2
+PL_NAME             =  8S692
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  8S692
+MOTOR               =  -
+BOL_MASS            =   5000.0 # ?
+CURR_MASS           =   5000.0 # ?
+DRY_MASS            =   5000.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      9.4 # 
+DIAMETER            =      3.0 # 
+SPAN                =      9.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1967/09/19-00:00:00 # 
+LAUNCH_VEHICLE      =  R16653
+LAUNCH_SITE         =  
+#
+PARENT              =  R16653
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1967/09/19-00:00:00 # 
+PERIGEE             =       137.0 #  
+APOGEE              =       163.0 # 
+INCL                =        49.6 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

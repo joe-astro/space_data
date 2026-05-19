@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 66143
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  66143
+LAUNCH_TAG          =  2025-238
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  CZ-5 Y9 Stage 2
+PL_NAME             =  CZ-5 Stage 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CALT
+BUS_TYPE            =  CZ-5 H5-2
+MOTOR               =  -
+BOL_MASS            =   5100.0 # 
+CURR_MASS           =   5100.0 # 
+DRY_MASS            =   5100.0 # 
+BUS_SHAPE           =  Step Cyl
+LENGTH              =     10.6 # 
+DIAMETER            =      5.0 # 
+SPAN                =     27.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/10/23-00:00:00 # 
+LAUNCH_VEHICLE      =  R85045
+LAUNCH_SITE         =  
+#
+PARENT              =  R85045
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CNSA
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/10/26-00:00:00 # 
+PERIGEE             =       175.0 #  
+APOGEE              =     41604.0 # 
+INCL                =       16.42 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

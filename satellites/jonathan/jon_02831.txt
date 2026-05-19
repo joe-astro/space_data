@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02831
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02831
+LAUNCH_TAG          =  1967-055
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OPS 4360
+PL_NAME             =  GAMBIT SV 988
+ALT_NAMES           =  NRO Mission 4038
+#
+MANUFACTURER        =  GEVF
+BUS_TYPE            =  AFP-206 OCV
+MOTOR               =  -
+BOL_MASS            =   2000.0 # ?
+CURR_MASS           =   2190.0 # ?
+DRY_MASS            =   2000.0 # ?
+BUS_SHAPE           =  Cyl + Frust
+LENGTH              =      5.0 # 
+DIAMETER            =      1.5 # 
+SPAN                =      5.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1967/06/04-00:00:00 # 
+LAUNCH_VEHICLE      =  S02835
+LAUNCH_SITE         =  
+#
+PARENT              =  S02835
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1967/06/06-00:00:00 # 
+PERIGEE             =       145.0 #  
+APOGEE              =       271.0 # 
+INCL                =      104.88 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/R
+OQUAL               =  -

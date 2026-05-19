@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 56442
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  56442
+LAUNCH_TAG          =  2023-062
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  TROPICS SV05
+PL_NAME             =  TROPICS SV05
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  BLCAN
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      4.0 # ?
+CURR_MASS           =      4.0 # 
+DRY_MASS            =      4.0 # ?
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/05/08-00:00:00 # 
+LAUNCH_VEHICLE      =  S56443
+LAUNCH_SITE         =  
+#
+PARENT              =  S56443
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MITLL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/05/08-00:00:00 # 
+PERIGEE             =       538.0 #  
+APOGEE              =       555.0 # 
+INCL                =       32.73 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

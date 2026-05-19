@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 53759
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  53759
+LAUNCH_TAG          =  2022-108
+PIECE               =  C
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  KZ-1A Y16 Stage 4
+PL_NAME             =  KZ-1A Stage 4
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CASIC
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =     50.0 # ?
+CURR_MASS           =     50.0 # ?
+DRY_MASS            =     50.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.0 # ?
+DIAMETER            =      0.5 # ?
+SPAN                =      1.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/09/06-00:00:00 # 
+LAUNCH_VEHICLE      =  R81549
+LAUNCH_SITE         =  
+#
+PARENT              =  R81549
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  EXPACE
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/09/07-00:00:00 # 
+PERIGEE             =       198.0 #  
+APOGEE              =       760.0 # 
+INCL                =       53.56 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

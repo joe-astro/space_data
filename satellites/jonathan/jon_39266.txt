@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 39266
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  39266
+LAUNCH_TAG          =  2013-055
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  CUSat
+PL_NAME             =  CUSat Bottom
+ALT_NAMES           =  UNP NS-4
+#
+MANUFACTURER        =  CORN
+BUS_TYPE            =  CUSAT
+MOTOR               =  -
+BOL_MASS            =     23.0 # 
+CURR_MASS           =     23.0 # 
+DRY_MASS            =     23.0 # 
+BUS_SHAPE           =  Hex Cyl
+LENGTH              =     0.26 # 
+DIAMETER            =     0.46 # 
+SPAN                =     0.46 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2013/09/29-00:00:00 # 
+LAUNCH_VEHICLE      =  S39271
+LAUNCH_SITE         =  
+#
+PARENT              =  S39271
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CORN
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2013/10/07-00:00:00 # 
+PERIGEE             =       325.0 #  
+APOGEE              =      1483.0 # 
+INCL                =       80.99 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 08275
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  08275
+LAUNCH_TAG          =  1975-084
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-759
+PL_NAME             =  Orion No. 9L
+ALT_NAMES           =  Zenit-4MT No. 9L:P,11F629 No. 760-41-849:RA
+#
+MANUFACTURER        =  TSSKB
+BUS_TYPE            =  Zenit-4MT
+MOTOR               =  -
+BOL_MASS            =   2200.0 # ?
+CURR_MASS           =   6050.0 # 
+DRY_MASS            =   2200.0 # ?
+BUS_SHAPE           =  Sphere + DCone
+LENGTH              =      6.5 # ?
+DIAMETER            =      2.4 # ?
+SPAN                =      6.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1975/09/12-00:00:00 # 
+LAUNCH_VEHICLE      =  S08276
+LAUNCH_SITE         =  
+#
+PARENT              =  S08276
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TSSKB
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1975/09/14-00:00:00 # 
+PERIGEE             =       228.0 #  
+APOGEE              =       275.0 # 
+INCL                =        62.8 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

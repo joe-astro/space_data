@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03344
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03344
+LAUNCH_TAG          =  1968-068
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ATS 4
+PL_NAME             =  ATS D
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  HSES
+BUS_TYPE            =  HS-306
+MOTOR               =  SR-28-3
+BOL_MASS            =    367.0 # 
+CURR_MASS           =   2548.0 # ?
+DRY_MASS            =    367.0 # 
+BUS_SHAPE           =  Cyl + 2 Ant
+LENGTH              =      1.8 # 
+DIAMETER            =      1.4 # 
+SPAN                =     20.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1968/08/10-00:00:00 # 
+LAUNCH_VEHICLE      =  A01402
+LAUNCH_SITE         =  
+#
+PARENT              =  A01402
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1968/10/17-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1968/09/09-00:00:00 # 
+PERIGEE             =       212.0 #  
+APOGEE              =       659.0 # 
+INCL                =       29.05 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

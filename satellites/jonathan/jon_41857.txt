@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 41857
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  41857
+LAUNCH_TAG          =  2016-068
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Yunhai 1-01
+PL_NAME             =  Yunhai-1 01 xing
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SAST
+BUS_TYPE            =  Yunhai-1
+MOTOR               =  -
+BOL_MASS            =    800.0 # ?
+CURR_MASS           =    800.0 # ?
+DRY_MASS            =    800.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      2.0 # ?
+DIAMETER            =      1.5 # ?
+SPAN                =      4.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2016/11/11-00:00:00 # 
+LAUNCH_VEHICLE      =  S41858
+LAUNCH_SITE         =  
+#
+PARENT              =  S41858
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SAST
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2016/11/19-00:00:00 # 
+PERIGEE             =       775.0 #  
+APOGEE              =       790.0 # 
+INCL                =       98.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20440
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20440
+LAUNCH_TAG          =  1990-005
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  DOVE-OSCAR-17
+PL_NAME             =  Dove
+ALT_NAMES           =  DO-17
+#
+MANUFACTURER        =  WEB/AMNA
+BUS_TYPE            =  Microsat
+MOTOR               =  -
+BOL_MASS            =     12.0 # 
+CURR_MASS           =     12.0 # 
+DRY_MASS            =     12.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.2 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1990/01/22-00:00:00 # 
+LAUNCH_VEHICLE      =  A04781
+LAUNCH_SITE         =  
+#
+PARENT              =  A04781
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AMBR
+COUNTRY             =  BR
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/02/23-00:00:00 # 
+PERIGEE             =       787.0 #  
+APOGEE              =       805.0 # 
+INCL                =       98.72 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

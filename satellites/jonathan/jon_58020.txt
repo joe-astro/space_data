@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 58020
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  58020
+LAUNCH_TAG          =  2023-155
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  N3SS
+PL_NAME             =  N3SS
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  USPACE
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      5.0 # 
+CURR_MASS           =      5.0 # 
+DRY_MASS            =      5.0 # 
+BUS_SHAPE           =  Box + 4 pan
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/10/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A11053
+LAUNCH_SITE         =  
+#
+PARENT              =  A11053
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CNES
+COUNTRY             =  F
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/10/09-00:00:00 # 
+PERIGEE             =       565.0 #  
+APOGEE              =       568.0 # 
+INCL                =       97.67 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

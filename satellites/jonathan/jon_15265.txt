@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 15265
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  15265
+LAUNCH_TAG          =  1984-095
+PIECE               =  G
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  M
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  DM2-5L SOZ-1
+PL_NAME             =  SOZ
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOE
+BUS_TYPE            =  SOZ
+MOTOR               =  -
+BOL_MASS            =    120.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =     60.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.1 # 
+DIAMETER            =      0.5 # 
+SPAN                =      1.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1984/09/04-00:00:00 # 
+LAUNCH_VEHICLE      =  S15264
+LAUNCH_SITE         =  
+#
+PARENT              =  S15264
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1984/10/07-00:00:00 # 
+PERIGEE             =       377.0 #  
+APOGEE              =     19153.0 # 
+INCL                =       52.07 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  HEO
+OQUAL               =  -

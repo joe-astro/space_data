@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 14117
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  14117
+LAUNCH_TAG          =  1982-009
+PIECE               =  F
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Blok DM No. 26L
+PL_NAME             =  11S86 No. 26L?
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOE
+BUS_TYPE            =  Blok DM
+MOTOR               =  -
+BOL_MASS            =  17200.0 # 
+CURR_MASS           =   2440.0 # 
+DRY_MASS            =   2440.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      6.3 # 
+DIAMETER            =      3.7 # 
+SPAN                =      6.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1982/02/05-00:00:00 # 
+LAUNCH_VEHICLE      =  S13058
+LAUNCH_SITE         =  
+#
+PARENT              =  S13058
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1993/05/28-00:00:00 # 
+PERIGEE             =     35447.0 #  
+APOGEE              =     35727.0 # 
+INCL                =        9.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/ID
+OQUAL               =  -

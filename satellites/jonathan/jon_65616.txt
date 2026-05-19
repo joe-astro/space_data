@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 65616
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  65616
+LAUNCH_TAG          =  2025-208
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP-H-V-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  V
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  S.S. William C. McCool
+PL_NAME             =  Cygnus NG-23
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NGISD
+BUS_TYPE            =  sPCM
+MOTOR               =  -
+BOL_MASS            =   3290.0 # ?
+CURR_MASS           =  10200.0 # ?
+DRY_MASS            =   3290.0 # ?
+BUS_SHAPE           =  Cyl+ 2 pan
+LENGTH              =      7.9 # 
+DIAMETER            =      3.0 # 
+SPAN                =     10.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/09/14-00:00:00 # 
+LAUNCH_VEHICLE      =  A11617
+LAUNCH_SITE         =  
+#
+PARENT              =  A11617
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NGIS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/09/14-00:00:00 # 
+PERIGEE             =       242.0 #  
+APOGEE              =       245.0 # 
+INCL                =       51.65 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  GRP
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

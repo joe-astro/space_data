@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 27370
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  27370
+LAUNCH_TAG          =  2002-004
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  RHESSI
+PL_NAME             =  HESSI
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPA
+BUS_TYPE            =  SA-200S
+MOTOR               =  -
+BOL_MASS            =    304.0 # 
+CURR_MASS           =    304.0 # 
+DRY_MASS            =    304.0 # 
+BUS_SHAPE           =  Cyl + Box + 4 Pan
+LENGTH              =      2.2 # 
+DIAMETER            =      1.1 # 
+SPAN                =      5.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2002/02/05-00:00:00 # 
+LAUNCH_VEHICLE      =  S27371
+LAUNCH_SITE         =  
+#
+PARENT              =  S27371
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2002/02/05-00:00:00 # 
+PERIGEE             =       588.0 #  
+APOGEE              =       609.0 # 
+INCL                =       38.04 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

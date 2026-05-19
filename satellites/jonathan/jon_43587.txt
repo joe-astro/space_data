@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43587
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43587
+LAUNCH_TAG          =  2018-064
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Merah Putih
+PL_NAME             =  Telkom 4
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SSLMAX
+BUS_TYPE            =  LS-1300
+MOTOR               =  R-4D
+BOL_MASS            =   5800.0 # 
+CURR_MASS           =   5800.0 # 
+DRY_MASS            =   3000.0 # ?
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      5.0 # ?
+DIAMETER            =      3.0 # ?
+SPAN                =     27.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/08/07-00:00:00 # 
+LAUNCH_VEHICLE      =  S43588
+LAUNCH_SITE         =  
+#
+PARENT              =  S43588
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TELK
+COUNTRY             =  ID
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/10/06-00:00:00 # 
+PERIGEE             =     35781.0 #  
+APOGEE              =     35793.0 # 
+INCL                =        0.02 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

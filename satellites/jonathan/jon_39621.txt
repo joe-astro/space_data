@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 39621
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  39621
+LAUNCH_TAG          =  2014-012
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Fregat No. 112-01
+PL_NAME             =  Fregat 14S44 No. 112-01
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOLO
+BUS_TYPE            =  Fregat
+MOTOR               =  -
+BOL_MASS            =   6600.0 # 
+CURR_MASS           =   1000.0 # 
+DRY_MASS            =   1000.0 # 
+BUS_SHAPE           =  Irr
+LENGTH              =      1.7 # 
+DIAMETER            =      3.3 # 
+SPAN                =      3.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2014/03/23-00:00:00 # 
+LAUNCH_VEHICLE      =  A08090
+LAUNCH_SITE         =  
+#
+PARENT              =  A08090
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NPOLO
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2014/03/27-00:00:00 # 
+PERIGEE             =     19269.0 #  
+APOGEE              =     19668.0 # 
+INCL                =       64.77 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

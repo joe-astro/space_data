@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 24307
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  24307
+LAUNCH_TAG          =  1996-053
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  INMARSAT III F-2
+PL_NAME             =  INMARSAT III F-2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LMTEW
+BUS_TYPE            =  AS4000
+MOTOR               =  Star 37FM?
+BOL_MASS            =   1130.0 # 
+CURR_MASS           =   1130.0 # 
+DRY_MASS            =    900.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      7.6 # 
+DIAMETER            =      2.1 # 
+SPAN                =     20.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1996/09/06-00:00:00 # 
+LAUNCH_VEHICLE      =  S25339
+LAUNCH_SITE         =  
+#
+PARENT              =  S25339
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1999/04/15-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  INMAR
+COUNTRY             =  I-INM
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1996/10/06-00:00:00 # 
+PERIGEE             =     36039.0 #  
+APOGEE              =     36053.0 # 
+INCL                =        2.67 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  N
+JON_OP_ORBIT        =  GEO/D
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 01330
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  01330
+LAUNCH_TAG          =  1965-033
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OPS 5023
+PL_NAME             =  CORONA J-4
+ALT_NAMES           =  :C,:CC,NRO Mission 1019:CM,CORONA 94:CA
+#
+MANUFACTURER        =  LMSC
+BUS_TYPE            =  CORONA KH-4A
+MOTOR               =  -
+BOL_MASS            =    210.0 # ?
+CURR_MASS           =   1615.0 # ?
+DRY_MASS            =    210.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      2.1 # 
+DIAMETER            =      1.3 # 
+SPAN                =      2.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1965/04/29-00:00:00 # 
+LAUNCH_VEHICLE      =  A00678
+LAUNCH_SITE         =  
+#
+PARENT              =  A00678
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1965/05/26-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/CIA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1965/04/29-00:00:00 # 
+PERIGEE             =       182.0 #  
+APOGEE              =       467.0 # 
+INCL                =       85.03 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/P
+OQUAL               =  -

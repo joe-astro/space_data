@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 23473
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  23473
+LAUNCH_TAG          =  1995-004
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ---S-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ODERACS 2C
+PL_NAME             =  ODERACS 2 inch sphere
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  JSC
+BUS_TYPE            =  ODERACS
+MOTOR               =  -
+BOL_MASS            =      1.0 # 
+CURR_MASS           =      1.0 # 
+DRY_MASS            =      1.0 # 
+BUS_SHAPE           =  Sphere
+LENGTH              =      0.1 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1995/02/03-00:00:00 # 
+LAUNCH_VEHICLE      =  A05609
+LAUNCH_SITE         =  
+#
+PARENT              =  A05609
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1996/02/07-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1995/02/04-00:00:00 # 
+PERIGEE             =       320.0 # ?
+APOGEE              =       340.0 # ?
+INCL                =       51.65 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

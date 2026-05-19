@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 52756
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  52756
+LAUNCH_TAG          =  2022-057
+PIECE               =  AA
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Hawk 5B
+PL_NAME             =  Hawk 5B
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  UTIAS
+BUS_TYPE            =  Defiant
+MOTOR               =  -
+BOL_MASS            =     31.0 # 
+CURR_MASS           =     31.0 # 
+DRY_MASS            =     30.0 # 
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      0.5 # 
+DIAMETER            =      0.4 # 
+SPAN                =      1.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/05/25-00:00:00 # 
+LAUNCH_VEHICLE      =  A10438
+LAUNCH_SITE         =  
+#
+PARENT              =  A10438
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  HE360
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/05/25-00:00:00 # 
+PERIGEE             =       522.0 #  
+APOGEE              =       535.0 # 
+INCL                =       97.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

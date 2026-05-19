@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 08582
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  08582
+LAUNCH_TAG          =  1976-003
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Helios 2
+PL_NAME             =  Helios 2
+ALT_NAMES           =  Helios B:P
+#
+MANUFACTURER        =  MBB
+BUS_TYPE            =  Helios
+MOTOR               =  -
+BOL_MASS            =    370.0 # 
+CURR_MASS           =    370.0 # 
+DRY_MASS            =    370.0 # 
+BUS_SHAPE           =  Flared Cyl + 2 Ant
+LENGTH              =      4.2 # 
+DIAMETER            =      2.8 # 
+SPAN                =     32.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1976/01/15-00:00:00 # 
+LAUNCH_VEHICLE      =  S08584
+LAUNCH_SITE         =  
+#
+PARENT              =  S08584
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DFVLR
+COUNTRY             =  D
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1976/01/15-00:00:00 # 
+PERIGEE             =       284.0 #  
+APOGEE              =    -21032.0 # 
+INCL                =        30.3 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

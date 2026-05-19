@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 37375
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  37375
+LAUNCH_TAG          =  2011-010
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  X-37B OTV-2
+PL_NAME             =  X-37B No. 2 F1
+ALT_NAMES           =  USA 226
+#
+MANUFACTURER        =  BOHB
+BUS_TYPE            =  X-37
+MOTOR               =  AOCS
+BOL_MASS            =   5000.0 # ?
+CURR_MASS           =   5000.0 # ?
+DRY_MASS            =   5000.0 # ?
+BUS_SHAPE           =  Half Cyl + 2 Wing
+LENGTH              =      8.8 # 
+DIAMETER            =      2.9 # 
+SPAN                =      8.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2011/03/05-00:00:00 # 
+LAUNCH_VEHICLE      =  A07804
+LAUNCH_SITE         =  
+#
+PARENT              =  A07804
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFRCO
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2011/03/13-00:00:00 # 
+PERIGEE             =       315.0 #  
+APOGEE              =       341.0 # 
+INCL                =       42.86 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

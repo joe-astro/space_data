@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03533
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03533
+LAUNCH_TAG          =  1968-100
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Pioneer 9
+PL_NAME             =  Pioneer D
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TRW
+BUS_TYPE            =  Solar Pioneer
+MOTOR               =  -
+BOL_MASS            =     67.0 # 
+CURR_MASS           =     67.0 # 
+DRY_MASS            =     67.0 # 
+BUS_SHAPE           =  Cyl + 3 Ant
+LENGTH              =      0.9 # 
+DIAMETER            =      0.9 # 
+SPAN                =      3.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1968/11/08-00:00:00 # 
+LAUNCH_VEHICLE      =  A01466
+LAUNCH_SITE         =  
+#
+PARENT              =  A01466
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1968/11/10-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ARC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1968/11/08-00:00:00 # 
+PERIGEE             =       456.0 #  
+APOGEE              =   -163279.0 # 
+INCL                =       34.67 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

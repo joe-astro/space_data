@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 45605
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  45605
+LAUNCH_TAG          =  2020-016
+PIECE               =  D
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P    U M b
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  U
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  M
+ID_FLAG             =   
+ANNOTATION_FLAG     =  b
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Lynk The World
+PL_NAME             =  Lynk 04
+ALT_NAMES           =  ULTP
+#
+MANUFACTURER        =  LYNK
+BUS_TYPE            =  Cubesat 6U
+MOTOR               =  -
+BOL_MASS            =      8.0 # ?
+CURR_MASS           =      8.0 # ?
+DRY_MASS            =      8.0 # ?
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2020/03/07-00:00:00 # 
+LAUNCH_VEHICLE      =  A09559*
+LAUNCH_SITE         =  
+#
+PARENT              =  A09559*
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2024/04/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LYNK
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2020/05/15-00:00:00 # 
+PERIGEE             =       476.0 #  
+APOGEE              =       486.0 # 
+INCL                =       51.65 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

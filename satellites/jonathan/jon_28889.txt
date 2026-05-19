@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 28889
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  28889
+LAUNCH_TAG          =  2005-042
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2      C
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Titan 4B-26 Stage 2
+PL_NAME             =  Titan 4B-26 Stage 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LMSSD
+BUS_TYPE            =  Titan 4 Stage 2
+MOTOR               =  -
+BOL_MASS            =   4500.0 # 
+CURR_MASS           =   5500.0 # ?
+DRY_MASS            =   4500.0 # 
+BUS_SHAPE           =  Step Cyl
+LENGTH              =     13.0 # 
+DIAMETER            =      5.0 # 
+SPAN                =     13.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2005/10/19-00:00:00 # 
+LAUNCH_VEHICLE      =  R66074
+LAUNCH_SITE         =  
+#
+PARENT              =  R66074
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSMC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2005/10/30-00:00:00 # 
+PERIGEE             =       165.0 #  
+APOGEE              =       901.0 # 
+INCL                =       97.87 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

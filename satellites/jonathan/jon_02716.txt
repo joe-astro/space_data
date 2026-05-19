@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02716
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02716
+LAUNCH_TAG          =  1967-024
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-2 (N11) Stage 2
+PL_NAME             =  S1M
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  S1
+MOTOR               =  -
+BOL_MASS            =    840.0 # 
+CURR_MASS           =    840.0 # 
+DRY_MASS            =    840.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      8.0 # 
+DIAMETER            =      1.6 # 
+SPAN                =      8.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1967/03/21-00:00:00 # 
+LAUNCH_VEHICLE      =  R15739
+LAUNCH_SITE         =  
+#
+PARENT              =  R15739
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1967/03/24-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1967/03/22-00:00:00 # 
+PERIGEE             =       222.0 #  
+APOGEE              =       257.0 # 
+INCL                =       48.45 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

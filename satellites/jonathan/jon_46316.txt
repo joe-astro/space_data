@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 46316
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  46316
+LAUNCH_TAG          =  2020-061
+PIECE               =  AW
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Lemur-2-DJUProEra
+PL_NAME             =  Lemur FM120?
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPIREG
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      4.6 # 
+CURR_MASS           =      4.6 # 
+DRY_MASS            =      4.6 # 
+BUS_SHAPE           =  Box+2 pan
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2020/09/03-00:00:00 # 
+LAUNCH_VEHICLE      =  A09628
+LAUNCH_SITE         =  
+#
+PARENT              =  A09628
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2023/10/17-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPIRE
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2020/09/11-00:00:00 # 
+PERIGEE             =       534.0 #  
+APOGEE              =       538.0 # 
+INCL                =       97.52 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

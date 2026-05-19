@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 63156
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  63156
+LAUNCH_TAG          =  2025-044
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  CSO-3
+PL_NAME             =  CSO-3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ADST
+BUS_TYPE            =  Astrosat-100
+MOTOR               =  AOCS
+BOL_MASS            =   3562.0 # 
+CURR_MASS           =   3562.0 # 
+DRY_MASS            =   2500.0 # ?
+BUS_SHAPE           =  Hex-pyramid+4 pan
+LENGTH              =      8.0 # ?
+DIAMETER            =      3.3 # ?
+SPAN                =     16.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/03/06-00:00:00 # 
+LAUNCH_VEHICLE      =  A11431
+LAUNCH_SITE         =  
+#
+PARENT              =  A11431
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DGA/CNES
+COUNTRY             =  F
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/03/19-00:00:00 # 
+PERIGEE             =       801.0 #  
+APOGEE              =       804.0 # 
+INCL                =       98.61 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

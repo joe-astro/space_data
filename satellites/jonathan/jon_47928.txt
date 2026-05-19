@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 47928
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  47928
+LAUNCH_TAG          =  2021-013
+PIECE               =  SE
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P    D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  D
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Sanko
+PL_NAME             =  STARS-EC End Mass 1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SHIZ
+BUS_TYPE            =  Cubesat 1U
+MOTOR               =  -
+BOL_MASS            =      1.4 # 
+CURR_MASS           =      1.4 # 
+DRY_MASS            =      1.4 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.1 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/02/20-00:00:00 # 
+LAUNCH_VEHICLE      =  A09695*
+LAUNCH_SITE         =  
+#
+PARENT              =  A09695*
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2022/04/15-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SHIZ
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/03/19-00:00:00 # 
+PERIGEE             =       413.0 #  
+APOGEE              =       421.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

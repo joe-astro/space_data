@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 38096
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  38096
+LAUNCH_TAG          =  2012-010
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP H-V
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  V
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Edoardo Amaldi
+PL_NAME             =  ATV 3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  EADSB
+BUS_TYPE            =  ATV
+MOTOR               =  R-4D-11-164x4
+BOL_MASS            =  19714.0 # 
+CURR_MASS           =  19714.0 # 
+DRY_MASS            =  10854.0 # 
+BUS_SHAPE           =  Cyl + 4 Pan
+LENGTH              =     10.3 # 
+DIAMETER            =      4.5 # 
+SPAN                =     22.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2012/03/23-00:00:00 # 
+LAUNCH_VEHICLE      =  S38097
+LAUNCH_SITE         =  
+#
+PARENT              =  S38097
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ESA
+COUNTRY             =  I-ESA
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2012/03/25-00:00:00 # 
+PERIGEE             =       270.0 #  
+APOGEE              =       287.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DK
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

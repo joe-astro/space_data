@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 52716
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  52716
+LAUNCH_TAG          =  2022-056
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P        c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =  c
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Digui Tongxin Shiyan Wei.
+PL_NAME             =  CGSTL LEO Test satellite 1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CGSTL
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =    300.0 # ?
+CURR_MASS           =    300.0 # ?
+DRY_MASS            =    300.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      2.5 # ?
+DIAMETER            =      0.8 # ?
+SPAN                =      2.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/05/20-00:00:00 # 
+LAUNCH_VEHICLE      =  A10436
+LAUNCH_SITE         =  
+#
+PARENT              =  A10436
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CGSTL
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/05/22-00:00:00 # 
+PERIGEE             =       870.0 #  
+APOGEE              =       895.0 # 
+INCL                =        86.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  -

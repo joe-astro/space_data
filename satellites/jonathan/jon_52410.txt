@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 52410
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  52410
+LAUNCH_TAG          =  2022-047
+PIECE               =  S
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  SpaceBEE-144
+PL_NAME             =  SpaceBEE E26-5
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SWARMX
+BUS_TYPE            =  Cubesat 0.25U
+MOTOR               =  -
+BOL_MASS            =    0.284 # 
+CURR_MASS           =    0.284 # 
+DRY_MASS            =    0.284 # 
+BUS_SHAPE           =  Box+2 ant
+LENGTH              =    0.025 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/05/02-00:00:00 # 
+LAUNCH_VEHICLE      =  A10419
+LAUNCH_SITE         =  
+#
+PARENT              =  A10419
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2024/05/02-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SWARMX
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/05/11-00:00:00 # 
+PERIGEE             =       521.0 #  
+APOGEE              =       533.0 # 
+INCL                =       97.45 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

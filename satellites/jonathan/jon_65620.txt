@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 65620
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  65620
+LAUNCH_TAG          =  2025-209
+PIECE               =  D
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      D m
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  D
+ID_FLAG             =   
+ANNOTATION_FLAG     =  m
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Hulianwang Jishu Shiyan W.
+PL_NAME             =  WHJSW-7D
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  YINNT
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =    300.0 # ?
+CURR_MASS           =    300.0 # ?
+DRY_MASS            =    300.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      2.5 # ?
+DIAMETER            =      0.8 # ?
+SPAN                =      2.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/09/16-00:00:00 # 
+LAUNCH_VEHICLE      =  S65621
+LAUNCH_SITE         =  
+#
+PARENT              =  S65621
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ZXW
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/09/16-00:00:00 # 
+PERIGEE             =       807.0 #  
+APOGEE              =       810.0 # 
+INCL                =        50.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

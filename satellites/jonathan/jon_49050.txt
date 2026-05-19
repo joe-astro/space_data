@@ -1,0 +1,20 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 49050
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  49050
+LAUNCH_TAG          =  -
+PIECE               =  
+NORAD_TYPE          =  -
+#
+SAT_NAME            =  -
+PL_NAME             =  -
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  -
+BUS_TYPE            =  -
+MOTOR               =  -

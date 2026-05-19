@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 56966
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  56966
+LAUNCH_TAG          =  2023-084
+PIECE               =  AL
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Maria Wonenburger
+PL_NAME             =  NuSat-42
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  URUGUS
+BUS_TYPE            =  Newsat V
+MOTOR               =  -
+BOL_MASS            =     41.5 # 
+CURR_MASS           =     41.5 # 
+DRY_MASS            =     38.5 # 
+BUS_SHAPE           =  Box
+LENGTH              =    0.813 # 
+DIAMETER            =    0.508 # 
+SPAN                =    0.813 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/06/12-00:00:00 # 
+LAUNCH_VEHICLE      =  A10979
+LAUNCH_SITE         =  
+#
+PARENT              =  A10979
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  URUGUS
+COUNTRY             =  UY
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/07/06-00:00:00 # 
+PERIGEE             =       517.0 #  
+APOGEE              =       542.0 # 
+INCL                =       97.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

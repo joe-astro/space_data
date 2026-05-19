@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 24667
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  24667
+LAUNCH_TAG          =  1996-068
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Sagan Memorial Station
+PL_NAME             =  MPF Lander
+ALT_NAMES           =  Mars Pathfinder
+#
+MANUFACTURER        =  JPL
+BUS_TYPE            =  MPF
+MOTOR               =  -
+BOL_MASS            =    398.0 # 
+CURR_MASS           =    880.0 # 
+DRY_MASS            =    350.0 # 
+BUS_SHAPE           =  Irr + Inf Sphere
+LENGTH              =      0.5 # 
+DIAMETER            =      1.4 # 
+SPAN                =      5.3 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1996/12/04-00:00:00 # 
+LAUNCH_VEHICLE      =  A05862
+LAUNCH_SITE         =  
+#
+PARENT              =  A05862
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JPL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1996/12/04-00:00:00 # 
+PERIGEE             =       184.0 #  
+APOGEE              =    -93761.0 # 
+INCL                =       28.78 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSA
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

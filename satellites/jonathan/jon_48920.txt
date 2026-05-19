@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 48920
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  48920
+LAUNCH_TAG          =  2021-059
+PIECE               =  AT
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P        m
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =  m
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Elisa
+PL_NAME             =  Nusat-21
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  URUGUS
+BUS_TYPE            =  NewSat IV
+MOTOR               =  -
+BOL_MASS            =     44.0 # 
+CURR_MASS           =     44.0 # 
+DRY_MASS            =     37.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =     0.75 # 
+DIAMETER            =      0.4 # 
+SPAN                =     0.75 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/06/30-00:00:00 # 
+LAUNCH_VEHICLE      =  A09782  A1
+LAUNCH_SITE         =  
+#
+PARENT              =  A09782  A1
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2023/10/26-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  URUGUS
+COUNTRY             =  UY
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/07/06-00:00:00 # 
+PERIGEE             =       523.0 #  
+APOGEE              =       536.0 # 
+INCL                =       97.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

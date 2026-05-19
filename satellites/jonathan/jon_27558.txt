@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 27558
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  27558
+LAUNCH_TAG          =  2002-053
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Blok DM3 No. 24L
+PL_NAME             =  Blok DM3 No. 24L
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RKKE
+BUS_TYPE            =  Blok DM2
+MOTOR               =  11D58M
+BOL_MASS            =  15855.0 # 
+CURR_MASS           =   2560.0 # 
+DRY_MASS            =   2560.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      7.1 # 
+DIAMETER            =      3.7 # 
+SPAN                =      7.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2002/11/25-00:00:00 # 
+LAUNCH_VEHICLE      =  A06776
+LAUNCH_SITE         =  
+#
+PARENT              =  A06776
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  KHRR
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2002/11/27-00:00:00 # 
+PERIGEE             =       164.0 #  
+APOGEE              =       175.0 # 
+INCL                =       51.56 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

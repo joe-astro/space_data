@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 53356
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  53356
+LAUNCH_TAG          =  2022-092
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2------
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Centaur AV-097
+PL_NAME             =  Centaur AV-097
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ULAD
+BUS_TYPE            =  Centaur SEC
+MOTOR               =  RL10C-1-1
+BOL_MASS            =   8200.0 # ?
+CURR_MASS           =   2020.0 # ?
+DRY_MASS            =   2020.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =     11.7 # 
+DIAMETER            =      3.1 # 
+SPAN                =     11.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/08/04-00:00:00 # 
+LAUNCH_VEHICLE      =  R81476
+LAUNCH_SITE         =  
+#
+PARENT              =  R81476
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ULAL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/10/04-00:00:00 # 
+PERIGEE             =      5197.0 #  
+APOGEE              =     35348.0 # 
+INCL                =       16.32 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

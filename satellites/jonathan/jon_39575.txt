@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 39575
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  39575
+LAUNCH_TAG          =  2014-009
+PIECE               =  D
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosu mozu
+PL_NAME             =  OPUSat
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  OPU
+BUS_TYPE            =  Cubesat 1U
+MOTOR               =  -
+BOL_MASS            =      1.0 # 
+CURR_MASS           =      1.0 # 
+DRY_MASS            =      1.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.1 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2014/02/27-00:00:00 # 
+LAUNCH_VEHICLE      =  S39580
+LAUNCH_SITE         =  
+#
+PARENT              =  S39580
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  OPU
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2014/02/28-00:00:00 # 
+PERIGEE             =       383.0 #  
+APOGEE              =       389.0 # 
+INCL                =       65.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

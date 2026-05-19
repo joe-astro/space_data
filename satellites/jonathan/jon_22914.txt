@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 22914
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  22914
+LAUNCH_TAG          =  1993-073
+PIECE               =  D
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  A
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  A
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Spelda 10 S/N UV17
+PL_NAME             =  Spelda 10?
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  BAES
+BUS_TYPE            =  Spelda
+MOTOR               =  -
+BOL_MASS            =    200.0 # 
+CURR_MASS           =    200.0 # 
+DRY_MASS            =    200.0 # 
+BUS_SHAPE           =  Cone
+LENGTH              =      1.8 # 
+DIAMETER            =      4.0 # 
+SPAN                =      4.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1993/11/20-00:00:00 # 
+LAUNCH_VEHICLE      =  S22913
+LAUNCH_SITE         =  
+#
+PARENT              =  S22913
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1998/07/08-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AE
+COUNTRY             =  F
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1993/12/26-00:00:00 # 
+PERIGEE             =       207.0 #  
+APOGEE              =     34920.0 # 
+INCL                =        6.79 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

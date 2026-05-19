@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 40662
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  40662
+LAUNCH_TAG          =  2015-025
+PIECE               =  M
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PXA---U C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  X
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  U
+FAILURE_CONSTL      =   
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ULTRASat
+PL_NAME             =  NPSCuL-3 ULTRASat
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  USNPS
+BUS_TYPE            =  NPSCul
+MOTOR               =  -
+BOL_MASS            =     45.0 # ?
+CURR_MASS           =   2065.0 # ?
+DRY_MASS            =     45.0 # ?
+BUS_SHAPE           =  Box
+LENGTH              =      0.5 # ?
+DIAMETER            =      0.5 # ?
+SPAN                =      0.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2015/05/20-00:00:00 # 
+LAUNCH_VEHICLE      =  A08359
+LAUNCH_SITE         =  
+#
+PARENT              =  A08359
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  USNPS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2015/05/20-00:00:00 # 
+PERIGEE             =       356.0 #  
+APOGEE              =       700.0 # 
+INCL                =       55.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

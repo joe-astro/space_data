@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 39255
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  39255
+LAUNCH_TAG          =  2013-049
+PIECE               =  C
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Epsilon 1 Stage 3
+PL_NAME             =  KM-V2b
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  IHIO
+BUS_TYPE            =  KM-V
+MOTOR               =  -
+BOL_MASS            =   3300.0 # 
+CURR_MASS           =    800.0 # ?
+DRY_MASS            =    800.0 # ?
+BUS_SHAPE           =  Cyl + Cone
+LENGTH              =      2.3 # 
+DIAMETER            =      1.4 # 
+SPAN                =      2.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2013/09/14-00:00:00 # 
+LAUNCH_VEHICLE      =  R72102
+LAUNCH_SITE         =  
+#
+PARENT              =  R72102
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ISASJ
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2013/09/16-00:00:00 # 
+PERIGEE             =       952.0 #  
+APOGEE              =      1155.0 # 
+INCL                =       29.72 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 63350
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  63350
+LAUNCH_TAG          =  2025-060
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 498
+PL_NAME             =  [INTRUDER 18]
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LMSSD
+BUS_TYPE            =  NOSS-3
+MOTOR               =  -
+BOL_MASS            =   1000.0 # ?
+CURR_MASS           =   1000.0 # ?
+DRY_MASS            =   1000.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      2.0 # ?
+DIAMETER            =      2.0 # ?
+SPAN                =      2.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/03/24-00:00:00 # 
+LAUNCH_VEHICLE      =  A11448
+LAUNCH_SITE         =  
+#
+PARENT              =  A11448
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NROC/USN
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/03/26-00:00:00 # 
+PERIGEE             =       908.0 #  
+APOGEE              =      1306.0 # 
+INCL                =       64.07 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

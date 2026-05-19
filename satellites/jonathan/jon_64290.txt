@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 64290
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  64290
+LAUNCH_TAG          =  2025-122
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  SXM-10
+PL_NAME             =  SXM-10
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MAXSS
+BUS_TYPE            =  LS-1300
+MOTOR               =  R-4D
+BOL_MASS            =   6400.0 # ?
+CURR_MASS           =   6400.0 # ?
+DRY_MASS            =   2800.0 # ?
+BUS_SHAPE           =  Box+2 panels
+LENGTH              =      8.2 # 
+DIAMETER            =      5.6 # 
+SPAN                =     30.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/06/07-00:00:00 # 
+LAUNCH_VEHICLE      =  A11522
+LAUNCH_SITE         =  
+#
+PARENT              =  A11522
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SIRX
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/08/06-00:00:00 # 
+PERIGEE             =     35774.0 #  
+APOGEE              =     35800.0 # 
+INCL                =        0.02 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

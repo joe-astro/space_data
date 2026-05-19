@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 32687
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  32687
+LAUNCH_TAG          =  2008-008
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Ariane 5 L528 EPS
+PL_NAME             =  EPS S/N 524
+ALT_NAMES           =  Ariane V181
+#
+MANUFACTURER        =  EADSB
+BUS_TYPE            =  EPS+
+MOTOR               =  Aestus
+BOL_MASS            =   3057.0 # 
+CURR_MASS           =   3057.0 # 
+DRY_MASS            =   3057.0 # 
+BUS_SHAPE           =  Cone + Cyl
+LENGTH              =      4.0 # ?
+DIAMETER            =      3.9 # 
+SPAN                =      4.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2008/03/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A07348
+LAUNCH_SITE         =  
+#
+PARENT              =  A07348
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AE
+COUNTRY             =  F
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2008/03/09-00:00:00 # 
+PERIGEE             =       252.0 #  
+APOGEE              =       260.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  D
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

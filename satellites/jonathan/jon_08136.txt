@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 08136
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  08136
+LAUNCH_TAG          =  1974-089
+PIECE               =  E
+NORAD_TYPE          =  D
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  D  P
+COURSE_TYPE         =  D
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  P
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  deb Delta 104
+PL_NAME             =  -
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  -
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =      0.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =      0.0 # 
+BUS_SHAPE           =  -
+LENGTH              =      0.0 # 
+DIAMETER            =      0.0 # 
+SPAN                =      0.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1974/11/15-00:00:00 # 
+LAUNCH_VEHICLE      =  S07532
+LAUNCH_SITE         =  
+#
+PARENT              =  S07532
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1977/12/31-00:00:00 # 
+PERIGEE             =      1270.0 #  
+APOGEE              =      1729.0 # 
+INCL                =      102.23 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

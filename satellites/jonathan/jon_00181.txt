@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00181
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00181
+LAUNCH_TAG          =  1961-PSI
+PIECE               =  
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Discoverer 29
+PL_NAME             =  CORONA C'''-1
+ALT_NAMES           =  :C,:CC,NRO Mission 9023:CM,CORONA 29:CA
+#
+MANUFACTURER        =  LMSC
+BUS_TYPE            =  CORONA
+MOTOR               =  -
+BOL_MASS            =    146.0 # 
+CURR_MASS           =   1126.0 # 
+DRY_MASS            =    146.0 # 
+BUS_SHAPE           =  Frust
+LENGTH              =      1.3 # 
+DIAMETER            =      1.5 # 
+SPAN                =      1.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1961/08/30-00:00:00 # 
+LAUNCH_VEHICLE      =  A00116
+LAUNCH_SITE         =  
+#
+PARENT              =  A00116
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CIA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1961/09/04-00:00:00 # 
+PERIGEE             =       138.0 #  
+APOGEE              =       511.0 # 
+INCL                =       82.04 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

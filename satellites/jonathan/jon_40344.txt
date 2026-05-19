@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 40344
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  40344
+LAUNCH_TAG          =  2014-081
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 259
+PL_NAME             =  RAVEN 6?/HEO-3
+ALT_NAMES           =  NROL-35,SBIRS HEO-3
+#
+MANUFACTURER        =  UNKUS
+BUS_TYPE            =  UNK
+MOTOR               =  UNK
+BOL_MASS            =   4000.0 # ?
+CURR_MASS           =   4000.0 # ?
+DRY_MASS            =   3000.0 # ?
+BUS_SHAPE           =  Cyl + 2 Pan
+LENGTH              =      7.0 # ?
+DIAMETER            =      4.0 # ?
+SPAN                =     10.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2014/12/13-00:00:00 # 
+LAUNCH_VEHICLE      =  A08319
+LAUNCH_SITE         =  
+#
+PARENT              =  A08319
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NROC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2014/12/20-00:00:00 # 
+PERIGEE             =      2117.0 #  
+APOGEE              =     37743.0 # 
+INCL                =       62.84 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  HEO/M
+OQUAL               =  -

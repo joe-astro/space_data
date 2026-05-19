@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02656
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02656
+LAUNCH_TAG          =  1967-005
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-139
+PL_NAME             =  OGCh No. 07L
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  OGCh
+MOTOR               =  OGCh Retro
+BOL_MASS            =   1450.0 # 
+CURR_MASS           =   3450.0 # ?
+DRY_MASS            =   1450.0 # 
+BUS_SHAPE           =  Cone
+LENGTH              =      2.3 # 
+DIAMETER            =      1.4 # 
+SPAN                =      2.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1967/01/25-00:00:00 # 
+LAUNCH_VEHICLE      =  S02659
+LAUNCH_SITE         =  
+#
+PARENT              =  S02659
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1967/01/25-00:00:00 # 
+PERIGEE             =       123.0 #  
+APOGEE              =       160.0 # 
+INCL                =        49.7 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  D
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

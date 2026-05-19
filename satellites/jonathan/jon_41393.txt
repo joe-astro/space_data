@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 41393
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  41393
+LAUNCH_TAG          =  2016-019
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP---V-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  V
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  SS Rick Husband
+PL_NAME             =  Cygnus OA-6
+ALT_NAMES           =  Cygnus PCM-6
+#
+MANUFACTURER        =  OATKD
+BUS_TYPE            =  EPCM
+MOTOR               =  -
+BOL_MASS            =   5992.0 # ?
+CURR_MASS           =   7492.0 # 
+DRY_MASS            =   2643.0 # ?
+BUS_SHAPE           =  Cyl+ 2 pan
+LENGTH              =      6.4 # 
+DIAMETER            =      2.9 # 
+SPAN                =     10.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2016/03/23-00:00:00 # 
+LAUNCH_VEHICLE      =  A08539
+LAUNCH_SITE         =  
+#
+PARENT              =  A08539
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  OATKD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2016/03/24-00:00:00 # 
+PERIGEE             =       234.0 #  
+APOGEE              =       249.0 # 
+INCL                =       51.65 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  GRP
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

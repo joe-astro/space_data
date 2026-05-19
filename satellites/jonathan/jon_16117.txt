@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 16117
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  16117
+LAUNCH_TAG          =  1985-092
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ---S- c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  DSCS III B-5
+PL_NAME             =  DSCS III B-5
+ALT_NAMES           =  USA 12:U
+#
+MANUFACTURER        =  GEVF
+BUS_TYPE            =  DSCS III
+MOTOR               =  AOCS
+BOL_MASS            =   1170.0 # ?
+CURR_MASS           =   1170.0 # ?
+DRY_MASS            =    893.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      2.1 # 
+DIAMETER            =      1.9 # 
+SPAN                =      9.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1985/10/03-00:00:00 # 
+LAUNCH_VEHICLE      =  S16119
+LAUNCH_SITE         =  
+#
+PARENT              =  S16119
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSD/DCA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2008/11/20-00:00:00 # 
+PERIGEE             =     36036.0 # ?
+APOGEE              =     36073.0 # ?
+INCL                =       10.72 # ?
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/ID
+OQUAL               =  -

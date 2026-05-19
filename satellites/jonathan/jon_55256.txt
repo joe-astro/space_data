@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 55256
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  55256
+LAUNCH_TAG          =  2023-007
+PIECE               =  J
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Wofuman
+PL_NAME             =  Jilin-1 Hongwai A07
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CGSTL
+BUS_TYPE            =  JL-1
+MOTOR               =  -
+BOL_MASS            =     42.0 # 
+CURR_MASS           =     42.0 # 
+DRY_MASS            =     42.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      1.5 # ?
+DIAMETER            =      1.0 # ?
+SPAN                =      1.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/01/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A10831
+LAUNCH_SITE         =  
+#
+PARENT              =  A10831
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2024/03/20-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  YYAO/CGSTL
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/01/15-00:00:00 # 
+PERIGEE             =       485.0 #  
+APOGEE              =       495.0 # 
+INCL                =       97.38 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

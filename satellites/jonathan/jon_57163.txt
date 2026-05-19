@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 57163
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  57163
+LAUNCH_TAG          =  2004-051
+PIECE               =  VN
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  CXTH-I  ?
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =  X
+ATTACH_FLAG         =  T
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  I
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  TM/TS Unit
+PL_NAME             =  ISS RS TM/TS
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RKKE
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =     10.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =     10.0 # 
+BUS_SHAPE           =  Irr
+LENGTH              =      0.5 # 
+DIAMETER            =      0.5 # 
+SPAN                =      0.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2004/12/23-00:00:00 # 
+LAUNCH_VEHICLE      =  S28503*
+LAUNCH_SITE         =  
+#
+PARENT              =  S28503*
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RKKE
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/06/29-00:00:00 # 
+PERIGEE             =       409.0 #  
+APOGEE              =       417.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  TFR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

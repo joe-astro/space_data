@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 26912
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  26912
+LAUNCH_TAG          =  1965-048
+PIECE               =  Q
+NORAD_TYPE          =  D
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  D  J
+COURSE_TYPE         =  D
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  J
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  deb NNS O-4
+PL_NAME             =  NNS O-4 debris 6b
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  -
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =      0.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =      0.0 # 
+BUS_SHAPE           =  -
+LENGTH              =      0.0 # 
+DIAMETER            =      0.0 # 
+SPAN                =      0.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1965/06/24-00:00:00 # 
+LAUNCH_VEHICLE      =  S21945
+LAUNCH_SITE         =  
+#
+PARENT              =  S21945
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2001/10/08-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NAVAIR
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2001/09/15-00:00:00 # 
+PERIGEE             =       541.0 #  
+APOGEE              =       585.0 # 
+INCL                =       90.08 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/P
+OQUAL               =  -

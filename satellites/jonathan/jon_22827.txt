@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 22827
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  22827
+LAUNCH_TAG          =  1993-061
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ITAMSat-OSCAR-26
+PL_NAME             =  ITAMsat
+ALT_NAMES           =  IO-26
+#
+MANUFACTURER        =  AMIT
+BUS_TYPE            =  Microsat
+MOTOR               =  -
+BOL_MASS            =     12.0 # 
+CURR_MASS           =     12.0 # 
+DRY_MASS            =     12.0 # 
+BUS_SHAPE           =  Cube
+LENGTH              =      0.3 # 
+DIAMETER            =      0.3 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1993/09/26-00:00:00 # 
+LAUNCH_VEHICLE      =  A05382
+LAUNCH_SITE         =  
+#
+PARENT              =  A05382
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AMIT
+COUNTRY             =  I
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1993/11/01-00:00:00 # 
+PERIGEE             =       792.0 #  
+APOGEE              =       806.0 # 
+INCL                =       98.68 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

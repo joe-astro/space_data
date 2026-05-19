@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 52419
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  52419
+LAUNCH_TAG          =  2022-047
+PIECE               =  AB
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  MyRadar 1
+PL_NAME             =  MyRadar 1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ACMEO
+BUS_TYPE            =  PocketQube 1P
+MOTOR               =  -
+BOL_MASS            =     0.25 # 
+CURR_MASS           =     0.25 # 
+DRY_MASS            =     0.25 # 
+BUS_SHAPE           =  Box
+LENGTH              =     0.05 # 
+DIAMETER            =     0.05 # 
+SPAN                =     0.05 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/05/02-00:00:00 # 
+LAUNCH_VEHICLE      =  A10423
+LAUNCH_SITE         =  
+#
+PARENT              =  A10423
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2024/08/20-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ACMEO
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/05/10-00:00:00 # 
+PERIGEE             =       524.0 #  
+APOGEE              =       535.0 # 
+INCL                =       97.45 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

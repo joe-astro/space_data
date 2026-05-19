@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 26536
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  26536
+LAUNCH_TAG          =  2000-055
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  NOAA 16
+PL_NAME             =  NOAA L/S08
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LMEW
+BUS_TYPE            =  ATN
+MOTOR               =  -
+BOL_MASS            =   1403.0 # 
+CURR_MASS           =   2231.0 # 
+DRY_MASS            =   1403.0 # 
+BUS_SHAPE           =  Box + Pan
+LENGTH              =      4.2 # 
+DIAMETER            =      1.9 # 
+SPAN                =      7.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2000/09/21-00:00:00 # 
+LAUNCH_VEHICLE      =  R65514
+LAUNCH_SITE         =  
+#
+PARENT              =  R65514
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NOAA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2000/09/23-00:00:00 # 
+PERIGEE             =       848.0 #  
+APOGEE              =       863.0 # 
+INCL                =       98.79 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

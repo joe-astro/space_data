@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00924
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00924
+LAUNCH_TAG          =  1964-074
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Explorer 23
+PL_NAME             =  NASA S-55C
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LARCN
+BUS_TYPE            =  S-55
+MOTOR               =  -
+BOL_MASS            =     96.0 # 
+CURR_MASS           =    134.0 # 
+DRY_MASS            =     96.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      0.9 # 
+DIAMETER            =      0.6 # 
+SPAN                =      0.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1964/11/06-00:00:00 # 
+LAUNCH_VEHICLE      =  A00578
+LAUNCH_SITE         =  
+#
+PARENT              =  A00578
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1983/06/29-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LARCN
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1964/12/06-00:00:00 # 
+PERIGEE             =       464.0 #  
+APOGEE              =       978.0 # 
+INCL                =       51.96 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

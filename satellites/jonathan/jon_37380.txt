@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 37380
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  37380
+LAUNCH_TAG          =  2010-062
+PIECE               =  M
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Fastrac-OSCAR-70
+PL_NAME             =  Fastrac 2
+ALT_NAMES           =  USA 228,STP S26:PN,FO-70,Emma
+#
+MANUFACTURER        =  UT
+BUS_TYPE            =  FASTRAC
+MOTOR               =  -
+BOL_MASS            =     27.0 # 
+CURR_MASS           =     27.0 # 
+DRY_MASS            =     27.0 # 
+BUS_SHAPE           =  Hex Cyl
+LENGTH              =      0.2 # 
+DIAMETER            =      0.5 # 
+SPAN                =      0.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2010/11/20-00:00:00 # 
+LAUNCH_VEHICLE      =  S37227
+LAUNCH_SITE         =  
+#
+PARENT              =  S37227
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSMC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2011/03/26-00:00:00 # 
+PERIGEE             =       629.0 #  
+APOGEE              =       651.0 # 
+INCL                =       71.97 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

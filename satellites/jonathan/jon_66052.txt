@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 66052
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  66052
+LAUNCH_TAG          =  1998-067XR
+PIECE               =  XR
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  CXTS-I
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =  X
+ATTACH_FLAG         =  T
+SUBTYPE_FLAG        =  S
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  I
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  UrtheCast HRC 'Iris'
+PL_NAME             =  ISS RS UC-HRC
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  -
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =     82.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =     82.0 # 
+BUS_SHAPE           =  Box?
+LENGTH              =      0.2 # ?
+DIAMETER            =      0.2 # ?
+SPAN                =      0.2 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2013/11/25-00:00:00 # 
+LAUNCH_VEHICLE      =  S39456
+LAUNCH_SITE         =  
+#
+PARENT              =  S39456
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2013/11/30-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  URTHE
+COUNTRY             =  CA
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/10/17-00:00:00 # 
+PERIGEE             =       416.0 #  
+APOGEE              =       420.0 # 
+INCL                =       51.63 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  TFR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

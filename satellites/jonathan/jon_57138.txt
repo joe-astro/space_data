@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 57138
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  57138
+LAUNCH_TAG          =  2023-090
+PIECE               =  AP
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      O
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Starlink 5336
+PL_NAME             =  Starlink Group 5-12-38
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPXS
+BUS_TYPE            =  Starlink
+MOTOR               =  -
+BOL_MASS            =    305.0 # 
+CURR_MASS           =    305.0 # 
+DRY_MASS            =    290.0 # ?
+BUS_SHAPE           =  Box + pan
+LENGTH              =      0.2 # ?
+DIAMETER            =      2.8 # 
+SPAN                =      9.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/06/23-00:00:00 # 
+LAUNCH_VEHICLE      =  A10987
+LAUNCH_SITE         =  
+#
+PARENT              =  A10987
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPXS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/06/23-00:00:00 # 
+PERIGEE             =       297.0 #  
+APOGEE              =       338.0 # 
+INCL                =        43.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

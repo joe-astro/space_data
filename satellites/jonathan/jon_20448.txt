@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20448
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20448
+LAUNCH_TAG          =  1990-007
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Hiten
+PL_NAME             =  MUSES-A
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NEC
+BUS_TYPE            =  MUSES-A
+MOTOR               =  -
+BOL_MASS            =    185.0 # 
+CURR_MASS           =    185.0 # 
+DRY_MASS            =    143.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      0.8 # 
+DIAMETER            =      1.4 # 
+SPAN                =      1.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1990/01/24-00:00:00 # 
+LAUNCH_VEHICLE      =  S20451
+LAUNCH_SITE         =  
+#
+PARENT              =  S20451
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ISASS
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/02/14-00:00:00 # 
+PERIGEE             =       400.0 #  
+APOGEE              =    409000.0 # ?
+INCL                =        30.7 # ?
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  CLO
+OQUAL               =  -

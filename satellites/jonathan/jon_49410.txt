@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 49410
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  49410
+LAUNCH_TAG          =  2021-104
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      O
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Starlink 3147
+PL_NAME             =  Starlink Group 4-1-3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPXS
+BUS_TYPE            =  Starlink
+MOTOR               =  -
+BOL_MASS            =    290.0 # 
+CURR_MASS           =    290.0 # 
+DRY_MASS            =    270.0 # ?
+BUS_SHAPE           =  Box + pan
+LENGTH              =      0.2 # ?
+DIAMETER            =      2.8 # 
+SPAN                =      9.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/11/13-00:00:00 # 
+LAUNCH_VEHICLE      =  A09902
+LAUNCH_SITE         =  
+#
+PARENT              =  A09902
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPXS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/11/15-00:00:00 # 
+PERIGEE             =       224.0 #  
+APOGEE              =       330.0 # 
+INCL                =       53.22 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

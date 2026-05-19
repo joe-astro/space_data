@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20355
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20355
+LAUNCH_TAG          =  1989-090
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ---S- c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 48
+PL_NAME             =  ORION 2
+ALT_NAMES           =  RHYOLITE 6:P,NRO Mission 7606
+#
+MANUFACTURER        =  TRW
+BUS_TYPE            =  Magnum
+MOTOR               =  MMBPS?
+BOL_MASS            =   2715.0 # ?
+CURR_MASS           =   2715.0 # ?
+DRY_MASS            =   2600.0 # ?
+BUS_SHAPE           =  Box + Dish + 2 Pan
+LENGTH              =     10.9 # 
+DIAMETER            =      3.6 # 
+SPAN                =     30.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1989/11/23-00:00:00 # 
+LAUNCH_VEHICLE      =  S20357
+LAUNCH_SITE         =  
+#
+PARENT              =  S20357
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2003/05/04-00:00:00 # 
+PERIGEE             =     34693.0 #  
+APOGEE              =     36886.0 # 
+INCL                =        8.56 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/I
+OQUAL               =  -

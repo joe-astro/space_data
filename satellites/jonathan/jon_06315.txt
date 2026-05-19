@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 06315
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  06315
+LAUNCH_TAG          =  1972-100
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Aeros 1
+PL_NAME             =  GRS-B
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  DORN
+BUS_TYPE            =  Aeros
+MOTOR               =  -
+BOL_MASS            =    125.0 # 
+CURR_MASS           =    125.0 # 
+DRY_MASS            =    125.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      0.7 # 
+DIAMETER            =      0.9 # 
+SPAN                =      0.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1972/12/16-00:00:00 # 
+LAUNCH_VEHICLE      =  S06316
+LAUNCH_SITE         =  
+#
+PARENT              =  S06316
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1973/08/22-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DFVLR
+COUNTRY             =  D
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1973/01/15-00:00:00 # 
+PERIGEE             =       216.0 #  
+APOGEE              =       830.0 # 
+INCL                =       96.92 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

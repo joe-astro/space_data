@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20524
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20524
+LAUNCH_TAG          =  1990-021
+PIECE               =  B
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C FM
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  F
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Orbus 21S
+PL_NAME             =  Orbus 21S
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CSD
+BUS_TYPE            =  Orbus 21
+MOTOR               =  -
+BOL_MASS            =   8574.0 # 
+CURR_MASS           =   3627.0 # 
+DRY_MASS            =    727.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      3.2 # 
+DIAMETER            =      2.3 # 
+SPAN                =     13.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1990/03/14-00:00:00 # 
+LAUNCH_VEHICLE      =  A04801
+LAUNCH_SITE         =  
+#
+PARENT              =  A04801
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1990/03/28-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  INTEL
+COUNTRY             =  I-INT
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/03/16-00:00:00 # 
+PERIGEE             =       167.0 #  
+APOGEE              =       339.0 # 
+INCL                =        28.6 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

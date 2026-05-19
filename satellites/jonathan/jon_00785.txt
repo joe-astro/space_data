@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00785
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00785
+LAUNCH_TAG          =  1964-016
+PIECE               =  D
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Zond
+PL_NAME             =  3MV-1 No. 4
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  OKB1
+BUS_TYPE            =  MV
+MOTOR               =  KDU-414
+BOL_MASS            =    490.0 # 
+CURR_MASS           =    490.0 # 
+DRY_MASS            =    480.0 # ?
+BUS_SHAPE           =  Step Cyl + 2 Pan + Dish
+LENGTH              =      2.7 # 
+DIAMETER            =      1.1 # 
+SPAN                =      3.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1964/04/02-00:00:00 # 
+LAUNCH_VEHICLE      =  A00454
+LAUNCH_SITE         =  
+#
+PARENT              =  A00454
+SEPARATION_DATE     =  1964/04/03-00:00:00 # ?
+#
+DECAY_DATE          =  1964/04/04-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  OKB52
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1964/04/02-00:00:00 # 
+PERIGEE             =       200.0 # ?
+APOGEE              =         inf # 
+INCL                =        64.8 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

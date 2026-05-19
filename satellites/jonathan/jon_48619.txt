@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 48619
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  48619
+LAUNCH_TAG          =  2021-042
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  TDO 3
+PL_NAME             =  EZ-3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SMC
+BUS_TYPE            =  Cubesat 12U
+MOTOR               =  -
+BOL_MASS            =     20.0 # ?
+CURR_MASS           =     20.0 # ?
+DRY_MASS            =     20.0 # ?
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/05/18-00:00:00 # 
+LAUNCH_VEHICLE      =  A09760
+LAUNCH_SITE         =  
+#
+PARENT              =  A09760
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2022/09/27-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SMC/USAFA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/05/19-00:00:00 # 
+PERIGEE             =       179.0 #  
+APOGEE              =      4518.0 # 
+INCL                =       26.16 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

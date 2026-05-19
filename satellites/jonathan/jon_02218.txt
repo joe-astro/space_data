@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02218
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02218
+LAUNCH_TAG          =  1966-053
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OPS 9314
+PL_NAME             =  IDCSP 4
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  PHFP
+BUS_TYPE            =  IDCSP
+MOTOR               =  -
+BOL_MASS            =     45.0 # 
+CURR_MASS           =     45.0 # 
+DRY_MASS            =     45.0 # 
+BUS_SHAPE           =  Ico Poly
+LENGTH              =      0.9 # 
+DIAMETER            =      0.9 # 
+SPAN                =      0.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1966/06/16-00:00:00 # 
+LAUNCH_VEHICLE      =  S02222
+LAUNCH_SITE         =  
+#
+PARENT              =  S02222
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSSD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1967/01/21-00:00:00 # 
+PERIGEE             =     33715.0 #  
+APOGEE              =     33994.0 # 
+INCL                =        0.52 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

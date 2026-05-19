@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 31698
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  31698
+LAUNCH_TAG          =  2007-026
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  TerraSAR-X
+PL_NAME             =  TerraSAR-X
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  EASF
+BUS_TYPE            =  TerraSAR
+MOTOR               =  AOCS
+BOL_MASS            =   1346.0 # 
+CURR_MASS           =   1346.0 # 
+DRY_MASS            =   1300.0 # ?
+BUS_SHAPE           =  Hex Cyl + Ant
+LENGTH              =      5.2 # 
+DIAMETER            =      2.3 # 
+SPAN                =      5.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2007/06/15-00:00:00 # 
+LAUNCH_VEHICLE      =  S31699
+LAUNCH_SITE         =  
+#
+PARENT              =  S31699
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DLR2/EASF
+COUNTRY             =  D
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2007/06/16-00:00:00 # 
+PERIGEE             =       507.0 #  
+APOGEE              =      1023.0 # 
+INCL                =       97.43 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

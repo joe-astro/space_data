@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 40085
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  40085
+LAUNCH_TAG          =  2014-039
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Antares A-4 Stage 2
+PL_NAME             =  Castor 30B
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ATKH/OSCW
+BUS_TYPE            =  Castor 30
+MOTOR               =  Castor 30B
+BOL_MASS            =   1083.0 # 
+CURR_MASS           =   1083.0 # 
+DRY_MASS            =   1083.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      4.2 # 
+DIAMETER            =      2.4 # 
+SPAN                =      4.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2014/07/13-00:00:00 # 
+LAUNCH_VEHICLE      =  R72627
+LAUNCH_SITE         =  
+#
+PARENT              =  R72627
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  OSCW
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2014/07/15-00:00:00 # 
+PERIGEE             =       185.0 #  
+APOGEE              =       243.0 # 
+INCL                =       51.61 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

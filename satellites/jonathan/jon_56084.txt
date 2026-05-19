@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 56084
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  56084
+LAUNCH_TAG          =  2023-044
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3------C
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Shavit (12) Stage 3
+PL_NAME             =  AUS-51
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RAFL
+BUS_TYPE            =  AUS-51
+MOTOR               =  -
+BOL_MASS            =    100.0 # ?
+CURR_MASS           =    100.0 # ?
+DRY_MASS            =    100.0 # ?
+BUS_SHAPE           =  Sphere + Cone
+LENGTH              =      2.6 # 
+DIAMETER            =      1.4 # 
+SPAN                =      2.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/03/28-00:00:00 # 
+LAUNCH_VEHICLE      =  R82137
+LAUNCH_SITE         =  
+#
+PARENT              =  R82137
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2023/07/23-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ISA
+COUNTRY             =  IL
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/07/19-00:00:00 # 
+PERIGEE             =       221.0 #  
+APOGEE              =       285.0 # 
+INCL                =       139.2 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/R
+OQUAL               =  -

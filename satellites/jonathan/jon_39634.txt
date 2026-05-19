@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 39634
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  39634
+LAUNCH_TAG          =  2014-016
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Sentinel-1A
+PL_NAME             =  Sentinel-1A
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  THALES
+BUS_TYPE            =  Prisma
+MOTOR               =  AOCS
+BOL_MASS            =   2157.0 # 
+CURR_MASS           =   2157.0 # 
+DRY_MASS            =   2027.0 # 
+BUS_SHAPE           =  Box + 4 pan
+LENGTH              =     3.42 # 
+DIAMETER            =      1.6 # 
+SPAN                =    21.04 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2014/04/03-00:00:00 # 
+LAUNCH_VEHICLE      =  A08094
+LAUNCH_SITE         =  
+#
+PARENT              =  A08094
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ESA
+COUNTRY             =  I-ESA
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2014/04/06-00:00:00 # 
+PERIGEE             =       686.0 #  
+APOGEE              =       689.0 # 
+INCL                =       98.17 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 14104
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  14104
+LAUNCH_TAG          =  1983-053
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Venera-15
+PL_NAME             =  4V-2 No. 860
+ALT_NAMES           =  V-83:P
+#
+MANUFACTURER        =  NPOL
+BUS_TYPE            =  Venera
+MOTOR               =  -
+BOL_MASS            =   5250.0 # 
+CURR_MASS           =   5250.0 # 
+DRY_MASS            =   4300.0 # ?
+BUS_SHAPE           =  Flared Cyl + 2 Pan + Ant
+LENGTH              =      6.0 # ?
+DIAMETER            =      2.5 # ?
+SPAN                =      9.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1983/06/02-00:00:00 # 
+LAUNCH_VEHICLE      =  A03637
+LAUNCH_SITE         =  
+#
+PARENT              =  A03637
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  IKI/NPOL
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1983/06/02-00:00:00 # 
+PERIGEE             =       160.0 #  
+APOGEE              =         inf # 
+INCL                =       51.55 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

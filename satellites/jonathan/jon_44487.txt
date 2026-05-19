@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 44487
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  44487
+LAUNCH_TAG          =  2019-052
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Tianqi Xingzuo 1-03
+PL_NAME             =  Tianqi-2
+ALT_NAMES           =  Tianqi Zhangzhou hao
+#
+MANUFACTURER        =  GUOG?
+BUS_TYPE            =  Cubesat 6U?
+MOTOR               =  -
+BOL_MASS            =      8.0 # 
+CURR_MASS           =      8.0 # 
+DRY_MASS            =      8.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.3 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2019/08/17-00:00:00 # 
+LAUNCH_VEHICLE      =  A09480
+LAUNCH_SITE         =  
+#
+PARENT              =  A09480
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2025/02/25-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GUOG
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2019/08/19-00:00:00 # 
+PERIGEE             =       529.0 #  
+APOGEE              =       558.0 # 
+INCL                =       97.61 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

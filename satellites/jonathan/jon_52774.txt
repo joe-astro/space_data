@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 52774
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  52774
+LAUNCH_TAG          =  2022-057
+PIECE               =  AU
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P    D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  D
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  SBUDNIC
+PL_NAME             =  SBUDNIC
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  BROWN
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      4.0 # 
+CURR_MASS           =      4.0 # 
+DRY_MASS            =      4.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/05/25-00:00:00 # 
+LAUNCH_VEHICLE      =  S52761
+LAUNCH_SITE         =  
+#
+PARENT              =  S52761
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2023/08/10-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  BROWN/CNR
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/06/21-00:00:00 # 
+PERIGEE             =       517.0 #  
+APOGEE              =       530.0 # 
+INCL                =       97.52 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

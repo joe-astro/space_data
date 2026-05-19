@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 22868
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  22868
+LAUNCH_TAG          =  1993-064
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Soyuz-U 44-270 Blok-I
+PL_NAME             =  11S510
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  PROG
+BUS_TYPE            =  Blok-I
+MOTOR               =  -
+BOL_MASS            =   2350.0 # 
+CURR_MASS           =   2350.0 # 
+DRY_MASS            =   2350.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      6.7 # 
+DIAMETER            =      2.7 # 
+SPAN                =      6.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1993/10/11-00:00:00 # 
+LAUNCH_VEHICLE      =  R61037
+LAUNCH_SITE         =  
+#
+PARENT              =  R61037
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1993/10/13-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSNR
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1993/10/12-00:00:00 # 
+PERIGEE             =       184.0 #  
+APOGEE              =       217.0 # 
+INCL                =       51.65 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

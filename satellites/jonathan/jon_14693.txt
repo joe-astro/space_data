@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 14693
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  14693
+LAUNCH_TAG          =  1984-011
+PIECE               =  E
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C -M-S-*
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  *
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  PAM-D
+PL_NAME             =  Star 48  S/N 10030-3 (PB2)
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  THKE
+BUS_TYPE            =  Star 48
+MOTOR               =  -
+BOL_MASS            =   2224.0 # ?
+CURR_MASS           =    132.0 # ?
+DRY_MASS            =    132.0 # ?
+BUS_SHAPE           =  Sphere + Cone
+LENGTH              =      2.3 # 
+DIAMETER            =      1.1 # 
+SPAN                =      2.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1984/02/03-00:00:00 # 
+LAUNCH_VEHICLE      =  A03779
+LAUNCH_SITE         =  
+#
+PARENT              =  A03779
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2000/09/22-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  PER
+COUNTRY             =  ID
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/01/29-00:00:00 # 
+PERIGEE             =       270.0 #  
+APOGEE              =      1010.0 # 
+INCL                =       28.15 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

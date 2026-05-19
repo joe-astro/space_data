@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 12103
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  12103
+LAUNCH_TAG          =  1978-078
+PIECE               =  D
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Sounder Probe
+PL_NAME             =  Large Probe
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  HSES
+BUS_TYPE            =  PV Large Probe
+MOTOR               =  -
+BOL_MASS            =    207.0 # 
+CURR_MASS           =    315.0 # 
+DRY_MASS            =    207.0 # 
+BUS_SHAPE           =  Sphere
+LENGTH              =      0.7 # 
+DIAMETER            =      0.7 # 
+SPAN                =      0.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1978/08/08-00:00:00 # 
+LAUNCH_VEHICLE      =  S11001
+LAUNCH_SITE         =  
+#
+PARENT              =  S11001
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ARC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1978/08/08-00:00:00 # 
+PERIGEE             =       170.0 #  
+APOGEE              =   -106700.0 # ?
+INCL                =        28.6 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSA
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

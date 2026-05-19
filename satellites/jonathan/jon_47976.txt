@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 47976
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  47976
+LAUNCH_TAG          =  2021-013
+PIECE               =  SJ
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P    D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  D
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Lawkanat 1
+PL_NAME             =  MMSATS-1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  HOKK/MAEU
+BUS_TYPE            =  Diwata
+MOTOR               =  -
+BOL_MASS            =     50.0 # ?
+CURR_MASS           =     50.0 # ?
+DRY_MASS            =     50.0 # ?
+BUS_SHAPE           =  Box+ 2 pan
+LENGTH              =      0.5 # 
+DIAMETER            =      0.5 # 
+SPAN                =      1.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/02/20-00:00:00 # 
+LAUNCH_VEHICLE      =  A09731*
+LAUNCH_SITE         =  
+#
+PARENT              =  A09731*
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2023/04/04-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MAEU/HOKK
+COUNTRY             =  MYM
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/03/23-00:00:00 # 
+PERIGEE             =       416.0 #  
+APOGEE              =       421.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

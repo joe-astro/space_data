@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 09408
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  09408
+LAUNCH_TAG          =  1975-083
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P  LD
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  L
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Viking Lander 2
+PL_NAME             =  Viking Lander 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MMD
+BUS_TYPE            =  Viking Lander
+MOTOR               =  -
+BOL_MASS            =    685.0 # 
+CURR_MASS           =   1191.0 # 
+DRY_MASS            =    590.0 # 
+BUS_SHAPE           =  Box + 2 Leg
+LENGTH              =      1.0 # 
+DIAMETER            =      2.8 # 
+SPAN                =      2.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1975/09/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A02928
+LAUNCH_SITE         =  
+#
+PARENT              =  A02928
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LARCN
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1975/09/09-00:00:00 # 
+PERIGEE             =       178.0 #  
+APOGEE              =    -65940.0 # 
+INCL                =        29.3 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSA
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

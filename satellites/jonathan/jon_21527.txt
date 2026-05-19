@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 21527
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  21527
+LAUNCH_TAG          =  1991-045
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  REX
+PL_NAME             =  REX
+ALT_NAMES           =  STP P89-1A:PN
+#
+MANUFACTURER        =  DSI
+BUS_TYPE            =  Ministar
+MOTOR               =  -
+BOL_MASS            =     85.0 # 
+CURR_MASS           =     85.0 # 
+DRY_MASS            =     85.0 # 
+BUS_SHAPE           =  Cyl + Ant
+LENGTH              =      0.4 # ?
+DIAMETER            =      0.6 # ?
+SPAN                =      6.1 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1991/06/29-00:00:00 # 
+LAUNCH_VEHICLE      =  S21528
+LAUNCH_SITE         =  
+#
+PARENT              =  S21528
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFROM
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1991/07/29-00:00:00 # 
+PERIGEE             =       771.0 #  
+APOGEE              =       875.0 # 
+INCL                =       89.58 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  -

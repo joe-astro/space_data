@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 11080
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  11080
+LAUNCH_TAG          =  1978-098
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Nimbus 7
+PL_NAME             =  Nimbus G
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GEVF
+BUS_TYPE            =  Nimbus
+MOTOR               =  -
+BOL_MASS            =    987.0 # 
+CURR_MASS           =    987.0 # 
+DRY_MASS            =    987.0 # 
+BUS_SHAPE           =  Cone + 2 Pan
+LENGTH              =      3.7 # 
+DIAMETER            =      3.4 # 
+SPAN                =      3.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1978/10/24-00:00:00 # 
+LAUNCH_VEHICLE      =  A03006
+LAUNCH_SITE         =  
+#
+PARENT              =  A03006
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1980/01/02-00:00:00 # 
+PERIGEE             =       948.0 #  
+APOGEE              =       961.0 # 
+INCL                =       99.29 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

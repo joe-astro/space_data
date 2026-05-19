@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 27692
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  27692
+LAUNCH_TAG          =  2003-008
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2      c
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Delta 296
+PL_NAME             =  DCSS-4 F02
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  BOHB
+BUS_TYPE            =  DCSS-4
+MOTOR               =  RL10B-2
+BOL_MASS            =   8900.0 # ?
+CURR_MASS           =   2850.0 # ?
+DRY_MASS            =   2850.0 # 
+BUS_SHAPE           =  Cyl + Nozzle
+LENGTH              =     12.0 # 
+DIAMETER            =      4.0 # 
+SPAN                =     12.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2003/03/11-00:00:00 # 
+LAUNCH_VEHICLE      =  R66836
+LAUNCH_SITE         =  
+#
+PARENT              =  R66836
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  BLS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2003/03/11-00:00:00 # 
+PERIGEE             =       233.0 #  
+APOGEE              =     35787.0 # 
+INCL                =        25.5 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

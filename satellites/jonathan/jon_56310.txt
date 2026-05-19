@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 56310
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  56310
+LAUNCH_TAG          =  2023-057
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  TeLEOS-2
+PL_NAME             =  TeLEOS-2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  STESS
+BUS_TYPE            =  SS-400
+MOTOR               =  -
+BOL_MASS            =    741.0 # 
+CURR_MASS           =    741.0 # 
+DRY_MASS            =    741.0 # 
+BUS_SHAPE           =  Hex cyl+4 pan
+LENGTH              =      2.0 # 
+DIAMETER            =      2.0 # 
+SPAN                =      4.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/04/22-00:00:00 # 
+LAUNCH_VEHICLE      =  A10929
+LAUNCH_SITE         =  
+#
+PARENT              =  A10929
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AGILS
+COUNTRY             =  SG
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/04/22-00:00:00 # 
+PERIGEE             =       588.0 #  
+APOGEE              =       618.0 # 
+INCL                =        9.93 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/E
+OQUAL               =  -

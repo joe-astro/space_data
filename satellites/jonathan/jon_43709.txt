@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43709
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43709
+LAUNCH_TAG          =  2018-093
+PIECE               =  D
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  CZ-3B Y53 Stage 3
+PL_NAME             =  CZ-3B Stage 3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CALT
+BUS_TYPE            =  CZ-3A Stage 3
+MOTOR               =  -
+BOL_MASS            =   8400.0 # ?
+CURR_MASS           =   2800.0 # ?
+DRY_MASS            =   2800.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =     12.4 # 
+DIAMETER            =      3.0 # 
+SPAN                =     12.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/11/18-00:00:00 # 
+LAUNCH_VEHICLE      =  R78528
+LAUNCH_SITE         =  
+#
+PARENT              =  R78528
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CASC
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/11/26-00:00:00 # 
+PERIGEE             =     22129.0 #  
+APOGEE              =     22774.0 # 
+INCL                =        55.1 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

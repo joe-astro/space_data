@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 66174
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  66174
+LAUNCH_TAG          =  2025-241
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP-H-V-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  V
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  HTV-X1
+PL_NAME             =  HTV-X1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MHITO?
+BUS_TYPE            =  HTV-X
+MOTOR               =  HBT-5 x 4
+BOL_MASS            =  10000.0 # 
+CURR_MASS           =  16000.0 # 
+DRY_MASS            =   7600.0 # 
+BUS_SHAPE           =  Cyl+2 pan
+LENGTH              =      8.0 # 
+DIAMETER            =      4.4 # 
+SPAN                =     18.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/10/26-00:00:00 # 
+LAUNCH_VEHICLE      =  A11664
+LAUNCH_SITE         =  
+#
+PARENT              =  A11664
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JAXA
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/10/27-00:00:00 # 
+PERIGEE             =       347.0 #  
+APOGEE              =       389.0 # 
+INCL                =       51.63 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  GRP
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

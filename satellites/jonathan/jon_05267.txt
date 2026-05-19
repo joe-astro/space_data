@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 05267
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  05267
+LAUNCH_TAG          =  1971-051
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2  D
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Centaur AC-23
+PL_NAME             =  Centaur 21D
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GDC
+BUS_TYPE            =  Centaur D
+MOTOR               =  -
+BOL_MASS            =   2000.0 # 
+CURR_MASS           =   1700.0 # 
+DRY_MASS            =   1700.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      8.6 # 
+DIAMETER            =      3.0 # 
+SPAN                =      8.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1971/05/30-00:00:00 # 
+LAUNCH_VEHICLE      =  R25289
+LAUNCH_SITE         =  
+#
+PARENT              =  R25289
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1971/05/31-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LERC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1971/05/30-00:00:00 # 
+PERIGEE             =       180.0 #  
+APOGEE              =         inf # 
+INCL                =       28.76 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02256
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02256
+LAUNCH_TAG          =  1966-056
+PIECE               =  C
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  V
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  V
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Pageos canister half
+PL_NAME             =  Pageos canister half
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GOYR
+BUS_TYPE            =  Echo canister
+MOTOR               =  -
+BOL_MASS            =      9.0 # 
+CURR_MASS           =      9.0 # 
+DRY_MASS            =      9.0 # 
+BUS_SHAPE           =  Dome
+LENGTH              =      0.4 # 
+DIAMETER            =      0.8 # 
+SPAN                =      0.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1966/06/24-00:00:00 # 
+LAUNCH_VEHICLE      =  S02255
+LAUNCH_SITE         =  
+#
+PARENT              =  S02255
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LARCN
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1966/09/16-00:00:00 # 
+PERIGEE             =      4192.0 #  
+APOGEE              =      4277.0 # 
+INCL                =       86.92 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

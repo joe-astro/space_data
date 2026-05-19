@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 15831
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  15831
+LAUNCH_TAG          =  1985-048
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ---S-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Spartan 1
+PL_NAME             =  SPTN-101
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GSFC
+BUS_TYPE            =  SPTN-100
+MOTOR               =  -
+BOL_MASS            =   1006.0 # 
+CURR_MASS           =   1006.0 # 
+DRY_MASS            =   1006.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      3.2 # 
+DIAMETER            =      1.2 # 
+SPAN                =      3.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1985/06/17-00:00:00 # 
+LAUNCH_VEHICLE      =  A04075
+LAUNCH_SITE         =  
+#
+PARENT              =  A04075
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1985/06/20-00:00:00 # 
+PERIGEE             =       354.0 #  
+APOGEE              =       390.0 # 
+INCL                =       28.47 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  GRP
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

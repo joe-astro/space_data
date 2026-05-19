@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 58955
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  58955
+LAUNCH_TAG          =  2024-028
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  HBTSS-SV2
+PL_NAME             =  HBTSS 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NGIS
+BUS_TYPE            =  HBT-NG
+MOTOR               =  -
+BOL_MASS            =   1000.0 # ?
+CURR_MASS           =   1000.0 # ?
+DRY_MASS            =   1000.0 # ?
+BUS_SHAPE           =  Box + panels
+LENGTH              =      1.0 # ?
+DIAMETER            =      0.6 # 
+SPAN                =      2.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/02/14-00:00:00 # 
+LAUNCH_VEHICLE      =  A11149
+LAUNCH_SITE         =  
+#
+PARENT              =  A11149
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MDA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/02/15-00:00:00 # 
+PERIGEE             =       993.0 #  
+APOGEE              =      1002.0 # 
+INCL                =        40.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

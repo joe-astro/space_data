@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 07720
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  07720
+LAUNCH_TAG          =  1975-020
+PIECE               =  E
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  A
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  A
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Nauka part
+PL_NAME             =  Nauka part
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TSSKB
+BUS_TYPE            =  Zenit deb
+MOTOR               =  -
+BOL_MASS            =      0.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =      0.0 # 
+BUS_SHAPE           =  -
+LENGTH              =      0.0 # 
+DIAMETER            =      0.0 # 
+SPAN                =      0.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1975/03/26-00:00:00 # 
+LAUNCH_VEHICLE      =  S07705
+LAUNCH_SITE         =  
+#
+PARENT              =  S07705
+SEPARATION_DATE     =  1975/04/06-00:00:00 # 
+#
+DECAY_DATE          =  1975/04/07-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GUKOSR
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1975/04/06-00:00:00 # 
+PERIGEE             =       180.0 #  
+APOGEE              =       211.0 # 
+INCL                =       81.32 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03823
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03823
+LAUNCH_TAG          =  1969-025
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OV1-17
+PL_NAME             =  OV1-17S
+ALT_NAMES           =  STP P69-1:PN
+#
+MANUFACTURER        =  GDC
+BUS_TYPE            =  OV1
+MOTOR               =  -
+BOL_MASS            =    141.0 # 
+CURR_MASS           =    141.0 # 
+DRY_MASS            =    141.0 # 
+BUS_SHAPE           =  Domed Cyl
+LENGTH              =      1.4 # 
+DIAMETER            =      0.7 # 
+SPAN                =      1.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1969/03/18-00:00:00 # 
+LAUNCH_VEHICLE      =  A01557
+LAUNCH_SITE         =  
+#
+PARENT              =  A01557
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1970/03/05-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  OAR
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1969/05/05-00:00:00 # 
+PERIGEE             =       386.0 #  
+APOGEE              =       443.0 # 
+INCL                =       99.17 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

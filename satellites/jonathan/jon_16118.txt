@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 16118
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  16118
+LAUNCH_TAG          =  1985-092
+PIECE               =  D
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C -M-S- c
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  IUS-12 SRM-1
+PL_NAME             =  Orbus 21
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CSD
+BUS_TYPE            =  Orbus 21
+MOTOR               =  -
+BOL_MASS            =  10967.0 # ?
+CURR_MASS           =   1164.0 # ?
+DRY_MASS            =   1164.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      3.5 # 
+DIAMETER            =      2.3 # 
+SPAN                =      3.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1985/10/03-00:00:00 # 
+LAUNCH_VEHICLE      =  A04181
+LAUNCH_SITE         =  
+#
+PARENT              =  A04181
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1985/10/03-00:00:00 # 
+PERIGEE             =       470.0 # ?
+APOGEE              =     35800.0 # ?
+INCL                =        27.0 # ?
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 45600
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  45600
+LAUNCH_TAG          =  2020-027
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P -R---
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  R
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  RCS-FC-SC
+PL_NAME             =  Rouxing Chongqi Shihuowu FC
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CASIC
+BUS_TYPE            =  RCS-FC
+MOTOR               =  -
+BOL_MASS            =    200.0 # 
+CURR_MASS           =    200.0 # 
+DRY_MASS            =    200.0 # ?
+BUS_SHAPE           =  Cyl+ inflated cone
+LENGTH              =      1.5 # 
+DIAMETER            =      1.0 # 
+SPAN                =      3.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2020/05/05-00:00:00 # 
+LAUNCH_VEHICLE      =  S45599
+LAUNCH_SITE         =  
+#
+PARENT              =  S45599
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CASIC
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2020/05/05-00:00:00 # 
+PERIGEE             =       161.0 #  
+APOGEE              =       372.0 # 
+INCL                =        41.1 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  D
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

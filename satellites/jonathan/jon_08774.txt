@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 08774
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  08774
+LAUNCH_TAG          =  1976-029
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      G
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  G
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Satcom 2
+PL_NAME             =  RCA-B
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RCA
+BUS_TYPE            =  Satcom
+MOTOR               =  SVM-7
+BOL_MASS            =    433.0 # 
+CURR_MASS           =    867.0 # 
+DRY_MASS            =    335.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      1.3 # 
+DIAMETER            =      1.3 # 
+SPAN                =     11.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1976/03/26-00:00:00 # 
+LAUNCH_VEHICLE      =  S08793
+LAUNCH_SITE         =  
+#
+PARENT              =  S08793
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AMC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1977/01/24-00:00:00 # 
+PERIGEE             =     35711.0 #  
+APOGEE              =     35861.0 # 
+INCL                =        0.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

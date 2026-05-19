@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 41724
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  41724
+LAUNCH_TAG          =  2016-047
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 269
+PL_NAME             =  QUASAR 19?
+ALT_NAMES           =  NROL-61,SDS D-1 GEO:JP
+#
+MANUFACTURER        =  BOES
+BUS_TYPE            =  BSS-702
+MOTOR               =  -
+BOL_MASS            =   5600.0 # ?
+CURR_MASS           =   5600.0 # ?
+DRY_MASS            =   3000.0 # ?
+BUS_SHAPE           =  Box + 2pan+dish?
+LENGTH              =      6.0 # ?
+DIAMETER            =      3.0 # ?
+SPAN                =     35.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2016/07/28-00:00:00 # 
+LAUNCH_VEHICLE      =  A08474
+LAUNCH_SITE         =  
+#
+PARENT              =  A08474
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NROC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2016/10/07-00:00:00 # 
+PERIGEE             =     35771.0 #  
+APOGEE              =     35802.0 # 
+INCL                =        4.94 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 65728
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  65728
+LAUNCH_TAG          =  2025-215
+PIECE               =  D
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2--D
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Falcon 9-xxx Stage 2
+PL_NAME             =  F9-xxx St2 (F539)
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPX
+BUS_TYPE            =  F9St2
+MOTOR               =  -
+BOL_MASS            =   3000.0 # ?
+CURR_MASS           =   3000.0 # ?
+DRY_MASS            =   3000.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      7.0 # ?
+DIAMETER            =      3.6 # 
+SPAN                =      7.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/09/24-00:00:00 # 
+LAUNCH_VEHICLE      =  R84958
+LAUNCH_SITE         =  
+#
+PARENT              =  R84958
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPX
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/09/24-00:00:00 # 
+PERIGEE             =       217.0 #  
+APOGEE              =   2269413.0 # 
+INCL                =       28.37 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  CLO
+OQUAL               =  SPX

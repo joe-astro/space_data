@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03019
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03019
+LAUNCH_TAG          =  1967-104
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Tsiklon-2A No. 03L Stage 2
+PL_NAME             =  8S672
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  8S672
+MOTOR               =  -
+BOL_MASS            =   3700.0 # 
+CURR_MASS           =   3700.0 # 
+DRY_MASS            =   3700.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      9.4 # 
+DIAMETER            =      3.0 # 
+SPAN                =      9.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1967/10/27-00:00:00 # 
+LAUNCH_VEHICLE      =  L18721
+LAUNCH_SITE         =  
+#
+PARENT              =  L18721
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2002/12/27-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1967/12/05-00:00:00 # 
+PERIGEE             =       517.0 #  
+APOGEE              =       872.0 # 
+INCL                =       64.08 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

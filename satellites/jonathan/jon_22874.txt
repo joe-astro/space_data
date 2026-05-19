@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 22874
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  22874
+LAUNCH_TAG          =  1986-017
+PIECE               =  HX
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  H
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  EO-14 EVA-4 debris
+PL_NAME             =  -
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  -
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =      0.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =      0.0 # 
+BUS_SHAPE           =  -
+LENGTH              =      0.0 # 
+DIAMETER            =      0.0 # 
+SPAN                =      0.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1986/02/19-00:00:00 # 
+LAUNCH_VEHICLE      =  S16609
+LAUNCH_SITE         =  
+#
+PARENT              =  S16609
+SEPARATION_DATE     =  1993/10/22-00:00:00 # 
+#
+DECAY_DATE          =  1993/12/26-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NPOE
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1993/11/12-00:00:00 # 
+PERIGEE             =       358.0 #  
+APOGEE              =       362.0 # 
+INCL                =       51.62 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

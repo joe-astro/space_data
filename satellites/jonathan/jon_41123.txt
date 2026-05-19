@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 41123
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  41123
+LAUNCH_TAG          =  2015-075
+PIECE               =  C
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  M
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Briz-M DTB
+PL_NAME             =  Briz-M torus tank
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  KHRO
+BUS_TYPE            =  Briz tank
+MOTOR               =  -
+BOL_MASS            =  11900.0 # ?
+CURR_MASS           =   1000.0 # ?
+DRY_MASS            =   1000.0 # 
+BUS_SHAPE           =  Torus
+LENGTH              =      2.1 # 
+DIAMETER            =      4.0 # 
+SPAN                =      4.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2015/12/13-00:00:00 # 
+LAUNCH_VEHICLE      =  S41122
+LAUNCH_SITE         =  
+#
+PARENT              =  S41122
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2018/11/12-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  KHRO
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2015/12/21-00:00:00 # 
+PERIGEE             =       407.0 #  
+APOGEE              =     35577.0 # 
+INCL                =       48.59 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

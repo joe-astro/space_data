@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 60242
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  60242
+LAUNCH_TAG          =  2024-128
+PIECE               =  H
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Curium One
+PL_NAME             =  Curium One
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  PTS
+BUS_TYPE            =  Cubesat 12U
+MOTOR               =  -
+BOL_MASS            =     24.0 # 
+CURR_MASS           =     24.0 # 
+DRY_MASS            =     24.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/07/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A11248
+LAUNCH_SITE         =  
+#
+PARENT              =  A11248
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  PTS
+COUNTRY             =  D
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/07/10-00:00:00 # 
+PERIGEE             =       577.0 #  
+APOGEE              =       584.0 # 
+INCL                =        62.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

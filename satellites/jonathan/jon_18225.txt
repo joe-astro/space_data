@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 18225
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  18225
+LAUNCH_TAG          =  1987-064
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-1870
+PL_NAME             =  Mech-K No. 304
+ALT_NAMES           =  11F668 No. 304-1:RA
+#
+MANUFACTURER        =  ZIKH
+BUS_TYPE            =  Almaz
+MOTOR               =  -
+BOL_MASS            =  18500.0 # 
+CURR_MASS           =  18500.0 # 
+DRY_MASS            =  18500.0 # 
+BUS_SHAPE           =  Step Cyl + 2 Pan
+LENGTH              =      7.0 # 
+DIAMETER            =      4.1 # 
+SPAN                =     15.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1987/07/25-00:00:00 # 
+LAUNCH_VEHICLE      =  S18226
+LAUNCH_SITE         =  
+#
+PARENT              =  S18226
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1989/07/29-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ZIKH
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1987/09/01-00:00:00 # 
+PERIGEE             =       242.0 #  
+APOGEE              =       254.0 # 
+INCL                =       71.93 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  D
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

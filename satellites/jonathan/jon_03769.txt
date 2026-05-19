@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03769
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03769
+LAUNCH_TAG          =  1969-018
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PH H
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  H
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Apollo 9 CSM
+PL_NAME             =  Apollo CM-104
+ALT_NAMES           =  Gumdrop
+#
+MANUFACTURER        =  NAAD
+BUS_TYPE            =  CM
+MOTOR               =  -
+BOL_MASS            =   5626.0 # 
+CURR_MASS           =  26814.0 # 
+DRY_MASS            =   5626.0 # 
+BUS_SHAPE           =  Cone
+LENGTH              =      3.5 # 
+DIAMETER            =      3.9 # 
+SPAN                =      3.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1969/03/03-00:00:00 # 
+LAUNCH_VEHICLE      =  A01541
+LAUNCH_SITE         =  
+#
+PARENT              =  A01541
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1969/03/05-00:00:00 # 
+PERIGEE             =       204.0 #  
+APOGEE              =       498.0 # 
+INCL                =       33.83 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DK
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 05043
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  05043
+LAUNCH_TAG          =  1971-019
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  IMP 6
+PL_NAME             =  IMP I
+ALT_NAMES           =  Explorer 43
+#
+MANUFACTURER        =  GSFC
+BUS_TYPE            =  IMP
+MOTOR               =  -
+BOL_MASS            =    288.0 # 
+CURR_MASS           =    288.0 # 
+DRY_MASS            =    276.0 # 
+BUS_SHAPE           =  Hexadec Cyl + Ant
+LENGTH              =      1.8 # 
+DIAMETER            =      1.4 # 
+SPAN                =     92.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1971/03/13-00:00:00 # 
+LAUNCH_VEHICLE      =  S05045
+LAUNCH_SITE         =  
+#
+PARENT              =  S05045
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1971/04/19-00:00:00 # 
+PERIGEE             =      1569.0 #  
+APOGEE              =    203825.0 # 
+INCL                =        30.2 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  DSO
+OQUAL               =  -

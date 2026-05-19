@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 31104
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  31104
+LAUNCH_TAG          =  2007-009
+PIECE               =  C
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Briz-M No. 88521
+PL_NAME             =  Briz-M 88521 (88519?)
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  KHRR
+BUS_TYPE            =  Briz
+MOTOR               =  -
+BOL_MASS            =   7500.0 # ?
+CURR_MASS           =   1600.0 # ?
+DRY_MASS            =   1600.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      2.6 # 
+DIAMETER            =      2.5 # 
+SPAN                =      2.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2007/04/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A07185
+LAUNCH_SITE         =  
+#
+PARENT              =  A07185
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  KHRR
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2007/04/28-00:00:00 # 
+PERIGEE             =      5338.0 #  
+APOGEE              =     35727.0 # 
+INCL                =       10.98 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

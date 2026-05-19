@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20329
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20329
+LAUNCH_TAG          =  1989-090
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PH H-S
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  H
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Discovery (STS-33R)
+PL_NAME             =  OV-103
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RWI
+BUS_TYPE            =  STS OV
+MOTOR               =  -
+BOL_MASS            =  92293.0 # ?
+CURR_MASS           =  113400.0 # ?
+DRY_MASS            =  84577.0 # 
+BUS_SHAPE           =  Box + 2 Wing + Fin
+LENGTH              =     37.3 # 
+DIAMETER            =     23.8 # 
+SPAN                =     37.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1989/11/23-00:00:00 # 
+LAUNCH_VEHICLE      =  A04759
+LAUNCH_SITE         =  
+#
+PARENT              =  A04759
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1989/11/25-00:00:00 # 
+PERIGEE             =       237.0 #  
+APOGEE              =       558.0 # 
+INCL                =       28.46 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

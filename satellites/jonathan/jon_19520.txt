@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 19520
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  19520
+LAUNCH_TAG          =  1988-087
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Shavit (1) Stage 3
+PL_NAME             =  AUS-51
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RAFL
+BUS_TYPE            =  AUS-51
+MOTOR               =  -
+BOL_MASS            =    170.0 # 
+CURR_MASS           =    170.0 # 
+DRY_MASS            =    170.0 # 
+BUS_SHAPE           =  Sphere + Cone
+LENGTH              =      2.6 # 
+DIAMETER            =      1.3 # 
+SPAN                =      2.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1988/09/19-00:00:00 # 
+LAUNCH_VEHICLE      =  R55994
+LAUNCH_SITE         =  
+#
+PARENT              =  R55994
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1989/01/12-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ISA
+COUNTRY             =  IL
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1988/10/19-00:00:00 # 
+PERIGEE             =       239.0 #  
+APOGEE              =      1019.0 # 
+INCL                =      142.85 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/R
+OQUAL               =  -

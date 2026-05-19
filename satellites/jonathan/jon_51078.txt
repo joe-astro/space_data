@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 51078
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  51078
+LAUNCH_TAG          =  2022-002
+PIECE               =  CY
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 322
+PL_NAME             =  [NRO Starshield P3]
+ALT_NAMES           =  :U
+#
+MANUFACTURER        =  SPXS?
+BUS_TYPE            =  Starlink?
+MOTOR               =  -
+BOL_MASS            =    300.0 # 
+CURR_MASS           =    300.0 # 
+DRY_MASS            =    280.0 # ?
+BUS_SHAPE           =  Box + pan
+LENGTH              =      0.2 # ?
+DIAMETER            =      2.8 # 
+SPAN                =      9.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/01/13-00:00:00 # 
+LAUNCH_VEHICLE      =  A09940
+LAUNCH_SITE         =  
+#
+PARENT              =  A09940
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NROC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/01/13-00:00:00 # 
+PERIGEE             =       525.0 #  
+APOGEE              =       535.0 # 
+INCL                =       97.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

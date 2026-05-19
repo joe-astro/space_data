@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 59452
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  59452
+LAUNCH_TAG          =  2024-066
+PIECE               =  L
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ADD-425-2
+PL_NAME             =  425 Project SAR 1
+ALT_NAMES           =  KORSAT-1
+#
+MANUFACTURER        =  KRAI
+BUS_TYPE            =  CAS500?
+MOTOR               =  -
+BOL_MASS            =    800.0 # ?
+CURR_MASS           =    800.0 # ?
+DRY_MASS            =    750.0 # ?
+BUS_SHAPE           =  Hex+3 pan
+LENGTH              =      2.9 # 
+DIAMETER            =      1.9 # 
+SPAN                =      6.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/04/07-00:00:00 # 
+LAUNCH_VEHICLE      =  A11185
+LAUNCH_SITE         =  
+#
+PARENT              =  A11185
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DAPA
+COUNTRY             =  KR
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/04/09-00:00:00 # 
+PERIGEE             =       590.0 #  
+APOGEE              =       596.0 # 
+INCL                =       45.61 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

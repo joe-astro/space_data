@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 10391
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  10391
+LAUNCH_TAG          =  1976-124
+PIECE               =  T
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PX-C---
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  X
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  C
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-885 SS 16
+PL_NAME             =  ESO
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  ESO
+MOTOR               =  -
+BOL_MASS            =      5.0 # ?
+CURR_MASS           =      0.0 # 
+DRY_MASS            =      5.0 # ?
+BUS_SHAPE           =  Sphere
+LENGTH              =      0.2 # ?
+DIAMETER            =      0.2 # ?
+SPAN                =      0.2 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1976/12/17-00:00:00 # 
+LAUNCH_VEHICLE      =  S09615
+LAUNCH_SITE         =  
+#
+PARENT              =  S09615
+SEPARATION_DATE     =  1977/10/01-00:00:00 # 
+#
+DECAY_DATE          =  1978/01/11-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  PVO
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1977/10/03-00:00:00 # 
+PERIGEE             =       450.0 #  
+APOGEE              =       485.0 # 
+INCL                =       65.87 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

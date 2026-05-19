@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 11926
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  11926
+LAUNCH_TAG          =  1978-118
+PIECE               =  C
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Blok DM No. 17L
+PL_NAME             =  11S86 No. 17L
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOE
+BUS_TYPE            =  Blok DM
+MOTOR               =  -
+BOL_MASS            =  17200.0 # 
+CURR_MASS           =   2440.0 # 
+DRY_MASS            =   2440.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      6.3 # 
+DIAMETER            =      3.7 # 
+SPAN                =      6.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1978/12/19-00:00:00 # 
+LAUNCH_VEHICLE      =  A03034
+LAUNCH_SITE         =  
+#
+PARENT              =  A03034
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1980/08/22-00:00:00 # 
+PERIGEE             =     22089.0 #  
+APOGEE              =     48749.0 # 
+INCL                =        10.7 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/NS
+OQUAL               =  -

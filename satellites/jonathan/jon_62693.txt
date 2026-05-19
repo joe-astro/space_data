@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 62693
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  62693
+LAUNCH_TAG          =  2025-009
+PIECE               =  CN
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Skylink-1
+PL_NAME             =  Skylink-1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  HELLO
+BUS_TYPE            =  PocketQube 3P
+MOTOR               =  -
+BOL_MASS            =     0.75 # 
+CURR_MASS           =     0.75 # 
+DRY_MASS            =     0.75 # 
+BUS_SHAPE           =  Box+ 2 pan
+LENGTH              =     0.15 # 
+DIAMETER            =     0.05 # 
+SPAN                =     0.35 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/01/14-00:00:00 # 
+LAUNCH_VEHICLE      =  S62630
+LAUNCH_SITE         =  
+#
+PARENT              =  S62630
+SEPARATION_DATE     =  2025/01/22-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  HELLO
+COUNTRY             =  TR
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/02/10-00:00:00 # 
+PERIGEE             =       511.0 #  
+APOGEE              =       514.0 # 
+INCL                =       97.46 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

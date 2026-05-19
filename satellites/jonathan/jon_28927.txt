@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 28927
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  28927
+LAUNCH_TAG          =  1999-003
+PIECE               =  D
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Sample Return Capsule
+PL_NAME             =  Stardust SRC
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LMA/DENV
+BUS_TYPE            =  Stardust SRC
+MOTOR               =  -
+BOL_MASS            =     46.0 # 
+CURR_MASS           =     46.0 # 
+DRY_MASS            =     46.0 # 
+BUS_SHAPE           =  DCone
+LENGTH              =     0.81 # 
+DIAMETER            =      0.5 # 
+SPAN                =     0.81 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1999/02/07-00:00:00 # 
+LAUNCH_VEHICLE      =  S25618
+LAUNCH_SITE         =  
+#
+PARENT              =  S25618
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JPL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1999/02/07-00:00:00 # 
+PERIGEE             =       224.0 #  
+APOGEE              =    -43632.0 # 
+INCL                =       28.49 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSA
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

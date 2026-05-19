@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 21262
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  21262
+LAUNCH_TAG          =  1991-031
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ---S- C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 70
+PL_NAME             =  GLORIA II?
+ALT_NAMES           =  :U,MPEC
+#
+MANUFACTURER        =  BALL
+BUS_TYPE            =  MPEC
+MOTOR               =  -
+BOL_MASS            =    122.0 # 
+CURR_MASS           =    122.0 # 
+DRY_MASS            =    122.0 # 
+BUS_SHAPE           =  Poly
+LENGTH              =      0.5 # ?
+DIAMETER            =      0.5 # ?
+SPAN                =      0.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1991/04/28-00:00:00 # 
+LAUNCH_VEHICLE      =  A04994
+LAUNCH_SITE         =  
+#
+PARENT              =  A04994
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1991/08/15-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1991/05/06-00:00:00 # 
+PERIGEE             =       253.0 #  
+APOGEE              =       265.0 # 
+INCL                =        57.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20564
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20564
+LAUNCH_TAG          =  1990-031
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PX D    c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  X
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  D
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  PDD Test Mass
+PL_NAME             =  PDD mass
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  BALL
+BUS_TYPE            =  PDD mass
+MOTOR               =  -
+BOL_MASS            =      0.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =      0.0 # 
+BUS_SHAPE           =  -
+LENGTH              =      0.0 # 
+DIAMETER            =      0.0 # 
+SPAN                =      0.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1990/04/11-00:00:00 # 
+LAUNCH_VEHICLE      =  A04810
+LAUNCH_SITE         =  
+#
+PARENT              =  A04810
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSSD2
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1997/11/21-00:00:00 # 
+PERIGEE             =       643.0 #  
+APOGEE              =       710.0 # 
+INCL                =       90.33 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 28368
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  28368
+LAUNCH_TAG          =  2004-025
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Demeter
+PL_NAME             =  Demeter
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CNES
+BUS_TYPE            =  Myriade
+MOTOR               =  AOCS
+BOL_MASS            =    132.0 # 
+CURR_MASS           =    132.0 # 
+DRY_MASS            =    127.0 # 
+BUS_SHAPE           =  Box + Pan + 2 Ant
+LENGTH              =      0.9 # 
+DIAMETER            =      0.6 # 
+SPAN                =      3.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2004/06/29-00:00:00 # 
+LAUNCH_VEHICLE      =  S28367
+LAUNCH_SITE         =  
+#
+PARENT              =  S28367
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CNES
+COUNTRY             =  F
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2004/06/29-00:00:00 # 
+PERIGEE             =       685.0 #  
+APOGEE              =       712.0 # 
+INCL                =       98.26 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43557
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43557
+LAUNCH_TAG          =  2018-046
+PIECE               =  D
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P    U
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  U
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Aerocube 12B
+PL_NAME             =  AC-12B
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  AERO
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      5.0 # 
+CURR_MASS           =      5.0 # 
+DRY_MASS            =      5.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/05/21-00:00:00 # 
+LAUNCH_VEHICLE      =  A09129
+LAUNCH_SITE         =  
+#
+PARENT              =  A09129
+SEPARATION_DATE     =  2018/07/16-00:00:00 # ?
+#
+DECAY_DATE          =  2023/08/14-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AERO
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/07/20-00:00:00 # 
+PERIGEE             =       476.0 #  
+APOGEE              =       488.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

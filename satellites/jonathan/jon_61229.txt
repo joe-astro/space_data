@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 61229
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  61229
+LAUNCH_TAG          =  2024-173
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Luojia-4 01
+PL_NAME             =  Yuxing-2 05
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  WUHAN
+BUS_TYPE            =  Luojia-4
+MOTOR               =  -
+BOL_MASS            =     60.0 # 
+CURR_MASS           =     60.0 # 
+DRY_MASS            =     60.0 # 
+BUS_SHAPE           =  Box + pan
+LENGTH              =      1.0 # ?
+DIAMETER            =      1.5 # ?
+SPAN                =      2.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/09/24-00:00:00 # 
+LAUNCH_VEHICLE      =  S61237
+LAUNCH_SITE         =  
+#
+PARENT              =  S61237
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  WUHAN
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/09/24-00:00:00 # 
+PERIGEE             =       486.0 #  
+APOGEE              =       501.0 # 
+INCL                =        97.4 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 05233
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  05233
+LAUNCH_TAG          =  1971-044
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-2 (N76) Stage 2
+PL_NAME             =  S1M
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  S1
+MOTOR               =  -
+BOL_MASS            =    840.0 # 
+CURR_MASS           =    840.0 # 
+DRY_MASS            =    840.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      8.0 # 
+DIAMETER            =      1.6 # 
+SPAN                =      8.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1971/05/19-00:00:00 # 
+LAUNCH_VEHICLE      =  R25181
+LAUNCH_SITE         =  
+#
+PARENT              =  R25181
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1971/08/23-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1971/06/18-00:00:00 # 
+PERIGEE             =       264.0 #  
+APOGEE              =       411.0 # 
+INCL                =       70.99 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

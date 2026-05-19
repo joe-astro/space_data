@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00949
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00949
+LAUNCH_TAG          =  1964-081
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Titan 3A Fairing
+PL_NAME             =  Lead Dummy Payload
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MM
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =   1366.0 # 
+CURR_MASS           =   3316.0 # 
+DRY_MASS            =   1366.0 # 
+BUS_SHAPE           =  Cone
+LENGTH              =      3.0 # ?
+DIAMETER            =      3.1 # 
+SPAN                =      3.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1964/12/10-00:00:00 # 
+LAUNCH_VEHICLE      =  A00600
+LAUNCH_SITE         =  
+#
+PARENT              =  A00600
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1964/12/13-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSSD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1964/12/10-00:00:00 # 
+PERIGEE             =       168.0 #  
+APOGEE              =       182.0 # 
+INCL                =       32.15 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

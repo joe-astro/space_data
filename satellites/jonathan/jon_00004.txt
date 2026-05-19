@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00004
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00004
+LAUNCH_TAG          =  1958-ALP
+PIECE               =  
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Explorer I
+PL_NAME             =  Explorer 1
+ALT_NAMES           =  :UA,:UB,DEAL I:IA
+#
+MANUFACTURER        =  JPLA
+BUS_TYPE            =  Explorer
+MOTOR               =  -
+BOL_MASS            =      8.0 # 
+CURR_MASS           =     14.0 # 
+DRY_MASS            =      8.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      0.8 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1958/02/01-00:00:00 # 
+LAUNCH_VEHICLE      =  A00004
+LAUNCH_SITE         =  
+#
+PARENT              =  A00004
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ABMA/JPLA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1958/02/01-00:00:00 # 
+PERIGEE             =       359.0 #  
+APOGEE              =      2542.0 # 
+INCL                =       33.18 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

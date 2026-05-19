@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 45016
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  45016
+LAUNCH_TAG          =  2020-003
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Jilin-1 Kuanfu-1
+PL_NAME             =  Jilin-1 Kuanfu-1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  HARB/CIOMP
+BUS_TYPE            =  JL-1
+MOTOR               =  -
+BOL_MASS            =   1250.0 # 
+CURR_MASS           =   1250.0 # 
+DRY_MASS            =   1250.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      2.0 # ?
+DIAMETER            =      1.0 # ?
+SPAN                =      2.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2020/01/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A09537
+LAUNCH_SITE         =  
+#
+PARENT              =  A09537
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CGSTL
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2020/01/22-00:00:00 # 
+PERIGEE             =       477.0 #  
+APOGEE              =       492.0 # 
+INCL                =       97.34 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

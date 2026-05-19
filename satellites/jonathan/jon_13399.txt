@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 13399
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  13399
+LAUNCH_TAG          =  1982-078
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-1399
+PL_NAME             =  Oktan No. 6L
+ALT_NAMES           =  Yantar'-4K1 No. 6L:P,11F693 No. 770-49-216:RA
+#
+MANUFACTURER        =  TSSKB
+BUS_TYPE            =  Yantar'-4K1
+MOTOR               =  -
+BOL_MASS            =   2886.0 # 
+CURR_MASS           =   6600.0 # 
+DRY_MASS            =   2886.0 # 
+BUS_SHAPE           =  Cone + Cyl
+LENGTH              =      6.3 # 
+DIAMETER            =      2.7 # 
+SPAN                =      6.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1982/08/04-00:00:00 # 
+LAUNCH_VEHICLE      =  S13400
+LAUNCH_SITE         =  
+#
+PARENT              =  S13400
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GUKOS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1982/08/11-00:00:00 # 
+PERIGEE             =       162.0 #  
+APOGEE              =       290.0 # 
+INCL                =       64.89 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

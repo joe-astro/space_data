@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 44516
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  44516
+LAUNCH_TAG          =  2019-022
+PIECE               =  J
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P    U
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  U
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Venturini
+PL_NAME             =  AC-10a Probe 01
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  AERO
+BUS_TYPE            =  AC-10 Probe
+MOTOR               =  -
+BOL_MASS            =    0.016 # 
+CURR_MASS           =    0.016 # 
+DRY_MASS            =    0.016 # 
+BUS_SHAPE           =  Cruciform sphere
+LENGTH              =    0.098 # 
+DIAMETER            =    0.098 # 
+SPAN                =    0.098 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2019/04/17-00:00:00 # 
+LAUNCH_VEHICLE      =  S44485
+LAUNCH_SITE         =  
+#
+PARENT              =  S44485
+SEPARATION_DATE     =  2019/08/29-00:00:00 # ?
+#
+DECAY_DATE          =  2020/02/12-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AERO
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2019/08/29-00:00:00 # 
+PERIGEE             =       471.0 #  
+APOGEE              =       484.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

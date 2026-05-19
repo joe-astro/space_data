@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 60176
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  60176
+LAUNCH_TAG          =  2024-121
+PIECE               =  U
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      OC
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 393
+PL_NAME             =  Starshield 2-19
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPXS
+BUS_TYPE            =  Starshield
+MOTOR               =  -
+BOL_MASS            =    750.0 # 
+CURR_MASS           =    750.0 # 
+DRY_MASS            =    700.0 # ?
+BUS_SHAPE           =  Box + pan
+LENGTH              =      0.3 # ?
+DIAMETER            =      4.1 # 
+SPAN                =     29.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/06/29-00:00:00 # 
+LAUNCH_VEHICLE      =  A11240
+LAUNCH_SITE         =  
+#
+PARENT              =  A11240
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NROC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/06/29-00:00:00 # 
+PERIGEE             =       313.0 #  
+APOGEE              =       323.0 # 
+INCL                =       70.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 40546
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  40546
+LAUNCH_TAG          =  2015-017
+PIECE               =  C
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Fregat-MT No. 133-02
+PL_NAME             =  Fregat-MT    No. 133-02
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOLO
+BUS_TYPE            =  Fregat
+MOTOR               =  -
+BOL_MASS            =   6550.0 # 
+CURR_MASS           =   1050.0 # 
+DRY_MASS            =   1050.0 # 
+BUS_SHAPE           =  Irr
+LENGTH              =      1.7 # 
+DIAMETER            =      3.3 # 
+SPAN                =      3.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2015/03/27-00:00:00 # 
+LAUNCH_VEHICLE      =  A08261
+LAUNCH_SITE         =  
+#
+PARENT              =  A08261
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NPOLO
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2015/04/01-00:00:00 # 
+PERIGEE             =     23503.0 #  
+APOGEE              =     23598.0 # 
+INCL                =       55.04 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

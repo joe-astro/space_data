@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 52150
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  52150
+LAUNCH_TAG          =  2022-031
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Tiankun-2
+PL_NAME             =  Tiankun-2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CHFEN
+BUS_TYPE            =  TK-1
+MOTOR               =  -
+BOL_MASS            =     90.0 # 
+CURR_MASS           =     90.0 # 
+DRY_MASS            =     90.0 # ?
+BUS_SHAPE           =  Box + 4 pan
+LENGTH              =      1.0 # 
+DIAMETER            =      0.7 # ?
+SPAN                =      2.7 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/03/29-00:00:00 # 
+LAUNCH_VEHICLE      =  S52152
+LAUNCH_SITE         =  
+#
+PARENT              =  S52152
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CHFEN
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/03/30-00:00:00 # 
+PERIGEE             =       587.0 #  
+APOGEE              =       605.0 # 
+INCL                =       97.79 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

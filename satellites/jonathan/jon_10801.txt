@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 10801
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  10801
+LAUNCH_TAG          =  1978-020
+PIECE               =  B
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  M
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  SVS Stage 2
+PL_NAME             =  Star 37E S/N 40056
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  THKE
+BUS_TYPE            =  Star 37
+MOTOR               =  -
+BOL_MASS            =   1197.0 # 
+CURR_MASS           =    157.0 # 
+DRY_MASS            =    157.0 # 
+BUS_SHAPE           =  Cyl + Cone
+LENGTH              =      1.8 # 
+DIAMETER            =      0.9 # 
+SPAN                =      1.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1978/02/22-00:00:00 # 
+LAUNCH_VEHICLE      =  A02925
+LAUNCH_SITE         =  
+#
+PARENT              =  A02925
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2012/08/11-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SAMSO
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1978/04/06-00:00:00 # 
+PERIGEE             =       167.0 #  
+APOGEE              =     18732.0 # 
+INCL                =       63.14 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  HEO
+OQUAL               =  -

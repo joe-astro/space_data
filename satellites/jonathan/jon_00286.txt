@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00286
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00286
+LAUNCH_TAG          =  1962-PI
+PIECE               =  
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  FTV 2401
+PL_NAME             =  SAMOS E-6 No. 1
+ALT_NAMES           =  AFP-201 PVP 851
+#
+MANUFACTURER        =  GEVF
+BUS_TYPE            =  Samos 201
+MOTOR               =  -
+BOL_MASS            =    400.0 # ?
+CURR_MASS           =   1932.0 # ?
+DRY_MASS            =    400.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      2.0 # 
+DIAMETER            =      1.5 # 
+SPAN                =      2.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1962/04/26-00:00:00 # 
+LAUNCH_VEHICLE      =  A00192
+LAUNCH_SITE         =  
+#
+PARENT              =  A00192
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1962/04/28-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1962/04/26-00:00:00 # 
+PERIGEE             =       209.0 #  
+APOGEE              =       219.0 # 
+INCL                =        92.0 # ?
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/P
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00111
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00111
+LAUNCH_TAG          =  1958-THE
+PIECE               =  
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Pioneer III
+PL_NAME             =  Pioneer 3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  JPL
+BUS_TYPE            =  Juno II Probe
+MOTOR               =  -
+BOL_MASS            =      6.0 # 
+CURR_MASS           =      6.0 # 
+DRY_MASS            =      6.0 # 
+BUS_SHAPE           =  Cone
+LENGTH              =      0.6 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1958/12/06-00:00:00 # 
+LAUNCH_VEHICLE      =  A00012
+LAUNCH_SITE         =  
+#
+PARENT              =  A00012
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ABMA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1958/12/06-00:00:00 # 
+PERIGEE             =       -70.0 # ?
+APOGEE              =    102200.0 # 
+INCL                =        28.5 # ?
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  SO
+OQUAL               =  -

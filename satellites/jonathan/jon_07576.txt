@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 07576
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  07576
+LAUNCH_TAG          =  1974-100
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-698
+PL_NAME             =  Tselina-OM
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  Tselina-OM
+MOTOR               =  -
+BOL_MASS            =    434.0 # 
+CURR_MASS           =    434.0 # 
+DRY_MASS            =    434.0 # 
+BUS_SHAPE           =  Cyl + 2 Pan
+LENGTH              =      5.1 # 
+DIAMETER            =      1.2 # 
+SPAN                =      5.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1974/12/18-00:00:00 # 
+LAUNCH_VEHICLE      =  S07577
+LAUNCH_SITE         =  
+#
+PARENT              =  S07577
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1980/12/09-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GRU
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1975/01/19-00:00:00 # 
+PERIGEE             =       512.0 #  
+APOGEE              =       551.0 # 
+INCL                =       74.04 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

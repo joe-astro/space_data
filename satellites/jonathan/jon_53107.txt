@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 53107
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  53107
+LAUNCH_TAG          =  2022-080
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  AstroBio Cubesat
+PL_NAME             =  ABCS
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ROSAP
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      4.0 # 
+CURR_MASS           =      4.0 # 
+DRY_MASS            =      4.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/07/13-00:00:00 # 
+LAUNCH_VEHICLE      =  A10474
+LAUNCH_SITE         =  
+#
+PARENT              =  A10474
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ROSAP
+COUNTRY             =  I
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/09/14-00:00:00 # 
+PERIGEE             =      5832.0 #  
+APOGEE              =      5865.0 # 
+INCL                =       70.15 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20546
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20546
+LAUNCH_TAG          =  1990-028
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Pegsat
+PL_NAME             =  Pegsat
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GSFC
+BUS_TYPE            =  Pegsat
+MOTOR               =  -
+BOL_MASS            =    160.0 # 
+CURR_MASS           =    406.0 # ?
+DRY_MASS            =    160.0 # 
+BUS_SHAPE           =  Cyl + 2 Canted Cyl
+LENGTH              =      0.8 # 
+DIAMETER            =      1.1 # 
+SPAN                =      1.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1990/04/05-00:00:00 # 
+LAUNCH_VEHICLE      =  A04808
+LAUNCH_SITE         =  
+#
+PARENT              =  A04808
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1998/11/14-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/05/06-00:00:00 # 
+PERIGEE             =       460.0 #  
+APOGEE              =       675.0 # 
+INCL                =       94.12 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/P
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 62237
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  62237
+LAUNCH_TAG          =  2024-232
+PIECE               =  A
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  CZ-6A Y22 Stage 2
+PL_NAME             =  CZ-6A Stage 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SAST
+BUS_TYPE            =  CZ-6A Stage 2
+MOTOR               =  YF-115
+BOL_MASS            =   6000.0 # ?
+CURR_MASS           =   6000.0 # ?
+DRY_MASS            =   6000.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =     11.5 # ?
+DIAMETER            =      3.4 # 
+SPAN                =     11.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/12/05-00:00:00 # 
+LAUNCH_VEHICLE      =  R83909
+LAUNCH_SITE         =  
+#
+PARENT              =  R83909
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CNSA
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/12/14-00:00:00 # 
+PERIGEE             =       649.0 #  
+APOGEE              =       793.0 # 
+INCL                =       89.02 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  -

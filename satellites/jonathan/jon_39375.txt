@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 39375
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  39375
+LAUNCH_TAG          =  2013-062
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Raduga-1M
+PL_NAME             =  Globus-1M No. 13L
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RESH/POLK
+BUS_TYPE            =  KAUR-4
+MOTOR               =  -
+BOL_MASS            =   2500.0 # ?
+CURR_MASS           =   2500.0 # ?
+DRY_MASS            =   2200.0 # ?
+BUS_SHAPE           =  Step Cyl + 2 Pan
+LENGTH              =      5.0 # ?
+DIAMETER            =      2.0 # ?
+SPAN                =     20.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2013/11/11-00:00:00 # 
+LAUNCH_VEHICLE      =  S39376
+LAUNCH_SITE         =  
+#
+PARENT              =  S39376
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  VVKO
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2013/11/20-00:00:00 # 
+PERIGEE             =     35433.0 #  
+APOGEE              =     35748.0 # 
+INCL                =        0.17 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/D
+OQUAL               =  -

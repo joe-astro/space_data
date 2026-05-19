@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 11279
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  11279
+LAUNCH_TAG          =  1979-017
+PIECE               =  B
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  M
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OIS
+PL_NAME             =  Star 27 TE-M-616-11 S/N 0034
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  FAIR
+BUS_TYPE            =  OIS
+MOTOR               =  -
+BOL_MASS            =    140.0 # 
+CURR_MASS           =    164.0 # 
+DRY_MASS            =    140.0 # 
+BUS_SHAPE           =  Frust
+LENGTH              =      1.0 # 
+DIAMETER            =      1.3 # 
+SPAN                =      1.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1979/02/24-00:00:00 # 
+LAUNCH_VEHICLE      =  R41554
+LAUNCH_SITE         =  
+#
+PARENT              =  R41554
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1983/10/11-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SAMSO
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1979/04/14-00:00:00 # 
+PERIGEE             =       555.0 #  
+APOGEE              =       598.0 # 
+INCL                =       97.66 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

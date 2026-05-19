@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 61447
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  61447
+LAUNCH_TAG          =  2024-178
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PH-H-V-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  H
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  V
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Dragon Freedom (Crew-9)
+PL_NAME             =  Dragon C212.4
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPX
+BUS_TYPE            =  Dragon CM
+MOTOR               =  -
+BOL_MASS            =  10890.0 # ?
+CURR_MASS           =  13055.0 # ?
+DRY_MASS            =   9500.0 # ?
+BUS_SHAPE           =  Frust + Cyl
+LENGTH              =      4.9 # 
+DIAMETER            =      4.0 # 
+SPAN                =      4.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/09/28-00:00:00 # 
+LAUNCH_VEHICLE      =  A11321
+LAUNCH_SITE         =  
+#
+PARENT              =  A11321
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPX
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/09/28-00:00:00 # 
+PERIGEE             =       189.0 #  
+APOGEE              =       206.0 # 
+INCL                =       51.62 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DK
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

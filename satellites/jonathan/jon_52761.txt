@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 52761
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  52761
+LAUNCH_TAG          =  2022-057
+PIECE               =  AF
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ION SCV006 THRILLING THOMAS
+PL_NAME             =  ION-SCV006
+ALT_NAMES           =  ION Infinite Blue
+#
+MANUFACTURER        =  DORBIT
+BUS_TYPE            =  ION-SC
+MOTOR               =  PM200
+BOL_MASS            =    150.0 # 
+CURR_MASS           =    220.0 # 
+DRY_MASS            =    150.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.4 # 
+DIAMETER            =      0.4 # 
+SPAN                =      0.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/05/25-00:00:00 # 
+LAUNCH_VEHICLE      =  A10438
+LAUNCH_SITE         =  
+#
+PARENT              =  A10438
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DORBIT
+COUNTRY             =  I
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/05/25-00:00:00 # 
+PERIGEE             =       520.0 #  
+APOGEE              =       535.0 # 
+INCL                =       97.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

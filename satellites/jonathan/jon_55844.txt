@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 55844
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  55844
+LAUNCH_TAG          =  2023-032
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Helusi 2
+PL_NAME             =  Horus 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  DFHZ
+BUS_TYPE            =  CAST-2000?
+MOTOR               =  -
+BOL_MASS            =    330.0 # ?
+CURR_MASS           =    330.0 # ?
+DRY_MASS            =    330.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      1.5 # 
+DIAMETER            =      1.0 # 
+SPAN                =      4.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/03/13-00:00:00 # 
+LAUNCH_VEHICLE      =  S55846
+LAUNCH_SITE         =  
+#
+PARENT              =  S55846
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  EGYSA
+COUNTRY             =  EG
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/03/13-00:00:00 # 
+PERIGEE             =       488.0 #  
+APOGEE              =       502.0 # 
+INCL                =       97.47 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

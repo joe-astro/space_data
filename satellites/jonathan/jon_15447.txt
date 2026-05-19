@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 15447
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  15447
+LAUNCH_TAG          =  1984-125
+PIECE               =  D
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4  D
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Blok D-1 No. 11L
+PL_NAME             =  11S824M No. 11L
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOE
+BUS_TYPE            =  Blok D
+MOTOR               =  -
+BOL_MASS            =  14300.0 # 
+CURR_MASS           =   1925.0 # 
+DRY_MASS            =   1925.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      5.8 # 
+DIAMETER            =      4.1 # 
+SPAN                =      5.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1984/12/15-00:00:00 # 
+LAUNCH_VEHICLE      =  R51190
+LAUNCH_SITE         =  
+#
+PARENT              =  R51190
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1984/12/15-00:00:00 # 
+PERIGEE             =       181.0 #  
+APOGEE              =         inf # 
+INCL                =        51.6 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

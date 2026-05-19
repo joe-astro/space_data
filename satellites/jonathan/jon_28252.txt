@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 28252
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  28252
+LAUNCH_TAG          =  2004-017
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      O
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  AMC 11
+PL_NAME             =  Americom 11
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LMCSS
+BUS_TYPE            =  A2100
+MOTOR               =  Leros 1C
+BOL_MASS            =   2315.0 # 
+CURR_MASS           =   2315.0 # 
+DRY_MASS            =    907.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      6.0 # ?
+DIAMETER            =      3.6 # ?
+SPAN                =     26.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2004/05/19-00:00:00 # 
+LAUNCH_VEHICLE      =  S28253
+LAUNCH_SITE         =  
+#
+PARENT              =  S28253
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AMCS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2004/07/20-00:00:00 # 
+PERIGEE             =     35784.0 #  
+APOGEE              =     35788.0 # 
+INCL                =        0.02 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

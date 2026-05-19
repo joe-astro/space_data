@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 40486
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  40486
+LAUNCH_TAG          =  2015-011
+PIECE               =  E
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Centaur AV-053
+PL_NAME             =  Centaur AV-053
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ULAD
+BUS_TYPE            =  Centaur SEC
+MOTOR               =  RL10-4A-2
+BOL_MASS            =   7950.0 # ?
+CURR_MASS           =   2020.0 # ?
+DRY_MASS            =   2020.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =     11.7 # 
+DIAMETER            =      3.1 # 
+SPAN                =     11.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2015/03/13-00:00:00 # 
+LAUNCH_VEHICLE      =  R73003
+LAUNCH_SITE         =  
+#
+PARENT              =  R73003
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ULAL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2015/03/15-00:00:00 # 
+PERIGEE             =       332.0 #  
+APOGEE              =     66334.0 # 
+INCL                =       28.56 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  HEO
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 44385
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  44385
+LAUNCH_TAG          =  2019-022
+PIECE               =  QK
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P    D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  D
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  IOD-1 GEMS
+PL_NAME             =  IOD-1 GEMS
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CLAAC/OMSUK
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      3.0 # 
+CURR_MASS           =      3.0 # 
+DRY_MASS            =      3.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2019/04/17-00:00:00 # 
+LAUNCH_VEHICLE      =  A09401*
+LAUNCH_SITE         =  
+#
+PARENT              =  A09401*
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CATAP/OMSUK
+COUNTRY             =  UK
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2019/07/03-00:00:00 # 
+PERIGEE             =       409.0 #  
+APOGEE              =       414.0 # 
+INCL                =       51.65 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

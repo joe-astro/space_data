@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 14592
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  14592
+LAUNCH_TAG          =  1983-127
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-1521
+PL_NAME             =  Uragan GVM
+ALT_NAMES           =  11F654 No. 650-44-126 GVM:RA
+#
+MANUFACTURER        =  OAZ
+BUS_TYPE            =  Uragan
+MOTOR               =  -
+BOL_MASS            =   1300.0 # 
+CURR_MASS           =   1300.0 # 
+DRY_MASS            =   1200.0 # ?
+BUS_SHAPE           =  Cyl + Ant + 2 Pan
+LENGTH              =      4.0 # 
+DIAMETER            =      1.5 # 
+SPAN                =      7.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1983/12/29-00:00:00 # 
+LAUNCH_VEHICLE      =  S14595
+LAUNCH_SITE         =  
+#
+PARENT              =  S14595
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GUKOS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1984/02/03-00:00:00 # 
+PERIGEE             =     19008.0 #  
+APOGEE              =     19134.0 # 
+INCL                =       64.77 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

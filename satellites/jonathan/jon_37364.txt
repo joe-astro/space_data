@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 37364
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  37364
+LAUNCH_TAG          =  2011-006
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 225
+PL_NAME             =  RPP Aquila
+ALT_NAMES           =  RPP 1,NROL-66
+#
+MANUFACTURER        =  MILLEN
+BUS_TYPE            =  Aquila/Geostar-1
+MOTOR               =  -
+BOL_MASS            =    235.0 # 
+CURR_MASS           =    235.0 # 
+DRY_MASS            =    235.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      1.5 # ?
+DIAMETER            =      0.5 # ?
+SPAN                =      2.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2011/02/06-00:00:00 # 
+LAUNCH_VEHICLE      =  S37365
+LAUNCH_SITE         =  
+#
+PARENT              =  S37365
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NROC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2011/02/06-00:00:00 # 
+PERIGEE             =      1202.0 #  
+APOGEE              =      1230.0 # 
+INCL                =        90.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  UN

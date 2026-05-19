@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 07925
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  07925
+LAUNCH_TAG          =  1975-053
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-743
+PL_NAME             =  Germes No. 35L
+ALT_NAMES           =  Zenit-4MK No. 35L:P,11F692 No. 780-31-775:RA
+#
+MANUFACTURER        =  TSSKB
+BUS_TYPE            =  Zenit-4MK
+MOTOR               =  -
+BOL_MASS            =   2310.0 # 
+CURR_MASS           =   6010.0 # 
+DRY_MASS            =   2310.0 # 
+BUS_SHAPE           =  Sphere + DCone
+LENGTH              =      6.0 # ?
+DIAMETER            =      2.2 # 
+SPAN                =      6.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1975/06/12-00:00:00 # 
+LAUNCH_VEHICLE      =  S07926
+LAUNCH_SITE         =  
+#
+PARENT              =  S07926
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GUKOSR
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1975/06/14-00:00:00 # 
+PERIGEE             =       180.0 #  
+APOGEE              =       345.0 # 
+INCL                =       62.82 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

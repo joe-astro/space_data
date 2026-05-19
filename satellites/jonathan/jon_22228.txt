@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 22228
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  22228
+LAUNCH_TAG          =  1986-017
+PIECE               =  GY
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  CC H
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =  C
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Garbage bag?
+PL_NAME             =  -
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  -
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =      0.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =      0.0 # 
+BUS_SHAPE           =  -
+LENGTH              =      0.0 # 
+DIAMETER            =      0.0 # 
+SPAN                =      0.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1986/02/19-00:00:00 # 
+LAUNCH_VEHICLE      =  S16609
+LAUNCH_SITE         =  
+#
+PARENT              =  S16609
+SEPARATION_DATE     =  1992/11/20-00:00:00 # ?
+#
+DECAY_DATE          =  1992/12/08-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NPOE
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1992/11/30-00:00:00 # 
+PERIGEE             =       346.0 #  
+APOGEE              =       358.0 # 
+INCL                =       51.62 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

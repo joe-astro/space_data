@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 19720
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  19720
+LAUNCH_TAG          =  1988-113
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-1985
+PL_NAME             =  Kol'tso No. 1L
+ALT_NAMES           =  17F115 No. 450-19-201:RA
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  Kol'tso
+MOTOR               =  -
+BOL_MASS            =   1450.0 # ?
+CURR_MASS           =   1630.0 # 
+DRY_MASS            =   1450.0 # ?
+BUS_SHAPE           =  Cyl + 8 Pan + Ant
+LENGTH              =      3.3 # 
+DIAMETER            =      1.6 # 
+SPAN                =     33.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1988/12/23-00:00:00 # 
+LAUNCH_VEHICLE      =  S19764
+LAUNCH_SITE         =  
+#
+PARENT              =  S19764
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1992/05/04-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  UNKS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1989/01/22-00:00:00 # 
+PERIGEE             =       522.0 #  
+APOGEE              =       528.0 # 
+INCL                =       73.56 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

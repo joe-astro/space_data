@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 44049
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  44049
+LAUNCH_TAG          =  2019-009
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  B'reshit
+PL_NAME             =  Beresheet
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  IAI/SPAIL
+BUS_TYPE            =  BSLander
+MOTOR               =  -
+BOL_MASS            =    585.0 # 
+CURR_MASS           =    585.0 # 
+DRY_MASS            =    150.0 # 
+BUS_SHAPE           =  Cone+4 legs
+LENGTH              =      1.5 # 
+DIAMETER            =      2.0 # 
+SPAN                =      2.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2019/02/22-00:00:00 # 
+LAUNCH_VEHICLE      =  S44048
+LAUNCH_SITE         =  
+#
+PARENT              =  S44048
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPAIL
+COUNTRY             =  IL
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2019/02/25-00:00:00 # 
+PERIGEE             =       668.0 #  
+APOGEE              =     69021.0 # 
+INCL                =       27.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  GEO/NS
+OQUAL               =  -

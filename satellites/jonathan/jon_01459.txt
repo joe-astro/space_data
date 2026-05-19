@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 01459
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  01459
+LAUNCH_TAG          =  1965-058
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Vela III-B
+PL_NAME             =  Vela 3B
+ALT_NAMES           =  FTV 6577
+#
+MANUFACTURER        =  TRW
+BUS_TYPE            =  Vela
+MOTOR               =  BE-3A
+BOL_MASS            =    132.0 # 
+CURR_MASS           =    224.0 # ?
+DRY_MASS            =    132.0 # 
+BUS_SHAPE           =  Poly
+LENGTH              =      1.4 # 
+DIAMETER            =      1.4 # 
+SPAN                =      1.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1965/07/20-00:00:00 # 
+LAUNCH_VEHICLE      =  A00751
+LAUNCH_SITE         =  
+#
+PARENT              =  A00751
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSSD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1965/08/25-00:00:00 # 
+PERIGEE             =    101714.0 #  
+APOGEE              =    121281.0 # 
+INCL                =       34.94 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  VHEO
+OQUAL               =  -

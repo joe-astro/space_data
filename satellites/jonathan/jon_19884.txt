@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 19884
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  19884
+LAUNCH_TAG          =  1989-021
+PIECE               =  C
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C -M-S-
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  IUS-9 SRM-1
+PL_NAME             =  Orbus 21
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CSD
+BUS_TYPE            =  Orbus 21
+MOTOR               =  -
+BOL_MASS            =  11028.0 # ?
+CURR_MASS           =   1164.0 # ?
+DRY_MASS            =   1164.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      3.5 # 
+DIAMETER            =      2.3 # 
+SPAN                =      3.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1989/03/13-00:00:00 # 
+LAUNCH_VEHICLE      =  A04650
+LAUNCH_SITE         =  
+#
+PARENT              =  A04650
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1989/04/12-00:00:00 # 
+PERIGEE             =       258.0 #  
+APOGEE              =     35764.0 # 
+INCL                =       26.27 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

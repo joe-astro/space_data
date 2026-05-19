@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 60543
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  60543
+LAUNCH_TAG          =  2024-149
+PIECE               =  CD
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  AWS
+PL_NAME             =  AWS
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  OHBSE
+BUS_TYPE            =  InnoSat
+MOTOR               =  -
+BOL_MASS            =    125.0 # 
+CURR_MASS           =    125.0 # 
+DRY_MASS            =    120.0 # ?
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      1.0 # 
+DIAMETER            =      0.9 # 
+SPAN                =      5.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/08/16-00:00:00 # 
+LAUNCH_VEHICLE      =  A11288
+LAUNCH_SITE         =  
+#
+PARENT              =  A11288
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ESA
+COUNTRY             =  I-ESA
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/08/16-00:00:00 # 
+PERIGEE             =       587.0 #  
+APOGEE              =       595.0 # 
+INCL                =       97.75 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 28899
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  28899
+LAUNCH_TAG          =  2005-044
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  INMARSAT 4 F2
+PL_NAME             =  INMARSAT 4 F2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ASTT
+BUS_TYPE            =  Eurostar 3000GM
+MOTOR               =  R-4D-15-375
+BOL_MASS            =   5958.0 # 
+CURR_MASS           =   5958.0 # 
+DRY_MASS            =   3271.0 # 
+BUS_SHAPE           =  Box + 2 Pan + Dish
+LENGTH              =      7.0 # 
+DIAMETER            =      2.9 # 
+SPAN                =     45.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2005/11/08-00:00:00 # 
+LAUNCH_VEHICLE      =  S28900
+LAUNCH_SITE         =  
+#
+PARENT              =  S28900
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  INMRL
+COUNTRY             =  UK
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2006/01/07-00:00:00 # 
+PERIGEE             =     35891.0 #  
+APOGEE              =     35961.0 # 
+INCL                =        2.85 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/D
+OQUAL               =  -

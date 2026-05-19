@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20839
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20839
+LAUNCH_TAG          =  1990-089
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  CZ-2C Y9 Stage 2
+PL_NAME             =  CZ-2C Stage 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  BWYIC
+BUS_TYPE            =  CZ-2 Stage 2
+MOTOR               =  -
+BOL_MASS            =   4000.0 # 
+CURR_MASS           =   4000.0 # 
+DRY_MASS            =   4000.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      7.5 # 
+DIAMETER            =      3.3 # 
+SPAN                =      7.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1990/10/05-00:00:00 # 
+LAUNCH_VEHICLE      =  R58363
+LAUNCH_SITE         =  
+#
+PARENT              =  R58363
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1990/10/15-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MAI2
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/10/10-00:00:00 # 
+PERIGEE             =       196.0 #  
+APOGEE              =       270.0 # 
+INCL                =       56.98 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

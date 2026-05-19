@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 25520
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  25520
+LAUNCH_TAG          =  1998-064
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ---S-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  PANSAT-Oscar-34
+PL_NAME             =  PANSAT
+ALT_NAMES           =  STP S94-4:PN,PO-34
+#
+MANUFACTURER        =  USNPS
+BUS_TYPE            =  PANSAT
+MOTOR               =  -
+BOL_MASS            =     57.0 # 
+CURR_MASS           =     57.0 # 
+DRY_MASS            =     57.0 # 
+BUS_SHAPE           =  Poly
+LENGTH              =      0.5 # 
+DIAMETER            =      0.5 # 
+SPAN                =      0.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1998/10/29-00:00:00 # 
+LAUNCH_VEHICLE      =  A06126
+LAUNCH_SITE         =  
+#
+PARENT              =  A06126
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  USNPS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1998/11/28-00:00:00 # 
+PERIGEE             =       541.0 #  
+APOGEE              =       566.0 # 
+INCL                =       28.39 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,46 @@
+# JONATHAN SATELLITE DATA
+# NORAD 65957
+# Created : 2025/10/23-21:25:23
+# ----------------------------
+JCAT         : S65957
+Satcat       : 65957
+Launch_Tag   : 2025-228
+Piece        : 2025-228L
+Type         : P      D    
+Name         : Kuiper-00128
+PLName       : Kuiper KF03-11
+LDate        : 2025 Oct 14
+Parent       : A11654
+SDate        : 2025 Oct 14 0300?
+Primary      : Earth
+DDate        : -
+Status       : O
+Dest         : -
+Owner        : KUIP
+State        : US
+Manufacturer : KUIP
+Bus          : Kuiper
+Motor        : -
+Mass         : 490.0
+MassFlag     : ?
+DryMass      : 490.0
+DryFlag      : ?
+TotMass      : 490.0
+TotFlag      : ?
+Length       : 1.8
+LFlag        : ?
+Diameter     : 0.7
+DFlag        : ?
+Span         : 5.0
+SpanFlag     : ?
+Shape        : Box + 2 pan?
+ODate        : 2025 Oct 14
+Perigee      : 459
+PF           :  
+Apogee       : 467
+AF           :  
+Inc          : 51.88
+IF           :  
+OpOrbit      : LLEO/I
+OQUAL        : -
+AltNames     : -

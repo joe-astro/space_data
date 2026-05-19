@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 19368
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  19368
+LAUNCH_TAG          =  1988-067
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PX-R---
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  X
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  R
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  FSW-1 RV
+PL_NAME             =  FSW-1 RV
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CAST
+BUS_TYPE            =  FSW-1 RV
+MOTOR               =  -
+BOL_MASS            =    534.0 # ?
+CURR_MASS           =    800.0 # ?
+DRY_MASS            =    534.0 # ?
+BUS_SHAPE           =  Rounded Cone
+LENGTH              =      1.5 # 
+DIAMETER            =      1.7 # 
+SPAN                =      1.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1988/08/05-00:00:00 # 
+LAUNCH_VEHICLE      =  S19381
+LAUNCH_SITE         =  
+#
+PARENT              =  S19381
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MAI2
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1988/08/08-00:00:00 # 
+PERIGEE             =       204.0 #  
+APOGEE              =       303.0 # 
+INCL                =       63.02 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

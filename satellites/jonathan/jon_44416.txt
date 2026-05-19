@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 44416
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  44416
+LAUNCH_TAG          =  2019-044
+PIECE               =  F
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P    U
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  U
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Quantum Radar 3
+PL_NAME             =  Quantum Radar 3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  HYPGG
+BUS_TYPE            =  Cubesat 3U?
+MOTOR               =  -
+BOL_MASS            =      5.0 # 
+CURR_MASS           =      5.0 # 
+DRY_MASS            =      5.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2019/07/25-00:00:00 # 
+LAUNCH_VEHICLE      =  A09462*
+LAUNCH_SITE         =  
+#
+PARENT              =  A09462*
+SEPARATION_DATE     =  2019/08/07-00:00:00 # 
+#
+DECAY_DATE          =  2023/03/07-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  HYPGG
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2019/08/13-00:00:00 # 
+PERIGEE             =       469.0 #  
+APOGEE              =       485.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

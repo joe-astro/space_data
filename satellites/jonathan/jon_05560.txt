@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 05560
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  05560
+LAUNCH_TAG          =  1971-089
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  P71-2
+PL_NAME             =  STP P71-2
+ALT_NAMES           =  ASTEX
+#
+MANUFACTURER        =  LMSC
+BUS_TYPE            =  ASTEX
+MOTOR               =  -
+BOL_MASS            =    800.0 # ?
+CURR_MASS           =   1800.0 # ?
+DRY_MASS            =    800.0 # ?
+BUS_SHAPE           =  Cyl + Pan
+LENGTH              =      8.0 # ?
+DIAMETER            =      1.5 # 
+SPAN                =     11.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1971/10/17-00:00:00 # 
+LAUNCH_VEHICLE      =  A02043
+LAUNCH_SITE         =  
+#
+PARENT              =  A02043
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  STP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1971/11/25-00:00:00 # 
+PERIGEE             =       772.0 #  
+APOGEE              =       800.0 # 
+INCL                =       92.73 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AO
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 60002
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  60002
+LAUNCH_TAG          =  1970-027
+PIECE               =  D
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  A
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  A
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Vela spin interstage
+PL_NAME             =  -
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TRW
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =     17.0 # ?
+CURR_MASS           =      0.0 # ?
+DRY_MASS            =     17.0 # ?
+BUS_SHAPE           =  Cyl + 2 Ant
+LENGTH              =      0.1 # ?
+DIAMETER            =      0.3 # ?
+SPAN                =      1.2 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1970/04/08-00:00:00 # 
+LAUNCH_VEHICLE      =  S04368
+LAUNCH_SITE         =  
+#
+PARENT              =  S04368
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SAMSO
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/06/06-00:00:00 # 
+PERIGEE             =      7777.0 #  
+APOGEE              =    121442.0 # 
+INCL                =       17.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  VHEO
+OQUAL               =  -

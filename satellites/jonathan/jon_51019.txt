@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 51019
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  51019
+LAUNCH_TAG          =  2022-002
+PIECE               =  AM
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Pion-BR1
+PL_NAME             =  Pion-BR1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  PION
+BUS_TYPE            =  PocketQube 1P
+MOTOR               =  -
+BOL_MASS            =      0.2 # 
+CURR_MASS           =      0.2 # 
+DRY_MASS            =      0.2 # 
+BUS_SHAPE           =  Box + 2 ant
+LENGTH              =     0.05 # 
+DIAMETER            =     0.05 # 
+SPAN                =      0.2 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/01/13-00:00:00 # 
+LAUNCH_VEHICLE      =  A09943
+LAUNCH_SITE         =  
+#
+PARENT              =  A09943
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2023/05/04-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  PION
+COUNTRY             =  BR
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/01/13-00:00:00 # 
+PERIGEE             =       526.0 #  
+APOGEE              =       534.0 # 
+INCL                =       97.49 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

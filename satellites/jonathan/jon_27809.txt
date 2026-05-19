@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 27809
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  27809
+LAUNCH_TAG          =  2003-019
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Hayabusa
+PL_NAME             =  MUSES C
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ISASS?
+BUS_TYPE            =  MUSES
+MOTOR               =  AOCS
+BOL_MASS            =    489.0 # 
+CURR_MASS           =    509.0 # 
+DRY_MASS            =    359.0 # 
+BUS_SHAPE           =  Box + 2 Pan + Dish
+LENGTH              =      1.5 # 
+DIAMETER            =      2.0 # 
+SPAN                =      5.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2003/05/09-00:00:00 # 
+LAUNCH_VEHICLE      =  S27810
+LAUNCH_SITE         =  
+#
+PARENT              =  S27810
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ISASS
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2003/05/09-00:00:00 # 
+PERIGEE             =       207.0 #  
+APOGEE              =    -86363.0 # 
+INCL                =       31.08 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

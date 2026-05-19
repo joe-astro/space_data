@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 42985
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  42985
+LAUNCH_TAG          =  2017-067
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Falcon 9-045 Stage 2
+PL_NAME             =  F9-045 St2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPX
+BUS_TYPE            =  F9St2
+MOTOR               =  -
+BOL_MASS            =   4000.0 # ?
+CURR_MASS           =   4000.0 # ?
+DRY_MASS            =   4000.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =     12.6 # ?
+DIAMETER            =      3.6 # 
+SPAN                =     12.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2017/10/30-00:00:00 # 
+LAUNCH_VEHICLE      =  R78032
+LAUNCH_SITE         =  
+#
+PARENT              =  R78032
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPX
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2017/11/09-00:00:00 # 
+PERIGEE             =       289.0 #  
+APOGEE              =     50035.0 # 
+INCL                =       22.06 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  HEO
+OQUAL               =  -

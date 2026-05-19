@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 55174
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  55174
+LAUNCH_TAG          =  2023-004
+PIECE               =  AL
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      O
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OneWeb SL0711
+PL_NAME             =  OneWeb L16-009
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ONEWUS
+BUS_TYPE            =  ARROW
+MOTOR               =  -
+BOL_MASS            =    148.0 # 
+CURR_MASS           =    148.0 # 
+DRY_MASS            =    140.0 # ?
+BUS_SHAPE           =  Trapezoid+2 pan
+LENGTH              =      1.3 # 
+DIAMETER            =      1.0 # 
+SPAN                =      5.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/01/10-00:00:00 # 
+LAUNCH_VEHICLE      =  A10830  A2
+LAUNCH_SITE         =  
+#
+PARENT              =  A10830  A2
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ONEWEBN
+COUNTRY             =  UK
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/01/12-00:00:00 # 
+PERIGEE             =       590.0 #  
+APOGEE              =       602.0 # 
+INCL                =       86.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/P
+OQUAL               =  -

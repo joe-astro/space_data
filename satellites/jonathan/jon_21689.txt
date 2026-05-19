@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 21689
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  21689
+LAUNCH_TAG          =  1991-061
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Vostok-2M (N94) Stage 3
+PL_NAME             =  8A92ME
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  PROG
+BUS_TYPE            =  Blok-E
+MOTOR               =  -
+BOL_MASS            =   1440.0 # 
+CURR_MASS           =   1440.0 # 
+DRY_MASS            =   1440.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      3.8 # 
+DIAMETER            =      2.6 # 
+SPAN                =      3.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1991/08/29-00:00:00 # 
+LAUNCH_VEHICLE      =  R59291
+LAUNCH_SITE         =  
+#
+PARENT              =  R59291
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1991/10/02-00:00:00 # 
+PERIGEE             =       868.0 #  
+APOGEE              =       917.0 # 
+INCL                =       99.26 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

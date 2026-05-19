@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 06142
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  06142
+LAUNCH_TAG          =  1972-061
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Explorer 46
+PL_NAME             =  Meteoroid Technology Sat
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LARCN
+BUS_TYPE            =  MTS
+MOTOR               =  -
+BOL_MASS            =    168.0 # 
+CURR_MASS           =    206.0 # 
+DRY_MASS            =    168.0 # 
+BUS_SHAPE           =  Cyl + 4 Pan
+LENGTH              =      3.2 # 
+DIAMETER            =      0.6 # ?
+SPAN                =      7.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1972/08/13-00:00:00 # 
+LAUNCH_VEHICLE      =  A02171
+LAUNCH_SITE         =  
+#
+PARENT              =  A02171
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1979/11/02-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LARCN
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1972/09/12-00:00:00 # 
+PERIGEE             =       494.0 #  
+APOGEE              =       810.0 # 
+INCL                =        37.7 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

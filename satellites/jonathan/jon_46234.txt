@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 46234
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  46234
+LAUNCH_TAG          =  2020-058
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Tiantuo-5
+PL_NAME             =  Tiantuo-5
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NUDTC
+BUS_TYPE            =  TT2
+MOTOR               =  -
+BOL_MASS            =     20.0 # ?
+CURR_MASS           =     20.0 # ?
+DRY_MASS            =     20.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.7 # 
+DIAMETER            =      0.5 # 
+SPAN                =      0.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2020/08/23-00:00:00 # 
+LAUNCH_VEHICLE      =  A09623
+LAUNCH_SITE         =  
+#
+PARENT              =  A09623
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2025/04/19-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NUDTC
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2020/08/25-00:00:00 # 
+PERIGEE             =       484.0 #  
+APOGEE              =       502.0 # 
+INCL                =        97.5 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

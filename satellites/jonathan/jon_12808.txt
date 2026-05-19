@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 12808
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  12808
+LAUNCH_TAG          =  1981-081
+PIECE               =  C
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  N
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  N
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-1299 reactor core
+PL_NAME             =  US-A reactor core
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  KOMET
+BUS_TYPE            =  US-A reactor core
+MOTOR               =  -
+BOL_MASS            =     53.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =     53.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      0.5 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1981/08/24-00:00:00 # 
+LAUNCH_VEHICLE      =  S12783
+LAUNCH_SITE         =  
+#
+PARENT              =  S12783
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  VMF
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1995/05/02-00:00:00 # 
+PERIGEE             =       908.0 #  
+APOGEE              =       960.0 # 
+INCL                =       65.11 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 56154
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  56154
+LAUNCH_TAG          =  2023-047
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Hebi-1
+PL_NAME             =  PIESAT 1-02
+ALT_NAMES           =  Hongtu-1 01 zu 02 xing
+#
+MANUFACTURER        =  YINHE
+BUS_TYPE            =  Piesat
+MOTOR               =  -
+BOL_MASS            =    270.0 # 
+CURR_MASS           =    270.0 # 
+DRY_MASS            =    270.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      1.0 # 
+DIAMETER            =      1.0 # 
+SPAN                =      4.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/03/30-00:00:00 # 
+LAUNCH_VEHICLE      =  A10917
+LAUNCH_SITE         =  
+#
+PARENT              =  A10917
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  PIESAT
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/03/30-00:00:00 # 
+PERIGEE             =       498.0 #  
+APOGEE              =       512.0 # 
+INCL                =       97.44 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

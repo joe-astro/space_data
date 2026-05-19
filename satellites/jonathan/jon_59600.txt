@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 59600
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  59600
+LAUNCH_TAG          =  2024-079
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  GalileoSat-30
+PL_NAME             =  Galileo FOC FM27
+ALT_NAMES           =  GSAT0227,Galileo 10E
+#
+MANUFACTURER        =  OHB
+BUS_TYPE            =  Galileo
+MOTOR               =  AOCS
+BOL_MASS            =    733.0 # 
+CURR_MASS           =    733.0 # 
+DRY_MASS            =    660.0 # 
+BUS_SHAPE           =  Box+2 pan
+LENGTH              =      2.7 # 
+DIAMETER            =      1.6 # 
+SPAN                =     14.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/04/28-00:00:00 # 
+LAUNCH_VEHICLE      =  S59599
+LAUNCH_SITE         =  
+#
+PARENT              =  S59599
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  EUSPA
+COUNTRY             =  I-EU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/07/14-00:00:00 # 
+PERIGEE             =     22654.0 #  
+APOGEE              =     23782.0 # 
+INCL                =       54.73 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

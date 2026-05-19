@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 58755
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  58755
+LAUNCH_TAG          =  2023-185
+PIECE               =  S
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  NanoFF B
+PL_NAME             =  NanoFF 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TUB
+BUS_TYPE            =  Cubesat 2U
+MOTOR               =  -
+BOL_MASS            =      2.7 # 
+CURR_MASS           =      2.7 # 
+DRY_MASS            =      2.7 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.2 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/12/01-00:00:00 # 
+LAUNCH_VEHICLE      =  A11093
+LAUNCH_SITE         =  
+#
+PARENT              =  A11093
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TUB
+COUNTRY             =  D
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/01/10-00:00:00 # 
+PERIGEE             =       549.0 #  
+APOGEE              =       572.0 # 
+INCL                =       97.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

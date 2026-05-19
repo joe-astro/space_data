@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 58642
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  58642
+LAUNCH_TAG          =  2023-185
+PIECE               =  N
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Unicorn-2N
+PL_NAME             =  Unicorn-2N
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ALBA
+BUS_TYPE            =  PocketQube 3P
+MOTOR               =  -
+BOL_MASS            =     0.75 # ?
+CURR_MASS           =     0.75 # ?
+DRY_MASS            =     0.75 # ?
+BUS_SHAPE           =  Box+2 pan
+LENGTH              =     0.15 # 
+DIAMETER            =     0.05 # 
+SPAN                =     0.45 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/12/01-00:00:00 # 
+LAUNCH_VEHICLE      =  A11093
+LAUNCH_SITE         =  
+#
+PARENT              =  A11093
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2024/12/25-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ALBAD
+COUNTRY             =  D
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/12/23-00:00:00 # 
+PERIGEE             =       552.0 #  
+APOGEE              =       578.0 # 
+INCL                =       97.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

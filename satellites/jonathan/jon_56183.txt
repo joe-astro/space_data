@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 56183
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  56183
+LAUNCH_TAG          =  2023-054
+PIECE               =  F
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Sateliot-0
+PL_NAME             =  Platform-3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ENDUR
+BUS_TYPE            =  Cubesat 6U
+MOTOR               =  -
+BOL_MASS            =    7.407 # 
+CURR_MASS           =    7.407 # 
+DRY_MASS            =    7.407 # 
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      0.3 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/04/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A10926
+LAUNCH_SITE         =  
+#
+PARENT              =  A10926
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2025/07/29-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  STIOT
+COUNTRY             =  E
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/04/15-00:00:00 # 
+PERIGEE             =       497.0 #  
+APOGEE              =       507.0 # 
+INCL                =       97.41 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 33376
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  33376
+LAUNCH_TAG          =  2008-045
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      O
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Galaxy 19
+PL_NAME             =  Galaxy 19
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LOR
+BUS_TYPE            =  SSL-1300
+MOTOR               =  R-4D-15-300
+BOL_MASS            =   4640.0 # 
+CURR_MASS           =   4640.0 # 
+DRY_MASS            =   2000.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      5.6 # ?
+DIAMETER            =      2.8 # ?
+SPAN                =     31.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2008/09/24-00:00:00 # 
+LAUNCH_VEHICLE      =  S33377
+LAUNCH_SITE         =  
+#
+PARENT              =  S33377
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  INTELD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2008/10/01-00:00:00 # 
+PERIGEE             =     35643.0 #  
+APOGEE              =     35812.0 # 
+INCL                =        0.08 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/D
+OQUAL               =  -

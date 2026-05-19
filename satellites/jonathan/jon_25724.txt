@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 25724
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  25724
+LAUNCH_TAG          =  1999-023
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Milstar 3
+PL_NAME             =  Milstar DFS-3
+ALT_NAMES           =  USA 143:U,Milstar II F1
+#
+MANUFACTURER        =  LMMS
+BUS_TYPE            =  Milstar
+MOTOR               =  -
+BOL_MASS            =   4500.0 # 
+CURR_MASS           =   4500.0 # 
+DRY_MASS            =   4200.0 # ?
+BUS_SHAPE           =  Truss + Ant
+LENGTH              =     15.5 # 
+DIAMETER            =      5.0 # ?
+SPAN                =     35.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1999/04/30-00:00:00 # 
+LAUNCH_VEHICLE      =  S25725
+LAUNCH_SITE         =  
+#
+PARENT              =  S25725
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSMC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1999/06/06-00:00:00 # 
+PERIGEE             =      1094.0 #  
+APOGEE              =      5152.0 # 
+INCL                =        28.2 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

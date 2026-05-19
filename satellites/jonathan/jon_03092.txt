@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03092
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03092
+LAUNCH_TAG          =  1968-001
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2  D
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Centaur AC-15
+PL_NAME             =  Centaur 12D
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GDC
+BUS_TYPE            =  Centaur D
+MOTOR               =  -
+BOL_MASS            =   2000.0 # 
+CURR_MASS           =   2000.0 # 
+DRY_MASS            =   2000.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      8.6 # 
+DIAMETER            =      3.0 # 
+SPAN                =      8.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1968/01/07-00:00:00 # 
+LAUNCH_VEHICLE      =  R17402
+LAUNCH_SITE         =  
+#
+PARENT              =  R17402
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1968/01/09-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LERC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1968/01/07-00:00:00 # 
+PERIGEE             =       166.0 #  
+APOGEE              =    483702.0 # 
+INCL                =       30.68 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  CLO
+OQUAL               =  -

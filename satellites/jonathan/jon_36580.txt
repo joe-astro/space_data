@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 36580
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  36580
+LAUNCH_TAG          =  2010-020
+PIECE               =  H
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  AD
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  A
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  PAF900M
+PL_NAME             =  Adapter
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ISASJ?
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =     30.0 # ?
+CURR_MASS           =     30.0 # ?
+DRY_MASS            =     30.0 # ?
+BUS_SHAPE           =  Frust
+LENGTH              =      1.5 # ?
+DIAMETER            =      1.5 # ?
+SPAN                =      1.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2010/05/20-00:00:00 # 
+LAUNCH_VEHICLE      =  S36579
+LAUNCH_SITE         =  
+#
+PARENT              =  S36579
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JAXA
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2010/05/20-00:00:00 # 
+PERIGEE             =       298.0 #  
+APOGEE              =    -56249.0 # 
+INCL                =       31.47 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

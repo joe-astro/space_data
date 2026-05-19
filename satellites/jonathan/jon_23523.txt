@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 23523
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  23523
+LAUNCH_TAG          =  1995-011
+PIECE               =  C
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  H-II-3F Stage 2
+PL_NAME             =  H-II Stage 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MHITO
+BUS_TYPE            =  LE-5A
+MOTOR               =  -
+BOL_MASS            =   3030.0 # ?
+CURR_MASS           =   3030.0 # ?
+DRY_MASS            =   2700.0 # 
+BUS_SHAPE           =  Step Cyl
+LENGTH              =     11.0 # 
+DIAMETER            =      4.0 # 
+SPAN                =     11.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1995/03/18-00:00:00 # 
+LAUNCH_VEHICLE      =  R62008
+LAUNCH_SITE         =  
+#
+PARENT              =  R62008
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NASDA
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1995/04/17-00:00:00 # 
+PERIGEE             =       287.0 #  
+APOGEE              =     33186.0 # 
+INCL                =       25.55 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  HEO
+OQUAL               =  -

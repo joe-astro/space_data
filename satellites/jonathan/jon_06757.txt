@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 06757
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  06757
+LAUNCH_TAG          =  1973-050
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PH H V
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  H
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  V
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Skylab SL-3
+PL_NAME             =  Apollo CM-117
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RWID
+BUS_TYPE            =  CM
+MOTOR               =  -
+BOL_MASS            =   5932.0 # 
+CURR_MASS           =  14168.0 # 
+DRY_MASS            =   5505.0 # 
+BUS_SHAPE           =  Cone
+LENGTH              =      3.5 # 
+DIAMETER            =      3.9 # 
+SPAN                =      3.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1973/07/28-00:00:00 # 
+LAUNCH_VEHICLE      =  A02332
+LAUNCH_SITE         =  
+#
+PARENT              =  A02332
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1973/08/08-00:00:00 # 
+PERIGEE             =       425.0 #  
+APOGEE              =       439.0 # 
+INCL                =       50.03 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DK
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

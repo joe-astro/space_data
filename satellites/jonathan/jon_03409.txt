@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03409
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03409
+LAUNCH_TAG          =  1968-078
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  VAMPAN I
+PL_NAME             =  P-11 No. 4413
+ALT_NAMES           =  NRO Mission 7325,OPS 8595
+#
+MANUFACTURER        =  LMSC/EDLS
+BUS_TYPE            =  P-11
+MOTOR               =  SRS Motor
+BOL_MASS            =     95.0 # 
+CURR_MASS           =    105.0 # 
+DRY_MASS            =     95.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.8 # 
+SPAN                =      0.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1968/09/18-00:00:00 # 
+LAUNCH_VEHICLE      =  A01424
+LAUNCH_SITE         =  
+#
+PARENT              =  A01424
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1969/09/28-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1968/10/29-00:00:00 # 
+PERIGEE             =       491.0 #  
+APOGEE              =       503.0 # 
+INCL                =       83.21 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

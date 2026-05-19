@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 04571
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  04571
+LAUNCH_TAG          =  1970-080
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-368
+PL_NAME             =  Zenit-2M No. 9L (Bion)
+ALT_NAMES           =  11F690 No. Yu15002-29:RA
+#
+MANUFACTURER        =  TSKBE3
+BUS_TYPE            =  Zenit-2M
+MOTOR               =  -
+BOL_MASS            =   2200.0 # ?
+CURR_MASS           =   6030.0 # ?
+DRY_MASS            =   2200.0 # ?
+BUS_SHAPE           =  Sphere + DCone
+LENGTH              =      6.5 # ?
+DIAMETER            =      2.4 # ?
+SPAN                =      6.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1970/10/08-00:00:00 # 
+LAUNCH_VEHICLE      =  S04572
+LAUNCH_SITE         =  
+#
+PARENT              =  S04572
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  IMBP/GUKOSR
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1970/10/12-00:00:00 # 
+PERIGEE             =       205.0 #  
+APOGEE              =       394.0 # 
+INCL                =       64.99 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

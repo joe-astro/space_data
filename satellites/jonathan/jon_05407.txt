@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 05407
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  05407
+LAUNCH_TAG          =  1971-069
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP-H
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-434
+PL_NAME             =  LK T2K No. 3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TSKBEM
+BUS_TYPE            =  T2K
+MOTOR               =  -
+BOL_MASS            =   1170.0 # ?
+CURR_MASS           =   5560.0 # ?
+DRY_MASS            =   1170.0 # ?
+BUS_SHAPE           =  Sphere
+LENGTH              =      5.2 # 
+DIAMETER            =      3.0 # 
+SPAN                =      5.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1971/08/12-00:00:00 # 
+LAUNCH_VEHICLE      =  S05408
+LAUNCH_SITE         =  
+#
+PARENT              =  S05408
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1981/08/23-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TSKBEM
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1971/09/11-00:00:00 # 
+PERIGEE             =       188.0 #  
+APOGEE              =     11777.0 # 
+INCL                =       51.58 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

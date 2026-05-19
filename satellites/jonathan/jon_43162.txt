@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43162
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43162
+LAUNCH_TAG          =  2018-009
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  SBIRS GEO-3
+PL_NAME             =  SBIRS GEO SV3
+ALT_NAMES           =  USA 282
+#
+MANUFACTURER        =  LMSS
+BUS_TYPE            =  A2100
+MOTOR               =  Leros 1C?
+BOL_MASS            =   4500.0 # ?
+CURR_MASS           =   4500.0 # ?
+DRY_MASS            =   2500.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      6.0 # ?
+DIAMETER            =      2.5 # ?
+SPAN                =     25.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/01/20-00:00:00 # 
+LAUNCH_VEHICLE      =  A09088
+LAUNCH_SITE         =  
+#
+PARENT              =  A09088
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSPC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/04/05-00:00:00 # 
+PERIGEE             =     35758.0 #  
+APOGEE              =     35815.0 # 
+INCL                =        6.33 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/I
+OQUAL               =  -

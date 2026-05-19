@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00285
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00285
+LAUNCH_TAG          =  1962-OMI
+PIECE               =  1
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Ariel 1
+PL_NAME             =  UK 1
+ALT_NAMES           =  NASA S-51:P
+#
+MANUFACTURER        =  GSFC/WTA
+BUS_TYPE            =  Ariel
+MOTOR               =  -
+BOL_MASS            =     60.0 # 
+CURR_MASS           =     62.0 # 
+DRY_MASS            =     60.0 # 
+BUS_SHAPE           =  Cyl + 4 Pan + 2 Ant
+LENGTH              =      0.6 # 
+DIAMETER            =      0.6 # 
+SPAN                =      3.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1962/04/26-00:00:00 # 
+LAUNCH_VEHICLE      =  S00288
+LAUNCH_SITE         =  
+#
+PARENT              =  S00288
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1976/05/24-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  BNC
+COUNTRY             =  UK
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1962/06/14-00:00:00 # 
+PERIGEE             =       397.0 #  
+APOGEE              =      1202.0 # 
+INCL                =       53.86 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

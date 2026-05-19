@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 51441
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  51441
+LAUNCH_TAG          =  2021-127
+PIECE               =  TD
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P    D  ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  D
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  TARGIT
+PL_NAME             =  TARGIT
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GIT
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      4.5 # 
+CURR_MASS           =      4.5 # 
+DRY_MASS            =      4.5 # 
+BUS_SHAPE           =  Box+ 2 pan
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/12/21-00:00:00 # 
+LAUNCH_VEHICLE      =  A09924*
+LAUNCH_SITE         =  
+#
+PARENT              =  A09924*
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2022/11/16-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GIT
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/01/28-00:00:00 # 
+PERIGEE             =       407.0 #  
+APOGEE              =       421.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

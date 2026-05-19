@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 62377
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  62377
+LAUNCH_TAG          =  2024-247
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ADD-425-3
+PL_NAME             =  ADD-425-3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  KRAI
+BUS_TYPE            =  CAS500?
+MOTOR               =  -
+BOL_MASS            =    800.0 # ?
+CURR_MASS           =    800.0 # ?
+DRY_MASS            =    750.0 # ?
+BUS_SHAPE           =  Hex+3 pan
+LENGTH              =      2.9 # 
+DIAMETER            =      1.9 # 
+SPAN                =      6.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/12/21-00:00:00 # 
+LAUNCH_VEHICLE      =  A11382
+LAUNCH_SITE         =  
+#
+PARENT              =  A11382
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DAPA
+COUNTRY             =  KR
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/12/21-00:00:00 # 
+PERIGEE             =       570.0 #  
+APOGEE              =       574.0 # 
+INCL                =       45.41 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  K

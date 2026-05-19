@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02805
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02805
+LAUNCH_TAG          =  1967-046
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-159
+PL_NAME             =  E-6LS No. 111
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOL
+BUS_TYPE            =  E-6 DU
+MOTOR               =  KTDU-5A
+BOL_MASS            =   1300.0 # ?
+CURR_MASS           =   1612.0 # ?
+DRY_MASS            =   1300.0 # ?
+BUS_SHAPE           =  Cone + Cyl
+LENGTH              =      4.5 # ?
+DIAMETER            =      2.0 # ?
+SPAN                =      4.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1967/05/16-00:00:00 # 
+LAUNCH_VEHICLE      =  S02924
+LAUNCH_SITE         =  
+#
+PARENT              =  S02924
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1977/11/11-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  IKI/BABTS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1967/07/25-00:00:00 # 
+PERIGEE             =       671.0 #  
+APOGEE              =     60294.0 # 
+INCL                =       51.86 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  HEO
+OQUAL               =  -

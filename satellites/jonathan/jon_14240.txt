@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 14240
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  14240
+LAUNCH_TAG          =  1983-079
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-1486
+PL_NAME             =  Strela-2M No. [42?]
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOPM
+BUS_TYPE            =  Strela-2M
+MOTOR               =  -
+BOL_MASS            =    800.0 # 
+CURR_MASS           =    800.0 # 
+DRY_MASS            =    800.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      3.0 # 
+DIAMETER            =      2.0 # 
+SPAN                =      3.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1983/08/03-00:00:00 # 
+LAUNCH_VEHICLE      =  S14241
+LAUNCH_SITE         =  
+#
+PARENT              =  S14241
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GUKOS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1992/06/29-00:00:00 # 
+PERIGEE             =       777.0 #  
+APOGEE              =       797.0 # 
+INCL                =       74.05 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

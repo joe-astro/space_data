@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 23613
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  23613
+LAUNCH_TAG          =  1995-035
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ---S-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  TDRS 7
+PL_NAME             =  TDRS G
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TRW
+BUS_TYPE            =  TDRS
+MOTOR               =  AOCS
+BOL_MASS            =   2225.0 # 
+CURR_MASS           =   2225.0 # 
+DRY_MASS            =   1673.0 # ?
+BUS_SHAPE           =  Box + Dish + 2 Pan
+LENGTH              =      1.3 # 
+DIAMETER            =      2.4 # 
+SPAN                =     17.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1995/07/13-00:00:00 # 
+LAUNCH_VEHICLE      =  S23615
+LAUNCH_SITE         =  
+#
+PARENT              =  S23615
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1995/08/12-00:00:00 # 
+PERIGEE             =     35784.0 #  
+APOGEE              =     35791.0 # 
+INCL                =        0.03 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

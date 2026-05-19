@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 06978
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  06978
+LAUNCH_TAG          =  1973-101
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Delta 99
+PL_NAME             =  Delta DSV-3E-5
+ALT_NAMES           =  Delta 1900
+#
+MANUFACTURER        =  AJ
+BUS_TYPE            =  DSV-3E-5
+MOTOR               =  AJ10-118F
+BOL_MASS            =    771.0 # 
+CURR_MASS           =    771.0 # 
+DRY_MASS            =    771.0 # 
+BUS_SHAPE           =  Cyl + Nozzle
+LENGTH              =      4.8 # 
+DIAMETER            =      1.4 # 
+SPAN                =      4.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1973/12/16-00:00:00 # 
+LAUNCH_VEHICLE      =  R30578
+LAUNCH_SITE         =  
+#
+PARENT              =  R30578
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1974/08/14-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1974/01/15-00:00:00 # 
+PERIGEE             =       154.0 #  
+APOGEE              =      3937.0 # 
+INCL                =       68.06 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

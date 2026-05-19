@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 01730
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  01730
+LAUNCH_TAG          =  1965-091
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Venera-2
+PL_NAME             =  3MV-4 No. 4
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  OKB1
+BUS_TYPE            =  MV
+MOTOR               =  KDU-414
+BOL_MASS            =    963.0 # 
+CURR_MASS           =    963.0 # 
+DRY_MASS            =    963.0 # 
+BUS_SHAPE           =  Step Cyl + 2 Pan + Dish
+LENGTH              =      3.7 # ?
+DIAMETER            =      1.1 # 
+SPAN                =      3.7 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1965/11/12-00:00:00 # 
+LAUNCH_VEHICLE      =  A00820
+LAUNCH_SITE         =  
+#
+PARENT              =  A00820
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1965/11/14-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  OKB1
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1965/11/12-00:00:00 # 
+PERIGEE             =       205.0 #  
+APOGEE              =       315.0 # 
+INCL                =       51.88 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

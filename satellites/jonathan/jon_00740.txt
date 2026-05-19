@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00740
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00740
+LAUNCH_TAG          =  1964-004
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Echo 2
+PL_NAME             =  NASA A-12
+ALT_NAMES           =  Echo C:P
+#
+MANUFACTURER        =  SCHJ
+BUS_TYPE            =  Echo 135'
+MOTOR               =  -
+BOL_MASS            =    278.0 # 
+CURR_MASS           =    278.0 # 
+DRY_MASS            =    256.0 # 
+BUS_SHAPE           =  Sphere
+LENGTH              =     41.0 # 
+DIAMETER            =     41.0 # 
+SPAN                =     41.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1964/01/25-00:00:00 # 
+LAUNCH_VEHICLE      =  S00742
+LAUNCH_SITE         =  
+#
+PARENT              =  S00742
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1969/06/07-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LARCN
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1964/02/24-00:00:00 # 
+PERIGEE             =      1008.0 #  
+APOGEE              =      1338.0 # 
+INCL                =       81.48 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

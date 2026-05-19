@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 34607
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  34607
+LAUNCH_TAG          =  2009-012
+PIECE               =  BP
+NORAD_TYPE          =  D
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  D  J I
+COURSE_TYPE         =  D
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  J
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  I
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  S6 SSU Thermal Cover
+PL_NAME             =  -
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  -
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =      0.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =      0.0 # 
+BUS_SHAPE           =  Fabric
+LENGTH              =      0.5 # ?
+DIAMETER            =      0.5 # ?
+SPAN                =      0.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2009/03/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A07476*
+LAUNCH_SITE         =  
+#
+PARENT              =  A07476*
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2009/04/04-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2009/03/20-00:00:00 # 
+PERIGEE             =       345.0 #  
+APOGEE              =       360.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

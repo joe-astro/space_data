@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 59579
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  59579
+LAUNCH_TAG          =  2024-076
+PIECE               =  R
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      O
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Starlink 31686
+PL_NAME             =  Starlink Group 6-53-16
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPXS
+BUS_TYPE            =  Starlink V2M
+MOTOR               =  -
+BOL_MASS            =    730.0 # 
+CURR_MASS           =    730.0 # 
+DRY_MASS            =    700.0 # ?
+BUS_SHAPE           =  Box + pan
+LENGTH              =      0.3 # ?
+DIAMETER            =      4.1 # 
+SPAN                =     29.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/04/23-00:00:00 # 
+LAUNCH_VEHICLE      =  A11196
+LAUNCH_SITE         =  
+#
+PARENT              =  A11196
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPXS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/04/24-00:00:00 # 
+PERIGEE             =       284.0 #  
+APOGEE              =       292.0 # 
+INCL                =       43.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

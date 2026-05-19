@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03771
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03771
+LAUNCH_TAG          =  1969-018
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP H
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Apollo 9 LM
+PL_NAME             =  LM 3 AS
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GRUM
+BUS_TYPE            =  LM AS
+MOTOR               =  -
+BOL_MASS            =   4176.0 # 
+CURR_MASS           =   4176.0 # 
+DRY_MASS            =   2300.0 # 
+BUS_SHAPE           =  Irr
+LENGTH              =      3.2 # 
+DIAMETER            =      4.3 # 
+SPAN                =      3.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1969/03/03-00:00:00 # 
+LAUNCH_VEHICLE      =  A01540
+LAUNCH_SITE         =  
+#
+PARENT              =  A01540
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1981/10/23-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1969/04/02-00:00:00 # 
+PERIGEE             =       229.0 #  
+APOGEE              =      6896.0 # 
+INCL                =       28.91 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

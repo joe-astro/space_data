@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 32023
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  32023
+LAUNCH_TAG          =  1997-070
+PIECE               =  H
+NORAD_TYPE          =  D
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  D  P
+COURSE_TYPE         =  D
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  P
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  deb DM2M-8L SOZ-2
+PL_NAME             =  -
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RKKE
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =      0.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =      0.0 # 
+BUS_SHAPE           =  -
+LENGTH              =      0.0 # 
+DIAMETER            =      0.0 # 
+SPAN                =      0.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1997/11/12-00:00:00 # 
+LAUNCH_VEHICLE      =  S25054
+LAUNCH_SITE         =  
+#
+PARENT              =  S25054
+SEPARATION_DATE     =  2007/02/14-00:00:00 # 
+#
+DECAY_DATE          =  2010/12/15-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  KVR
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2007/08/15-00:00:00 # 
+PERIGEE             =       866.0 #  
+APOGEE              =     13303.0 # 
+INCL                =       46.67 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

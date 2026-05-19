@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00012
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00012
+LAUNCH_TAG          =  1959-ALP
+PIECE               =  2
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Vanguard SLV-4 Stage 3
+PL_NAME             =  GRC 33-KS-2800 175-15-21
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GCR
+BUS_TYPE            =  33-KS-2800
+MOTOR               =  -
+BOL_MASS            =    195.0 # 
+CURR_MASS           =     22.0 # 
+DRY_MASS            =     22.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.5 # 
+DIAMETER            =      0.7 # 
+SPAN                =      1.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1959/02/17-00:00:00 # 
+LAUNCH_VEHICLE      =  R02749
+LAUNCH_SITE         =  
+#
+PARENT              =  R02749
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  BSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1959/04/28-00:00:00 # 
+PERIGEE             =       564.0 #  
+APOGEE              =      3679.0 # 
+INCL                =       32.88 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

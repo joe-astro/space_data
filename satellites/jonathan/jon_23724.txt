@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 23724
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  23724
+LAUNCH_TAG          =  1995-064
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  CZ-2E Y7 Stage 2
+PL_NAME             =  CZ-2E Stage 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  BWYIC
+BUS_TYPE            =  CZ-2E Stage 2
+MOTOR               =  -
+BOL_MASS            =   5500.0 # 
+CURR_MASS           =   5500.0 # 
+DRY_MASS            =   5500.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =     15.5 # 
+DIAMETER            =      3.4 # 
+SPAN                =     15.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1995/11/28-00:00:00 # 
+LAUNCH_VEHICLE      =  R62404
+LAUNCH_SITE         =  
+#
+PARENT              =  R62404
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1995/12/05-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CNSA
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1995/11/30-00:00:00 # 
+PERIGEE             =       184.0 #  
+APOGEE              =       280.0 # 
+INCL                =       28.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

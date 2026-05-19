@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 38734
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  38734
+LAUNCH_TAG          =  2012-041
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Gonets-M No. 13L
+PL_NAME             =  Gonets-M No. 13L
+ALT_NAMES           =  372AS11 No. 13:P
+#
+MANUFACTURER        =  RESH
+BUS_TYPE            =  Strela-3
+MOTOR               =  -
+BOL_MASS            =    280.0 # 
+CURR_MASS           =    280.0 # 
+DRY_MASS            =    280.0 # 
+BUS_SHAPE           =  Cyl + Ant
+LENGTH              =      1.6 # 
+DIAMETER            =      0.8 # 
+SPAN                =      7.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2012/07/28-00:00:00 # 
+LAUNCH_VEHICLE      =  S38737
+LAUNCH_SITE         =  
+#
+PARENT              =  S38737
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GONETS
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2012/07/30-00:00:00 # 
+PERIGEE             =      1480.0 #  
+APOGEE              =      1508.0 # 
+INCL                =       82.48 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

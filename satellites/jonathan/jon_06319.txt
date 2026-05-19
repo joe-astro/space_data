@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 06319
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  06319
+LAUNCH_TAG          =  1972-102
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-539
+PL_NAME             =  Sfera No. 19L
+ALT_NAMES           =  11F621 No. Yu226-19L:RA
+#
+MANUFACTURER        =  OKB10
+BUS_TYPE            =  KAUR-1 11F621
+MOTOR               =  -
+BOL_MASS            =    800.0 # 
+CURR_MASS           =    800.0 # 
+DRY_MASS            =    800.0 # 
+BUS_SHAPE           =  Cyl + Ant
+LENGTH              =      3.0 # 
+DIAMETER            =      2.0 # 
+SPAN                =     17.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1972/12/21-00:00:00 # 
+LAUNCH_VEHICLE      =  S06320
+LAUNCH_SITE         =  
+#
+PARENT              =  S06320
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  OKB10
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1973/01/22-00:00:00 # 
+PERIGEE             =      1342.0 #  
+APOGEE              =      1381.0 # 
+INCL                =       74.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

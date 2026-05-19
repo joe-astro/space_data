@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 09007
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  09007
+LAUNCH_TAG          =  1976-065
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  S3-3
+PL_NAME             =  S3-3
+ALT_NAMES           =  STP S74-2:PN
+#
+MANUFACTURER        =  BOKT
+BUS_TYPE            =  S3
+MOTOR               =  Star 17A
+BOL_MASS            =    160.0 # 
+CURR_MASS           =    285.0 # 
+DRY_MASS            =    160.0 # 
+BUS_SHAPE           =  Box + 4 Ant
+LENGTH              =      0.5 # 
+DIAMETER            =      1.6 # 
+SPAN                =     36.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1976/07/08-00:00:00 # 
+LAUNCH_VEHICLE      =  S09006
+LAUNCH_SITE         =  
+#
+PARENT              =  S09006
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1986/04/24-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  STP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1980/08/21-00:00:00 # 
+PERIGEE             =       232.0 #  
+APOGEE              =      6038.0 # 
+INCL                =       97.46 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

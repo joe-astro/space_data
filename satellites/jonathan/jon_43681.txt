@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43681
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43681
+LAUNCH_TAG          =  2018-084
+PIECE               =  K
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  AUTCube-2
+PL_NAME             =  AUTCube-2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  AUT
+BUS_TYPE            =  Cubesat 1U
+MOTOR               =  -
+BOL_MASS            =      1.6 # 
+CURR_MASS           =      1.6 # 
+DRY_MASS            =      1.6 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.1 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/10/29-00:00:00 # 
+LAUNCH_VEHICLE      =  S43682
+LAUNCH_SITE         =  
+#
+PARENT              =  S43682
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AUT
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/10/29-00:00:00 # 
+PERIGEE             =       586.0 #  
+APOGEE              =       608.0 # 
+INCL                =       97.83 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

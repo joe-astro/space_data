@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 53319
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  53319
+LAUNCH_TAG          =  2022-088
+PIECE               =  D
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  A
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  A
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  YG-35-03 Adapter
+PL_NAME             =  Adapter
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SAST
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =    300.0 # 
+CURR_MASS           =    300.0 # 
+DRY_MASS            =    300.0 # 
+BUS_SHAPE           =  Cone
+LENGTH              =      1.0 # 
+DIAMETER            =      3.3 # 
+SPAN                =      3.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/07/29-00:00:00 # 
+LAUNCH_VEHICLE      =  S53317
+LAUNCH_SITE         =  
+#
+PARENT              =  S53317
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2023/06/27-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CASC
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/07/29-00:00:00 # 
+PERIGEE             =       483.0 #  
+APOGEE              =       501.0 # 
+INCL                =        35.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

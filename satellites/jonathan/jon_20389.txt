@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20389
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20389
+LAUNCH_TAG          =  1989-100
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-2053
+PL_NAME             =  Kol'tso No. 2L
+ALT_NAMES           =  17F115 No. 670-27-902:RA
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  Kol'tso
+MOTOR               =  -
+BOL_MASS            =   1450.0 # ?
+CURR_MASS           =   1630.0 # 
+DRY_MASS            =   1450.0 # ?
+BUS_SHAPE           =  Cyl + 8 Pan + Ant
+LENGTH              =      3.3 # 
+DIAMETER            =      1.6 # 
+SPAN                =     33.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1989/12/27-00:00:00 # 
+LAUNCH_VEHICLE      =  S20390
+LAUNCH_SITE         =  
+#
+PARENT              =  S20390
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1997/09/02-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  PVO
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/01/28-00:00:00 # 
+PERIGEE             =       518.0 #  
+APOGEE              =       531.0 # 
+INCL                =       73.54 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

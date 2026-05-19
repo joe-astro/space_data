@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20480
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20480
+LAUNCH_TAG          =  1990-013
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Fuji-OSCAR-20
+PL_NAME             =  JAS-1b
+ALT_NAMES           =  FO-20,Fuji-2
+#
+MANUFACTURER        =  JARL
+BUS_TYPE            =  JAS
+MOTOR               =  -
+BOL_MASS            =     50.0 # 
+CURR_MASS           =     50.0 # 
+DRY_MASS            =     50.0 # 
+BUS_SHAPE           =  Poly
+LENGTH              =      0.5 # 
+DIAMETER            =      0.4 # 
+SPAN                =      0.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1990/02/07-00:00:00 # 
+LAUNCH_VEHICLE      =  S20491
+LAUNCH_SITE         =  
+#
+PARENT              =  S20491
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JARL
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/03/16-00:00:00 # 
+PERIGEE             =       912.0 #  
+APOGEE              =      1745.0 # 
+INCL                =       99.05 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00110
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00110
+LAUNCH_TAG          =  1958-ETA
+PIECE               =  
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Pioneer I
+PL_NAME             =  Able II
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TRW
+BUS_TYPE            =  Able I Pioneer
+MOTOR               =  TX-8 Falcon
+BOL_MASS            =     22.0 # 
+CURR_MASS           =     38.0 # 
+DRY_MASS            =     22.0 # 
+BUS_SHAPE           =  DCone
+LENGTH              =      0.7 # 
+DIAMETER            =      0.7 # 
+SPAN                =      1.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1958/10/11-00:00:00 # 
+LAUNCH_VEHICLE      =  A00010
+LAUNCH_SITE         =  
+#
+PARENT              =  A00010
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NASA/TRW
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1958/10/11-00:00:00 # 
+PERIGEE             =      -870.0 #  
+APOGEE              =    113860.0 # 
+INCL                =       35.89 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  SO
+OQUAL               =  -

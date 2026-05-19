@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43609
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43609
+LAUNCH_TAG          =  2018-068
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Hai Yang 1-03
+PL_NAME             =  Hai Yang 01 hao C xing
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  DFHZ
+BUS_TYPE            =  CAST-968
+MOTOR               =  -
+BOL_MASS            =    442.0 # 
+CURR_MASS           =    442.0 # 
+DRY_MASS            =    429.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      1.4 # 
+DIAMETER            =      1.0 # 
+SPAN                =      7.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/09/07-00:00:00 # 
+LAUNCH_VEHICLE      =  S43610
+LAUNCH_SITE         =  
+#
+PARENT              =  S43610
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GYZ/CASC
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/09/09-00:00:00 # 
+PERIGEE             =       769.0 #  
+APOGEE              =       786.0 # 
+INCL                =        98.6 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

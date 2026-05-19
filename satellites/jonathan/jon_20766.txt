@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20766
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20766
+LAUNCH_TAG          =  1990-075
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Tsiklon-2 76-104 Stage 2
+PL_NAME             =  11S692
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  11S692
+MOTOR               =  -
+BOL_MASS            =   4000.0 # 
+CURR_MASS           =   4000.0 # 
+DRY_MASS            =   4000.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =     10.9 # 
+DIAMETER            =      3.0 # 
+SPAN                =     10.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1990/08/23-00:00:00 # 
+LAUNCH_VEHICLE      =  L68298
+LAUNCH_SITE         =  
+#
+PARENT              =  L68298
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1990/08/24-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  UNKS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/08/23-00:00:00 # 
+PERIGEE             =       106.0 #  
+APOGEE              =       295.0 # 
+INCL                =       64.98 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00206
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00206
+LAUNCH_TAG          =  1961-A-THE
+PIECE               =  HE
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Ranger 2
+PL_NAME             =  NASA P-33
+ALT_NAMES           =  RA-2:P
+#
+MANUFACTURER        =  JPL
+BUS_TYPE            =  Ranger Block I
+MOTOR               =  -
+BOL_MASS            =    306.0 # 
+CURR_MASS           =    306.0 # 
+DRY_MASS            =    306.0 # 
+BUS_SHAPE           =  Hex Cyl + Truss + 2 Pan
+LENGTH              =      3.6 # 
+DIAMETER            =      1.5 # 
+SPAN                =      5.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1961/11/18-00:00:00 # 
+LAUNCH_VEHICLE      =  A00151
+LAUNCH_SITE         =  
+#
+PARENT              =  A00151
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1961/11/20-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JPL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1961/11/19-00:00:00 # 
+PERIGEE             =       149.0 #  
+APOGEE              =       169.0 # 
+INCL                =       33.34 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43071
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43071
+LAUNCH_TAG          =  2017-083
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      O
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Iridium Next SV138
+PL_NAME             =  Iridium Next SV138
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  OATKGA
+BUS_TYPE            =  EliteBus
+MOTOR               =  -
+BOL_MASS            =    860.0 # 
+CURR_MASS           =    860.0 # 
+DRY_MASS            =    700.0 # 
+BUS_SHAPE           =  Half Hex Prism+2 pan
+LENGTH              =      3.1 # 
+DIAMETER            =      1.5 # 
+SPAN                =      9.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2017/12/23-00:00:00 # 
+LAUNCH_VEHICLE      =  A09083
+LAUNCH_SITE         =  
+#
+PARENT              =  A09083
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  IRIDS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2017/12/23-00:00:00 # 
+PERIGEE             =       609.0 #  
+APOGEE              =       626.0 # 
+INCL                =       86.69 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  -

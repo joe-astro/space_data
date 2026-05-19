@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02611
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02611
+LAUNCH_TAG          =  1966-111
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OV1-10
+PL_NAME             =  OV1-10S
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GDC
+BUS_TYPE            =  OV1
+MOTOR               =  -
+BOL_MASS            =    124.0 # 
+CURR_MASS           =    124.0 # 
+DRY_MASS            =    124.0 # 
+BUS_SHAPE           =  Domed Cyl + 6 Ant
+LENGTH              =      1.4 # 
+DIAMETER            =      0.7 # 
+SPAN                =     30.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1966/12/11-00:00:00 # 
+LAUNCH_VEHICLE      =  S02621
+LAUNCH_SITE         =  
+#
+PARENT              =  S02621
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2002/11/30-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  OAR
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1968/11/30-00:00:00 # 
+PERIGEE             =       634.0 #  
+APOGEE              =       761.0 # 
+INCL                =       93.41 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  -

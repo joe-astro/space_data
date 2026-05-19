@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 13152
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  13152
+LAUNCH_TAG          =  1982-006
+PIECE               =  F
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  A
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  A
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Fairing
+PL_NAME             =  GAMBIT SRV-2 Fairing
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LMSC
+BUS_TYPE            =  Fairing
+MOTOR               =  -
+BOL_MASS            =     50.0 # ?
+CURR_MASS           =     83.0 # ?
+DRY_MASS            =     50.0 # ?
+BUS_SHAPE           =  Frust
+LENGTH              =      0.5 # ?
+DIAMETER            =      1.5 # ?
+SPAN                =      1.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1982/01/21-00:00:00 # 
+LAUNCH_VEHICLE      =  S13040
+LAUNCH_SITE         =  
+#
+PARENT              =  S13040
+SEPARATION_DATE     =  1982/04/27-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1982/05/10-00:00:00 # 
+PERIGEE             =       601.0 #  
+APOGEE              =       611.0 # 
+INCL                =       97.23 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20218
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20218
+LAUNCH_TAG          =  1989-071
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PH H V
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  H
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  V
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Soyuz TM-8
+PL_NAME             =  Soyuz 7K-STM No. 58
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOE
+BUS_TYPE            =  7K-STM
+MOTOR               =  -
+BOL_MASS            =   2850.0 # 
+CURR_MASS           =   7230.0 # 
+DRY_MASS            =   2850.0 # 
+BUS_SHAPE           =  Sphere + Cone + Cyl + 2 Pan
+LENGTH              =      7.2 # 
+DIAMETER            =      2.2 # 
+SPAN                =     10.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1989/09/05-00:00:00 # 
+LAUNCH_VEHICLE      =  S20219
+LAUNCH_SITE         =  
+#
+PARENT              =  S20219
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NPOE
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1989/10/07-00:00:00 # 
+PERIGEE             =       373.0 #  
+APOGEE              =       389.0 # 
+INCL                =       51.62 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DK
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

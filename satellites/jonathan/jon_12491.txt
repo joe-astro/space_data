@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 12491
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  12491
+LAUNCH_TAG          =  1981-051
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Rohini RS-D-1
+PL_NAME             =  Rohini RS-D-1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ISAC
+BUS_TYPE            =  RS
+MOTOR               =  -
+BOL_MASS            =     40.0 # 
+CURR_MASS           =     40.0 # 
+DRY_MASS            =     40.0 # 
+BUS_SHAPE           =  Poly
+LENGTH              =      0.7 # 
+DIAMETER            =      0.6 # 
+SPAN                =      0.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1981/05/31-00:00:00 # 
+LAUNCH_VEHICLE      =  S12492
+LAUNCH_SITE         =  
+#
+PARENT              =  S12492
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ISRO
+COUNTRY             =  IN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1981/06/02-00:00:00 # 
+PERIGEE             =       181.0 #  
+APOGEE              =       374.0 # 
+INCL                =       46.25 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00748
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00748
+LAUNCH_TAG          =  1964-006
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Elektron-2
+PL_NAME             =  2D No. 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  OKB1
+BUS_TYPE            =  Object D
+MOTOR               =  -
+BOL_MASS            =    460.0 # 
+CURR_MASS           =    460.0 # 
+DRY_MASS            =    460.0 # 
+BUS_SHAPE           =  Flared Cyl + Ant
+LENGTH              =      1.8 # 
+DIAMETER            =     0.85 # 
+SPAN                =      5.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1964/01/30-00:00:00 # 
+LAUNCH_VEHICLE      =  S00751
+LAUNCH_SITE         =  
+#
+PARENT              =  S00751
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1997/04/22-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  OKB1
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1964/03/25-00:00:00 # 
+PERIGEE             =       408.0 #  
+APOGEE              =     68014.0 # 
+INCL                =       60.46 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  HEO
+OQUAL               =  -

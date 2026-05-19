@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 08054
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  08054
+LAUNCH_TAG          =  1975-070
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  FB-1 701-05 Stage 2
+PL_NAME             =  FB-1 Stage 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SBA2
+BUS_TYPE            =  CZ-2 Stage 2
+MOTOR               =  -
+BOL_MASS            =   3535.0 # 
+CURR_MASS           =   3535.0 # 
+DRY_MASS            =   3535.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      8.6 # 
+DIAMETER            =      3.4 # 
+SPAN                =      8.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1975/07/26-00:00:00 # 
+LAUNCH_VEHICLE      =  R34083
+LAUNCH_SITE         =  
+#
+PARENT              =  R34083
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1975/08/25-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JGB7
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1975/08/03-00:00:00 # 
+PERIGEE             =       180.0 #  
+APOGEE              =       422.0 # 
+INCL                =       69.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

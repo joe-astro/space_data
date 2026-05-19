@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03338
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03338
+LAUNCH_TAG          =  1968-066
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Explorer 40
+PL_NAME             =  Injun 5
+ALT_NAMES           =  Injun V
+#
+MANUFACTURER        =  UIA
+BUS_TYPE            =  Injun E
+MOTOR               =  -
+BOL_MASS            =     70.0 # 
+CURR_MASS           =     70.0 # 
+DRY_MASS            =     70.0 # 
+BUS_SHAPE           =  Hex Cyl + 5 Ant
+LENGTH              =      0.7 # 
+DIAMETER            =      0.8 # 
+SPAN                =      5.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1968/08/08-00:00:00 # 
+LAUNCH_VEHICLE      =  S03341
+LAUNCH_SITE         =  
+#
+PARENT              =  S03341
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LARCN
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1968/09/11-00:00:00 # 
+PERIGEE             =       679.0 #  
+APOGEE              =      2531.0 # 
+INCL                =       80.66 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 25391
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  25391
+LAUNCH_TAG          =  1998-042
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PX F
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  X
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  F
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Shtil'-1 Nose Cone
+PL_NAME             =  Shtil'-1 instr. package
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MAK
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =    100.0 # ?
+CURR_MASS           =     70.0 # ?
+DRY_MASS            =    100.0 # ?
+BUS_SHAPE           =  Rounded Cone
+LENGTH              =      3.0 # 
+DIAMETER            =      1.9 # 
+SPAN                =      3.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1998/07/07-00:00:00 # 
+LAUNCH_VEHICLE      =  R64205
+LAUNCH_SITE         =  
+#
+PARENT              =  R64205
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MAK
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1998/08/06-00:00:00 # 
+PERIGEE             =       401.0 #  
+APOGEE              =       806.0 # 
+INCL                =       78.96 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 28054
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  28054
+LAUNCH_TAG          =  2003-048
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  DMSP F-16
+PL_NAME             =  DMSP Block 5D-3 S-20
+ALT_NAMES           =  USA 172,OPS-54
+#
+MANUFACTURER        =  LMEW
+BUS_TYPE            =  Block 5D
+MOTOR               =  Star 37FP
+BOL_MASS            =   1145.0 # 
+CURR_MASS           =   1960.0 # 
+DRY_MASS            =   1145.0 # 
+BUS_SHAPE           =  Box + Pan
+LENGTH              =      6.1 # 
+DIAMETER            =      1.2 # 
+SPAN                =      6.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2003/10/18-00:00:00 # 
+LAUNCH_VEHICLE      =  R67164
+LAUNCH_SITE         =  
+#
+PARENT              =  R67164
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSMC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2003/10/18-00:00:00 # 
+PERIGEE             =       843.0 #  
+APOGEE              =       852.0 # 
+INCL                =       98.93 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

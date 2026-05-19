@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 55037
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  55037
+LAUNCH_TAG          =  2023-001
+PIECE               =  AE
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Lemur-2 Emmaculate
+PL_NAME             =  Lemur-2 FM164 (L3C)
+ALT_NAMES           =  L3C-1
+#
+MANUFACTURER        =  SPIREG
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      8.3 # 
+CURR_MASS           =      8.3 # 
+DRY_MASS            =      8.1 # 
+BUS_SHAPE           =  Box+2 pan+ant
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      1.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/01/03-00:00:00 # 
+LAUNCH_VEHICLE      =  A10827
+LAUNCH_SITE         =  
+#
+PARENT              =  A10827
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2024/05/23-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPIREL/MYRI
+COUNTRY             =  L
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/01/03-00:00:00 # 
+PERIGEE             =       517.0 #  
+APOGEE              =       537.0 # 
+INCL                =        97.5 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

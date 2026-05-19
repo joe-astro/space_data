@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 51826
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  51826
+LAUNCH_TAG          =  2022-019
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Xiamen Keji 1
+PL_NAME             =  Jilin-1 Mofang 02A01
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CGSTL
+BUS_TYPE            =  JL1MF02
+MOTOR               =  -
+BOL_MASS            =     32.5 # 
+CURR_MASS           =     32.5 # 
+DRY_MASS            =     32.5 # 
+BUS_SHAPE           =  Box+panels
+LENGTH              =      0.3 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/02/27-00:00:00 # 
+LAUNCH_VEHICLE      =  S51842
+LAUNCH_SITE         =  
+#
+PARENT              =  S51842
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2025/02/21-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  XIAMT
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/02/27-00:00:00 # 
+PERIGEE             =       526.0 #  
+APOGEE              =       550.0 # 
+INCL                =       97.52 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

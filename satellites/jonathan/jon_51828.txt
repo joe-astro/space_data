@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 51828
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  51828
+LAUNCH_TAG          =  2022-019
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?r
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =  r
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Wenchang-1 02
+PL_NAME             =  Wenchang yi hao 02 xing
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  WEINA
+BUS_TYPE            =  MN50?
+MOTOR               =  -
+BOL_MASS            =     62.0 # 
+CURR_MASS           =     62.0 # 
+DRY_MASS            =     62.0 # 
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      1.0 # ?
+DIAMETER            =      1.0 # ?
+SPAN                =      2.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/02/27-00:00:00 # 
+LAUNCH_VEHICLE      =  S51842
+LAUNCH_SITE         =  
+#
+PARENT              =  S51842
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SANYZ
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/02/27-00:00:00 # 
+PERIGEE             =       527.0 #  
+APOGEE              =       550.0 # 
+INCL                =       97.52 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 60074
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  60074
+LAUNCH_TAG          =  2024-113
+PIECE               =  R
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      F r
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  F
+ID_FLAG             =   
+ANNOTATION_FLAG     =  r
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Starlink 32115
+PL_NAME             =  Starlink Group 9-1-16
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPXS
+BUS_TYPE            =  Starlink V2M
+MOTOR               =  -
+BOL_MASS            =    730.0 # 
+CURR_MASS           =    730.0 # 
+DRY_MASS            =    700.0 # ?
+BUS_SHAPE           =  Box + pan
+LENGTH              =      0.3 # ?
+DIAMETER            =      4.1 # 
+SPAN                =     29.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/06/19-00:00:00 # 
+LAUNCH_VEHICLE      =  A11236
+LAUNCH_SITE         =  
+#
+PARENT              =  A11236
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2024/07/13-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPXS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/06/19-00:00:00 # 
+PERIGEE             =       284.0 #  
+APOGEE              =       296.0 # 
+INCL                =       53.17 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

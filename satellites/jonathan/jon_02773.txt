@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02773
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02773
+LAUNCH_TAG          =  1967-042
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Ariel 3
+PL_NAME             =  UK 3
+ALT_NAMES           =  UK-E:P
+#
+MANUFACTURER        =  RAE/BAC
+BUS_TYPE            =  UK-E
+MOTOR               =  -
+BOL_MASS            =     90.0 # 
+CURR_MASS           =     90.0 # 
+DRY_MASS            =     90.0 # 
+BUS_SHAPE           =  Cyl + 4 Pan + 2 Ant
+LENGTH              =      0.8 # 
+DIAMETER            =      0.7 # 
+SPAN                =      3.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1967/05/05-00:00:00 # 
+LAUNCH_VEHICLE      =  S02774
+LAUNCH_SITE         =  
+#
+PARENT              =  S02774
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1970/12/14-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SRC
+COUNTRY             =  UK
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1967/06/07-00:00:00 # 
+PERIGEE             =       496.0 #  
+APOGEE              =       600.0 # 
+INCL                =       80.17 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

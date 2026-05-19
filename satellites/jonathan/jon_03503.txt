@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03503
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03503
+LAUNCH_TAG          =  1968-090
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-248
+PL_NAME             =  I2M No. 314
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TSKBM/KB1
+BUS_TYPE            =  IS
+MOTOR               =  -
+BOL_MASS            =   1400.0 # 
+CURR_MASS           =   1400.0 # 
+DRY_MASS            =   1400.0 # ?
+BUS_SHAPE           =  Cyl + Truss
+LENGTH              =      4.2 # ?
+DIAMETER            =      1.8 # ?
+SPAN                =      4.2 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1968/10/19-00:00:00 # 
+LAUNCH_VEHICLE      =  A01450
+LAUNCH_SITE         =  
+#
+PARENT              =  A01450
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1980/02/26-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  PKO
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1968/11/30-00:00:00 # 
+PERIGEE             =       469.0 #  
+APOGEE              =       543.0 # 
+INCL                =       62.26 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

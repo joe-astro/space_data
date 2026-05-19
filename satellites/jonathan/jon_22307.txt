@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 22307
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  22307
+LAUNCH_TAG          =  1993-001
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-2230
+PL_NAME             =  Tsikada No. 37L
+ALT_NAMES           =  11F643 No. 537-26-187:RA
+#
+MANUFACTURER        =  POL
+BUS_TYPE            =  KAUR-1 11F643
+MOTOR               =  -
+BOL_MASS            =    800.0 # 
+CURR_MASS           =    800.0 # 
+DRY_MASS            =    800.0 # 
+BUS_SHAPE           =  Cyl + Ant
+LENGTH              =      5.0 # 
+DIAMETER            =      2.1 # 
+SPAN                =     17.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1993/01/12-00:00:00 # 
+LAUNCH_VEHICLE      =  S22308
+LAUNCH_SITE         =  
+#
+PARENT              =  S22308
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  VMFR
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1993/02/11-00:00:00 # 
+PERIGEE             =       972.0 #  
+APOGEE              =      1007.0 # 
+INCL                =       82.94 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

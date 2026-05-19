@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 42799
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  42799
+LAUNCH_TAG          =  2017-037
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Volga 14S46 No. 3?
+PL_NAME             =  Volga R15000-003?
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  PROGT
+BUS_TYPE            =  Volga
+MOTOR               =  -
+BOL_MASS            =   1120.0 # 
+CURR_MASS           =   1120.0 # ?
+DRY_MASS            =   1120.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.0 # ?
+DIAMETER            =      2.7 # ?
+SPAN                =      2.7 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2017/06/23-00:00:00 # 
+LAUNCH_VEHICLE      =  S42800
+LAUNCH_SITE         =  
+#
+PARENT              =  S42800
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSNR
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2017/06/24-00:00:00 # 
+PERIGEE             =       654.0 #  
+APOGEE              =       670.0 # 
+INCL                =       98.05 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  D
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

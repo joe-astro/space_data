@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 26983
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  26983
+LAUNCH_TAG          =  2001-051
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP H-V
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  V
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Progress M1-7
+PL_NAME             =  Progress 7K-TGM1 No. 256
+ALT_NAMES           =  ISS 6P
+#
+MANUFACTURER        =  PROGT
+BUS_TYPE            =  7K-TGM1
+MOTOR               =  11D428A
+BOL_MASS            =   7331.0 # 
+CURR_MASS           =   7331.0 # 
+DRY_MASS            =   4488.0 # 
+BUS_SHAPE           =  Sphere + Cone + Cyl + 2 Pan
+LENGTH              =      7.9 # 
+DIAMETER            =      2.7 # 
+SPAN                =      7.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2001/11/26-00:00:00 # 
+LAUNCH_VEHICLE      =  S26984
+LAUNCH_SITE         =  
+#
+PARENT              =  S26984
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RKKE
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2001/11/28-00:00:00 # 
+PERIGEE             =       229.0 #  
+APOGEE              =       244.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DK
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

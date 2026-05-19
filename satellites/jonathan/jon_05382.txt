@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 05382
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  05382
+LAUNCH_TAG          =  1971-067
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  LOADS II
+PL_NAME             =  OAR-901
+ALT_NAMES           =  Cannonball II
+#
+MANUFACTURER        =  AFCRL
+BUS_TYPE            =  LOADS
+MOTOR               =  -
+BOL_MASS            =    364.0 # 
+CURR_MASS           =    364.0 # 
+DRY_MASS            =    364.0 # 
+BUS_SHAPE           =  Sphere
+LENGTH              =      0.7 # 
+DIAMETER            =      0.7 # 
+SPAN                =      0.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1971/08/07-00:00:00 # 
+LAUNCH_VEHICLE      =  S05394
+LAUNCH_SITE         =  
+#
+PARENT              =  S05394
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1972/01/31-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  STP/AFCRL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1971/09/06-00:00:00 # 
+PERIGEE             =       127.0 #  
+APOGEE              =      1762.0 # 
+INCL                =       92.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  -

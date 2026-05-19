@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 41943
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  41943
+LAUNCH_TAG          =  2017-006
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Fregat-MT No. 133-07
+PL_NAME             =  Fregat-MT    No. 133-07
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOLO
+BUS_TYPE            =  Fregat
+MOTOR               =  -
+BOL_MASS            =   6550.0 # 
+CURR_MASS           =   1050.0 # 
+DRY_MASS            =   1050.0 # 
+BUS_SHAPE           =  Irr
+LENGTH              =      1.7 # 
+DIAMETER            =      3.3 # 
+SPAN                =      3.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2017/01/28-00:00:00 # 
+LAUNCH_VEHICLE      =  A08611
+LAUNCH_SITE         =  
+#
+PARENT              =  A08611
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NPOLO
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2017/02/05-00:00:00 # 
+PERIGEE             =       180.0 #  
+APOGEE              =     35546.0 # 
+INCL                =        5.44 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

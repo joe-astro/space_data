@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 66057
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  66057
+LAUNCH_TAG          =  2025-234
+PIECE               =  E
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Lijian-1 Y8 Stage 4
+PL_NAME             =  ZK-1A Stage 4
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CAS
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =    500.0 # ?
+CURR_MASS           =    500.0 # 
+DRY_MASS            =    500.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.5 # 
+DIAMETER            =      1.5 # 
+SPAN                =      1.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/10/19-00:00:00 # 
+LAUNCH_VEHICLE      =  R85033
+LAUNCH_SITE         =  
+#
+PARENT              =  R85033
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CASC
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/10/20-00:00:00 # 
+PERIGEE             =       490.0 #  
+APOGEE              =       517.0 # 
+INCL                =       97.52 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

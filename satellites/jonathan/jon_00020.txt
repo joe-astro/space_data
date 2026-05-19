@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00020
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00020
+LAUNCH_TAG          =  1959-ETA
+PIECE               =  
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Vanguard III
+PL_NAME             =  Magne-Ray satellite
+ALT_NAMES           =  Vanguard Group V
+#
+MANUFACTURER        =  NRL
+BUS_TYPE            =  NRL 20"
+MOTOR               =  -
+BOL_MASS            =     23.0 # 
+CURR_MASS           =     47.0 # 
+DRY_MASS            =     23.0 # 
+BUS_SHAPE           =  Sphere + Ant
+LENGTH              =      1.2 # 
+DIAMETER            =      0.5 # 
+SPAN                =      1.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1959/09/18-00:00:00 # 
+LAUNCH_VEHICLE      =  A00034
+LAUNCH_SITE         =  
+#
+PARENT              =  A00034
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1959/10/27-00:00:00 # 
+PERIGEE             =       521.0 #  
+APOGEE              =      3758.0 # 
+INCL                =       33.35 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AO
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

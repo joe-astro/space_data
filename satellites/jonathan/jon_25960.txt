@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 25960
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  25960
+LAUNCH_TAG          =  1999-061
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP-H--X
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  X
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Shenzhou 1 Guidao Cang
+PL_NAME             =  Shenzhou 1 orbital module
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CALT
+BUS_TYPE            =  Shenzhou OM
+MOTOR               =  -
+BOL_MASS            =   1700.0 # ?
+CURR_MASS           =   1700.0 # ?
+DRY_MASS            =   1700.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      4.3 # 
+DIAMETER            =      2.8 # 
+SPAN                =      4.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1999/11/19-00:00:00 # 
+LAUNCH_VEHICLE      =  S25956
+LAUNCH_SITE         =  
+#
+PARENT              =  S25956
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1999/12/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CMSEO
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1999/11/21-00:00:00 # 
+PERIGEE             =       195.0 #  
+APOGEE              =       318.0 # 
+INCL                =        42.6 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

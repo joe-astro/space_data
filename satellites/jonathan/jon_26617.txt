@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 26617
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  26617
+LAUNCH_TAG          =  2000-074
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  QuickBird 1
+PL_NAME             =  QuickBird 1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  BALL
+BUS_TYPE            =  BCP-2000
+MOTOR               =  -
+BOL_MASS            =    931.0 # 
+CURR_MASS           =   2365.0 # 
+DRY_MASS            =    900.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      2.5 # ?
+DIAMETER            =      1.0 # ?
+SPAN                =      3.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2000/11/20-00:00:00 # 
+LAUNCH_VEHICLE      =  A06363
+LAUNCH_SITE         =  
+#
+PARENT              =  A06363
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  EWAT
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2000/11/20-00:00:00 # 
+PERIGEE             =        81.0 #  
+APOGEE              =       614.0 # 
+INCL                =       65.78 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

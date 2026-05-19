@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 52743
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  52743
+LAUNCH_TAG          =  2022-057
+PIECE               =  M
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  BRONCOSAT-1
+PL_NAME             =  BRONCOSAT-1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  BRONC
+BUS_TYPE            =  Cubesat 1.5U
+MOTOR               =  -
+BOL_MASS            =      1.0 # 
+CURR_MASS           =      1.0 # 
+DRY_MASS            =      1.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =     0.15 # 
+DIAMETER            =      0.1 # 
+SPAN                =     0.15 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/05/25-00:00:00 # 
+LAUNCH_VEHICLE      =  A10450
+LAUNCH_SITE         =  
+#
+PARENT              =  A10450
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2024/11/19-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  BRONC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/05/25-00:00:00 # 
+PERIGEE             =       524.0 #  
+APOGEE              =       535.0 # 
+INCL                =       97.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43567
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43567
+LAUNCH_TAG          =  2018-060
+PIECE               =  D
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  GalileoSat-24
+PL_NAME             =  Galileo FOC FM20
+ALT_NAMES           =  GSAT0220,GNSS 2C0,Samuel
+#
+MANUFACTURER        =  OHB
+BUS_TYPE            =  GalileoSat
+MOTOR               =  AOCS
+BOL_MASS            =    715.0 # 
+CURR_MASS           =    715.0 # 
+DRY_MASS            =    700.0 # 
+BUS_SHAPE           =  Box+2 pan
+LENGTH              =      2.7 # 
+DIAMETER            =      1.6 # 
+SPAN                =     14.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/07/25-00:00:00 # 
+LAUNCH_VEHICLE      =  A09157
+LAUNCH_SITE         =  
+#
+PARENT              =  A09157
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSAEU
+COUNTRY             =  I-EU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/09/24-00:00:00 # 
+PERIGEE             =     23087.0 #  
+APOGEE              =     23151.0 # 
+INCL                =       56.36 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

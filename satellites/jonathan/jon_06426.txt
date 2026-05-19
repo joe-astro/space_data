@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 06426
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  06426
+LAUNCH_TAG          =  1973-019
+PIECE               =  C
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Centaur D-1A AC-30
+PL_NAME             =  Centaur D-1A AC-30 (01A01)
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GDC
+BUS_TYPE            =  Centaur
+MOTOR               =  -
+BOL_MASS            =   2000.0 # 
+CURR_MASS           =   2000.0 # 
+DRY_MASS            =   2000.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      8.6 # 
+DIAMETER            =      3.0 # 
+SPAN                =      8.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1973/04/06-00:00:00 # 
+LAUNCH_VEHICLE      =  R29120
+LAUNCH_SITE         =  
+#
+PARENT              =  R29120
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1974/11/04-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LERC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1973/05/25-00:00:00 # 
+PERIGEE             =       513.0 #  
+APOGEE              =    102240.0 # 
+INCL                =       35.42 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  VHEO
+OQUAL               =  -

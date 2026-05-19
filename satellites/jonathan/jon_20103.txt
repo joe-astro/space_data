@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20103
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20103
+LAUNCH_TAG          =  1989-050
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Nadezhda
+PL_NAME             =  Nadezhda No. 403
+ALT_NAMES           =  17F118 No. 650-48-403:RA
+#
+MANUFACTURER        =  OAZ
+BUS_TYPE            =  KAUR-1 17F118
+MOTOR               =  -
+BOL_MASS            =    822.0 # 
+CURR_MASS           =    822.0 # 
+DRY_MASS            =    822.0 # 
+BUS_SHAPE           =  Cyl + Ant
+LENGTH              =      5.0 # 
+DIAMETER            =      2.1 # 
+SPAN                =     17.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1989/07/04-00:00:00 # 
+LAUNCH_VEHICLE      =  S20104
+LAUNCH_SITE         =  
+#
+PARENT              =  S20104
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  VMF/UNKS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1989/08/04-00:00:00 # 
+PERIGEE             =       960.0 #  
+APOGEE              =      1014.0 # 
+INCL                =       82.96 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

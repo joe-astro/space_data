@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43682
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43682
+LAUNCH_TAG          =  2018-084
+PIECE               =  L
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  H-2A F40 Stage 2
+PL_NAME             =  H-2A Stage 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MHITO
+BUS_TYPE            =  H-2A Stage 2
+MOTOR               =  -
+BOL_MASS            =   4000.0 # 
+CURR_MASS           =   4000.0 # 
+DRY_MASS            =   4000.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      9.2 # 
+DIAMETER            =      4.0 # 
+SPAN                =      9.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/10/29-00:00:00 # 
+LAUNCH_VEHICLE      =  R78488
+LAUNCH_SITE         =  
+#
+PARENT              =  R78488
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MHI
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/10/29-00:00:00 # 
+PERIGEE             =       520.0 #  
+APOGEE              =       598.0 # 
+INCL                =       98.85 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

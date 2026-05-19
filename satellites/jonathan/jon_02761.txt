@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02761
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02761
+LAUNCH_TAG          =  1967-038
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  San Marco 2
+PL_NAME             =  San Marco B
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CRA
+BUS_TYPE            =  San Marco
+MOTOR               =  -
+BOL_MASS            =    129.0 # 
+CURR_MASS           =    129.0 # 
+DRY_MASS            =    129.0 # 
+BUS_SHAPE           =  Sphere + 2 Ant
+LENGTH              =      0.7 # 
+DIAMETER            =      0.7 # 
+SPAN                =      5.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1967/04/26-00:00:00 # 
+LAUNCH_VEHICLE      =  S02771
+LAUNCH_SITE         =  
+#
+PARENT              =  S02771
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1967/10/14-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CRS
+COUNTRY             =  I
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1967/05/30-00:00:00 # 
+PERIGEE             =       210.0 #  
+APOGEE              =       683.0 # 
+INCL                =         2.9 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/E
+OQUAL               =  -

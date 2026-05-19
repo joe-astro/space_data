@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 08871
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  08871
+LAUNCH_TAG          =  1976-050
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OPS 7837
+PL_NAME             =  QUASAR 1
+ALT_NAMES           =  SDS F-1:P
+#
+MANUFACTURER        =  HSES
+BUS_TYPE            =  SDS
+MOTOR               =  -
+BOL_MASS            =    800.0 # ?
+CURR_MASS           =    800.0 # ?
+DRY_MASS            =    650.0 # ?
+BUS_SHAPE           =  Cyl + 2 Dish
+LENGTH              =      7.0 # ?
+DIAMETER            =      2.4 # ?
+SPAN                =      7.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1976/06/02-00:00:00 # 
+LAUNCH_VEHICLE      =  S08872
+LAUNCH_SITE         =  
+#
+PARENT              =  S08872
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1976/06/02-00:00:00 # 
+PERIGEE             =       311.0 #  
+APOGEE              =     39192.0 # 
+INCL                =        63.5 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  HEO/M
+OQUAL               =  -

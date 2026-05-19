@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 10164
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  10164
+LAUNCH_TAG          =  1977-072
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-934
+PL_NAME             =  Zenit-6 No. 4L
+ALT_NAMES           =  :C,:RC,Zenit-6 No. 4L:RC,11F645 No. E15000-04:RA
+#
+MANUFACTURER        =  TSSKB
+BUS_TYPE            =  Zenit-6
+MOTOR               =  -
+BOL_MASS            =   2655.0 # 
+CURR_MASS           =   6300.0 # 
+DRY_MASS            =   2655.0 # 
+BUS_SHAPE           =  Sphere + DCone
+LENGTH              =      6.0 # ?
+DIAMETER            =      2.2 # 
+SPAN                =      6.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1977/07/27-00:00:00 # 
+LAUNCH_VEHICLE      =  S10165
+LAUNCH_SITE         =  
+#
+PARENT              =  S10165
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GUKOSR
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1977/07/29-00:00:00 # 
+PERIGEE             =       166.0 #  
+APOGEE              =       341.0 # 
+INCL                =       62.82 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

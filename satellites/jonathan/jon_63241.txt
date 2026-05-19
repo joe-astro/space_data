@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 63241
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  63241
+LAUNCH_TAG          =  2025-052
+PIECE               =  AH
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  RAPSat-1B
+PL_NAME             =  RAPSat-1B
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NSL
+BUS_TYPE            =  Thinsat
+MOTOR               =  -
+BOL_MASS            =      3.9 # 
+CURR_MASS           =      3.9 # 
+DRY_MASS            =      3.9 # 
+BUS_SHAPE           =  Box
+LENGTH              =     0.03 # 
+DIAMETER            =      0.3 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/03/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A11437
+LAUNCH_SITE         =  
+#
+PARENT              =  A11437
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NSL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/03/28-00:00:00 # 
+PERIGEE             =       512.0 #  
+APOGEE              =       517.0 # 
+INCL                =       97.45 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

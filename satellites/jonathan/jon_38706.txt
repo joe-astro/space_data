@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 38706
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  38706
+LAUNCH_TAG          =  2012-038
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP H-V
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  V
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kounotori 3 gouki
+PL_NAME             =  HTV 3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MHITO?
+BUS_TYPE            =  HTV
+MOTOR               =  HBT-5 x 4
+BOL_MASS            =  15400.0 # 
+CURR_MASS           =  15400.0 # 
+DRY_MASS            =   8700.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      9.8 # 
+DIAMETER            =      4.4 # 
+SPAN                =      9.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2012/07/21-00:00:00 # 
+LAUNCH_VEHICLE      =  A07941
+LAUNCH_SITE         =  
+#
+PARENT              =  A07941
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JAXA
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2012/07/23-00:00:00 # 
+PERIGEE             =       233.0 #  
+APOGEE              =       300.0 # 
+INCL                =       51.66 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  GRP
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

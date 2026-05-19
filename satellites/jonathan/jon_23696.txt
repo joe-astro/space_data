@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 23696
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  23696
+LAUNCH_TAG          =  1995-057
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  UHF F/O F6
+PL_NAME             =  UFO F6-EHF
+ALT_NAMES           =  USA 114:C
+#
+MANUFACTURER        =  HSES
+BUS_TYPE            =  HS-601
+MOTOR               =  R-4D-11-300
+BOL_MASS            =   3017.0 # 
+CURR_MASS           =   3017.0 # 
+DRY_MASS            =   1350.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      4.0 # ?
+DIAMETER            =      3.0 # ?
+SPAN                =     18.3 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1995/10/22-00:00:00 # 
+LAUNCH_VEHICLE      =  S23697
+LAUNCH_SITE         =  
+#
+PARENT              =  S23697
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  PMW146
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1995/11/22-00:00:00 # 
+PERIGEE             =     34979.0 #  
+APOGEE              =     36589.0 # 
+INCL                =        5.06 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/I
+OQUAL               =  -

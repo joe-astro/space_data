@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 13632
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  13632
+LAUNCH_TAG          =  1982-105
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Delta 165
+PL_NAME             =  Delta SSPS AJ10-118K
+ALT_NAMES           =  Delta 3924
+#
+MANUFACTURER        =  MDAC
+BUS_TYPE            =  Delta/0020
+MOTOR               =  -
+BOL_MASS            =   6930.0 # 
+CURR_MASS           =    924.0 # 
+DRY_MASS            =    924.0 # 
+BUS_SHAPE           =  Cyl + Cone
+LENGTH              =      7.0 # 
+DIAMETER            =      2.4 # 
+SPAN                =      7.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1982/10/28-00:00:00 # 
+LAUNCH_VEHICLE      =  R47999
+LAUNCH_SITE         =  
+#
+PARENT              =  R47999
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1988/12/16-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1982/11/27-00:00:00 # 
+PERIGEE             =       237.0 #  
+APOGEE              =      4150.0 # 
+INCL                =       26.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

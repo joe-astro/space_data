@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 23712
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  23712
+LAUNCH_TAG          =  1995-060
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Milstar 2
+PL_NAME             =  Milstar DFS-2
+ALT_NAMES           =  USA 115
+#
+MANUFACTURER        =  LMMS
+BUS_TYPE            =  Milstar
+MOTOR               =  -
+BOL_MASS            =   4500.0 # 
+CURR_MASS           =   4500.0 # 
+DRY_MASS            =   4100.0 # ?
+BUS_SHAPE           =  Truss + 2 Dish + 2 Pan
+LENGTH              =     15.5 # 
+DIAMETER            =      4.0 # ?
+SPAN                =     35.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1995/11/06-00:00:00 # 
+LAUNCH_VEHICLE      =  S23713
+LAUNCH_SITE         =  
+#
+PARENT              =  S23713
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSMC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1996/07/18-00:00:00 # 
+PERIGEE             =     35778.0 #  
+APOGEE              =     35795.0 # 
+INCL                =        3.53 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/I
+OQUAL               =  -

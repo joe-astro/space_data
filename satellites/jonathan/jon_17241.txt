@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 17241
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  17241
+LAUNCH_TAG          =  1986-101
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-1809
+PL_NAME             =  AUOS-Z-I-E No. 501
+ALT_NAMES           =  Ionozond-E,AUOS-Z No. 450-41-501:RA
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  AUOS
+MOTOR               =  -
+BOL_MASS            =   1042.0 # 
+CURR_MASS           =   1042.0 # 
+DRY_MASS            =   1042.0 # 
+BUS_SHAPE           =  Cyl + 2 Pan + Ant
+LENGTH              =      2.5 # 
+DIAMETER            =      1.5 # 
+SPAN                =     23.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1986/12/18-00:00:00 # 
+LAUNCH_VEHICLE      =  S17242
+LAUNCH_SITE         =  
+#
+PARENT              =  S17242
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  IK
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1987/01/18-00:00:00 # 
+PERIGEE             =       943.0 #  
+APOGEE              =       966.0 # 
+INCL                =       82.53 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

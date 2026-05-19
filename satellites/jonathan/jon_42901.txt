@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 42901
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  42901
+LAUNCH_TAG          =  2017-044
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Venmus
+PL_NAME             =  Venus
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  IAI
+BUS_TYPE            =  Venms
+MOTOR               =  HET-300
+BOL_MASS            =    264.0 # 
+CURR_MASS           =    264.0 # 
+DRY_MASS            =    250.0 # ?
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      1.7 # 
+DIAMETER            =      1.2 # 
+SPAN                =      4.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2017/08/02-00:00:00 # 
+LAUNCH_VEHICLE      =  A08663
+LAUNCH_SITE         =  
+#
+PARENT              =  A08663
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ISA/CNES
+COUNTRY             =  IL
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2017/08/04-00:00:00 # 
+PERIGEE             =       719.0 #  
+APOGEE              =       724.0 # 
+INCL                =       98.35 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

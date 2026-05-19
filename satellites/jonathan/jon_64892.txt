@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 64892
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  64892
+LAUNCH_TAG          =  2025-155
+PIECE               =  S
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Geoskan-4
+PL_NAME             =  Geoskan ?
+ALT_NAMES           =  RS92S4
+#
+MANUFACTURER        =  SPUT/GEOSK
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      3.0 # 
+CURR_MASS           =      3.0 # 
+DRY_MASS            =      3.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/07/25-00:00:00 # 
+LAUNCH_VEHICLE      =  A11558
+LAUNCH_SITE         =  
+#
+PARENT              =  A11558
+SEPARATION_DATE     =  2025/07/25-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GEOSK
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/08/01-00:00:00 # 
+PERIGEE             =       494.0 #  
+APOGEE              =       504.0 # 
+INCL                =       97.41 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

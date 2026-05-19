@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 44306
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  44306
+LAUNCH_TAG          =  2013-007
+PIECE               =  QD
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  H I
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  I
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Obstanovka box 2
+PL_NAME             =  PVK-2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RKKE
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =     17.0 # ?
+CURR_MASS           =      0.0 # 
+DRY_MASS            =     17.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      0.5 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2013/02/11-00:00:00 # 
+LAUNCH_VEHICLE      =  S39082*
+LAUNCH_SITE         =  
+#
+PARENT              =  S39082*
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  FKA
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2019/05/29-00:00:00 # 
+PERIGEE             =       409.0 #  
+APOGEE              =       416.0 # 
+INCL                =       51.63 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  ATT
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

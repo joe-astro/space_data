@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 10271
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  10271
+LAUNCH_TAG          =  1977-076
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Voyager 2
+PL_NAME             =  Voyager 77-3
+ALT_NAMES           =  MJS-L:P
+#
+MANUFACTURER        =  JPL
+BUS_TYPE            =  Voyager
+MOTOR               =  MR-104
+BOL_MASS            =    820.0 # 
+CURR_MASS           =    820.0 # 
+DRY_MASS            =    716.0 # 
+BUS_SHAPE           =  Cyl + Dish + Ant
+LENGTH              =      3.0 # ?
+DIAMETER            =      3.7 # 
+SPAN                =     17.3 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1977/08/20-00:00:00 # 
+LAUNCH_VEHICLE      =  S10273
+LAUNCH_SITE         =  
+#
+PARENT              =  S10273
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JPL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1977/08/20-00:00:00 # 
+PERIGEE             =       325.0 #  
+APOGEE              =    -20834.0 # 
+INCL                =       41.86 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

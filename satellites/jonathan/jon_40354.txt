@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 40354
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  40354
+LAUNCH_TAG          =  2014-084
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Strela APB
+PL_NAME             =  Strela APB No. 476-46-351
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOMAO
+BUS_TYPE            =  Strela APB
+MOTOR               =  RD-0237
+BOL_MASS            =    725.0 # ?
+CURR_MASS           =    725.0 # ?
+DRY_MASS            =    725.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.3 # ?
+DIAMETER            =      2.4 # 
+SPAN                =      2.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2014/12/19-00:00:00 # 
+LAUNCH_VEHICLE      =  R72943
+LAUNCH_SITE         =  
+#
+PARENT              =  R72943
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NPOMAO
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2014/12/21-00:00:00 # 
+PERIGEE             =       437.0 #  
+APOGEE              =       500.0 # 
+INCL                =       74.74 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

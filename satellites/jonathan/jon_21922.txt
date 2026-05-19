@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 21922
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  21922
+LAUNCH_TAG          =  1992-017
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Gorizont
+PL_NAME             =  Gorizont No. 36L
+ALT_NAMES           =  11F662 No. 800-72-136:RA
+#
+MANUFACTURER        =  NPOPM
+BUS_TYPE            =  Gorizont
+MOTOR               =  -
+BOL_MASS            =   2120.0 # 
+CURR_MASS           =   2120.0 # 
+DRY_MASS            =   2000.0 # ?
+BUS_SHAPE           =  Cyl + 2 Pan
+LENGTH              =      5.5 # 
+DIAMETER            =      3.3 # 
+SPAN                =      9.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1992/04/02-00:00:00 # 
+LAUNCH_VEHICLE      =  S21925
+LAUNCH_SITE         =  
+#
+PARENT              =  S21925
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GPKS
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1992/05/04-00:00:00 # 
+PERIGEE             =     35774.0 #  
+APOGEE              =     35795.0 # 
+INCL                =        1.36 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

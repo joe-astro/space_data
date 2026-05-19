@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00597
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00597
+LAUNCH_TAG          =  1963-021
+PIECE               =  F
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  SURCAL 3
+PL_NAME             =  SURCAL
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NRL
+BUS_TYPE            =  Surcal
+MOTOR               =  -
+BOL_MASS            =      4.0 # 
+CURR_MASS           =      4.0 # 
+DRY_MASS            =      4.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.2 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1963/06/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A08433
+LAUNCH_SITE         =  
+#
+PARENT              =  A08433
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1963/07/05-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1963/06/22-00:00:00 # 
+PERIGEE             =       139.0 #  
+APOGEE              =       768.0 # 
+INCL                =       69.69 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 07671
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  07671
+LAUNCH_TAG          =  1975-014
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Taiyo
+PL_NAME             =  SRATS
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ISAS
+BUS_TYPE            =  SRATS
+MOTOR               =  -
+BOL_MASS            =     86.0 # 
+CURR_MASS           =     86.0 # 
+DRY_MASS            =     86.0 # 
+BUS_SHAPE           =  Oct Cyl + 4 Ant
+LENGTH              =      0.7 # 
+DIAMETER            =      0.8 # 
+SPAN                =      1.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1975/02/24-00:00:00 # 
+LAUNCH_VEHICLE      =  S07674
+LAUNCH_SITE         =  
+#
+PARENT              =  S07674
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1980/06/29-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ISAS
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1975/03/26-00:00:00 # 
+PERIGEE             =       249.0 #  
+APOGEE              =      3115.0 # 
+INCL                =       31.56 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

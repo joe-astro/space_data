@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 64546
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  64546
+LAUNCH_TAG          =  2025-135
+PIECE               =  U
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ForgeStar-1
+PL_NAME             =  ForgeStar-1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPFORG
+BUS_TYPE            =  ForgeStar
+MOTOR               =  -
+BOL_MASS            =     30.0 # ?
+CURR_MASS           =     30.0 # ?
+DRY_MASS            =     30.0 # ?
+BUS_SHAPE           =  Box
+LENGTH              =      0.2 # 
+DIAMETER            =      0.5 # ?
+SPAN                =      0.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/06/23-00:00:00 # 
+LAUNCH_VEHICLE      =  A11534
+LAUNCH_SITE         =  
+#
+PARENT              =  A11534
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPFORG
+COUNTRY             =  UK
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/07/19-00:00:00 # 
+PERIGEE             =       510.0 #  
+APOGEE              =       512.0 # 
+INCL                =       97.44 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

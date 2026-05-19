@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 07244
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  07244
+LAUNCH_TAG          =  1974-020
+PIECE               =  B
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  S
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  S
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  S73-7
+PL_NAME             =  ARPA Transfer System
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SDCO
+BUS_TYPE            =  ARPL-SS
+MOTOR               =  -
+BOL_MASS            =    122.0 # 
+CURR_MASS           =    184.0 # 
+DRY_MASS            =    122.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      0.5 # ?
+DIAMETER            =      0.2 # ?
+SPAN                =      0.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1974/04/10-00:00:00 # 
+LAUNCH_VEHICLE      =  S07242
+LAUNCH_SITE         =  
+#
+PARENT              =  S07242
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  STP/ARPA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1977/01/01-00:00:00 # 
+PERIGEE             =       786.0 #  
+APOGEE              =       826.0 # 
+INCL                =        94.6 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  -

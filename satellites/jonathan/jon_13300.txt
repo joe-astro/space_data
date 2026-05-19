@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 13300
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  13300
+LAUNCH_TAG          =  1982-065
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PH H-S
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  H
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Columbia (STS-4)
+PL_NAME             =  OV-102
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RWI
+BUS_TYPE            =  STS OV
+MOTOR               =  -
+BOL_MASS            =  93372.0 # 
+CURR_MASS           =  103620.0 # 
+DRY_MASS            =  84529.0 # 
+BUS_SHAPE           =  Box + 2 Wing + Fin
+LENGTH              =     37.3 # 
+DIAMETER            =     23.8 # 
+SPAN                =     37.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1982/06/27-00:00:00 # 
+LAUNCH_VEHICLE      =  A03479
+LAUNCH_SITE         =  
+#
+PARENT              =  A03479
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1982/06/29-00:00:00 # 
+PERIGEE             =       295.0 #  
+APOGEE              =       304.0 # 
+INCL                =       28.52 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

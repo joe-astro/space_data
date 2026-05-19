@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 62007
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  62007
+LAUNCH_TAG          =  2024-212
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Falcon 9-400 Stage 2
+PL_NAME             =  F9-400 St2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPX
+BUS_TYPE            =  F9St2
+MOTOR               =  -
+BOL_MASS            =   4000.0 # ?
+CURR_MASS           =   4000.0 # ?
+DRY_MASS            =   4000.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =     12.6 # ?
+DIAMETER            =      3.6 # 
+SPAN                =     12.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/11/17-00:00:00 # 
+LAUNCH_VEHICLE      =  R83820
+LAUNCH_SITE         =  
+#
+PARENT              =  R83820
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPX
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/01/17-00:00:00 # 
+PERIGEE             =       375.0 #  
+APOGEE              =     49564.0 # 
+INCL                =       17.44 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  HEO
+OQUAL               =  -

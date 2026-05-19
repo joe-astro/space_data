@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 49258
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  49258
+LAUNCH_TAG          =  2021-087
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Shiyan 10
+PL_NAME             =  Shiyan 10
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SAST
+BUS_TYPE            =  SY10?
+MOTOR               =  DFH-4 LAE
+BOL_MASS            =   4600.0 # ?
+CURR_MASS           =   4600.0 # ?
+DRY_MASS            =   2500.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      5.0 # ?
+DIAMETER            =      2.5 # ?
+SPAN                =     30.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/09/27-00:00:00 # 
+LAUNCH_VEHICLE      =  S49259
+LAUNCH_SITE         =  
+#
+PARENT              =  S49259
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SAST
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/10/04-00:00:00 # 
+PERIGEE             =       173.0 #  
+APOGEE              =     40101.0 # 
+INCL                =       51.09 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

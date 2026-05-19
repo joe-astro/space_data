@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 38013
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  38013
+LAUNCH_TAG          =  2011-076
+PIECE               =  G
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  A
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  A
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ASAP-S
+PL_NAME             =  Elisa Dispenser
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ASTM
+BUS_TYPE            =  Dispenser
+MOTOR               =  -
+BOL_MASS            =    624.0 # 
+CURR_MASS           =    624.0 # 
+DRY_MASS            =    624.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.0 # ?
+DIAMETER            =      1.2 # ?
+SPAN                =      1.2 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2011/12/17-00:00:00 # 
+LAUNCH_VEHICLE      =  A07904
+LAUNCH_SITE         =  
+#
+PARENT              =  A07904
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CNES
+COUNTRY             =  F
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2011/12/17-00:00:00 # 
+PERIGEE             =       605.0 #  
+APOGEE              =       611.0 # 
+INCL                =       97.99 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

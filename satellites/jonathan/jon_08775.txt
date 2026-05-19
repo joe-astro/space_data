@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 08775
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  08775
+LAUNCH_TAG          =  1976-029
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Delta 121
+PL_NAME             =  Delta SSPU DSV-3P-4
+ALT_NAMES           =  Delta 3914
+#
+MANUFACTURER        =  MDAC
+BUS_TYPE            =  Delta/TR-201
+MOTOR               =  -
+BOL_MASS            =    845.0 # 
+CURR_MASS           =    845.0 # 
+DRY_MASS            =    845.0 # 
+BUS_SHAPE           =  Cyl + Skirt + Nozzle
+LENGTH              =      6.0 # 
+DIAMETER            =      1.4 # 
+SPAN                =      6.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1976/03/26-00:00:00 # 
+LAUNCH_VEHICLE      =  R35543
+LAUNCH_SITE         =  
+#
+PARENT              =  R35543
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1976/12/02-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1976/04/25-00:00:00 # 
+PERIGEE             =       183.0 #  
+APOGEE              =      1839.0 # 
+INCL                =       28.38 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

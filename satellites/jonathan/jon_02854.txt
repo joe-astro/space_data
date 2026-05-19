@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02854
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02854
+LAUNCH_TAG          =  1967-063
+PIECE               =  D
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Molniya-M No. 70 Blok-I
+PL_NAME             =  11S510
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  PROG
+BUS_TYPE            =  Blok-I
+MOTOR               =  -
+BOL_MASS            =   2000.0 # ?
+CURR_MASS           =   2000.0 # ?
+DRY_MASS            =   2000.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      9.4 # 
+DIAMETER            =      2.7 # 
+SPAN                =      9.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1967/06/17-00:00:00 # 
+LAUNCH_VEHICLE      =  R16244
+LAUNCH_SITE         =  
+#
+PARENT              =  R16244
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1967/06/18-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1967/06/17-00:00:00 # 
+PERIGEE             =       149.0 #  
+APOGEE              =       214.0 # 
+INCL                =       51.87 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 63530
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  63530
+LAUNCH_TAG          =  2025-074
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      DCm
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  D
+ID_FLAG             =  C
+ANNOTATION_FLAG     =  m
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 503
+PL_NAME             =  Starshield 8-05
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPXS
+BUS_TYPE            =  Starshield
+MOTOR               =  -
+BOL_MASS            =    800.0 # 
+CURR_MASS           =    800.0 # 
+DRY_MASS            =    750.0 # ?
+BUS_SHAPE           =  Box + pan
+LENGTH              =      0.3 # ?
+DIAMETER            =      4.1 # 
+SPAN                =     29.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/04/12-00:00:00 # 
+LAUNCH_VEHICLE      =  A11461
+LAUNCH_SITE         =  
+#
+PARENT              =  A11461
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NROC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/04/17-00:00:00 # 
+PERIGEE             =       288.0 #  
+APOGEE              =       318.0 # 
+INCL                =       69.91 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

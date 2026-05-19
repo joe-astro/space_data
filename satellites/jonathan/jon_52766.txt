@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 52766
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  52766
+LAUNCH_TAG          =  2022-057
+PIECE               =  AL
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Varisat-1C
+PL_NAME             =  Varisat-1C
+ALT_NAMES           =  Celestis 21
+#
+MANUFACTURER        =  OMNITQ
+BUS_TYPE            =  Cubesat 6U
+MOTOR               =  -
+BOL_MASS            =     11.0 # 
+CURR_MASS           =     11.0 # 
+DRY_MASS            =     11.0 # 
+BUS_SHAPE           =  Box + 4 pan + 2 ant
+LENGTH              =      0.3 # 
+DIAMETER            =      0.2 # 
+SPAN                =      6.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/05/25-00:00:00 # 
+LAUNCH_VEHICLE      =  A10450
+LAUNCH_SITE         =  
+#
+PARENT              =  A10450
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  VARI
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/05/25-00:00:00 # 
+PERIGEE             =       523.0 #  
+APOGEE              =       535.0 # 
+INCL                =       97.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

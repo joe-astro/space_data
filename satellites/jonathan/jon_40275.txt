@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 40275
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  40275
+LAUNCH_TAG          =  2014-063
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Yaogan Weixing 22
+PL_NAME             =  Jianbing-9 04 xing
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SAST
+BUS_TYPE            =  JB-9
+MOTOR               =  -
+BOL_MASS            =   1040.0 # 
+CURR_MASS           =   1040.0 # 
+DRY_MASS            =   1040.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      1.5 # ?
+DIAMETER            =      1.5 # ?
+SPAN                =      5.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2014/10/20-00:00:00 # 
+LAUNCH_VEHICLE      =  S40276
+LAUNCH_SITE         =  
+#
+PARENT              =  S40276
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ZZB
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2014/10/27-00:00:00 # 
+PERIGEE             =      1197.0 #  
+APOGEE              =      1207.0 # 
+INCL                =      100.32 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

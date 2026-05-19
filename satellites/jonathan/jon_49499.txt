@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 49499
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  49499
+LAUNCH_TAG          =  2021-111
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P  M-V
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  V
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Progress M-UM PAO
+PL_NAME             =  Progress M-UM No. 303
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  PROGT
+BUS_TYPE            =  7K-TGM SO
+MOTOR               =  11D428A
+BOL_MASS            =   3530.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =   2600.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      3.5 # ?
+DIAMETER            =      2.7 # 
+SPAN                =      3.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/11/24-00:00:00 # 
+LAUNCH_VEHICLE      =  S49500
+LAUNCH_SITE         =  
+#
+PARENT              =  S49500
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RKKE
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/11/24-00:00:00 # 
+PERIGEE             =       179.0 #  
+APOGEE              =       207.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DK
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

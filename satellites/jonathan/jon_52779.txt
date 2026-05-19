@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 52779
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  52779
+LAUNCH_TAG          =  2022-057
+PIECE               =  AZ
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P    D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  D
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  FossaSat-2E 8
+PL_NAME             =  FossaSat-2E8
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  FOSSA
+BUS_TYPE            =  PocketQube 2P
+MOTOR               =  -
+BOL_MASS            =      0.5 # ?
+CURR_MASS           =      0.5 # ?
+DRY_MASS            =      0.5 # ?
+BUS_SHAPE           =  Box
+LENGTH              =      0.1 # 
+DIAMETER            =     0.05 # 
+SPAN                =      0.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/05/25-00:00:00 # 
+LAUNCH_VEHICLE      =  S52760
+LAUNCH_SITE         =  
+#
+PARENT              =  S52760
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2023/10/31-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  FOSSA
+COUNTRY             =  E
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/08/11-00:00:00 # 
+PERIGEE             =       518.0 #  
+APOGEE              =       536.0 # 
+INCL                =       97.52 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

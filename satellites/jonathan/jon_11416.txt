@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 11416
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  11416
+LAUNCH_TAG          =  1979-057
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  NOAA 6
+PL_NAME             =  NOAA A
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RCA
+BUS_TYPE            =  Tiros N
+MOTOR               =  Star 37S
+BOL_MASS            =    684.0 # 
+CURR_MASS           =   1418.0 # 
+DRY_MASS            =    684.0 # 
+BUS_SHAPE           =  Box + Pan
+LENGTH              =      3.7 # 
+DIAMETER            =      1.9 # 
+SPAN                =      4.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1979/06/27-00:00:00 # 
+LAUNCH_VEHICLE      =  R42205
+LAUNCH_SITE         =  
+#
+PARENT              =  R42205
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NOAA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1979/07/27-00:00:00 # 
+PERIGEE             =       809.0 #  
+APOGEE              =       826.0 # 
+INCL                =       98.75 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

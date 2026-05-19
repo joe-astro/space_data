@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43435
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43435
+LAUNCH_TAG          =  2018-038
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  TESS
+PL_NAME             =  TESS
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  OATKD
+BUS_TYPE            =  Leostar-2
+MOTOR               =  22N AOCS
+BOL_MASS            =    362.0 # 
+CURR_MASS           =    362.0 # 
+DRY_MASS            =    317.0 # 
+BUS_SHAPE           =  Flared cyl+2 pan
+LENGTH              =      1.5 # 
+DIAMETER            =      1.2 # 
+SPAN                =      3.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/04/18-00:00:00 # 
+LAUNCH_VEHICLE      =  S43436
+LAUNCH_SITE         =  
+#
+PARENT              =  S43436
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/04/19-00:00:00 # 
+PERIGEE             =       258.0 #  
+APOGEE              =    268488.0 # 
+INCL                =       29.59 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  DSO
+OQUAL               =  -

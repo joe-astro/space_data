@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00621
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00621
+LAUNCH_TAG          =  1963-029
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OPS 1266
+PL_NAME             =  CORONA M-23
+ALT_NAMES           =  :C,:CC,NRO Mission 9057:CM,CORONA 67:CA,MURAL 23
+#
+MANUFACTURER        =  LMSC
+BUS_TYPE            =  CORONA KH-4
+MOTOR               =  -
+BOL_MASS            =    173.0 # 
+CURR_MASS           =   1233.0 # 
+DRY_MASS            =    173.0 # 
+BUS_SHAPE           =  Frust + Cyl
+LENGTH              =      2.3 # 
+DIAMETER            =      1.5 # 
+SPAN                =      2.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1963/07/19-00:00:00 # 
+LAUNCH_VEHICLE      =  A00370
+LAUNCH_SITE         =  
+#
+PARENT              =  A00370
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1963/08/13-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/CIA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1963/07/26-00:00:00 # 
+PERIGEE             =       188.0 #  
+APOGEE              =       366.0 # 
+INCL                =       82.87 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

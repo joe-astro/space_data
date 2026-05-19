@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 49503
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  49503
+LAUNCH_TAG          =  2021-113
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-2552
+PL_NAME             =  Kupol No. 15L?
+ALT_NAMES           =  EKS No. 5
+#
+MANUFACTURER        =  RKKE/KOMET
+BUS_TYPE            =  14F142
+MOTOR               =  -
+BOL_MASS            =   2550.0 # 
+CURR_MASS           =   2550.0 # 
+DRY_MASS            =   2000.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      4.0 # ?
+DIAMETER            =      2.0 # ?
+SPAN                =     10.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/11/25-00:00:00 # 
+LAUNCH_VEHICLE      =  S49504
+LAUNCH_SITE         =  
+#
+PARENT              =  S49504
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  VVKOV
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/12/02-00:00:00 # 
+PERIGEE             =      1664.0 #  
+APOGEE              =     38596.0 # 
+INCL                =       63.74 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  HEO/M
+OQUAL               =  -

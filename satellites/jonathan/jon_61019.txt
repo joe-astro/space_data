@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 61019
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  61019
+LAUNCH_TAG          =  2024-159
+PIECE               =  J
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Geely Xingzuo 03 zu 09 xing
+PL_NAME             =  GeeSAT 3-09
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GWCG
+BUS_TYPE            =  GPS100
+MOTOR               =  -
+BOL_MASS            =    130.0 # 
+CURR_MASS           =    130.0 # 
+DRY_MASS            =    130.0 # 
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      1.0 # ?
+DIAMETER            =      0.5 # ?
+SPAN                =      2.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/09/05-00:00:00 # 
+LAUNCH_VEHICLE      =  A11303
+LAUNCH_SITE         =  
+#
+PARENT              =  A11303
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GEESP
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/09/06-00:00:00 # 
+PERIGEE             =       551.0 #  
+APOGEE              =       565.0 # 
+INCL                =       49.99 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

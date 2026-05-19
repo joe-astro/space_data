@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00088
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00088
+LAUNCH_TAG          =  1961-EPS
+PIECE               =  2
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  M
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Star 12
+PL_NAME             =  Star 12
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  THKE
+BUS_TYPE            =  Star 12
+MOTOR               =  -
+BOL_MASS            =     33.0 # 
+CURR_MASS           =     33.0 # 
+DRY_MASS            =     10.0 # 
+BUS_SHAPE           =  Cyl + Cone
+LENGTH              =      0.3 # 
+DIAMETER            =      0.3 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1961/02/17-00:00:00 # 
+LAUNCH_VEHICLE      =  S00090
+LAUNCH_SITE         =  
+#
+PARENT              =  S00090
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1961/03/30-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFBMD/CIA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1961/02/25-00:00:00 # 
+PERIGEE             =       283.0 #  
+APOGEE              =       734.0 # 
+INCL                =       80.91 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

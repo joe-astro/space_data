@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 04592
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  04592
+LAUNCH_TAG          =  1970-088
+PIECE               =  B
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  M
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  D-21L SOZ-1
+PL_NAME             =  SOZ
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TSKBEM
+BUS_TYPE            =  SOZ
+MOTOR               =  -
+BOL_MASS            =    120.0 # 
+CURR_MASS           =     60.0 # ?
+DRY_MASS            =     60.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.1 # 
+DIAMETER            =      0.5 # 
+SPAN                =      1.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1970/10/20-00:00:00 # 
+LAUNCH_VEHICLE      =  A01861
+LAUNCH_SITE         =  
+#
+PARENT              =  A01861
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1970/10/26-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1970/10/23-00:00:00 # 
+PERIGEE             =       191.0 #  
+APOGEE              =       196.0 # 
+INCL                =       51.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

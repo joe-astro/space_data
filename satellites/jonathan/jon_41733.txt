@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 41733
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  41733
+LAUNCH_TAG          =  2016-051
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Lixing 1
+PL_NAME             =  Qibo Daqi K Weixing
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SECM
+BUS_TYPE            =  -
+MOTOR               =  AOCS
+BOL_MASS            =    120.0 # 
+CURR_MASS           =    120.0 # 
+DRY_MASS            =     90.0 # ?
+BUS_SHAPE           =  Box
+LENGTH              =      1.7 # ?
+DIAMETER            =      0.3 # ?
+SPAN                =      2.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2016/08/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A08553
+LAUNCH_SITE         =  
+#
+PARENT              =  A08553
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2016/08/19-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CASIOM
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2016/08/15-00:00:00 # 
+PERIGEE             =       483.0 #  
+APOGEE              =       503.0 # 
+INCL                =       97.35 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

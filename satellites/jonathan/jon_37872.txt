@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 37872
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  37872
+LAUNCH_TAG          =  2011-065
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Fobos-Grunt
+PL_NAME             =  Pereletniy modul' FG
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOL
+BUS_TYPE            =  FG SA
+MOTOR               =  -
+BOL_MASS            =   1820.0 # 
+CURR_MASS           =  13505.0 # 
+DRY_MASS            =    762.0 # 
+BUS_SHAPE           =  Box + 2 Pan + 2 Leg
+LENGTH              =      3.5 # ?
+DIAMETER            =      2.0 # ?
+SPAN                =      7.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2011/11/08-00:00:00 # 
+LAUNCH_VEHICLE      =  A07894
+LAUNCH_SITE         =  
+#
+PARENT              =  A07894
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  IKI/BABTS
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2011/11/10-00:00:00 # 
+PERIGEE             =       206.0 #  
+APOGEE              =       338.0 # 
+INCL                =       51.43 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 27620
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  27620
+LAUNCH_TAG          =  2002-060
+PIECE               =  D
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Blok DM-2 No. 95L
+PL_NAME             =  11S861 No. 95L
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RKKE
+BUS_TYPE            =  Blok DM2
+MOTOR               =  11D58M
+BOL_MASS            =  17610.0 # 
+CURR_MASS           =   2560.0 # 
+DRY_MASS            =   2560.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      7.1 # 
+DIAMETER            =      3.7 # 
+SPAN                =      7.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2002/12/25-00:00:00 # 
+LAUNCH_VEHICLE      =  A06781
+LAUNCH_SITE         =  
+#
+PARENT              =  A06781
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  KHRR
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2003/01/01-00:00:00 # 
+PERIGEE             =     19077.0 #  
+APOGEE              =     19126.0 # 
+INCL                =       64.79 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 26108
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  26108
+LAUNCH_TAG          =  2000-016
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Insat 3B
+PL_NAME             =  Insat 3B
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ISRO
+BUS_TYPE            =  I2K
+MOTOR               =  ISRO LAM
+BOL_MASS            =   2070.0 # 
+CURR_MASS           =   2070.0 # 
+DRY_MASS            =    970.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      1.9 # 
+DIAMETER            =      1.7 # 
+SPAN                =     14.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2000/03/21-00:00:00 # 
+LAUNCH_VEHICLE      =  S26110
+LAUNCH_SITE         =  
+#
+PARENT              =  S26110
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ISRO
+COUNTRY             =  IN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2000/04/23-00:00:00 # 
+PERIGEE             =     35743.0 #  
+APOGEE              =     35829.0 # 
+INCL                =        0.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

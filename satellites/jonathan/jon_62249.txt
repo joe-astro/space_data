@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 62249
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  62249
+LAUNCH_TAG          =  2024-232
+PIECE               =  N
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      O
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Qianfan Jigui 03-12
+PL_NAME             =  Qianfan Jigui 03-12
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SECM
+BUS_TYPE            =  Qianfan
+MOTOR               =  -
+BOL_MASS            =    267.0 # ?
+CURR_MASS           =    267.0 # 
+DRY_MASS            =    267.0 # ?
+BUS_SHAPE           =  Box+pan
+LENGTH              =      0.3 # ?
+DIAMETER            =      3.0 # ?
+SPAN                =     10.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/12/05-00:00:00 # 
+LAUNCH_VEHICLE      =  S62237
+LAUNCH_SITE         =  
+#
+PARENT              =  S62237
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  YUANX
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/12/16-00:00:00 # 
+PERIGEE             =       791.0 #  
+APOGEE              =       813.0 # 
+INCL                =       88.99 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  -

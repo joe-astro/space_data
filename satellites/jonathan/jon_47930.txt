@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 47930
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  47930
+LAUNCH_TAG          =  2021-013
+PIECE               =  SG
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P    D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  D
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Hirogari
+PL_NAME             =  OPUSAT-II
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  OPU/MUKD
+BUS_TYPE            =  Cubesat 2U
+MOTOR               =  -
+BOL_MASS            =    2.368 # 
+CURR_MASS           =    2.368 # 
+DRY_MASS            =    2.368 # 
+BUS_SHAPE           =  Box+truss
+LENGTH              =      0.2 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/02/20-00:00:00 # 
+LAUNCH_VEHICLE      =  A09695*
+LAUNCH_SITE         =  
+#
+PARENT              =  A09695*
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2022/04/15-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  OPU/MUKD
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/03/19-00:00:00 # 
+PERIGEE             =       414.0 #  
+APOGEE              =       421.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

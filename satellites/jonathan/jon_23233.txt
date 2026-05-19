@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 23233
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  23233
+LAUNCH_TAG          =  1994-057
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  DMSP F-12
+PL_NAME             =  DMSP Block 5D-2 S-11
+ALT_NAMES           =  USA 106,DMSP 23545
+#
+MANUFACTURER        =  MMAS
+BUS_TYPE            =  Block 5D
+MOTOR               =  Star 37S
+BOL_MASS            =    760.0 # ?
+CURR_MASS           =   1474.0 # ?
+DRY_MASS            =    760.0 # ?
+BUS_SHAPE           =  Box + Pan
+LENGTH              =      3.4 # 
+DIAMETER            =      1.2 # 
+SPAN                =      5.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1994/08/29-00:00:00 # 
+LAUNCH_VEHICLE      =  R61610
+LAUNCH_SITE         =  
+#
+PARENT              =  R61610
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSMC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1994/09/28-00:00:00 # 
+PERIGEE             =       841.0 #  
+APOGEE              =       859.0 # 
+INCL                =       98.92 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

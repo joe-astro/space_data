@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 45530
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  45530
+LAUNCH_TAG          =  2020-024
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Qased 1 Stage 3
+PL_NAME             =  Qased Stage 3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  IRGC
+BUS_TYPE            =  Qased S3
+MOTOR               =  -
+BOL_MASS            =    100.0 # ?
+CURR_MASS           =    100.0 # ?
+DRY_MASS            =    100.0 # ?
+BUS_SHAPE           =  Sphere-Cone
+LENGTH              =      0.5 # ?
+DIAMETER            =      0.3 # ?
+SPAN                =      0.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2020/04/22-00:00:00 # 
+LAUNCH_VEHICLE      =  R79672
+LAUNCH_SITE         =  
+#
+PARENT              =  R79672
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  IRGC
+COUNTRY             =  IR
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2020/04/24-00:00:00 # 
+PERIGEE             =       426.0 #  
+APOGEE              =       444.0 # 
+INCL                =        59.8 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

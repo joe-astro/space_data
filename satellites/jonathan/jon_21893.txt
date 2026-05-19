@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 21893
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  21893
+LAUNCH_TAG          =  1992-010
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Superbird B1
+PL_NAME             =  Superbird B1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LOR
+BUS_TYPE            =  FS-1300
+MOTOR               =  R-4D-11
+BOL_MASS            =   2560.0 # 
+CURR_MASS           =   2560.0 # 
+DRY_MASS            =   1224.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      2.4 # 
+DIAMETER            =      2.2 # 
+SPAN                =     20.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1992/02/26-00:00:00 # 
+LAUNCH_VEHICLE      =  A05119
+LAUNCH_SITE         =  
+#
+PARENT              =  A05119
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SCC
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1992/04/06-00:00:00 # 
+PERIGEE             =     35773.0 #  
+APOGEE              =     35799.0 # 
+INCL                =        0.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

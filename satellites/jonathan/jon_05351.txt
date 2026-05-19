@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 05351
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  05351
+LAUNCH_TAG          =  1971-063
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PH HD
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  H
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Apollo 15 CSM
+PL_NAME             =  Apollo CM-112
+ALT_NAMES           =  Endeavour
+#
+MANUFACTURER        =  NAAD
+BUS_TYPE            =  CM
+MOTOR               =  -
+BOL_MASS            =   5342.0 # 
+CURR_MASS           =  30356.0 # 
+DRY_MASS            =   5342.0 # 
+BUS_SHAPE           =  Cone
+LENGTH              =      3.5 # 
+DIAMETER            =      3.9 # 
+SPAN                =      3.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1971/07/26-00:00:00 # 
+LAUNCH_VEHICLE      =  A01991
+LAUNCH_SITE         =  
+#
+PARENT              =  A01991
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1971/07/26-00:00:00 # 
+PERIGEE             =       203.0 #  
+APOGEE              =    532310.0 # 
+INCL                =       29.69 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DK
+JON_OP_ORBIT        =  CLO
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 49325
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  49325
+LAUNCH_TAG          =  2021-091
+PIECE               =  L
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  MD-1
+PL_NAME             =  Guidao daqi midu TSW
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  DFHS
+BUS_TYPE            =  MD-1
+MOTOR               =  -
+BOL_MASS            =     40.0 # ?
+CURR_MASS           =     40.0 # ?
+DRY_MASS            =     40.0 # ?
+BUS_SHAPE           =  Oct prism
+LENGTH              =      0.5 # ?
+DIAMETER            =      0.3 # ?
+SPAN                =      0.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/10/14-00:00:00 # 
+LAUNCH_VEHICLE      =  A09877
+LAUNCH_SITE         =  
+#
+PARENT              =  A09877
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2024/01/23-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DFHS
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/10/14-00:00:00 # 
+PERIGEE             =       503.0 #  
+APOGEE              =       522.0 # 
+INCL                =       97.46 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

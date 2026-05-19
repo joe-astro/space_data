@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 25575
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  25575
+LAUNCH_TAG          =  1998-069
+PIECE               =  F
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP H-MU
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  M
+UN_REGISTRATION     =  U
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Unity
+PL_NAME             =  ISS Node 1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  BOHSV
+BUS_TYPE            =  ISS Node
+MOTOR               =  -
+BOL_MASS            =   9280.0 # 
+CURR_MASS           =  11600.0 # 
+DRY_MASS            =   9280.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      5.2 # 
+DIAMETER            =      4.4 # 
+SPAN                =      5.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1998/12/04-00:00:00 # 
+LAUNCH_VEHICLE      =  A06141
+LAUNCH_SITE         =  
+#
+PARENT              =  A06141
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1998/12/10-00:00:00 # 
+PERIGEE             =       387.0 #  
+APOGEE              =       400.0 # 
+INCL                =       51.59 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AO
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

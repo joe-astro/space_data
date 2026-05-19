@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43947
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43947
+LAUNCH_TAG          =  2019-006
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Microsat-R
+PL_NAME             =  Microsat-R
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  DRDO
+BUS_TYPE            =  Microsat
+MOTOR               =  -
+BOL_MASS            =    740.0 # 
+CURR_MASS           =    740.0 # 
+DRY_MASS            =    740.0 # 
+BUS_SHAPE           =  Box+ 2 pan?
+LENGTH              =      2.0 # ?
+DIAMETER            =      1.0 # ?
+SPAN                =      5.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2019/01/24-00:00:00 # 
+LAUNCH_VEHICLE      =  A09256
+LAUNCH_SITE         =  
+#
+PARENT              =  A09256
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DRDO
+COUNTRY             =  IN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2019/01/26-00:00:00 # 
+PERIGEE             =       268.0 #  
+APOGEE              =       289.0 # 
+INCL                =        96.6 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  C
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

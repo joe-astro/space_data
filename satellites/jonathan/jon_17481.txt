@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 17481
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  17481
+LAUNCH_TAG          =  1987-012
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  M-3SII-3 Stage 3
+PL_NAME             =  M-3B
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NISS
+BUS_TYPE            =  M-3B
+MOTOR               =  -
+BOL_MASS            =    310.0 # 
+CURR_MASS           =    310.0 # 
+DRY_MASS            =    310.0 # 
+BUS_SHAPE           =  Sphere + Cone
+LENGTH              =      2.7 # 
+DIAMETER            =      1.5 # 
+SPAN                =      2.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1987/02/05-00:00:00 # 
+LAUNCH_VEHICLE      =  R53803
+LAUNCH_SITE         =  
+#
+PARENT              =  R53803
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1997/06/28-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ISASM
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1987/04/29-00:00:00 # 
+PERIGEE             =       514.0 #  
+APOGEE              =       705.0 # 
+INCL                =       31.08 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

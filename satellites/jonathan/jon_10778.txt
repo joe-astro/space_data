@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 10778
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  10778
+LAUNCH_TAG          =  1978-035
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      M
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  M
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  INTELSAT IVA F6
+PL_NAME             =  INTELSAT IVA F6
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  HSES
+BUS_TYPE            =  HS-353
+MOTOR               =  SVM-4A
+BOL_MASS            =    769.0 # 
+CURR_MASS           =   1480.0 # 
+DRY_MASS            =    630.0 # ?
+BUS_SHAPE           =  Cyl + 2 Dish
+LENGTH              =      7.0 # 
+DIAMETER            =      2.4 # 
+SPAN                =      7.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1978/03/31-00:00:00 # 
+LAUNCH_VEHICLE      =  S10779
+LAUNCH_SITE         =  
+#
+PARENT              =  S10779
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2001/07/18-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  INTEL
+COUNTRY             =  I-INT
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1978/05/25-00:00:00 # 
+PERIGEE             =     35980.0 #  
+APOGEE              =     36014.0 # 
+INCL                =        0.27 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  N
+JON_OP_ORBIT        =  GEO/D
+OQUAL               =  -

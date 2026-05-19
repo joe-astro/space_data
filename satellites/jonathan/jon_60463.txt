@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 60463
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  60463
+LAUNCH_TAG          =  2024-148
+PIECE               =  F
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Yaogan 43-01-06
+PL_NAME             =  Yaogan 43 hao 01 zu 06 xing
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SAST
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =    300.0 # ?
+CURR_MASS           =    300.0 # ?
+DRY_MASS            =    300.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      2.5 # ?
+DIAMETER            =      2.5 # 
+SPAN                =      5.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/08/16-00:00:00 # 
+LAUNCH_VEHICLE      =  S60467
+LAUNCH_SITE         =  
+#
+PARENT              =  S60467
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ZZB
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/08/16-00:00:00 # 
+PERIGEE             =       492.0 #  
+APOGEE              =       500.0 # 
+INCL                =       35.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

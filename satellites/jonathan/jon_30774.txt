@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 30774
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  30774
+LAUNCH_TAG          =  2007-006
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Nextsat
+PL_NAME             =  Orbital Express
+ALT_NAMES           =  STP-1:PN
+#
+MANUFACTURER        =  BALL
+BUS_TYPE            =  BCP-300
+MOTOR               =  -
+BOL_MASS            =    224.0 # 
+CURR_MASS           =    224.0 # 
+DRY_MASS            =    224.0 # 
+BUS_SHAPE           =  Oct Cyl + Pan
+LENGTH              =      1.5 # ?
+DIAMETER            =      1.0 # ?
+SPAN                =      1.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2007/03/09-00:00:00 # 
+LAUNCH_VEHICLE      =  S30778
+LAUNCH_SITE         =  
+#
+PARENT              =  S30778
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DARPA2
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2007/03/09-00:00:00 # 
+PERIGEE             =       490.0 #  
+APOGEE              =       498.0 # 
+INCL                =       46.03 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

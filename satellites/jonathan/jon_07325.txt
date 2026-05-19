@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 07325
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  07325
+LAUNCH_TAG          =  1974-040
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Hawkeye 1
+PL_NAME             =  Injun 6
+ALT_NAMES           =  Explorer 52
+#
+MANUFACTURER        =  UIA
+BUS_TYPE            =  Injun F
+MOTOR               =  -
+BOL_MASS            =     27.0 # 
+CURR_MASS           =     27.0 # 
+DRY_MASS            =     27.0 # 
+BUS_SHAPE           =  Oct Cyl + Cone + 4 Ant
+LENGTH              =      0.8 # 
+DIAMETER            =      0.8 # 
+SPAN                =     42.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1974/06/03-00:00:00 # 
+LAUNCH_VEHICLE      =  A02437
+LAUNCH_SITE         =  
+#
+PARENT              =  A02437
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1978/04/30-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LARCN
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1976/02/29-00:00:00 # 
+PERIGEE             =      4431.0 #  
+APOGEE              =    122973.0 # 
+INCL                =       88.33 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  VHEO
+OQUAL               =  -

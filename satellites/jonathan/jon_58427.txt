@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 58427
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  58427
+LAUNCH_TAG          =  2023-181
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      T m
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  T
+ID_FLAG             =   
+ANNOTATION_FLAG     =  m
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Hulianwang Jishu Shiyan W.
+PL_NAME             =  Chuangxin-20C
+ALT_NAMES           =  CX-20,XQG 02C
+#
+MANUFACTURER        =  SECM
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =    300.0 # ?
+CURR_MASS           =    300.0 # ?
+DRY_MASS            =    300.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      2.5 # ?
+DIAMETER            =      0.8 # ?
+SPAN                =      2.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/11/23-00:00:00 # 
+LAUNCH_VEHICLE      =  A11087
+LAUNCH_SITE         =  
+#
+PARENT              =  A11087
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ZXW
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/11/28-00:00:00 # 
+PERIGEE             =      1091.0 #  
+APOGEE              =      1107.0 # 
+INCL                =        50.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

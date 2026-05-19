@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02395
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02395
+LAUNCH_TAG          =  1966-073
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2  D
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Agena D 6630
+PL_NAME             =  Agena D 6630
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LMSC
+BUS_TYPE            =  Agena D
+MOTOR               =  -
+BOL_MASS            =    600.0 # 
+CURR_MASS           =    600.0 # 
+DRY_MASS            =    600.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      6.3 # 
+DIAMETER            =      1.5 # 
+SPAN                =      6.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1966/08/10-00:00:00 # 
+LAUNCH_VEHICLE      =  R14370
+LAUNCH_SITE         =  
+#
+PARENT              =  R14370
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1966/08/11-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LERC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1966/08/10-00:00:00 # 
+PERIGEE             =       196.0 #  
+APOGEE              =    345551.0 # 
+INCL                =       29.61 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  CLO
+OQUAL               =  -

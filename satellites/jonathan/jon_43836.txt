@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43836
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43836
+LAUNCH_TAG          =  2018-102
+PIECE               =  F
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Shaonian-OFO
+PL_NAME             =  Piao chong 1
+ALT_NAMES           =  Elvis
+#
+MANUFACTURER        =  JIUT
+BUS_TYPE            =  Piaochong
+MOTOR               =  -
+BOL_MASS            =    100.0 # 
+CURR_MASS           =    100.0 # 
+DRY_MASS            =    100.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      1.0 # ?
+DIAMETER            =      1.0 # ?
+SPAN                =      1.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/12/07-00:00:00 # 
+LAUNCH_VEHICLE      =  A09235
+LAUNCH_SITE         =  
+#
+PARENT              =  A09235
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2025/01/25-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  BTWK/OFO
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/12/08-00:00:00 # 
+PERIGEE             =       531.0 #  
+APOGEE              =       550.0 # 
+INCL                =       97.63 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

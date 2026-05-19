@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 58021
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  58021
+LAUNCH_TAG          =  2023-155
+PIECE               =  F
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  CSC-2
+PL_NAME             =  CSC-2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ISISBV
+BUS_TYPE            =  Cubesat 6UXL
+MOTOR               =  -
+BOL_MASS            =     10.0 # ?
+CURR_MASS           =     10.0 # ?
+DRY_MASS            =     10.0 # ?
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      0.3 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/10/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A11053
+LAUNCH_SITE         =  
+#
+PARENT              =  A11053
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ISISBV
+COUNTRY             =  NL
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/10/09-00:00:00 # 
+PERIGEE             =       567.0 #  
+APOGEE              =       574.0 # 
+INCL                =       97.67 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

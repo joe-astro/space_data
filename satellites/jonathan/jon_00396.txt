@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00396
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00396
+LAUNCH_TAG          =  1962-A-CHI
+PIECE               =  HI
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  FTV 1133
+PL_NAME             =  CORONA M-12
+ALT_NAMES           =  :UF,:CC,NRO Mission 9043:CM,CORONA 51:CA,MURAL 12
+#
+MANUFACTURER        =  LMSC
+BUS_TYPE            =  CORONA KH-4
+MOTOR               =  -
+BOL_MASS            =    186.0 # 
+CURR_MASS           =   1246.0 # 
+DRY_MASS            =    186.0 # 
+BUS_SHAPE           =  Frust + Cyl
+LENGTH              =      2.3 # 
+DIAMETER            =      1.5 # 
+SPAN                =      2.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1962/09/17-00:00:00 # 
+LAUNCH_VEHICLE      =  A00265
+LAUNCH_SITE         =  
+#
+PARENT              =  A00265
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1962/11/19-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/CIA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1962/10/17-00:00:00 # 
+PERIGEE             =       192.0 #  
+APOGEE              =       528.0 # 
+INCL                =       81.86 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

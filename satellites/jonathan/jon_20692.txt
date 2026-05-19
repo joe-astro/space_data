@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20692
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20692
+LAUNCH_TAG          =  1990-050
+PIECE               =  D
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 62
+PL_NAME             =  Improved PARCAE 1 SSU-3
+ALT_NAMES           =  :U
+#
+MANUFACTURER        =  NRL
+BUS_TYPE            =  NOSS B SSU
+MOTOR               =  -
+BOL_MASS            =    400.0 # ?
+CURR_MASS           =    400.0 # ?
+DRY_MASS            =    400.0 # ?
+BUS_SHAPE           =  Box + Ant
+LENGTH              =      1.0 # ?
+DIAMETER            =      1.0 # ?
+SPAN                =     10.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1990/06/08-00:00:00 # 
+LAUNCH_VEHICLE      =  A04850
+LAUNCH_SITE         =  
+#
+PARENT              =  A04850
+SEPARATION_DATE     =  1990/06/09-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/NRL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/12/05-00:00:00 # 
+PERIGEE             =      1071.0 #  
+APOGEE              =      1146.0 # 
+INCL                =       63.44 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

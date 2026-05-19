@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 65317
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  65317
+LAUNCH_TAG          =  2025-188
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  NAOS
+PL_NAME             =  LUXEOSys
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  OHBI
+BUS_TYPE            =  NAOS
+MOTOR               =  -
+BOL_MASS            =    645.0 # 
+CURR_MASS           =    645.0 # 
+DRY_MASS            =    645.0 # 
+BUS_SHAPE           =  Hex Cyl + 2 pan
+LENGTH              =      3.0 # ?
+DIAMETER            =      1.8 # 
+SPAN                =     10.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/08/26-00:00:00 # 
+LAUNCH_VEHICLE      =  A11588
+LAUNCH_SITE         =  
+#
+PARENT              =  A11588
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LUXDD/LUXEO
+COUNTRY             =  L
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/08/26-00:00:00 # 
+PERIGEE             =       457.0 #  
+APOGEE              =       463.0 # 
+INCL                =       97.26 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

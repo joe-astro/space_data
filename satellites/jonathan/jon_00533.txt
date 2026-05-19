@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00533
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00533
+LAUNCH_TAG          =  1963-005
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OPS 0240
+PL_NAME             =  FTV 3503
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RCA
+BUS_TYPE            =  P35
+MOTOR               =  -
+BOL_MASS            =     50.0 # 
+CURR_MASS           =     50.0 # 
+DRY_MASS            =     50.0 # 
+BUS_SHAPE           =  Polyhedral Cyl
+LENGTH              =      0.5 # 
+DIAMETER            =      0.6 # 
+SPAN                =      0.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1963/02/19-00:00:00 # 
+LAUNCH_VEHICLE      =  S00534
+LAUNCH_SITE         =  
+#
+PARENT              =  S00534
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1979/12/26-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1963/03/23-00:00:00 # 
+PERIGEE             =       504.0 #  
+APOGEE              =       791.0 # 
+INCL                =      100.48 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

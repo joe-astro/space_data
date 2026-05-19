@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 39246
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  39246
+LAUNCH_TAG          =  2013-047
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  LADEE
+PL_NAME             =  LADEE
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ARC
+BUS_TYPE            =  MCSB
+MOTOR               =  R-4D-15
+BOL_MASS            =    383.0 # 
+CURR_MASS           =    383.0 # 
+DRY_MASS            =    248.0 # 
+BUS_SHAPE           =  Cyl Oct tapered
+LENGTH              =      2.4 # 
+DIAMETER            =      1.9 # 
+SPAN                =      2.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2013/09/07-00:00:00 # 
+LAUNCH_VEHICLE      =  A08036
+LAUNCH_SITE         =  
+#
+PARENT              =  A08036
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ARC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2013/09/07-00:00:00 # 
+PERIGEE             =       200.0 #  
+APOGEE              =    274635.0 # 
+INCL                =       37.57 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  DSO
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 28396
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  28396
+LAUNCH_TAG          =  2004-038
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-2410
+PL_NAME             =  Kobal't-M No. 556
+ALT_NAMES           =  Yantar'-4K2M No. 82L:P,11F695M No. 478-72-556:RA
+#
+MANUFACTURER        =  ARSL
+BUS_TYPE            =  Yantar'-4K2M
+MOTOR               =  11D428
+BOL_MASS            =   3186.0 # ?
+CURR_MASS           =   6635.0 # 
+DRY_MASS            =   3186.0 # ?
+BUS_SHAPE           =  Cyl + 2 Pan
+LENGTH              =      6.3 # 
+DIAMETER            =      2.7 # 
+SPAN                =      6.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2004/09/24-00:00:00 # 
+LAUNCH_VEHICLE      =  S28397
+LAUNCH_SITE         =  
+#
+PARENT              =  S28397
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  KVR
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2004/10/01-00:00:00 # 
+PERIGEE             =       213.0 #  
+APOGEE              =       330.0 # 
+INCL                =       67.16 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

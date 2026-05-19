@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 37951
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  37951
+LAUNCH_TAG          =  2011-074
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Luch-5A
+PL_NAME             =  Luch-5A No. A001
+ALT_NAMES           =  757A No. A001:P
+#
+MANUFACTURER        =  RESH
+BUS_TYPE            =  Ekspress-1000
+MOTOR               =  AOCS
+BOL_MASS            =   1148.0 # 
+CURR_MASS           =   1148.0 # 
+DRY_MASS            =    950.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      6.0 # ?
+DIAMETER            =      2.0 # ?
+SPAN                =     20.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2011/12/11-00:00:00 # 
+LAUNCH_VEHICLE      =  S37950
+LAUNCH_SITE         =  
+#
+PARENT              =  S37950
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RESH
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2012/01/10-00:00:00 # 
+PERIGEE             =     35778.0 #  
+APOGEE              =     35791.0 # 
+INCL                =        4.83 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/I
+OQUAL               =  -

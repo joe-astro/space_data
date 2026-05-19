@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 14516
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  14516
+LAUNCH_TAG          =  1983-114
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Molniya-1
+PL_NAME             =  Molniya-1K No. 64L
+ALT_NAMES           =  :C,:RC,11F658 No. 800-69-1-64:RA
+#
+MANUFACTURER        =  NPOPM
+BUS_TYPE            =  Molniya-1
+MOTOR               =  -
+BOL_MASS            =   1650.0 # 
+CURR_MASS           =   1650.0 # 
+DRY_MASS            =   1620.0 # 
+BUS_SHAPE           =  Cyl + 6 Pan
+LENGTH              =      4.4 # 
+DIAMETER            =      1.4 # 
+SPAN                =      8.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1983/11/23-00:00:00 # 
+LAUNCH_VEHICLE      =  S14520
+LAUNCH_SITE         =  
+#
+PARENT              =  S14520
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2001/10/30-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GUKOS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1983/12/23-00:00:00 # 
+PERIGEE             =       484.0 #  
+APOGEE              =     39865.0 # 
+INCL                =       62.85 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  HEO/M
+OQUAL               =  -

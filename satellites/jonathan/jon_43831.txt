@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43831
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43831
+LAUNCH_TAG          =  2018-102
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Saudisat-5A
+PL_NAME             =  Saudisat 5A
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  KACST
+BUS_TYPE            =  Saudisat
+MOTOR               =  -
+BOL_MASS            =    425.0 # 
+CURR_MASS           =    425.0 # 
+DRY_MASS            =    425.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      2.0 # ?
+DIAMETER            =      1.0 # ?
+SPAN                =      2.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/12/07-00:00:00 # 
+LAUNCH_VEHICLE      =  A09235
+LAUNCH_SITE         =  
+#
+PARENT              =  A09235
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  KACST
+COUNTRY             =  SA
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/12/08-00:00:00 # 
+PERIGEE             =       533.0 #  
+APOGEE              =       551.0 # 
+INCL                =       97.63 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

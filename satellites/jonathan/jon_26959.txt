@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 26959
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  26959
+LAUNCH_TAG          =  2001-049
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  BIRD
+PL_NAME             =  BIRD
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  DLR2?
+BUS_TYPE            =  BIRD
+MOTOR               =  -
+BOL_MASS            =     92.0 # 
+CURR_MASS           =     92.0 # 
+DRY_MASS            =     92.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      0.5 # 
+DIAMETER            =      0.6 # 
+SPAN                =      1.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2001/10/22-00:00:00 # 
+LAUNCH_VEHICLE      =  S26960
+LAUNCH_SITE         =  
+#
+PARENT              =  S26960
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2023/10/13-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DLR2
+COUNTRY             =  D
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2001/10/24-00:00:00 # 
+PERIGEE             =       550.0 #  
+APOGEE              =       580.0 # 
+INCL                =       97.78 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

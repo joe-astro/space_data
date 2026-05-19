@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00870
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00870
+LAUNCH_TAG          =  1964-051
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Explorer 20
+PL_NAME             =  NASA S-48
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CHAIL
+BUS_TYPE            =  S-48
+MOTOR               =  -
+BOL_MASS            =     44.0 # 
+CURR_MASS           =     44.0 # 
+DRY_MASS            =     44.0 # 
+BUS_SHAPE           =  DCone + 6 Ant
+LENGTH              =      0.8 # 
+DIAMETER            =      0.7 # 
+SPAN                =     37.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1964/08/25-00:00:00 # 
+LAUNCH_VEHICLE      =  S00871
+LAUNCH_SITE         =  
+#
+PARENT              =  S00871
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1964/10/08-00:00:00 # 
+PERIGEE             =       869.0 #  
+APOGEE              =      1018.0 # 
+INCL                =        79.9 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

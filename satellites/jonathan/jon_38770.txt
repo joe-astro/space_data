@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 38770
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  38770
+LAUNCH_TAG          =  2012-048
+PIECE               =  N
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PXA     C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  X
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OUTSat
+PL_NAME             =  NPSCuL-1 OUTSat
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  USNPS
+BUS_TYPE            =  NPSCul
+MOTOR               =  -
+BOL_MASS            =     45.0 # ?
+CURR_MASS           =     45.0 # ?
+DRY_MASS            =     45.0 # ?
+BUS_SHAPE           =  Box
+LENGTH              =      0.5 # ?
+DIAMETER            =      0.5 # ?
+SPAN                =      0.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2012/09/13-00:00:00 # 
+LAUNCH_VEHICLE      =  A07964
+LAUNCH_SITE         =  
+#
+PARENT              =  A07964
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NROC/CALP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2012/09/23-00:00:00 # 
+PERIGEE             =       461.0 #  
+APOGEE              =       774.0 # 
+INCL                =       64.66 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AO
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

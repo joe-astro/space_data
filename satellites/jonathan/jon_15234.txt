@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 15234
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  15234
+LAUNCH_TAG          =  1984-093
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PH H-S
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  H
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Discovery (STS 41-D)
+PL_NAME             =  OV-103
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RWI
+BUS_TYPE            =  STS OV
+MOTOR               =  -
+BOL_MASS            =  92955.0 # 
+CURR_MASS           =  111993.0 # 
+DRY_MASS            =  86086.0 # 
+BUS_SHAPE           =  Box + 2 Wing + Fin
+LENGTH              =     37.3 # 
+DIAMETER            =     23.8 # 
+SPAN                =     37.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1984/08/30-00:00:00 # 
+LAUNCH_VEHICLE      =  A03887
+LAUNCH_SITE         =  
+#
+PARENT              =  A03887
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1984/09/01-00:00:00 # 
+PERIGEE             =       296.0 #  
+APOGEE              =       329.0 # 
+INCL                =       28.46 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 44206
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  44206
+LAUNCH_TAG          =  2019-022
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Antares A-10 Stage 2
+PL_NAME             =  Castor 30XL
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NGISH/NGISW
+BUS_TYPE            =  Castor 30
+MOTOR               =  Castor 30XL
+BOL_MASS            =   1220.0 # 
+CURR_MASS           =   1220.0 # 
+DRY_MASS            =   1220.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      6.0 # 
+DIAMETER            =      2.4 # 
+SPAN                =      6.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2019/04/17-00:00:00 # 
+LAUNCH_VEHICLE      =  R79030
+LAUNCH_SITE         =  
+#
+PARENT              =  R79030
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NGISW
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2019/04/24-00:00:00 # 
+PERIGEE             =       188.0 #  
+APOGEE              =       230.0 # 
+INCL                =       51.61 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

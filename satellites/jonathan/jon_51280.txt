@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 51280
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  51280
+LAUNCH_TAG          =  2022-006
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 324
+PL_NAME             =  Hornet 5
+ALT_NAMES           =  :U,GSSAP 5
+#
+MANUFACTURER        =  NGISD
+BUS_TYPE            =  GeoStar-1
+MOTOR               =  AOCS
+BOL_MASS            =    500.0 # 
+CURR_MASS           =    500.0 # 
+DRY_MASS            =    500.0 # 
+BUS_SHAPE           =  Box + 2 pan?
+LENGTH              =      2.0 # 
+DIAMETER            =      2.0 # 
+SPAN                =      5.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/01/21-00:00:00 # 
+LAUNCH_VEHICLE      =  S51282
+LAUNCH_SITE         =  
+#
+PARENT              =  S51282
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  USSF
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/04/19-00:00:00 # 
+PERIGEE             =     35781.0 #  
+APOGEE              =     35787.0 # 
+INCL                =        0.11 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

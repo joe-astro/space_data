@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 04062
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  04062
+LAUNCH_TAG          =  1969-067
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP HD
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Zond-7
+PL_NAME             =  L-1 No. 11
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TSKBEM
+BUS_TYPE            =  7K-L1
+MOTOR               =  KTDU-53
+BOL_MASS            =   2800.0 # ?
+CURR_MASS           =   5680.0 # ?
+DRY_MASS            =   2800.0 # ?
+BUS_SHAPE           =  Rounded Cone
+LENGTH              =      1.8 # 
+DIAMETER            =      2.0 # 
+SPAN                =      1.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1969/08/07-00:00:00 # 
+LAUNCH_VEHICLE      =  A01647
+LAUNCH_SITE         =  
+#
+PARENT              =  A01647
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1969/08/10-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TSKBEM
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1969/08/07-00:00:00 # 
+PERIGEE             =       200.0 #  
+APOGEE              =    400000.0 # ?
+INCL                =       51.52 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  CLO
+OQUAL               =  -

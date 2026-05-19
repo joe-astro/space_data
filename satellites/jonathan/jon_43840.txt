@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43840
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43840
+LAUNCH_TAG          =  2018-102
+PIECE               =  K
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Likeda jiaoyu weixing
+PL_NAME             =  Piao chong 5
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  JIUT
+BUS_TYPE            =  Cubesat 3U?
+MOTOR               =  -
+BOL_MASS            =      5.0 # 
+CURR_MASS           =      5.0 # 
+DRY_MASS            =      5.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/12/07-00:00:00 # 
+LAUNCH_VEHICLE      =  A09235
+LAUNCH_SITE         =  
+#
+PARENT              =  A09235
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2024/06/18-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  BTWK/LIDA
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/12/08-00:00:00 # 
+PERIGEE             =       528.0 #  
+APOGEE              =       549.0 # 
+INCL                =       97.63 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

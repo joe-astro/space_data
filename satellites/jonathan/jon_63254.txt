@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 63254
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  63254
+LAUNCH_TAG          =  2025-052
+PIECE               =  AW
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  YAM-8
+PL_NAME             =  YAM-8
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ADST
+BUS_TYPE            =  ARROW
+MOTOR               =  -
+BOL_MASS            =    150.0 # ?
+CURR_MASS           =    150.0 # ?
+DRY_MASS            =    140.0 # ?
+BUS_SHAPE           =  Trapezoid+2 pan
+LENGTH              =      1.3 # 
+DIAMETER            =      1.0 # 
+SPAN                =      5.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/03/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A11437
+LAUNCH_SITE         =  
+#
+PARENT              =  A11437
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LOFT
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/03/28-00:00:00 # 
+PERIGEE             =       586.0 #  
+APOGEE              =       591.0 # 
+INCL                =       97.74 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 52940
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  52940
+LAUNCH_TAG          =  2022-073
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  WFOV Testbed
+PL_NAME             =  WFOV Testbed
+ALT_NAMES           =  USA 332:U
+#
+MANUFACTURER        =  BOMILL
+BUS_TYPE            =  Aquila M8
+MOTOR               =  -
+BOL_MASS            =   3000.0 # ?
+CURR_MASS           =   3000.0 # ?
+DRY_MASS            =   2800.0 # ?
+BUS_SHAPE           =  Box+ 2 pan
+LENGTH              =      4.0 # ?
+DIAMETER            =      2.0 # ?
+SPAN                =     10.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/07/01-00:00:00 # 
+LAUNCH_VEHICLE      =  S52943
+LAUNCH_SITE         =  
+#
+PARENT              =  S52943
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SFSSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/08/31-00:00:00 # 
+PERIGEE             =     35992.0 #  
+APOGEE              =     36000.0 # 
+INCL                =        0.14 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/D
+OQUAL               =  -

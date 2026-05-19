@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 11139
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  11139
+LAUNCH_TAG          =  1978-111
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-1060
+PL_NAME             =  Gektor No. 96L
+ALT_NAMES           =  Zenit-2M No. 96L:P,11F690 No. 770-25-126:RA
+#
+MANUFACTURER        =  TSSKB
+BUS_TYPE            =  Zenit-2M
+MOTOR               =  -
+BOL_MASS            =   2200.0 # ?
+CURR_MASS           =   5400.0 # ?
+DRY_MASS            =   2200.0 # ?
+BUS_SHAPE           =  Sphere + DCone
+LENGTH              =      6.5 # ?
+DIAMETER            =      2.4 # ?
+SPAN                =      6.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1978/12/08-00:00:00 # 
+LAUNCH_VEHICLE      =  S11140
+LAUNCH_SITE         =  
+#
+PARENT              =  S11140
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GUKOSR
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1978/12/12-00:00:00 # 
+PERIGEE             =       201.0 #  
+APOGEE              =       285.0 # 
+INCL                =       65.03 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

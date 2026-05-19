@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 25867
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  25867
+LAUNCH_TAG          =  1999-040
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ---S-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Chandra X-ray Observatory
+PL_NAME             =  AXAF
+ALT_NAMES           =  NAIF151,CXO
+#
+MANUFACTURER        =  TRW
+BUS_TYPE            =  AXAF
+MOTOR               =  TR-308 x4
+BOL_MASS            =   5677.0 # 
+CURR_MASS           =   5677.0 # 
+DRY_MASS            =   4653.0 # 
+BUS_SHAPE           =  Cyl + 2 Pan
+LENGTH              =     14.0 # 
+DIAMETER            =      4.3 # 
+SPAN                =     19.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1999/07/23-00:00:00 # 
+LAUNCH_VEHICLE      =  S25869
+LAUNCH_SITE         =  
+#
+PARENT              =  S25869
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1999/08/27-00:00:00 # 
+PERIGEE             =      9999.0 #  
+APOGEE              =    138826.0 # 
+INCL                =       28.56 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  VHEO
+OQUAL               =  -

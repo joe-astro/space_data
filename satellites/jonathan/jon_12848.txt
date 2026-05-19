@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 12848
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  12848
+LAUNCH_TAG          =  1981-094
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Aureole 3
+PL_NAME             =  AUOS-Z-M-A-IK No. 401
+ALT_NAMES           =  AUOS-Z No. 670-67-401:RA
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  AUOS
+MOTOR               =  -
+BOL_MASS            =   1030.0 # 
+CURR_MASS           =   1030.0 # 
+DRY_MASS            =   1030.0 # 
+BUS_SHAPE           =  Cyl + 2 Pan + Ant
+LENGTH              =      2.5 # 
+DIAMETER            =      2.0 # 
+SPAN                =     20.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1981/09/21-00:00:00 # 
+LAUNCH_VEHICLE      =  S12849
+LAUNCH_SITE         =  
+#
+PARENT              =  S12849
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  IK
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1991/03/28-00:00:00 # 
+PERIGEE             =       398.0 #  
+APOGEE              =      1762.0 # 
+INCL                =        82.5 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

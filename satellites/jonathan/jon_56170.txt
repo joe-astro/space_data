@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 56170
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  56170
+LAUNCH_TAG          =  2023-050
+PIECE               =  J
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  BB 2
+PL_NAME             =  SDA-0A TRL SPX-02
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPX/LEIDOS
+BUS_TYPE            =  Starshield?
+MOTOR               =  -
+BOL_MASS            =    800.0 # ?
+CURR_MASS           =    800.0 # ?
+DRY_MASS            =    800.0 # ?
+BUS_SHAPE           =  Box + pan
+LENGTH              =      0.3 # ?
+DIAMETER            =      3.0 # ?
+SPAN                =      9.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/04/02-00:00:00 # 
+LAUNCH_VEHICLE      =  A10920
+LAUNCH_SITE         =  
+#
+PARENT              =  A10920
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SDA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/04/03-00:00:00 # 
+PERIGEE             =       939.0 #  
+APOGEE              =       950.0 # 
+INCL                =        81.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

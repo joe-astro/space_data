@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 55683
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  55683
+LAUNCH_TAG          =  2023-022
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Inmarsat 6 F2
+PL_NAME             =  Inmarsat 6 F2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ADSUK
+BUS_TYPE            =  Eurostar 3000EOR
+MOTOR               =  SPT140D
+BOL_MASS            =   5470.0 # 
+CURR_MASS           =   5470.0 # 
+DRY_MASS            =   4000.0 # 
+BUS_SHAPE           =  Box+dish+2 pan
+LENGTH              =      9.0 # 
+DIAMETER            =      2.5 # 
+SPAN                =     47.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/02/18-00:00:00 # 
+LAUNCH_VEHICLE      =  S55684
+LAUNCH_SITE         =  
+#
+PARENT              =  S55684
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  INMRL
+COUNTRY             =  UK
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/04/19-00:00:00 # 
+PERIGEE             =      3662.0 #  
+APOGEE              =     46215.0 # 
+INCL                =       17.07 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  HEO
+OQUAL               =  -

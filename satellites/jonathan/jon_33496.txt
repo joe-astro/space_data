@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 33496
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  33496
+LAUNCH_TAG          =  2009-002
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Maido-1
+PL_NAME             =  SOHLA 1
+ALT_NAMES           =  Maido Ichigo
+#
+MANUFACTURER        =  SOHLA
+BUS_TYPE            =  SOHLA
+MOTOR               =  -
+BOL_MASS            =     50.0 # 
+CURR_MASS           =     50.0 # 
+DRY_MASS            =     50.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.5 # ?
+DIAMETER            =      0.5 # ?
+SPAN                =      0.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2009/01/23-00:00:00 # 
+LAUNCH_VEHICLE      =  S33500
+LAUNCH_SITE         =  
+#
+PARENT              =  S33500
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SOHLA/JAXA
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2009/01/25-00:00:00 # 
+PERIGEE             =       653.0 #  
+APOGEE              =       667.0 # 
+INCL                =       98.03 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

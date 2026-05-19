@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 55128
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  55128
+LAUNCH_TAG          =  2022-159
+PIECE               =  UV
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P  - D-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  D
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  TJREVERB
+PL_NAME             =  TJREVERB
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TJHS
+BUS_TYPE            =  Cubesat 2U
+MOTOR               =  -
+BOL_MASS            =      2.6 # 
+CURR_MASS           =      2.6 # 
+DRY_MASS            =      2.6 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.2 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/11/26-00:00:00 # 
+LAUNCH_VEHICLE      =  A10809*
+LAUNCH_SITE         =  
+#
+PARENT              =  A10809*
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2023/06/13-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TJHS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/01/03-00:00:00 # 
+PERIGEE             =       411.0 #  
+APOGEE              =       415.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

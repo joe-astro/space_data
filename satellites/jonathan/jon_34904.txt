@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 34904
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  34904
+LAUNCH_TAG          =  2009-023
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2      C
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Delta 341
+PL_NAME             =  Delta SSPS AJ-10-118K
+ALT_NAMES           =  Delta 7920
+#
+MANUFACTURER        =  BOPBL
+BUS_TYPE            =  Delta/0020
+MOTOR               =  -
+BOL_MASS            =   6930.0 # 
+CURR_MASS           =    924.0 # 
+DRY_MASS            =    924.0 # 
+BUS_SHAPE           =  Cyl + Cone
+LENGTH              =      6.0 # 
+DIAMETER            =      2.4 # 
+SPAN                =      6.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2009/05/05-00:00:00 # 
+LAUNCH_VEHICLE      =  R69769
+LAUNCH_SITE         =  
+#
+PARENT              =  R69769
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2009/07/30-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  BOHB
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2009/05/05-00:00:00 # 
+PERIGEE             =       181.0 #  
+APOGEE              =       900.0 # 
+INCL                =      112.78 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/R
+OQUAL               =  -

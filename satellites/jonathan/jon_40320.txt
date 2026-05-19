@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 40320
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  40320
+LAUNCH_TAG          =  2014-076
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Fuji-OSCAR-82
+PL_NAME             =  Shin'en-2
+ALT_NAMES           =  Fuji-OSCAR-82
+#
+MANUFACTURER        =  KYUT/KAGO
+BUS_TYPE            =  Shinen
+MOTOR               =  -
+BOL_MASS            =     17.7 # 
+CURR_MASS           =     17.7 # 
+DRY_MASS            =     17.7 # 
+BUS_SHAPE           =  Polyhedron
+LENGTH              =     0.49 # 
+DIAMETER            =     0.48 # 
+SPAN                =     0.49 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2014/12/03-00:00:00 # 
+LAUNCH_VEHICLE      =  S40323
+LAUNCH_SITE         =  
+#
+PARENT              =  S40323
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  KYUT
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2014/12/03-00:00:00 # 
+PERIGEE             =       245.0 #  
+APOGEE              =    -50902.0 # 
+INCL                =       29.89 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

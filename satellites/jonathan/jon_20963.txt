@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20963
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20963
+LAUNCH_TAG          =  1990-097
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ---S- C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 67
+PL_NAME             =  QUASAR 8
+ALT_NAMES           =  :U,SDS B-2 GEO:JP
+#
+MANUFACTURER        =  HSES
+BUS_TYPE            =  HS-389?
+MOTOR               =  R-4D-12 x2
+BOL_MASS            =   5852.0 # ?
+CURR_MASS           =   9512.0 # ?
+DRY_MASS            =   4500.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      9.0 # ?
+DIAMETER            =      3.6 # 
+SPAN                =      9.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1990/11/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A04905
+LAUNCH_SITE         =  
+#
+PARENT              =  A04905
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/12/23-00:00:00 # 
+PERIGEE             =     35780.0 #  
+APOGEE              =     35800.0 # 
+INCL                =         0.0 # ?
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

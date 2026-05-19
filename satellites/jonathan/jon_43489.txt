@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43489
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43489
+LAUNCH_TAG          =  2018-049
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Falcon 9-057 Stage 2
+PL_NAME             =  F9-057 St2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPX
+BUS_TYPE            =  F9St2/Blk5
+MOTOR               =  -
+BOL_MASS            =   3000.0 # ?
+CURR_MASS           =   3000.0 # ?
+DRY_MASS            =   3000.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =     12.6 # ?
+DIAMETER            =      3.6 # 
+SPAN                =     12.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/06/04-00:00:00 # 
+LAUNCH_VEHICLE      =  R78353
+LAUNCH_SITE         =  
+#
+PARENT              =  R78353
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2019/03/23-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPX
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/08/03-00:00:00 # 
+PERIGEE             =       302.0 #  
+APOGEE              =     58557.0 # 
+INCL                =       26.23 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  HEO
+OQUAL               =  -

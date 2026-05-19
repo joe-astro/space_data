@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 26106
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  26106
+LAUNCH_TAG          =  2000-015
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P AD
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =  D
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Dumsat
+PL_NAME             =  GVM Dumsat No. 1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  AEML
+BUS_TYPE            =  Cluster dummy
+MOTOR               =  -
+BOL_MASS            =   1191.0 # 
+CURR_MASS           =   3382.0 # 
+DRY_MASS            =   1191.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      2.0 # 
+DIAMETER            =      1.5 # 
+SPAN                =      2.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2000/03/20-00:00:00 # 
+LAUNCH_VEHICLE      =  A06271
+LAUNCH_SITE         =  
+#
+PARENT              =  A06271
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  STSM
+COUNTRY             =  F
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2000/03/29-00:00:00 # 
+PERIGEE             =       244.0 #  
+APOGEE              =     18014.0 # 
+INCL                =       64.66 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AO
+JON_OP_ORBIT        =  HEO
+OQUAL               =  -

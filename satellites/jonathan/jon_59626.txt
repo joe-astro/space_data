@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 59626
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  59626
+LAUNCH_TAG          =  2024-081
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  D
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  WorldView Legion 2
+PL_NAME             =  Legion 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MAXSI
+BUS_TYPE            =  Legion
+MOTOR               =  -
+BOL_MASS            =    700.0 # ?
+CURR_MASS           =    700.0 # ?
+DRY_MASS            =    630.0 # 
+BUS_SHAPE           =  Box + panel
+LENGTH              =      3.0 # 
+DIAMETER            =      2.0 # 
+SPAN                =      5.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/05/02-00:00:00 # 
+LAUNCH_VEHICLE      =  A11199
+LAUNCH_SITE         =  
+#
+PARENT              =  A11199
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MAXARI
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/05/03-00:00:00 # 
+PERIGEE             =       514.0 #  
+APOGEE              =       520.0 # 
+INCL                =       97.58 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

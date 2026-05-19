@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03187
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03187
+LAUNCH_TAG          =  1968-025
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PX-D      +
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  X
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  D
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =  +
+# ------------------------------
+#
+SAT_NAME            =  LTA-2R
+PL_NAME             =  LTA-2R
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GRUM
+BUS_TYPE            =  LTA
+MOTOR               =  -
+BOL_MASS            =  11794.0 # 
+CURR_MASS           =  11794.0 # 
+DRY_MASS            =  11794.0 # 
+BUS_SHAPE           =  Irr + Box
+LENGTH              =      7.0 # 
+DIAMETER            =      4.3 # 
+SPAN                =      7.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1968/04/04-00:00:00 # 
+LAUNCH_VEHICLE      =  A01349
+LAUNCH_SITE         =  
+#
+PARENT              =  A01349
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1968/09/03-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1968/05/09-00:00:00 # 
+PERIGEE             =       236.0 #  
+APOGEE              =       359.0 # 
+INCL                =       32.57 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

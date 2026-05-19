@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 39128
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  39128
+LAUNCH_TAG          =  2013-014
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Briz-M No. 99538
+PL_NAME             =  Briz-M 14S43 No. 99538
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  KHRR
+BUS_TYPE            =  Briz
+MOTOR               =  -
+BOL_MASS            =   7500.0 # ?
+CURR_MASS           =   1600.0 # ?
+DRY_MASS            =   1600.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      2.6 # 
+DIAMETER            =      2.5 # 
+SPAN                =      2.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2013/04/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A07998
+LAUNCH_SITE         =  
+#
+PARENT              =  A07998
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  KHRR
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2013/05/16-00:00:00 # 
+PERIGEE             =      8003.0 #  
+APOGEE              =     34230.0 # 
+INCL                =       13.92 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

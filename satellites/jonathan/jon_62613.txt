@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 62613
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  62613
+LAUNCH_TAG          =  2025-009
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      O
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Flock 4g-8
+PL_NAME             =  Dove 252b
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  PLAN
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      5.7 # 
+CURR_MASS           =      5.7 # 
+DRY_MASS            =      5.7 # 
+BUS_SHAPE           =  Box+2 pan
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/01/14-00:00:00 # 
+LAUNCH_VEHICLE      =  A11398
+LAUNCH_SITE         =  
+#
+PARENT              =  A11398
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  PLAN
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/01/19-00:00:00 # 
+PERIGEE             =       511.0 #  
+APOGEE              =       516.0 # 
+INCL                =       97.44 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

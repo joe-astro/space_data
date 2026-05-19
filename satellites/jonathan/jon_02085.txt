@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02085
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02085
+LAUNCH_TAG          =  1966-008
+PIECE               =  C
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  Y
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  Y
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ESSA 1 despin weight
+PL_NAME             =  -
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  -
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =      1.0 # ?
+CURR_MASS           =      1.0 # ?
+DRY_MASS            =      1.0 # ?
+BUS_SHAPE           =  Cable + Box
+LENGTH              =      3.5 # 
+DIAMETER            =      0.0 # 
+SPAN                =      3.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1966/02/03-00:00:00 # 
+LAUNCH_VEHICLE      =  S01982
+LAUNCH_SITE         =  
+#
+PARENT              =  S01982
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2002/08/28-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1966/10/30-00:00:00 # 
+PERIGEE             =       687.0 #  
+APOGEE              =       755.0 # 
+INCL                =       97.77 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

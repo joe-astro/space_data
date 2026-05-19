@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 44900
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  44900
+LAUNCH_TAG          =  2019-094
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP H V
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  V
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Starliner OFT
+PL_NAME             =  CST-100 SV3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  BOC3PF
+BUS_TYPE            =  CST-100
+MOTOR               =  -
+BOL_MASS            =   8000.0 # 
+CURR_MASS           =   8000.0 # 
+DRY_MASS            =   8000.0 # 
+BUS_SHAPE           =  Cone
+LENGTH              =      2.2 # 
+DIAMETER            =      4.5 # 
+SPAN                =      4.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2019/12/20-00:00:00 # 
+LAUNCH_VEHICLE      =  A09528
+LAUNCH_SITE         =  
+#
+PARENT              =  A09528
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  BOCC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2019/12/20-00:00:00 # 
+PERIGEE             =       182.0 #  
+APOGEE              =       220.0 # 
+INCL                =       51.59 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

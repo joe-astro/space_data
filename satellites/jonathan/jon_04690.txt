@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 04690
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  04690
+LAUNCH_TAG          =  1970-094
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OFO
+PL_NAME             =  Orbiting Frog Otolith 1
+ALT_NAMES           =  OFO-A
+#
+MANUFACTURER        =  SPG
+BUS_TYPE            =  OV3
+MOTOR               =  -
+BOL_MASS            =    133.0 # 
+CURR_MASS           =    133.0 # 
+DRY_MASS            =    133.0 # 
+BUS_SHAPE           =  Oct Cyl + Dome + 2 Ant
+LENGTH              =      1.2 # 
+DIAMETER            =      0.8 # 
+SPAN                =      4.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1970/11/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A01876
+LAUNCH_SITE         =  
+#
+PARENT              =  A01876
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1971/05/09-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ARC/WI
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1970/12/10-00:00:00 # 
+PERIGEE             =       287.0 #  
+APOGEE              =       506.0 # 
+INCL                =       37.43 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

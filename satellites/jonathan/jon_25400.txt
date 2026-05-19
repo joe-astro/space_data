@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 25400
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  25400
+LAUNCH_TAG          =  1998-043
+PIECE               =  G
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Zenit-2 No. 18NI Stage 2
+PL_NAME             =  11S772
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  YUZHUA
+BUS_TYPE            =  11S772
+MOTOR               =  -
+BOL_MASS            =   9000.0 # 
+CURR_MASS           =   9000.0 # 
+DRY_MASS            =   9000.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =     11.1 # 
+DIAMETER            =      3.9 # 
+SPAN                =     11.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1998/07/10-00:00:00 # 
+LAUNCH_VEHICLE      =  R64206
+LAUNCH_SITE         =  
+#
+PARENT              =  R64206
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  VKSR
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1998/08/10-00:00:00 # 
+PERIGEE             =       804.0 #  
+APOGEE              =       817.0 # 
+INCL                =       98.79 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

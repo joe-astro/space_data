@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 09395
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  09395
+LAUNCH_TAG          =  1976-087
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  FB-1 701-07 Stage 2
+PL_NAME             =  FB-1 Stage 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SBA2
+BUS_TYPE            =  CZ-2 Stage 2
+MOTOR               =  -
+BOL_MASS            =   3535.0 # 
+CURR_MASS           =   3535.0 # 
+DRY_MASS            =   3535.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      8.6 # 
+DIAMETER            =      3.4 # 
+SPAN                =      8.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1976/08/30-00:00:00 # 
+LAUNCH_VEHICLE      =  R36409
+LAUNCH_SITE         =  
+#
+PARENT              =  R36409
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1978/02/04-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JGB7
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1976/09/29-00:00:00 # 
+PERIGEE             =       193.0 #  
+APOGEE              =      2078.0 # 
+INCL                =       69.16 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

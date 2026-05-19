@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 46495
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  46495
+LAUNCH_TAG          =  2020-068
+PIECE               =  K
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  SALSAT
+PL_NAME             =  SALSAT
+ALT_NAMES           =  TUBSAT-22
+#
+MANUFACTURER        =  TUB
+BUS_TYPE            =  TUBiX10
+MOTOR               =  -
+BOL_MASS            =     12.0 # 
+CURR_MASS           =     12.0 # 
+DRY_MASS            =     12.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =     0.24 # 
+DIAMETER            =     0.24 # 
+SPAN                =     0.24 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2020/09/28-00:00:00 # 
+LAUNCH_VEHICLE      =  A09632
+LAUNCH_SITE         =  
+#
+PARENT              =  A09632
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TUB
+COUNTRY             =  D
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2020/09/30-00:00:00 # 
+PERIGEE             =       546.0 #  
+APOGEE              =       567.0 # 
+INCL                =       97.67 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

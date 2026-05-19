@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 04721
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  04721
+LAUNCH_TAG          =  1970-098
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OPS 4992
+PL_NAME             =  CORONA QR-2R
+ALT_NAMES           =  :C,:CC,NRO Mission 1112:CM,CORONA 140:CA
+#
+MANUFACTURER        =  LMSC
+BUS_TYPE            =  CORONA KH-4B
+MOTOR               =  -
+BOL_MASS            =    345.0 # ?
+CURR_MASS           =   1990.0 # ?
+DRY_MASS            =    345.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      2.3 # 
+DIAMETER            =      1.5 # 
+SPAN                =      2.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1970/11/18-00:00:00 # 
+LAUNCH_VEHICLE      =  A01886
+LAUNCH_SITE         =  
+#
+PARENT              =  A01886
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/CIA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1970/11/26-00:00:00 # 
+PERIGEE             =       175.0 #  
+APOGEE              =       216.0 # 
+INCL                =        83.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

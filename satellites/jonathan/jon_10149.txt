@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 10149
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  10149
+LAUNCH_TAG          =  1977-067
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-930
+PL_NAME             =  Taifun-2A (02)
+ALT_NAMES           =  Romb [No. 4]:JP
+#
+MANUFACTURER        =  YUZH
+BUS_TYPE            =  Romb
+MOTOR               =  -
+BOL_MASS            =    570.0 # 
+CURR_MASS           =   2005.0 # 
+DRY_MASS            =    570.0 # 
+BUS_SHAPE           =  Sphere
+LENGTH              =      2.0 # 
+DIAMETER            =      2.0 # 
+SPAN                =      2.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1977/07/19-00:00:00 # 
+LAUNCH_VEHICLE      =  A02836
+LAUNCH_SITE         =  
+#
+PARENT              =  A02836
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1980/05/12-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  PVO
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1977/08/19-00:00:00 # 
+PERIGEE             =       479.0 #  
+APOGEE              =       513.0 # 
+INCL                =       74.02 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

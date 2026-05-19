@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03943
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03943
+LAUNCH_TAG          =  1969-043
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3  D
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Saturn S-IVB-505N
+PL_NAME             =  Saturn S-IVB-505N
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MDAC
+BUS_TYPE            =  S-IVB
+MOTOR               =  -
+BOL_MASS            =  85809.0 # 
+CURR_MASS           =  15846.0 # 
+DRY_MASS            =  11553.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =     20.8 # 
+DIAMETER            =      6.6 # 
+SPAN                =     20.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1969/05/18-00:00:00 # 
+LAUNCH_VEHICLE      =  R20272
+LAUNCH_SITE         =  
+#
+PARENT              =  R20272
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1969/05/20-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1969/05/18-00:00:00 # 
+PERIGEE             =       645.0 #  
+APOGEE              =    675156.0 # 
+INCL                =       31.76 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  CLO
+OQUAL               =  -

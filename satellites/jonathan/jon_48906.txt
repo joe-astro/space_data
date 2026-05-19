@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 48906
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  48906
+LAUNCH_TAG          =  2021-059
+PIECE               =  AD
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P        g
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =  g
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Umbra-01
+PL_NAME             =  Umbra-SAR 2001
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  UMBRA
+BUS_TYPE            =  Umbra
+MOTOR               =  -
+BOL_MASS            =     65.0 # 
+CURR_MASS           =     65.0 # 
+DRY_MASS            =     60.0 # 
+BUS_SHAPE           =  Box + 2 Pan + Dish
+LENGTH              =      0.7 # 
+DIAMETER            =      0.5 # 
+SPAN                =      3.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/06/30-00:00:00 # 
+LAUNCH_VEHICLE      =  A09782  D3?
+LAUNCH_SITE         =  
+#
+PARENT              =  A09782  D3?
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  UMBRA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/07/06-00:00:00 # 
+PERIGEE             =       522.0 #  
+APOGEE              =       535.0 # 
+INCL                =       97.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

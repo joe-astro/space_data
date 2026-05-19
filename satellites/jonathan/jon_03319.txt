@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03319
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03319
+LAUNCH_TAG          =  1968-059
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OV1-16
+PL_NAME             =  Cannonball
+ALT_NAMES           =  LOADS
+#
+MANUFACTURER        =  AFCRL
+BUS_TYPE            =  LOADS
+MOTOR               =  -
+BOL_MASS            =    273.0 # 
+CURR_MASS           =    273.0 # 
+DRY_MASS            =    273.0 # 
+BUS_SHAPE           =  Sphere
+LENGTH              =      0.6 # 
+DIAMETER            =      0.6 # 
+SPAN                =      0.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1968/07/11-00:00:00 # 
+LAUNCH_VEHICLE      =  S03321
+LAUNCH_SITE         =  
+#
+PARENT              =  S03321
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1968/08/19-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  OAR
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1968/07/19-00:00:00 # 
+PERIGEE             =       142.0 #  
+APOGEE              =       530.0 # 
+INCL                =        89.8 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/P
+OQUAL               =  -

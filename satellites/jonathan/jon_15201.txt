@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 15201
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  15201
+LAUNCH_TAG          =  1984-088
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  UK Subsatellite
+PL_NAME             =  AMPTE-UKS
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RAL
+BUS_TYPE            =  AMPTE-UKS
+MOTOR               =  -
+BOL_MASS            =     77.0 # 
+CURR_MASS           =     77.0 # 
+DRY_MASS            =     76.0 # 
+BUS_SHAPE           =  Cyl + 2 Ant
+LENGTH              =      0.5 # 
+DIAMETER            =      1.0 # 
+SPAN                =      7.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1984/08/16-00:00:00 # 
+LAUNCH_VEHICLE      =  S15200
+LAUNCH_SITE         =  
+#
+PARENT              =  S15200
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1988/12/08-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RAL
+COUNTRY             =  UK
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1985/02/02-00:00:00 # 
+PERIGEE             =      1127.0 #  
+APOGEE              =    113291.0 # 
+INCL                =       27.79 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  VHEO
+OQUAL               =  -

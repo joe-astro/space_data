@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 18854
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  18854
+LAUNCH_TAG          =  1988-008
+PIECE               =  D
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PX-C--U
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  X
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  C
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  U
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Delta 181 SCRS
+PL_NAME             =  Sensor Calib. Ref. Sat.
+ALT_NAMES           =  Delta 181 Sub6
+#
+MANUFACTURER        =  APL
+BUS_TYPE            =  SDIO Delta 181
+MOTOR               =  -
+BOL_MASS            =     20.0 # ?
+CURR_MASS           =      0.0 # 
+DRY_MASS            =     20.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      0.5 # ?
+DIAMETER            =      0.5 # ?
+SPAN                =      0.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1988/02/08-00:00:00 # 
+LAUNCH_VEHICLE      =  S18847
+LAUNCH_SITE         =  
+#
+PARENT              =  S18847
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1988/02/13-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SDIO
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1988/02/11-00:00:00 # 
+PERIGEE             =       172.0 #  
+APOGEE              =       286.0 # 
+INCL                =       28.57 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

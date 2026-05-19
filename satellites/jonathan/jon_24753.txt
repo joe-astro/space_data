@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 24753
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  24753
+LAUNCH_TAG          =  1997-012
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  DMSP F-14
+PL_NAME             =  DMSP Block 5D-2 S-14
+ALT_NAMES           =  USA 131:U,DMSP 25548
+#
+MANUFACTURER        =  LMTEW
+BUS_TYPE            =  Block 5D
+MOTOR               =  Star 37S
+BOL_MASS            =    749.0 # 
+CURR_MASS           =   1456.0 # 
+DRY_MASS            =    749.0 # 
+BUS_SHAPE           =  Box + Pan
+LENGTH              =      3.4 # 
+DIAMETER            =      1.2 # 
+SPAN                =      5.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1997/04/04-00:00:00 # 
+LAUNCH_VEHICLE      =  R63294
+LAUNCH_SITE         =  
+#
+PARENT              =  R63294
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSMC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1997/05/04-00:00:00 # 
+PERIGEE             =       842.0 #  
+APOGEE              =       855.0 # 
+INCL                =       98.94 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 44375
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  44375
+LAUNCH_TAG          =  2019-036
+PIECE               =  Z
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P  D    ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  D
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Prometheus Mass Model
+PL_NAME             =  Prometheus Mass Model
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LANL
+BUS_TYPE            =  Cubesat 1.5U
+MOTOR               =  -
+BOL_MASS            =      2.0 # 
+CURR_MASS           =      2.0 # 
+DRY_MASS            =      2.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.1 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2019/06/25-00:00:00 # 
+LAUNCH_VEHICLE      =  A09441
+LAUNCH_SITE         =  
+#
+PARENT              =  A09441
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2021/07/27-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SOCOM
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2019/07/02-00:00:00 # 
+PERIGEE             =       305.0 #  
+APOGEE              =       845.0 # 
+INCL                =       28.52 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

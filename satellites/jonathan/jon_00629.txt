@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00629
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00629
+LAUNCH_TAG          =  1963-014
+PIECE               =  G
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P  V
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  V
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  West Ford 3 Telem Package
+PL_NAME             =  West Ford Telemetry Package
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MITLL
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =      8.0 # 
+CURR_MASS           =      8.0 # 
+DRY_MASS            =      8.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.1 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1963/05/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A00339
+LAUNCH_SITE         =  
+#
+PARENT              =  A00339
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSSD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1991/04/08-00:00:00 # 
+PERIGEE             =      3509.0 #  
+APOGEE              =      3776.0 # 
+INCL                =       87.35 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

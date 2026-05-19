@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 23610
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  23610
+LAUNCH_TAG          =  1995-034
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3      C
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Centaur TC-8
+PL_NAME             =  Centaur TC-8
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LMASD
+BUS_TYPE            =  Centaur T
+MOTOR               =  -
+BOL_MASS            =  17900.0 # ?
+CURR_MASS           =   2775.0 # ?
+DRY_MASS            =   2775.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      9.0 # 
+DIAMETER            =      4.3 # 
+SPAN                =      9.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1995/07/10-00:00:00 # 
+LAUNCH_VEHICLE      =  R62191
+LAUNCH_SITE         =  
+#
+PARENT              =  R62191
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSMC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1995/07/10-00:00:00 # 
+PERIGEE             =      1350.0 # ?
+APOGEE              =     39050.0 # ?
+INCL                =       63.41 # ?
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  HEO/M
+OQUAL               =  -

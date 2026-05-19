@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 32253
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  32253
+LAUNCH_TAG          =  2007-044
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      O
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Intelsat IS-11
+PL_NAME             =  Intelsat IS-11
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  OSCD
+BUS_TYPE            =  OSC Star 2.4
+MOTOR               =  BT-4
+BOL_MASS            =   2450.0 # 
+CURR_MASS           =   2450.0 # 
+DRY_MASS            =   1145.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      4.1 # 
+DIAMETER            =      2.3 # 
+SPAN                =     22.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2007/10/05-00:00:00 # 
+LAUNCH_VEHICLE      =  S32255
+LAUNCH_SITE         =  
+#
+PARENT              =  S32255
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  INTELD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2007/11/05-00:00:00 # 
+PERIGEE             =     35783.0 #  
+APOGEE              =     35787.0 # 
+INCL                =        0.05 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

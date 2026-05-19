@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 04692
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  04692
+LAUNCH_TAG          =  1970-094
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  RM
+PL_NAME             =  RM
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LTV
+BUS_TYPE            =  RM
+MOTOR               =  -
+BOL_MASS            =     21.0 # 
+CURR_MASS           =     68.0 # 
+DRY_MASS            =     21.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      0.7 # 
+DIAMETER            =      0.5 # 
+SPAN                =      1.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1970/11/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A01876
+LAUNCH_SITE         =  
+#
+PARENT              =  A01876
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1970/12/11-00:00:00 # 
+PERIGEE             =       289.0 #  
+APOGEE              =       475.0 # 
+INCL                =       37.43 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 42954
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  42954
+LAUNCH_TAG          =  2017-060
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Antonio Jose de Sucre
+PL_NAME             =  VRSS-2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  DFHZ
+BUS_TYPE            =  CAST-2000
+MOTOR               =  AOCS
+BOL_MASS            =    942.0 # 
+CURR_MASS           =    942.0 # 
+DRY_MASS            =    900.0 # ?
+BUS_SHAPE           =  Box+2 pan
+LENGTH              =      2.1 # 
+DIAMETER            =      1.8 # 
+SPAN                =      7.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2017/10/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A08694
+LAUNCH_SITE         =  
+#
+PARENT              =  A08694
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ABAE
+COUNTRY             =  VE
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2017/10/11-00:00:00 # 
+PERIGEE             =       629.0 #  
+APOGEE              =       654.0 # 
+INCL                =       98.02 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

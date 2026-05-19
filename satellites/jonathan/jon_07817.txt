@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 07817
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  07817
+LAUNCH_TAG          =  1975-043
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Burner IIA No. 24 US SV-8
+PL_NAME             =  Star 26B S/N 008
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  THKE
+BUS_TYPE            =  Star 26
+MOTOR               =  -
+BOL_MASS            =    353.0 # 
+CURR_MASS           =    115.0 # 
+DRY_MASS            =    115.0 # 
+BUS_SHAPE           =  Truss + Sphere + Cone
+LENGTH              =      1.0 # ?
+DIAMETER            =      1.0 # ?
+SPAN                =      1.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1975/05/24-00:00:00 # 
+LAUNCH_VEHICLE      =  R33661
+LAUNCH_SITE         =  
+#
+PARENT              =  R33661
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SAMSO
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1997/11/22-00:00:00 # 
+PERIGEE             =       799.0 #  
+APOGEE              =       871.0 # 
+INCL                =       98.86 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

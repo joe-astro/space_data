@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 14689
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  14689
+LAUNCH_TAG          =  1984-011
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ---S-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  IRT
+PL_NAME             =  IRT
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SDCO
+BUS_TYPE            =  IRT
+MOTOR               =  -
+BOL_MASS            =     95.0 # 
+CURR_MASS           =     95.0 # 
+DRY_MASS            =     95.0 # 
+BUS_SHAPE           =  Cyl + Inf Sphere
+LENGTH              =      0.5 # ?
+DIAMETER            =      0.5 # ?
+SPAN                =      0.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1984/02/03-00:00:00 # 
+LAUNCH_VEHICLE      =  A03770
+LAUNCH_SITE         =  
+#
+PARENT              =  A03770
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1984/02/05-00:00:00 # 
+PERIGEE             =       269.0 #  
+APOGEE              =       283.0 # 
+INCL                =       28.46 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

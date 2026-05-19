@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00033
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00033
+LAUNCH_TAG          =  1960-GAM
+PIECE               =  3
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PX-D---
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  X
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  D
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Dummy subsatellite?
+PL_NAME             =  -
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  APL
+BUS_TYPE            =  Dummy
+MOTOR               =  -
+BOL_MASS            =      2.0 # ?
+CURR_MASS           =      2.0 # ?
+DRY_MASS            =      2.0 # ?
+BUS_SHAPE           =  Disk?
+LENGTH              =      0.1 # ?
+DIAMETER            =      0.2 # ?
+SPAN                =      0.2 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1960/04/13-00:00:00 # 
+LAUNCH_VEHICLE      =  S00031
+LAUNCH_SITE         =  
+#
+PARENT              =  S00031
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1960/07/17-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  APL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1960/05/24-00:00:00 # 
+PERIGEE             =       285.0 #  
+APOGEE              =       663.0 # 
+INCL                =       51.29 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

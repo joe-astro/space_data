@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03889
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03889
+LAUNCH_TAG          =  1969-036
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OPS 3148
+PL_NAME             =  CANYON 2
+ALT_NAMES           =  NRO Mission 7502,AFP-827
+#
+MANUFACTURER        =  LMSC?
+BUS_TYPE            =  CANYON
+MOTOR               =  -
+BOL_MASS            =    260.0 # ?
+CURR_MASS           =    260.0 # ?
+DRY_MASS            =    260.0 # ?
+BUS_SHAPE           =  Cyl + 2 Pan + Dish
+LENGTH              =      4.0 # ?
+DIAMETER            =      1.5 # 
+SPAN                =     10.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1969/04/13-00:00:00 # 
+LAUNCH_VEHICLE      =  S27786
+LAUNCH_SITE         =  
+#
+PARENT              =  S27786
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1969/12/31-00:00:00 # 
+PERIGEE             =     32672.0 #  
+APOGEE              =     39251.0 # 
+INCL                =        10.2 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/NS
+OQUAL               =  -

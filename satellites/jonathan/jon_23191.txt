@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 23191
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  23191
+LAUNCH_TAG          =  1994-046
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  APEX
+PL_NAME             =  APEX
+ALT_NAMES           =  STP P90-6:PN
+#
+MANUFACTURER        =  OSCG
+BUS_TYPE            =  Pegastar
+MOTOR               =  -
+BOL_MASS            =    261.0 # 
+CURR_MASS           =    261.0 # 
+DRY_MASS            =    261.0 # 
+BUS_SHAPE           =  Hex Cyl + 4 Pan
+LENGTH              =      2.5 # 
+DIAMETER            =      1.2 # 
+SPAN                =      4.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1994/08/03-00:00:00 # 
+LAUNCH_VEHICLE      =  S23198
+LAUNCH_SITE         =  
+#
+PARENT              =  S23198
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  STP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1994/09/02-00:00:00 # 
+PERIGEE             =       362.0 #  
+APOGEE              =      2543.0 # 
+INCL                =       69.97 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

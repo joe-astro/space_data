@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 04780
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  04780
+LAUNCH_TAG          =  1970-099
+PIECE               =  C
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  X
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  X
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  T2K LPU
+PL_NAME             =  T2K lower section
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TSKBEM
+BUS_TYPE            =  T2K part
+MOTOR               =  -
+BOL_MASS            =   1440.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =   1440.0 # 
+BUS_SHAPE           =  Truss
+LENGTH              =      2.0 # ?
+DIAMETER            =      5.4 # ?
+SPAN                =      5.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1970/11/24-00:00:00 # 
+LAUNCH_VEHICLE      =  A01891
+LAUNCH_SITE         =  
+#
+PARENT              =  A01891
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1971/02/13-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TSKBEM
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1971/01/08-00:00:00 # 
+PERIGEE             =       179.0 #  
+APOGEE              =       816.0 # 
+INCL                =       51.58 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43485
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43485
+LAUNCH_TAG          =  2018-048
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Luojia-1 KSW 01 xing
+PL_NAME             =  Luojia-1 KSW 01 xing
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  WUHAN
+BUS_TYPE            =  Cubesat 6U
+MOTOR               =  -
+BOL_MASS            =     10.0 # 
+CURR_MASS           =     10.0 # 
+DRY_MASS            =     10.0 # 
+BUS_SHAPE           =  Box+pan
+LENGTH              =      0.3 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/06/02-00:00:00 # 
+LAUNCH_VEHICLE      =  A09136
+LAUNCH_SITE         =  
+#
+PARENT              =  A09136
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  WUHAN
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/06/04-00:00:00 # 
+PERIGEE             =       634.0 #  
+APOGEE              =       647.0 # 
+INCL                =       98.05 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

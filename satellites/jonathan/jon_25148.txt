@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 25148
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  25148
+LAUNCH_TAG          =  1998-005
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 137
+PL_NAME             =  QUASAR 11?
+ALT_NAMES           =  :U,SDS B-5 HEO:JP
+#
+MANUFACTURER        =  HSES
+BUS_TYPE            =  HS-389?
+MOTOR               =  -
+BOL_MASS            =   2500.0 # ?
+CURR_MASS           =   2500.0 # ?
+DRY_MASS            =   2000.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      6.0 # ?
+DIAMETER            =      2.0 # ?
+SPAN                =     26.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1998/01/29-00:00:00 # 
+LAUNCH_VEHICLE      =  S25149
+LAUNCH_SITE         =  
+#
+PARENT              =  S25149
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NROC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2004/11/02-00:00:00 # 
+PERIGEE             =       494.0 #  
+APOGEE              =     39855.0 # 
+INCL                =       64.23 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

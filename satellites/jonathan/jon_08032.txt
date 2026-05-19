@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 08032
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  08032
+LAUNCH_TAG          =  1975-066
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PH H
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  H
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Apollo-Soyuz Test Project
+PL_NAME             =  Apollo CM-111
+ALT_NAMES           =  ASTP
+#
+MANUFACTURER        =  RWID
+BUS_TYPE            =  CM
+MOTOR               =  -
+BOL_MASS            =   5873.0 # 
+CURR_MASS           =  12908.0 # 
+DRY_MASS            =   5753.0 # ?
+BUS_SHAPE           =  Cone
+LENGTH              =      3.5 # 
+DIAMETER            =      3.9 # 
+SPAN                =      3.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1975/07/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A02585
+LAUNCH_SITE         =  
+#
+PARENT              =  A02585
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1975/07/17-00:00:00 # 
+PERIGEE             =       162.0 #  
+APOGEE              =       224.0 # 
+INCL                =       51.76 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DK
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

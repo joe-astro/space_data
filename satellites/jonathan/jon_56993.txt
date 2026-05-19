@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 56993
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  56993
+LAUNCH_TAG          =  2023-084
+PIECE               =  BV
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  MRC-100
+PL_NAME             =  MRC-100
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  BME
+BUS_TYPE            =  PocketQube 3P
+MOTOR               =  -
+BOL_MASS            =      0.5 # 
+CURR_MASS           =      0.5 # 
+DRY_MASS            =      0.5 # 
+BUS_SHAPE           =  Box
+LENGTH              =     0.15 # 
+DIAMETER            =     0.05 # 
+SPAN                =     0.15 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/06/12-00:00:00 # 
+LAUNCH_VEHICLE      =  A10985
+LAUNCH_SITE         =  
+#
+PARENT              =  A10985
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2025/01/07-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  BME
+COUNTRY             =  HU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/07/12-00:00:00 # 
+PERIGEE             =       516.0 #  
+APOGEE              =       543.0 # 
+INCL                =       97.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

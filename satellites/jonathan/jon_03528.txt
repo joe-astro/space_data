@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03528
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03528
+LAUNCH_TAG          =  1968-096
+PIECE               =  A
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  M
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  KDU
+PL_NAME             =  KDU
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TSKBE3
+BUS_TYPE            =  Zenit KDU
+MOTOR               =  -
+BOL_MASS            =    430.0 # ?
+CURR_MASS           =      0.0 # 
+DRY_MASS            =    140.0 # ?
+BUS_SHAPE           =  Frust
+LENGTH              =      1.0 # 
+DIAMETER            =      0.4 # 
+SPAN                =      1.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1968/10/31-00:00:00 # 
+LAUNCH_VEHICLE      =  A01459
+LAUNCH_SITE         =  
+#
+PARENT              =  A01459
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1968/11/18-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TSUKOS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1968/11/07-00:00:00 # 
+PERIGEE             =       208.0 #  
+APOGEE              =       307.0 # 
+INCL                =       64.91 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

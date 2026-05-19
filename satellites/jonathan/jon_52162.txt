@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 52162
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  52162
+LAUNCH_TAG          =  2022-033
+PIECE               =  F
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      O b
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =   
+ANNOTATION_FLAG     =  b
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Lynk Tower 1
+PL_NAME             =  Lynk 5
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LYNK
+BUS_TYPE            =  Lynk Shannon
+MOTOR               =  -
+BOL_MASS            =     80.0 # 
+CURR_MASS           =     80.0 # ?
+DRY_MASS            =     80.0 # ?
+BUS_SHAPE           =  Box
+LENGTH              =     0.15 # 
+DIAMETER            =      1.0 # 
+SPAN                =      1.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/04/01-00:00:00 # 
+LAUNCH_VEHICLE      =  A10408
+LAUNCH_SITE         =  
+#
+PARENT              =  A10408
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LYNK
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/04/06-00:00:00 # 
+PERIGEE             =       497.0 #  
+APOGEE              =       509.0 # 
+INCL                =       97.39 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

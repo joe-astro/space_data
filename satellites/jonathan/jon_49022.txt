@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 49022
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  49022
+LAUNCH_TAG          =  2021-064
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Zhongzi 02 zu 05 xing
+PL_NAME             =  Zhongzi 02-05
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  DFHZ
+BUS_TYPE            =  NX-1
+MOTOR               =  -
+BOL_MASS            =    100.0 # ?
+CURR_MASS           =    100.0 # ?
+DRY_MASS            =    100.0 # ?
+BUS_SHAPE           =  Box + 2 pan?
+LENGTH              =      0.5 # ?
+DIAMETER            =      0.2 # ?
+SPAN                =      1.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/07/09-00:00:00 # 
+LAUNCH_VEHICLE      =  S49023
+LAUNCH_SITE         =  
+#
+PARENT              =  S49023
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NINGX/CASC
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/07/10-00:00:00 # 
+PERIGEE             =       853.0 #  
+APOGEE              =       866.0 # 
+INCL                =        45.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

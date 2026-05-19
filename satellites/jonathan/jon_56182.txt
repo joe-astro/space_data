@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 56182
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  56182
+LAUNCH_TAG          =  2023-054
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Lemur-2 OnReflection
+PL_NAME             =  Lemur-2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPIREG
+BUS_TYPE            =  Cubesat 6U
+MOTOR               =  -
+BOL_MASS            =     11.6 # 
+CURR_MASS           =     11.6 # 
+DRY_MASS            =     11.6 # 
+BUS_SHAPE           =  Box+2 pan
+LENGTH              =      0.3 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/04/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A10926
+LAUNCH_SITE         =  
+#
+PARENT              =  A10926
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2024/10/07-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPIRE
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/04/15-00:00:00 # 
+PERIGEE             =       497.0 #  
+APOGEE              =       506.0 # 
+INCL                =       97.41 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

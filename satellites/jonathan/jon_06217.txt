@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 06217
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  06217
+LAUNCH_TAG          =  1972-076
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  P72-1
+PL_NAME             =  STP P72-1
+ALT_NAMES           =  Radsat
+#
+MANUFACTURER        =  BOKT
+BUS_TYPE            =  P72-1
+MOTOR               =  -
+BOL_MASS            =    566.0 # 
+CURR_MASS           =    566.0 # 
+DRY_MASS            =    566.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      2.1 # 
+DIAMETER            =      1.4 # 
+SPAN                =      2.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1972/10/02-00:00:00 # 
+LAUNCH_VEHICLE      =  S06218
+LAUNCH_SITE         =  
+#
+PARENT              =  S06218
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SAMSO
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1972/11/02-00:00:00 # 
+PERIGEE             =       728.0 #  
+APOGEE              =       749.0 # 
+INCL                =       98.47 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

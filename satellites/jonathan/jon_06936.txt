@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 06936
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  06936
+LAUNCH_TAG          =  1973-090
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PH H V
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  H
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  V
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Skylab SL-4
+PL_NAME             =  Apollo CM-118
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RWID
+BUS_TYPE            =  CM
+MOTOR               =  -
+BOL_MASS            =   5931.0 # 
+CURR_MASS           =  14888.0 # 
+DRY_MASS            =   5931.0 # 
+BUS_SHAPE           =  Cone
+LENGTH              =      3.5 # 
+DIAMETER            =      3.9 # 
+SPAN                =      3.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1973/11/16-00:00:00 # 
+LAUNCH_VEHICLE      =  A02388
+LAUNCH_SITE         =  
+#
+PARENT              =  A02388
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1974/01/21-00:00:00 # 
+PERIGEE             =       420.0 #  
+APOGEE              =       444.0 # 
+INCL                =       50.04 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DK
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

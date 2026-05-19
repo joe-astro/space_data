@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 53956
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  53956
+LAUNCH_TAG          =  2022-122
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ASTROLAND-1
+PL_NAME             =  GENESIS G
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  AMEA
+BUS_TYPE            =  PocketQube 1.5P
+MOTOR               =  -
+BOL_MASS            =    0.375 # 
+CURR_MASS           =    0.375 # 
+DRY_MASS            =    0.375 # 
+BUS_SHAPE           =  Box
+LENGTH              =    0.075 # 
+DIAMETER            =     0.05 # 
+SPAN                =    0.075 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/10/01-00:00:00 # 
+LAUNCH_VEHICLE      =  A10751
+LAUNCH_SITE         =  
+#
+PARENT              =  A10751
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2022/10/05-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AMEA
+COUNTRY             =  E
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/10/03-00:00:00 # 
+PERIGEE             =       165.0 #  
+APOGEE              =       186.0 # 
+INCL                =      136.88 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/R
+OQUAL               =  -

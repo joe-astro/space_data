@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02104
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02104
+LAUNCH_TAG          =  1966-019
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P AH
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  TDA 3
+PL_NAME             =  TDA 3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MCDA
+BUS_TYPE            =  TDA
+MOTOR               =  -
+BOL_MASS            =    528.0 # 
+CURR_MASS           =   3228.0 # 
+DRY_MASS            =    528.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.0 # 
+DIAMETER            =      1.5 # 
+SPAN                =      1.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1966/03/16-00:00:00 # 
+LAUNCH_VEHICLE      =  A00900
+LAUNCH_SITE         =  
+#
+PARENT              =  A00900
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1966/11/04-00:00:00 # 
+PERIGEE             =       382.0 #  
+APOGEE              =       392.0 # 
+INCL                =       28.87 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

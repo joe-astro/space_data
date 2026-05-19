@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00837
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00837
+LAUNCH_TAG          =  1964-040
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Vela II-B
+PL_NAME             =  Vela 2B
+ALT_NAMES           =  FTV 3674
+#
+MANUFACTURER        =  TRW
+BUS_TYPE            =  Vela
+MOTOR               =  BE-3
+BOL_MASS            =    125.0 # 
+CURR_MASS           =    217.0 # ?
+DRY_MASS            =    125.0 # 
+BUS_SHAPE           =  Poly
+LENGTH              =      1.4 # 
+DIAMETER            =      1.4 # 
+SPAN                =      1.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1964/07/17-00:00:00 # 
+LAUNCH_VEHICLE      =  A00509
+LAUNCH_SITE         =  
+#
+PARENT              =  A00509
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1969/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSSD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1964/10/03-00:00:00 # 
+PERIGEE             =     94374.0 #  
+APOGEE              =    111691.0 # 
+INCL                =       40.68 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  VHEO
+OQUAL               =  -

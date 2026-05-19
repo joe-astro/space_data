@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 28538
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  28538
+LAUNCH_TAG          =  2005-004
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2      c
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Centaur AC-206
+PL_NAME             =  Centaur IIIB SEC AC-206
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LMSSD/DENV
+BUS_TYPE            =  Centaur SEC
+MOTOR               =  -
+BOL_MASS            =   6200.0 # ?
+CURR_MASS           =   2130.0 # ?
+DRY_MASS            =   2130.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =     11.7 # 
+DIAMETER            =      3.1 # 
+SPAN                =     11.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2005/02/03-00:00:00 # 
+LAUNCH_VEHICLE      =  R67830
+LAUNCH_SITE         =  
+#
+PARENT              =  R67830
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LMSSD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2005/02/07-00:00:00 # 
+PERIGEE             =       994.0 #  
+APOGEE              =      1204.0 # 
+INCL                =       63.62 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

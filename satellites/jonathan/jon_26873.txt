@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 26873
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  26873
+LAUNCH_TAG          =  2001-032
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Koronas F
+PL_NAME             =  AUOS-SM-KF No. 701
+ALT_NAMES           =  AUOS-SM No. 670-91-701:RA
+#
+MANUFACTURER        =  YUZHUA
+BUS_TYPE            =  AUOS
+MOTOR               =  -
+BOL_MASS            =   2260.0 # 
+CURR_MASS           =   2260.0 # 
+DRY_MASS            =   2260.0 # 
+BUS_SHAPE           =  Cyl + 2 Pan
+LENGTH              =      5.0 # 
+DIAMETER            =      2.3 # 
+SPAN                =     12.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2001/07/31-00:00:00 # 
+LAUNCH_VEHICLE      =  S26874
+LAUNCH_SITE         =  
+#
+PARENT              =  S26874
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2005/12/06-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  IKI/YUZHUA
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2001/08/02-00:00:00 # 
+PERIGEE             =       486.0 #  
+APOGEE              =       530.0 # 
+INCL                =       82.49 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

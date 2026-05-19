@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 58266
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  58266
+LAUNCH_TAG          =  2023-174
+PIECE               =  L
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Djibouti-1A
+PL_NAME             =  Djibouti-1A
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MONTP
+BUS_TYPE            =  Cubesat 1U
+MOTOR               =  -
+BOL_MASS            =      1.0 # 
+CURR_MASS           =      1.0 # 
+DRY_MASS            =      1.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.1 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/11/11-00:00:00 # 
+LAUNCH_VEHICLE      =  A11079  N015
+LAUNCH_SITE         =  
+#
+PARENT              =  A11079  N015
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2025/09/02-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CERD/MONTP
+COUNTRY             =  DJ
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/11/29-00:00:00 # 
+PERIGEE             =       515.0 #  
+APOGEE              =       533.0 # 
+INCL                =       97.49 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

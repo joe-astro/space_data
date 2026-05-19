@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 64202
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  64202
+LAUNCH_TAG          =  2025-116
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  GPS III SV08
+PL_NAME             =  GPS III SV08
+ALT_NAMES           =  USA 545,Navstar 84
+#
+MANUFACTURER        =  LMSSD
+BUS_TYPE            =  A2100
+MOTOR               =  Leros-1C?
+BOL_MASS            =   4352.0 # 
+CURR_MASS           =   4352.0 # 
+DRY_MASS            =   2160.0 # ?
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      3.4 # 
+DIAMETER            =      1.8 # 
+SPAN                =     14.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/05/30-00:00:00 # 
+LAUNCH_VEHICLE      =  A11509
+LAUNCH_SITE         =  
+#
+PARENT              =  A11509
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SFSSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/07/29-00:00:00 # 
+PERIGEE             =     20178.0 #  
+APOGEE              =     20185.0 # 
+INCL                =        55.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 06380
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  06380
+LAUNCH_TAG          =  1973-013
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------c
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OPS 6063
+PL_NAME             =  RHYOLITE 2
+ALT_NAMES           =  AFP-720:P,NRO Mission 7602?
+#
+MANUFACTURER        =  TRW
+BUS_TYPE            =  RHYOLITE
+MOTOR               =  MMBPS?
+BOL_MASS            =    700.0 # ?
+CURR_MASS           =    700.0 # ?
+DRY_MASS            =    300.0 # ?
+BUS_SHAPE           =  Cyl + Dish
+LENGTH              =      8.0 # ?
+DIAMETER            =      1.5 # 
+SPAN                =     15.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1973/03/06-00:00:00 # 
+LAUNCH_VEHICLE      =  S06388
+LAUNCH_SITE         =  
+#
+PARENT              =  S06388
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/CIA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1973/04/01-00:00:00 # 
+PERIGEE             =     35679.0 #  
+APOGEE              =     35855.0 # 
+INCL                =         0.2 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/D
+OQUAL               =  -

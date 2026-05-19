@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03595
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03595
+LAUNCH_TAG          =  1968-109
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  HEOS 1
+PL_NAME             =  HEOS A1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  JUNK
+BUS_TYPE            =  HEOS
+MOTOR               =  -
+BOL_MASS            =     99.0 # 
+CURR_MASS           =    109.0 # ?
+DRY_MASS            =     99.0 # 
+BUS_SHAPE           =  Cyl + Ant
+LENGTH              =      0.8 # 
+DIAMETER            =      1.3 # 
+SPAN                =      2.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1968/12/05-00:00:00 # 
+LAUNCH_VEHICLE      =  A01480
+LAUNCH_SITE         =  
+#
+PARENT              =  A01480
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ESRO
+COUNTRY             =  I-ESRO
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1970/03/19-00:00:00 # 
+PERIGEE             =     12244.0 #  
+APOGEE              =    210550.0 # 
+INCL                =       52.62 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  DSO
+OQUAL               =  -

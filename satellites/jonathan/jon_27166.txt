@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 27166
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  27166
+LAUNCH_TAG          =  2001-041
+PIECE               =  N
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  H E
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  E
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Orlan-M glove?
+PL_NAME             =  -
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ZVEZ
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =      1.0 # ?
+CURR_MASS           =      1.0 # ?
+DRY_MASS            =      1.0 # ?
+BUS_SHAPE           =  Irr
+LENGTH              =      0.1 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2001/09/14-00:00:00 # 
+LAUNCH_VEHICLE      =  A06581*
+LAUNCH_SITE         =  
+#
+PARENT              =  A06581*
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2002/01/16-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RKKE
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2002/01/15-00:00:00 # 
+PERIGEE             =       361.0 #  
+APOGEE              =       375.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 51081
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  51081
+LAUNCH_TAG          =  2022-002
+PIECE               =  DB
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Spain-OSCAR 114
+PL_NAME             =  EASAT-2
+ALT_NAMES           =  SO-114
+#
+MANUFACTURER        =  AMEA/UEM
+BUS_TYPE            =  PocketQube 1.5P
+MOTOR               =  -
+BOL_MASS            =    0.375 # ?
+CURR_MASS           =    0.375 # ?
+DRY_MASS            =    0.375 # ?
+BUS_SHAPE           =  Box+2 ant
+LENGTH              =    0.075 # 
+DIAMETER            =     0.05 # 
+SPAN                =      0.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/01/13-00:00:00 # 
+LAUNCH_VEHICLE      =  A09940
+LAUNCH_SITE         =  
+#
+PARENT              =  A09940
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2024/05/23-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AMEA
+COUNTRY             =  E
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/01/18-00:00:00 # 
+PERIGEE             =       522.0 #  
+APOGEE              =       535.0 # 
+INCL                =       97.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 21941
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  21941
+LAUNCH_TAG          =  1992-021
+PIECE               =  C
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Ariane H10+ V50
+PL_NAME             =  Ariane H10+ S/N T423
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  AELM
+BUS_TYPE            =  Ariane H10+/S
+MOTOR               =  -
+BOL_MASS            =   2260.0 # 
+CURR_MASS           =   2260.0 # 
+DRY_MASS            =   2080.0 # 
+BUS_SHAPE           =  Step Cyl
+LENGTH              =     14.1 # 
+DIAMETER            =      2.6 # 
+SPAN                =     14.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1992/04/15-00:00:00 # 
+LAUNCH_VEHICLE      =  R59886
+LAUNCH_SITE         =  
+#
+PARENT              =  R59886
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1993/04/21-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AE
+COUNTRY             =  F
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1992/05/15-00:00:00 # 
+PERIGEE             =       356.0 #  
+APOGEE              =     36185.0 # 
+INCL                =        3.98 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  E
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

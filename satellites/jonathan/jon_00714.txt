@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00714
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00714
+LAUNCH_TAG          =  1963-053
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Explorer 19
+PL_NAME             =  AD-A
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SCHJ
+BUS_TYPE            =  12' Sphere
+MOTOR               =  -
+BOL_MASS            =      8.0 # 
+CURR_MASS           =      8.0 # 
+DRY_MASS            =      8.0 # 
+BUS_SHAPE           =  Sphere
+LENGTH              =      3.6 # 
+DIAMETER            =      3.6 # 
+SPAN                =      3.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1963/12/19-00:00:00 # 
+LAUNCH_VEHICLE      =  A00427
+LAUNCH_SITE         =  
+#
+PARENT              =  A00427
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1981/05/10-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LARCN
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1964/01/20-00:00:00 # 
+PERIGEE             =       588.0 #  
+APOGEE              =      2389.0 # 
+INCL                =        78.6 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

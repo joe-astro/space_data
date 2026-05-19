@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 45018
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  45018
+LAUNCH_TAG          =  2020-003
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Marie
+PL_NAME             =  Nusat-8
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  URUGUS
+BUS_TYPE            =  Aleph
+MOTOR               =  -
+BOL_MASS            =     37.0 # 
+CURR_MASS           =     37.0 # 
+DRY_MASS            =     37.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =     0.75 # 
+DIAMETER            =      0.4 # 
+SPAN                =     0.75 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2020/01/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A09537
+LAUNCH_SITE         =  
+#
+PARENT              =  A09537
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2023/10/03-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  URUGUS
+COUNTRY             =  UY
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2020/01/22-00:00:00 # 
+PERIGEE             =       475.0 #  
+APOGEE              =       492.0 # 
+INCL                =       97.34 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

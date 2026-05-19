@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 56165
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  56165
+LAUNCH_TAG          =  2023-050
+PIECE               =  D
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Checkmate 6
+PL_NAME             =  SDA-0A TPL York-06
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  YORKSS
+BUS_TYPE            =  S-Class
+MOTOR               =  -
+BOL_MASS            =    300.0 # ?
+CURR_MASS           =    300.0 # ?
+DRY_MASS            =    300.0 # ?
+BUS_SHAPE           =  Box + panels
+LENGTH              =      1.0 # ?
+DIAMETER            =      0.6 # 
+SPAN                =      2.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/04/02-00:00:00 # 
+LAUNCH_VEHICLE      =  A10920
+LAUNCH_SITE         =  
+#
+PARENT              =  A10920
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SDA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/04/03-00:00:00 # 
+PERIGEE             =       942.0 #  
+APOGEE              =       951.0 # 
+INCL                =        81.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

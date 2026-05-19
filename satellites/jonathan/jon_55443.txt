@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 55443
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  55443
+LAUNCH_TAG          =  2023-014
+PIECE               =  BE
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  A
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  A
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Starlink deployment rail
+PL_NAME             =  -
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPXS
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =     50.0 # ?
+CURR_MASS           =     50.0 # ?
+DRY_MASS            =     50.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      7.0 # ?
+DIAMETER            =     0.02 # ?
+SPAN                =      7.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/01/31-00:00:00 # 
+LAUNCH_VEHICLE      =  A10835
+LAUNCH_SITE         =  
+#
+PARENT              =  A10835
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2023/03/15-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPXS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/02/07-00:00:00 # 
+PERIGEE             =       316.0 #  
+APOGEE              =       330.0 # 
+INCL                =       70.01 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

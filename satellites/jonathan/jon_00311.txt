@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00311
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00311
+LAUNCH_TAG          =  1962-A-ALP
+PIECE               =  LP 2
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Delta 10 Stage 3
+PL_NAME             =  Altair X-248-A5
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ABL
+BUS_TYPE            =  Altair
+MOTOR               =  -
+BOL_MASS            =     24.0 # 
+CURR_MASS           =     24.0 # 
+DRY_MASS            =     24.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.5 # 
+DIAMETER            =      0.5 # 
+SPAN                =      1.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1962/06/19-00:00:00 # 
+LAUNCH_VEHICLE      =  R06023
+LAUNCH_SITE         =  
+#
+PARENT              =  R06023
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1990/11/28-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1962/07/24-00:00:00 # 
+PERIGEE             =       588.0 #  
+APOGEE              =       967.0 # 
+INCL                =       58.08 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

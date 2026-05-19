@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 18583
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  18583
+LAUNCH_TAG          =  1987-097
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  DSP F13
+PL_NAME             =  DSP 5R
+ALT_NAMES           =  USA 28
+#
+MANUFACTURER        =  TRW
+BUS_TYPE            =  DSP P2U
+MOTOR               =  MRE-4
+BOL_MASS            =   1680.0 # 
+CURR_MASS           =   1680.0 # 
+DRY_MASS            =   1600.0 # ?
+BUS_SHAPE           =  Cyl + 4 Pan
+LENGTH              =      7.1 # 
+DIAMETER            =      3.1 # 
+SPAN                =      8.6 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1987/11/29-00:00:00 # 
+LAUNCH_VEHICLE      =  S18584
+LAUNCH_SITE         =  
+#
+PARENT              =  S18584
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1988/02/01-00:00:00 # 
+PERIGEE             =     35750.0 # ?
+APOGEE              =     35800.0 # ?
+INCL                =         0.0 # ?
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

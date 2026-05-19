@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 25390
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  25390
+LAUNCH_TAG          =  1998-042
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Tubsat-N1
+PL_NAME             =  Tubsat-N1
+ALT_NAMES           =  TUBSAT-4
+#
+MANUFACTURER        =  TUB
+BUS_TYPE            =  Tubsat-N
+MOTOR               =  -
+BOL_MASS            =      3.0 # 
+CURR_MASS           =      3.0 # 
+DRY_MASS            =      3.0 # 
+BUS_SHAPE           =  Plate
+LENGTH              =    0.034 # 
+DIAMETER            =     0.32 # 
+SPAN                =     0.32 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1998/07/07-00:00:00 # 
+LAUNCH_VEHICLE      =  S25389
+LAUNCH_SITE         =  
+#
+PARENT              =  S25389
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2000/10/21-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TUB
+COUNTRY             =  D
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1998/08/06-00:00:00 # 
+PERIGEE             =       400.0 #  
+APOGEE              =       767.0 # 
+INCL                =        78.9 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

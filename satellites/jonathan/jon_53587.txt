@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 53587
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  53587
+LAUNCH_TAG          =  2022-103
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Beijing-3B
+PL_NAME             =  Beijing 3 hao B xing
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  DFHZ
+BUS_TYPE            =  BJ3B
+MOTOR               =  -
+BOL_MASS            =   4000.0 # ?
+CURR_MASS           =   4000.0 # ?
+DRY_MASS            =   4000.0 # ?
+BUS_SHAPE           =  Hex cyl + 3 pan
+LENGTH              =      3.0 # ?
+DIAMETER            =      2.0 # ?
+SPAN                =      8.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/08/24-00:00:00 # 
+LAUNCH_VEHICLE      =  A10739
+LAUNCH_SITE         =  
+#
+PARENT              =  A10739
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  21AT
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/08/24-00:00:00 # 
+PERIGEE             =       596.0 #  
+APOGEE              =       615.0 # 
+INCL                =       97.94 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

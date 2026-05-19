@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 63987
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  63987
+LAUNCH_TAG          =  2025-100
+PIECE               =  F
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       ?
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Haikou
+PL_NAME             =  Xingshidai 30
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GUOX
+BUS_TYPE            =  XSD
+MOTOR               =  -
+BOL_MASS            =     50.0 # ?
+CURR_MASS           =     50.0 # ?
+DRY_MASS            =     50.0 # ?
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      0.3 # 
+DIAMETER            =      0.3 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/05/14-00:00:00 # 
+LAUNCH_VEHICLE      =  A11497
+LAUNCH_SITE         =  
+#
+PARENT              =  A11497
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GUOX/ZJLAB
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/05/14-00:00:00 # 
+PERIGEE             =       490.0 #  
+APOGEE              =       505.0 # 
+INCL                =       97.41 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

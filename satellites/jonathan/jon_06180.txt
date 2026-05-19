@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 06180
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  06180
+LAUNCH_TAG          =  1972-069
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Scout S182C Stage 4
+PL_NAME             =  FW4S S/N 2376-1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  UTC
+BUS_TYPE            =  FW4
+MOTOR               =  -
+BOL_MASS            =     47.0 # 
+CURR_MASS           =     47.0 # 
+DRY_MASS            =     47.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.0 # 
+DIAMETER            =      0.5 # 
+SPAN                =      1.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1972/09/02-00:00:00 # 
+LAUNCH_VEHICLE      =  R27724
+LAUNCH_SITE         =  
+#
+PARENT              =  R27724
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  LARCN
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1972/10/05-00:00:00 # 
+PERIGEE             =       740.0 #  
+APOGEE              =       837.0 # 
+INCL                =       90.12 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  -

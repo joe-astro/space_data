@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 46270
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  46270
+LAUNCH_TAG          =  2020-060
+PIECE               =  C
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Electron 14 Stage 2
+PL_NAME             =  Electron Stage 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RLABN
+BUS_TYPE            =  Electron St2
+MOTOR               =  -
+BOL_MASS            =    250.0 # ?
+CURR_MASS           =    250.0 # 
+DRY_MASS            =    250.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      2.4 # 
+DIAMETER            =      1.2 # 
+SPAN                =      2.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2020/08/31-00:00:00 # 
+LAUNCH_VEHICLE      =  R79876
+LAUNCH_SITE         =  
+#
+PARENT              =  R79876
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RLABN
+COUNTRY             =  NZ
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2020/08/31-00:00:00 # 
+PERIGEE             =       178.0 #  
+APOGEE              =       542.0 # 
+INCL                =       45.11 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

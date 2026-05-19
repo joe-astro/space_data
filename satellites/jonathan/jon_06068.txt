@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 06068
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  06068
+LAUNCH_TAG          =  1972-046
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Prognoz-2
+PL_NAME             =  SO-M No. 503
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  NPOL
+BUS_TYPE            =  SO-M
+MOTOR               =  -
+BOL_MASS            =    845.0 # 
+CURR_MASS           =    845.0 # 
+DRY_MASS            =    845.0 # 
+BUS_SHAPE           =  Cyl + 4 Pan
+LENGTH              =      2.0 # ?
+DIAMETER            =      2.5 # ?
+SPAN                =     10.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1972/06/29-00:00:00 # 
+LAUNCH_VEHICLE      =  A02154
+LAUNCH_SITE         =  
+#
+PARENT              =  A02154
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  IKI/BABTS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1972/06/29-00:00:00 # 
+PERIGEE             =       419.0 #  
+APOGEE              =    201802.0 # 
+INCL                =        65.3 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  DSO
+OQUAL               =  -

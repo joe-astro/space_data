@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 41469
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  41469
+LAUNCH_TAG          =  2016-027
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  IRNSS-R1G
+PL_NAME             =  IRNSS-1G
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ISAC
+BUS_TYPE            =  I1K
+MOTOR               =  ISRO LAM
+BOL_MASS            =   1425.0 # 
+CURR_MASS           =   1425.0 # 
+DRY_MASS            =    598.0 # 
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      1.6 # 
+DIAMETER            =      1.5 # 
+SPAN                =     10.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2016/04/28-00:00:00 # 
+LAUNCH_VEHICLE      =  S41470
+LAUNCH_SITE         =  
+#
+PARENT              =  S41470
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ISRO
+COUNTRY             =  IN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2016/05/06-00:00:00 # 
+PERIGEE             =     35435.0 #  
+APOGEE              =     35833.0 # 
+INCL                =        5.08 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/ID
+OQUAL               =  -

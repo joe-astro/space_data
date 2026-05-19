@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 05397
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  05397
+LAUNCH_TAG          =  1971-067
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OV1-21
+PL_NAME             =  OV1-21P/FW4S
+ALT_NAMES           =  OV1-21S
+#
+MANUFACTURER        =  GDC
+BUS_TYPE            =  OV1P
+MOTOR               =  FW4S
+BOL_MASS            =    359.0 # ?
+CURR_MASS           =    359.0 # ?
+DRY_MASS            =    359.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      2.1 # 
+DIAMETER            =      0.7 # 
+SPAN                =     32.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1971/08/07-00:00:00 # 
+LAUNCH_VEHICLE      =  R25622
+LAUNCH_SITE         =  
+#
+PARENT              =  R25622
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  STP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1971/09/06-00:00:00 # 
+PERIGEE             =       787.0 #  
+APOGEE              =       915.0 # 
+INCL                =       87.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  -

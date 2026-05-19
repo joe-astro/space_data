@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 22251
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  22251
+LAUNCH_TAG          =  1992-083
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 86
+PL_NAME             =  Enhanced CRYSTAL 2104
+ALT_NAMES           =  NRO Mission 2104?
+#
+MANUFACTURER        =  LMSC
+BUS_TYPE            =  IC
+MOTOR               =  Bus-1
+BOL_MASS            =  13500.0 # ?
+CURR_MASS           =  13500.0 # ?
+DRY_MASS            =  10000.0 # ?
+BUS_SHAPE           =  Cyl + 2 Pan
+LENGTH              =     19.0 # ?
+DIAMETER            =      3.1 # ?
+SPAN                =     30.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1992/11/28-00:00:00 # 
+LAUNCH_VEHICLE      =  A05254
+LAUNCH_SITE         =  
+#
+PARENT              =  A05254
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2000/06/05-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/CIA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1993/07/02-00:00:00 # 
+PERIGEE             =       264.0 #  
+APOGEE              =      1013.0 # 
+INCL                =       97.88 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  D
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

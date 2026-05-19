@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 56971
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  56971
+LAUNCH_TAG          =  2023-084
+PIECE               =  AR
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  MISR-A-1
+PL_NAME             =  MISR-A
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LANL?
+BUS_TYPE            =  Cubesat 6U?
+MOTOR               =  -
+BOL_MASS            =     10.0 # 
+CURR_MASS           =     10.0 # 
+DRY_MASS            =     10.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.2 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/06/12-00:00:00 # 
+LAUNCH_VEHICLE      =  A10979
+LAUNCH_SITE         =  
+#
+PARENT              =  A10979
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2024/10/02-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SOCOM
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/06/20-00:00:00 # 
+PERIGEE             =       520.0 #  
+APOGEE              =       535.0 # 
+INCL                =       97.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

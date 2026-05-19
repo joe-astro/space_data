@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 21702
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  21702
+LAUNCH_TAG          =  1991-064
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-2155
+PL_NAME             =  Oko-S No. 7422
+ALT_NAMES           =  US-KS:P,74Kh6 No. 190-55-117:RA
+#
+MANUFACTURER        =  NPOL/KOMET
+BUS_TYPE            =  Oko
+MOTOR               =  -
+BOL_MASS            =   1250.0 # ?
+CURR_MASS           =   1250.0 # ?
+DRY_MASS            =   1150.0 # ?
+BUS_SHAPE           =  Step Cyl + 2 Pan
+LENGTH              =      5.0 # ?
+DIAMETER            =      2.0 # ?
+SPAN                =     10.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1991/09/13-00:00:00 # 
+LAUNCH_VEHICLE      =  S21703
+LAUNCH_SITE         =  
+#
+PARENT              =  S21703
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  PVO
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1991/10/14-00:00:00 # 
+PERIGEE             =     35763.0 #  
+APOGEE              =     35805.0 # 
+INCL                =        1.26 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

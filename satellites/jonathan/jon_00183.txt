@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00183
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00183
+LAUNCH_TAG          =  1961-A-ALP
+PIECE               =  LP 1
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP-H
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Mercury MA-4
+PL_NAME             =  Mercury SC8A
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MCDA
+BUS_TYPE            =  Mercury
+MOTOR               =  -
+BOL_MASS            =   1000.0 # 
+CURR_MASS           =   1203.0 # ?
+DRY_MASS            =   1000.0 # 
+BUS_SHAPE           =  Frust
+LENGTH              =      2.9 # 
+DIAMETER            =      1.8 # 
+SPAN                =      2.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1961/09/13-00:00:00 # 
+LAUNCH_VEHICLE      =  S00184
+LAUNCH_SITE         =  
+#
+PARENT              =  S00184
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  STGL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1961/09/13-00:00:00 # 
+PERIGEE             =       149.0 #  
+APOGEE              =       240.0 # 
+INCL                =       32.54 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

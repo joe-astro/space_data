@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 48618
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  48618
+LAUNCH_TAG          =  2021-042
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ------
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  -
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  SBIRS GEO-5
+PL_NAME             =  SBIRS GEO SV5
+ALT_NAMES           =  USA 315:U
+#
+MANUFACTURER        =  LMSS
+BUS_TYPE            =  A2100
+MOTOR               =  Leros 1C?
+BOL_MASS            =   4500.0 # ?
+CURR_MASS           =   4500.0 # ?
+DRY_MASS            =   2500.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      6.0 # ?
+DIAMETER            =      2.5 # ?
+SPAN                =     25.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/05/18-00:00:00 # 
+LAUNCH_VEHICLE      =  A09759
+LAUNCH_SITE         =  
+#
+PARENT              =  A09759
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  USSF
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/05/20-00:00:00 # 
+PERIGEE             =       896.0 #  
+APOGEE              =     35733.0 # 
+INCL                =       21.15 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

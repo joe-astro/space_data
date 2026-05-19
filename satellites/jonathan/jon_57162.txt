@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 57162
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  57162
+LAUNCH_TAG          =  2010-055
+PIECE               =  VM
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  CXTH-I  ?
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =  X
+ATTACH_FLAG         =  T
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  I
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  ?
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  SVPI
+PL_NAME             =  ISS RS SVPI
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RKKE
+BUS_TYPE            =  -
+MOTOR               =  -
+BOL_MASS            =    20.17 # 
+CURR_MASS           =    20.17 # 
+DRY_MASS            =    20.17 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.5 # ?
+DIAMETER            =      0.5 # ?
+SPAN                =      0.5 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2010/10/27-00:00:00 # 
+LAUNCH_VEHICLE      =  S37196*
+LAUNCH_SITE         =  
+#
+PARENT              =  S37196*
+SEPARATION_DATE     =  2010/11/01-00:00:00 # ?
+#
+DECAY_DATE          =  2010/11/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RKKE
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/06/29-00:00:00 # 
+PERIGEE             =       408.0 #  
+APOGEE              =       416.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  TFR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

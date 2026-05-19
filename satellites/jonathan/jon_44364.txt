@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 44364
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  44364
+LAUNCH_TAG          =  2019-025
+PIECE               =  QJ
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P    D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  D
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  PINOT
+PL_NAME             =  RED-EYE 1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  DARPA2
+BUS_TYPE            =  RED-EYE
+MOTOR               =  -
+BOL_MASS            =     50.0 # 
+CURR_MASS           =     50.0 # 
+DRY_MASS            =     50.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      1.0 # ?
+DIAMETER            =      1.0 # ?
+SPAN                =      1.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2019/05/04-00:00:00 # 
+LAUNCH_VEHICLE      =  S44222*
+LAUNCH_SITE         =  
+#
+PARENT              =  S44222*
+SEPARATION_DATE     =  2019/05/07-00:00:00 # ?
+#
+DECAY_DATE          =  2019/05/07-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DARPA2
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2019/06/28-00:00:00 # 
+PERIGEE             =       407.0 #  
+APOGEE              =       418.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  TFR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 66142
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  66142
+LAUNCH_TAG          =  2025-238
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Tongxin Jishu Shiyan 20
+PL_NAME             =  TJS 20
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CAST
+BUS_TYPE            =  TJS11
+MOTOR               =  -
+BOL_MASS            =  10000.0 # ?
+CURR_MASS           =  10000.0 # ?
+DRY_MASS            =   6000.0 # ?
+BUS_SHAPE           =  Box+ 2 pan+dish?
+LENGTH              =      7.0 # 
+DIAMETER            =      4.0 # ?
+SPAN                =     30.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/10/23-00:00:00 # 
+LAUNCH_VEHICLE      =  S66143
+LAUNCH_SITE         =  
+#
+PARENT              =  S66143
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ZZB/CAST
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/10/24-00:00:00 # 
+PERIGEE             =       188.0 #  
+APOGEE              =     45768.0 # 
+INCL                =       16.42 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  HEO
+OQUAL               =  -

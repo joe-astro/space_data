@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 02414
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  02414
+LAUNCH_TAG          =  1966-080
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P AH
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  TDA 6
+PL_NAME             =  TDA 6
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MCDA
+BUS_TYPE            =  TDA
+MOTOR               =  -
+BOL_MASS            =    565.0 # 
+CURR_MASS           =   3265.0 # 
+DRY_MASS            =    565.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.0 # 
+DIAMETER            =      1.5 # 
+SPAN                =      1.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1966/09/12-00:00:00 # 
+LAUNCH_VEHICLE      =  A01025
+LAUNCH_SITE         =  
+#
+PARENT              =  A01025
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1966/12/30-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1966/11/08-00:00:00 # 
+PERIGEE             =       309.0 #  
+APOGEE              =       315.0 # 
+INCL                =       28.83 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 49070
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  49070
+LAUNCH_TAG          =  2021-073
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Pleiades Neo 4
+PL_NAME             =  Pleiades Neo 4
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ADST
+BUS_TYPE            =  AstroBus-M Com.
+MOTOR               =  -
+BOL_MASS            =    922.0 # 
+CURR_MASS           =    922.0 # 
+DRY_MASS            =    895.0 # ?
+BUS_SHAPE           =  Hex-cyl+3 panels
+LENGTH              =      4.0 # ?
+DIAMETER            =      2.0 # ?
+SPAN                =      8.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/08/17-00:00:00 # 
+LAUNCH_VEHICLE      =  A09842
+LAUNCH_SITE         =  
+#
+PARENT              =  A09842
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ADSTI
+COUNTRY             =  F
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/08/19-00:00:00 # 
+PERIGEE             =       615.0 #  
+APOGEE              =       617.0 # 
+INCL                =        97.9 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

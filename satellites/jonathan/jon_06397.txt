@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 06397
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  06397
+LAUNCH_TAG          =  1973-016
+PIECE               =  C
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PX-S---
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  X
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  S
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kapsula Kosmosa-552
+PL_NAME             =  Nauka 16KS No. 2L
+ALT_NAMES           =  16KS No. 15000-162:RA
+#
+MANUFACTURER        =  TSKBE3
+BUS_TYPE            =  Nauka
+MOTOR               =  -
+BOL_MASS            =    630.0 # ?
+CURR_MASS           =      0.0 # 
+DRY_MASS            =    630.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.0 # 
+DIAMETER            =      1.8 # 
+SPAN                =      1.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1973/03/22-00:00:00 # 
+LAUNCH_VEHICLE      =  S06395
+LAUNCH_SITE         =  
+#
+PARENT              =  S06395
+SEPARATION_DATE     =  1973/03/26-00:00:00 # 
+#
+DECAY_DATE          =  1973/04/09-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TSKBE3
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1973/03/30-00:00:00 # 
+PERIGEE             =       192.0 #  
+APOGEE              =       283.0 # 
+INCL                =       72.85 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

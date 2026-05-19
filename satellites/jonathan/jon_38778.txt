@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 38778
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  38778
+LAUNCH_TAG          =  2012-051
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      O
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Astra 2F
+PL_NAME             =  Astra 2F
+ALT_NAMES           =  EUTELSAT 28F
+#
+MANUFACTURER        =  EADSB
+BUS_TYPE            =  Eurostar 3000
+MOTOR               =  R-4D?
+BOL_MASS            =   5968.0 # 
+CURR_MASS           =   5968.0 # 
+DRY_MASS            =   2660.0 # 
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      5.0 # ?
+DIAMETER            =      2.5 # ?
+SPAN                =     39.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2012/09/28-00:00:00 # 
+LAUNCH_VEHICLE      =  S38781
+LAUNCH_SITE         =  
+#
+PARENT              =  S38781
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SESSA
+COUNTRY             =  L
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2012/10/26-00:00:00 # 
+PERIGEE             =     35782.0 #  
+APOGEE              =     35791.0 # 
+INCL                =        0.06 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

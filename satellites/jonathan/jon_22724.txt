@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 22724
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  22724
+LAUNCH_TAG          =  1993-048
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Insat 2B
+PL_NAME             =  Insat 2B
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ISRO
+BUS_TYPE            =  I2K
+MOTOR               =  ISRO LAM
+BOL_MASS            =   1931.0 # 
+CURR_MASS           =   1931.0 # 
+DRY_MASS            =    916.0 # 
+BUS_SHAPE           =  Box + Pan + Ant
+LENGTH              =      1.7 # 
+DIAMETER            =      1.9 # 
+SPAN                =     23.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1993/07/22-00:00:00 # 
+LAUNCH_VEHICLE      =  S22725
+LAUNCH_SITE         =  
+#
+PARENT              =  S22725
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ISRO
+COUNTRY             =  IN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1993/09/14-00:00:00 # 
+PERIGEE             =     35773.0 #  
+APOGEE              =     35801.0 # 
+INCL                =        0.14 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

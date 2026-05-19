@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 33752
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  33752
+LAUNCH_TAG          =  2009-008
+PIECE               =  D
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Spirale B
+PL_NAME             =  Spirale B
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ASTT/THALES
+BUS_TYPE            =  Myriade
+MOTOR               =  -
+BOL_MASS            =    117.0 # 
+CURR_MASS           =    117.0 # 
+DRY_MASS            =    117.0 # 
+BUS_SHAPE           =  Box + Pan
+LENGTH              =      1.4 # 
+DIAMETER            =      0.7 # 
+SPAN                =      2.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2009/02/12-00:00:00 # 
+LAUNCH_VEHICLE      =  A07468
+LAUNCH_SITE         =  
+#
+PARENT              =  A07468
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DGA
+COUNTRY             =  F
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2009/02/20-00:00:00 # 
+PERIGEE             =       433.0 #  
+APOGEE              =     35716.0 # 
+INCL                =         2.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

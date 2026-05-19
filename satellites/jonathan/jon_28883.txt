@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 28883
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  28883
+LAUNCH_TAG          =  2005-040
+PIECE               =  E
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP-H--X
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  -
+UN_REGISTRATION     =  X
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Shenzhou 6 Guidao Cang
+PL_NAME             =  Shenzhou 6 orbital module
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  CALT?
+BUS_TYPE            =  Shenzhou OM
+MOTOR               =  -
+BOL_MASS            =   1700.0 # ?
+CURR_MASS           =   1700.0 # ?
+DRY_MASS            =   1700.0 # ?
+BUS_SHAPE           =  Cyl + 2 Pan
+LENGTH              =      2.3 # 
+DIAMETER            =      2.8 # 
+SPAN                =      4.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2005/10/12-00:00:00 # 
+LAUNCH_VEHICLE      =  S28880
+LAUNCH_SITE         =  
+#
+PARENT              =  S28880
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  2008/04/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CMSEO
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2005/10/19-00:00:00 # 
+PERIGEE             =       333.0 #  
+APOGEE              =       340.0 # 
+INCL                =       42.43 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

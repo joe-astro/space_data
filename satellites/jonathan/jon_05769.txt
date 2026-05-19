@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 05769
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  05769
+LAUNCH_TAG          =  1972-002
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OPS 1737
+PL_NAME             =  HEXAGON SV-2
+ALT_NAMES           =  NRO Mission 1202,SV 8002:P
+#
+MANUFACTURER        =  LMSC
+BUS_TYPE            =  KH-9
+MOTOR               =  -
+BOL_MASS            =   6465.0 # 
+CURR_MASS           =   9021.0 # 
+DRY_MASS            =   5408.0 # 
+BUS_SHAPE           =  Cyl + 2 Pan
+LENGTH              =     15.8 # 
+DIAMETER            =      3.0 # 
+SPAN                =     15.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1972/01/20-00:00:00 # 
+LAUNCH_VEHICLE      =  S05770
+LAUNCH_SITE         =  
+#
+PARENT              =  S05770
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1972/01/27-00:00:00 # 
+PERIGEE             =       147.0 #  
+APOGEE              =       321.0 # 
+INCL                =       97.02 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  D
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

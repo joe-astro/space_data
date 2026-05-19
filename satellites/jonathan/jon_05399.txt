@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 05399
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  05399
+LAUNCH_TAG          =  1971-067
+PIECE               =  L
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  V
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  V
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  AVL-802-2 Canister?
+PL_NAME             =  AVL-802
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  GOYR?
+BUS_TYPE            =  AVL-802 Canister
+MOTOR               =  -
+BOL_MASS            =     12.0 # ?
+CURR_MASS           =     12.0 # ?
+DRY_MASS            =     12.0 # ?
+BUS_SHAPE           =  Hemisphere
+LENGTH              =      1.0 # ?
+DIAMETER            =      0.6 # ?
+SPAN                =      1.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1971/08/07-00:00:00 # 
+LAUNCH_VEHICLE      =  S05397
+LAUNCH_SITE         =  
+#
+PARENT              =  S05397
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1999/02/19-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SAMSO
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1971/09/12-00:00:00 # 
+PERIGEE             =       783.0 #  
+APOGEE              =       917.0 # 
+INCL                =       87.65 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/P
+OQUAL               =  -

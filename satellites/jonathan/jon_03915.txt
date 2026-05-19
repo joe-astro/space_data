@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 03915
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  03915
+LAUNCH_TAG          =  1969-041
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  LAMPAN II
+PL_NAME             =  P-11 No. 4417
+ALT_NAMES           =  NRO Mission 7328,OPS 1721
+#
+MANUFACTURER        =  LMSC/ATI
+BUS_TYPE            =  P-11
+MOTOR               =  SRS Motor
+BOL_MASS            =     95.0 # 
+CURR_MASS           =    105.0 # 
+DRY_MASS            =     95.0 # 
+BUS_SHAPE           =  Box+Dish+Boom
+LENGTH              =      0.3 # 
+DIAMETER            =      0.8 # 
+SPAN                =      0.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1969/05/02-00:00:00 # 
+LAUNCH_VEHICLE      =  A01576
+LAUNCH_SITE         =  
+#
+PARENT              =  A01576
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1970/02/16-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/SAFSP
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1969/06/02-00:00:00 # 
+PERIGEE             =       408.0 #  
+APOGEE              =       454.0 # 
+INCL                =       65.71 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

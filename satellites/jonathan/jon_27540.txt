@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 27540
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  27540
+LAUNCH_TAG          =  2002-048
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Integral
+PL_NAME             =  Integral
+ALT_NAMES           =  NAIF198
+#
+MANUFACTURER        =  ALEN
+BUS_TYPE            =  XMM
+MOTOR               =  AOCS
+BOL_MASS            =   3954.0 # 
+CURR_MASS           =   3954.0 # 
+DRY_MASS            =   3414.0 # 
+BUS_SHAPE           =  Box + Cyl + 2 Pan
+LENGTH              =      6.0 # 
+DIAMETER            =      3.2 # 
+SPAN                =     16.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2002/10/17-00:00:00 # 
+LAUNCH_VEHICLE      =  S27542
+LAUNCH_SITE         =  
+#
+PARENT              =  S27542
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ESA
+COUNTRY             =  I-ESA
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2002/10/28-00:00:00 # 
+PERIGEE             =      2285.0 #  
+APOGEE              =    152813.0 # 
+INCL                =       52.16 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  DSO
+OQUAL               =  -

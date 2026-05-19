@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 27779
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  27779
+LAUNCH_TAG          =  2003-015
+PIECE               =  E
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  M
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  DM2-98L SOZ-2
+PL_NAME             =  SOZ
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RKKE
+BUS_TYPE            =  SOZ
+MOTOR               =  -
+BOL_MASS            =    110.0 # 
+CURR_MASS           =     56.0 # 
+DRY_MASS            =     56.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.0 # 
+DIAMETER            =      0.6 # 
+SPAN                =      1.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2003/04/24-00:00:00 # 
+LAUNCH_VEHICLE      =  S27780
+LAUNCH_SITE         =  
+#
+PARENT              =  S27780
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2004/01/08-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSNR
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2003/05/04-00:00:00 # 
+PERIGEE             =       311.0 #  
+APOGEE              =     35921.0 # 
+INCL                =       48.05 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

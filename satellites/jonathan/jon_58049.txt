@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 58049
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  58049
+LAUNCH_TAG          =  2023-157
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Psyche
+PL_NAME             =  Psyche
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MAXSS
+BUS_TYPE            =  SSL-1300
+MOTOR               =  SPT-140
+BOL_MASS            =   2608.0 # 
+CURR_MASS           =   2608.0 # 
+DRY_MASS            =   1648.0 # 
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      3.1 # 
+DIAMETER            =      2.4 # 
+SPAN                =     24.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/10/13-00:00:00 # 
+LAUNCH_VEHICLE      =  A11057
+LAUNCH_SITE         =  
+#
+PARENT              =  A11057
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JPL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/10/13-00:00:00 # 
+PERIGEE             =       794.0 #  
+APOGEE              =    -36991.0 # 
+INCL                =        30.1 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -

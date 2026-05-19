@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 37361
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  37361
+LAUNCH_TAG          =  2010-062
+PIECE               =  L
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P       C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Nanosail-D2
+PL_NAME             =  NanoSail-D2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ARC
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      3.0 # ?
+CURR_MASS           =      3.0 # ?
+DRY_MASS            =      3.0 # ?
+BUS_SHAPE           =  Box + Sail
+LENGTH              =      0.2 # 
+DIAMETER            =      0.1 # 
+SPAN                =      3.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2010/11/20-00:00:00 # 
+LAUNCH_VEHICLE      =  S37225
+LAUNCH_SITE         =  
+#
+PARENT              =  S37225
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2011/09/17-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ARC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2011/02/22-00:00:00 # 
+PERIGEE             =       615.0 #  
+APOGEE              =       648.0 # 
+INCL                =       71.97 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

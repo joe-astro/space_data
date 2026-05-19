@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 19981
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  19981
+LAUNCH_TAG          =  1962-KAP
+PIECE               =  8
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  C
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  C
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  West Ford 2 Drag Dipole
+PL_NAME             =  [UNID133] RCS 0.15
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MITLL
+BUS_TYPE            =  Westford Drag
+MOTOR               =  -
+BOL_MASS            =      1.0 # ?
+CURR_MASS           =      1.0 # ?
+DRY_MASS            =      1.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      0.3 # 
+DIAMETER            =      0.0 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1962/04/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A00178
+LAUNCH_SITE         =  
+#
+PARENT              =  A00178
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSSD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1968/12/29-00:00:00 # 
+PERIGEE             =      2751.0 #  
+APOGEE              =      3429.0 # 
+INCL                =       86.65 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

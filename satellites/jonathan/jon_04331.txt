@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 04331
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  04331
+LAUNCH_TAG          =  1970-012
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  DAPP 1524
+PL_NAME             =  DMSP Block 5A F-1
+ALT_NAMES           =  FTV-11,SAP 1:P
+#
+MANUFACTURER        =  RCA
+BUS_TYPE            =  DMSP Block 5A
+MOTOR               =  -
+BOL_MASS            =    104.0 # 
+CURR_MASS           =    104.0 # 
+DRY_MASS            =    104.0 # 
+BUS_SHAPE           =  Taper Cyl
+LENGTH              =      1.2 # 
+DIAMETER            =      0.8 # 
+SPAN                =      1.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1970/02/11-00:00:00 # 
+LAUNCH_VEHICLE      =  S04332
+LAUNCH_SITE         =  
+#
+PARENT              =  S04332
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SAMSO
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1970/04/08-00:00:00 # 
+PERIGEE             =       773.0 #  
+APOGEE              =       869.0 # 
+INCL                =       98.66 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 49337
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  49337
+LAUNCH_TAG          =  2021-096
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  H-2A F44 Stage 2
+PL_NAME             =  H-2A Stage 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MHITO
+BUS_TYPE            =  H-2A Stage 2
+MOTOR               =  -
+BOL_MASS            =   4000.0 # 
+CURR_MASS           =   4000.0 # 
+DRY_MASS            =   4000.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      9.2 # 
+DIAMETER            =      4.0 # 
+SPAN                =      9.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2021/10/26-00:00:00 # 
+LAUNCH_VEHICLE      =  R80738
+LAUNCH_SITE         =  
+#
+PARENT              =  R80738
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MHI
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2021/11/02-00:00:00 # 
+PERIGEE             =       229.0 #  
+APOGEE              =     35657.0 # 
+INCL                =       31.94 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

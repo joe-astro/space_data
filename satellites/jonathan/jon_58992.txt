@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 58992
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  58992
+LAUNCH_TAG          =  2024-034
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ADRAS-J
+PL_NAME             =  ADRAS-J
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ASTSC
+BUS_TYPE            =  ELSA
+MOTOR               =  -
+BOL_MASS            =    150.0 # 
+CURR_MASS           =    150.0 # 
+DRY_MASS            =    120.0 # ?
+BUS_SHAPE           =  Box+2 pan
+LENGTH              =      1.2 # 
+DIAMETER            =      0.8 # 
+SPAN                =      3.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2024/02/18-00:00:00 # 
+LAUNCH_VEHICLE      =  S58993
+LAUNCH_SITE         =  
+#
+PARENT              =  S58993
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ASTSC
+COUNTRY             =  J
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2024/02/18-00:00:00 # 
+PERIGEE             =       533.0 #  
+APOGEE              =       597.0 # 
+INCL                =        98.2 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

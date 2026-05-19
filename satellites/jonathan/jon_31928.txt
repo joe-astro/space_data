@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 31928
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  31928
+LAUNCH_TAG          =  2001-035
+PIECE               =  BA
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  H I
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =  I
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Early Ammonia Servicer
+PL_NAME             =  ISS EAS
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  BOHSV?
+BUS_TYPE            =  ISS ORU
+MOTOR               =  -
+BOL_MASS            =    640.0 # 
+CURR_MASS           =    640.0 # 
+DRY_MASS            =    640.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      2.4 # 
+DIAMETER            =      1.1 # 
+SPAN                =      2.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2001/08/10-00:00:00 # 
+LAUNCH_VEHICLE      =  A06559*
+LAUNCH_SITE         =  
+#
+PARENT              =  A06559*
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  JSC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2007/07/24-00:00:00 # 
+PERIGEE             =       326.0 #  
+APOGEE              =       340.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  ATT
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

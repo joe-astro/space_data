@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 14619
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  14619
+LAUNCH_TAG          =  1984-001
+PIECE               =  J
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-3M 19-529 Stage 2
+PL_NAME             =  S3M
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  OAZ
+BUS_TYPE            =  S3
+MOTOR               =  -
+BOL_MASS            =   1434.0 # 
+CURR_MASS           =   1434.0 # 
+DRY_MASS            =   1434.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      4.2 # 
+DIAMETER            =      2.4 # 
+SPAN                =      4.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1984/01/05-00:00:00 # 
+LAUNCH_VEHICLE      =  R50181
+LAUNCH_SITE         =  
+#
+PARENT              =  R50181
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  RVSN
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1991/03/01-00:00:00 # 
+PERIGEE             =      1469.0 #  
+APOGEE              =      1673.0 # 
+INCL                =        74.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

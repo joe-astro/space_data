@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 23947
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  23947
+LAUNCH_TAG          =  1996-038
+PIECE               =  C
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  M    c
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  c
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 125 PKM
+PL_NAME             =  TU-882?
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  THKU
+BUS_TYPE            =  MM3-PKM
+MOTOR               =  -
+BOL_MASS            =   3660.0 # ?
+CURR_MASS           =      0.0 # 
+DRY_MASS            =    200.0 # ?
+BUS_SHAPE           =  Cyl + Cone
+LENGTH              =      2.5 # 
+DIAMETER            =      1.4 # 
+SPAN                =      2.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1996/07/03-00:00:00 # 
+LAUNCH_VEHICLE      =  S23945
+LAUNCH_SITE         =  
+#
+PARENT              =  S23945
+SEPARATION_DATE     =  1996/07/04-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSMC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1999/12/16-00:00:00 # 
+PERIGEE             =       383.0 #  
+APOGEE              =     14072.0 # 
+INCL                =       55.36 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  HEO
+OQUAL               =  -

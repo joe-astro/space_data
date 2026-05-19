@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 37752
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  37752
+LAUNCH_TAG          =  2011-031
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ---S-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  PSSC-2
+PL_NAME             =  Picosat Solar Cell Testbed
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  AERO
+BUS_TYPE            =  Picosat
+MOTOR               =  -
+BOL_MASS            =      3.6 # 
+CURR_MASS           =      3.6 # 
+DRY_MASS            =      3.6 # 
+BUS_SHAPE           =  Box
+LENGTH              =    0.254 # 
+DIAMETER            =    0.127 # 
+SPAN                =    0.254 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2011/07/08-00:00:00 # 
+LAUNCH_VEHICLE      =  A07850
+LAUNCH_SITE         =  
+#
+PARENT              =  A07850
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2011/12/08-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFRL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2011/07/20-00:00:00 # 
+PERIGEE             =       365.0 #  
+APOGEE              =       381.0 # 
+INCL                =       51.64 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

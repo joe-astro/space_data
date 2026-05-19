@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 11791
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  11791
+LAUNCH_TAG          =  1980-032
+PIECE               =  B
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  M
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  M
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  SVS Stage 2
+PL_NAME             =  Star 37E S/N 40075
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  THKE
+BUS_TYPE            =  Star 37
+MOTOR               =  -
+BOL_MASS            =   1173.0 # 
+CURR_MASS           =    133.0 # 
+DRY_MASS            =    133.0 # 
+BUS_SHAPE           =  Ell + Cone
+LENGTH              =      1.7 # 
+DIAMETER            =      0.9 # 
+SPAN                =      1.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1980/04/26-00:00:00 # 
+LAUNCH_VEHICLE      =  R43800
+LAUNCH_SITE         =  
+#
+PARENT              =  R43800
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1996/05/22-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1992/10/01-00:00:00 # 
+PERIGEE             =       201.0 #  
+APOGEE              =     10305.0 # 
+INCL                =       63.13 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

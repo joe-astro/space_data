@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43636
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43636
+LAUNCH_TAG          =  2018-075
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Xiangrikui 1
+PL_NAME             =  Centispace-1-1S
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  IMICAS
+BUS_TYPE            =  WN100
+MOTOR               =  -
+BOL_MASS            =     97.0 # 
+CURR_MASS           =     97.0 # 
+DRY_MASS            =     97.0 # 
+BUS_SHAPE           =  Box + 2 pan
+LENGTH              =      1.0 # ?
+DIAMETER            =      0.5 # ?
+SPAN                =      2.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/09/29-00:00:00 # 
+LAUNCH_VEHICLE      =  S43637
+LAUNCH_SITE         =  
+#
+PARENT              =  S43637
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CENTI
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/10/01-00:00:00 # 
+PERIGEE             =       695.0 #  
+APOGEE              =       709.0 # 
+INCL                =       98.22 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

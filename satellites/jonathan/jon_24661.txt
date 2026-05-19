@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 24661
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  24661
+LAUNCH_TAG          =  1996-065
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ---S-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ORFEUS-SPAS
+PL_NAME             =  ASTRO-SPAS
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  DASAO
+BUS_TYPE            =  SPAS
+MOTOR               =  -
+BOL_MASS            =   3572.0 # 
+CURR_MASS           =   3572.0 # 
+DRY_MASS            =   3572.0 # 
+BUS_SHAPE           =  Box + Cyl
+LENGTH              =      2.5 # 
+DIAMETER            =      4.5 # 
+SPAN                =      4.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1996/11/19-00:00:00 # 
+LAUNCH_VEHICLE      =  S24660  5
+LAUNCH_SITE         =  
+#
+PARENT              =  S24660  5
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DLR
+COUNTRY             =  D
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1996/11/26-00:00:00 # 
+PERIGEE             =       346.0 #  
+APOGEE              =       358.0 # 
+INCL                =       28.47 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  ATT
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

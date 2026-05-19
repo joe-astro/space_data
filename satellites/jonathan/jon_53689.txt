@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 53689
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  53689
+LAUNCH_TAG          =  2022-105
+PIECE               =  AT
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      R
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  R
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Starlink 4562
+PL_NAME             =  Starlink Group 3-4-42
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SPXS
+BUS_TYPE            =  Starlink
+MOTOR               =  -
+BOL_MASS            =    300.0 # 
+CURR_MASS           =    300.0 # 
+DRY_MASS            =    290.0 # ?
+BUS_SHAPE           =  Box + pan
+LENGTH              =      0.2 # ?
+DIAMETER            =      2.8 # 
+SPAN                =      9.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2022/08/31-00:00:00 # 
+LAUNCH_VEHICLE      =  A10741
+LAUNCH_SITE         =  
+#
+PARENT              =  A10741
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SPXS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2022/09/02-00:00:00 # 
+PERIGEE             =       306.0 #  
+APOGEE              =       319.0 # 
+INCL                =       97.66 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 06637
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  06637
+LAUNCH_TAG          =  1973-027
+PIECE               =  E
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  F      +
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  F
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =  +
+# ------------------------------
+#
+SAT_NAME            =  Skylab Fairing section?
+PL_NAME             =  Skylab Fairing
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  MDAC
+BUS_TYPE            =  Skylab Fairing
+MOTOR               =  -
+BOL_MASS            =   2950.0 # 
+CURR_MASS           =   2950.0 # 
+DRY_MASS            =   2950.0 # 
+BUS_SHAPE           =  Qtr Cone
+LENGTH              =     17.1 # 
+DIAMETER            =      3.3 # 
+SPAN                =     17.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1973/05/14-00:00:00 # 
+LAUNCH_VEHICLE      =  A02273
+LAUNCH_SITE         =  
+#
+PARENT              =  A02273
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1975/08/05-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MSFC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1974/01/01-00:00:00 # 
+PERIGEE             =       396.0 #  
+APOGEE              =       420.0 # 
+INCL                =       50.05 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 43474
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  43474
+LAUNCH_TAG          =  2018-046
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  PP-H-V-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =  P
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  H
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  V
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  SS J.R. Thompson
+PL_NAME             =  Cygnus OA-9
+ALT_NAMES           =  Cygnus PCM-9
+#
+MANUFACTURER        =  OATKD
+BUS_TYPE            =  EPCM
+MOTOR               =  -
+BOL_MASS            =   2000.0 # ?
+CURR_MASS           =   7200.0 # 
+DRY_MASS            =   2000.0 # ?
+BUS_SHAPE           =  Cyl+ 2 pan
+LENGTH              =      6.4 # 
+DIAMETER            =      2.9 # 
+SPAN                =     10.5 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2018/05/21-00:00:00 # 
+LAUNCH_VEHICLE      =  S43475
+LAUNCH_SITE         =  
+#
+PARENT              =  S43475
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  OATKD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2018/05/24-00:00:00 # 
+PERIGEE             =       402.0 #  
+APOGEE              =       407.0 # 
+INCL                =       51.65 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  GRP
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

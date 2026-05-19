@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 39385
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  39385
+LAUNCH_TAG          =  2013-064
+PIECE               =  F
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  TJ3Sat
+PL_NAME             =  TJ-Cubesat
+ALT_NAMES           =  Elana-IV
+#
+MANUFACTURER        =  TJHS
+BUS_TYPE            =  Cubesat 1U
+MOTOR               =  -
+BOL_MASS            =     0.89 # 
+CURR_MASS           =     0.89 # 
+DRY_MASS            =     0.89 # 
+BUS_SHAPE           =  Box
+LENGTH              =     0.11 # 
+DIAMETER            =      0.1 # 
+SPAN                =     0.11 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2013/11/20-00:00:00 # 
+LAUNCH_VEHICLE      =  A08062
+LAUNCH_SITE         =  
+#
+PARENT              =  A08062
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TJHS
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2013/12/12-00:00:00 # 
+PERIGEE             =       496.0 #  
+APOGEE              =       504.0 # 
+INCL                =       40.53 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

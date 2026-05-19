@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 44104
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  44104
+LAUNCH_TAG          =  2019-018
+PIECE               =  AC
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  AISAT-1/APRS/ARIS
+PL_NAME             =  Orbital Platform
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ISAC
+BUS_TYPE            =  PS-4 OP
+MOTOR               =  -
+BOL_MASS            =     20.0 # ?
+CURR_MASS           =     20.0 # ?
+DRY_MASS            =     20.0 # ?
+BUS_SHAPE           =  Box+box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2019/04/01-00:00:00 # 
+LAUNCH_VEHICLE      =  A09282
+LAUNCH_SITE         =  
+#
+PARENT              =  A09282
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  ISRO
+COUNTRY             =  IN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2019/04/03-00:00:00 # 
+PERIGEE             =       434.0 #  
+APOGEE              =       515.0 # 
+INCL                =       97.52 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

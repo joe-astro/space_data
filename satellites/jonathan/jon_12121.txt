@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 12121
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  12121
+LAUNCH_TAG          =  1980-105
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-1236
+PL_NAME             =  Feniks No. 14L? (941)
+ALT_NAMES           =  11F624 No. 780-17-941:RA
+#
+MANUFACTURER        =  TSSKB
+BUS_TYPE            =  Yantar'-2K
+MOTOR               =  -
+BOL_MASS            =   2886.0 # 
+CURR_MASS           =   6600.0 # 
+DRY_MASS            =   2886.0 # 
+BUS_SHAPE           =  Cone + Cyl
+LENGTH              =      6.3 # 
+DIAMETER            =      2.7 # 
+SPAN                =      6.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1980/12/26-00:00:00 # 
+LAUNCH_VEHICLE      =  S12124
+LAUNCH_SITE         =  
+#
+PARENT              =  S12124
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1981/01/21-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GUKOSR
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1980/12/31-00:00:00 # 
+PERIGEE             =       165.0 #  
+APOGEE              =       276.0 # 
+INCL                =       67.13 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  L
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 39285
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  39285
+LAUNCH_TAG          =  2013-056
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P      O
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =  O
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Astra 2E
+PL_NAME             =  Astra 2E
+ALT_NAMES           =  EUTELSAT 28E
+#
+MANUFACTURER        =  EADSB
+BUS_TYPE            =  Eurostar 3000
+MOTOR               =  R-4D?
+BOL_MASS            =   6052.0 # 
+CURR_MASS           =   6052.0 # 
+DRY_MASS            =   3000.0 # ?
+BUS_SHAPE           =  Box + 2 panels
+LENGTH              =      6.8 # 
+DIAMETER            =      2.8 # 
+SPAN                =     39.8 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2013/09/29-00:00:00 # 
+LAUNCH_VEHICLE      =  S39286
+LAUNCH_SITE         =  
+#
+PARENT              =  S39286
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  SESSA
+COUNTRY             =  L
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2013/10/07-00:00:00 # 
+PERIGEE             =     35672.0 #  
+APOGEE              =     35730.0 # 
+INCL                =        0.14 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/D
+OQUAL               =  -

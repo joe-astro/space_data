@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20791
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20791
+LAUNCH_TAG          =  1990-081
+PIECE               =  D
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R3
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  3
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  CZ-4 Y2 Stage 3
+PL_NAME             =  CZ-4 Stage 3
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  SBA
+BUS_TYPE            =  CZ-4 Stage 3
+MOTOR               =  -
+BOL_MASS            =   1000.0 # ?
+CURR_MASS           =   1000.0 # ?
+DRY_MASS            =   1000.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      6.2 # 
+DIAMETER            =      2.9 # 
+SPAN                =      6.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1990/09/03-00:00:00 # 
+LAUNCH_VEHICLE      =  R58298
+LAUNCH_SITE         =  
+#
+PARENT              =  R58298
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  MAI2
+COUNTRY             =  CN
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/10/05-00:00:00 # 
+PERIGEE             =       882.0 #  
+APOGEE              =       896.0 # 
+INCL                =       98.95 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 41044
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  41044
+LAUNCH_TAG          =  2015-070
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R4
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  4
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Vega AVUM VV06
+PL_NAME             =  AVUM
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  AVIO
+BUS_TYPE            =  AVUM
+MOTOR               =  -
+BOL_MASS            =   1200.0 # 
+CURR_MASS           =      0.0 # 
+DRY_MASS            =    660.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =      1.7 # 
+DIAMETER            =      1.9 # 
+SPAN                =      1.9 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2015/12/03-00:00:00 # 
+LAUNCH_VEHICLE      =  A08464
+LAUNCH_SITE         =  
+#
+PARENT              =  A08464
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  2017/03/16-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AE
+COUNTRY             =  F
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2015/12/04-00:00:00 # 
+PERIGEE             =       209.0 #  
+APOGEE              =      1521.0 # 
+INCL                =        5.97 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/E
+OQUAL               =  -

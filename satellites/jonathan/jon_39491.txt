@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 39491
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  39491
+LAUNCH_TAG          =  2013-078
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Kosmos-2494
+PL_NAME             =  SKRL-756 No. ET12
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ALMAN?
+BUS_TYPE            =  SKRL
+MOTOR               =  -
+BOL_MASS            =     50.0 # ?
+CURR_MASS           =     50.0 # ?
+DRY_MASS            =     50.0 # ?
+BUS_SHAPE           =  Sphere
+LENGTH              =      0.8 # ?
+DIAMETER            =      0.8 # ?
+SPAN                =      0.8 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2013/12/28-00:00:00 # 
+LAUNCH_VEHICLE      =  A08074
+LAUNCH_SITE         =  
+#
+PARENT              =  A08074
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  PVO?
+COUNTRY             =  RU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2013/12/29-00:00:00 # 
+PERIGEE             =       598.0 #  
+APOGEE              =       626.0 # 
+INCL                =       82.42 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

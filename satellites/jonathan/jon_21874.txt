@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 21874
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  21874
+LAUNCH_TAG          =  1992-006
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2      C
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Centaur AC-101
+PL_NAME             =  Centaur II(3) AC-101
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LMASD
+BUS_TYPE            =  Centaur
+MOTOR               =  -
+BOL_MASS            =   2095.0 # 
+CURR_MASS           =   2095.0 # 
+DRY_MASS            =   2095.0 # 
+BUS_SHAPE           =  Cyl
+LENGTH              =     10.1 # 
+DIAMETER            =      3.1 # 
+SPAN                =     10.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1992/02/11-00:00:00 # 
+LAUNCH_VEHICLE      =  R59688
+LAUNCH_SITE         =  
+#
+PARENT              =  R59688
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1998/06/18-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  GDSSD
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1992/02/11-00:00:00 # 
+PERIGEE             =       173.0 #  
+APOGEE              =     35695.0 # 
+INCL                =        28.5 # ?
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  GTO
+OQUAL               =  -

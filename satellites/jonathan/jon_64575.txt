@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 64575
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  64575
+LAUNCH_TAG          =  2025-135
+PIECE               =  AZ
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P        r
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =  r
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  ION Charismatic Carlus
+PL_NAME             =  ION SCV-018
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  DORBIT
+BUS_TYPE            =  ION-SC
+MOTOR               =  PM200
+BOL_MASS            =    150.0 # 
+CURR_MASS           =    220.0 # 
+DRY_MASS            =    150.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.4 # 
+DIAMETER            =      0.4 # 
+SPAN                =      0.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/06/23-00:00:00 # 
+LAUNCH_VEHICLE      =  A11534
+LAUNCH_SITE         =  
+#
+PARENT              =  A11534
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  DORBIT
+COUNTRY             =  I
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/07/17-00:00:00 # 
+PERIGEE             =       588.0 #  
+APOGEE              =       594.0 # 
+INCL                =       97.75 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

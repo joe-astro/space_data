@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 21775
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  21775
+LAUNCH_TAG          =  1991-076
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A     C
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =  C
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  USA 72
+PL_NAME             =  SLDCOM 2
+ALT_NAMES           =  :U
+#
+MANUFACTURER        =  NRL
+BUS_TYPE            =  NOSS B
+MOTOR               =  -
+BOL_MASS            =   3000.0 # ?
+CURR_MASS           =   3000.0 # ?
+DRY_MASS            =   3000.0 # ?
+BUS_SHAPE           =  Cyl
+LENGTH              =      3.0 # ?
+DIAMETER            =      4.0 # ?
+SPAN                =      4.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1991/11/08-00:00:00 # 
+LAUNCH_VEHICLE      =  A05059
+LAUNCH_SITE         =  
+#
+PARENT              =  A05059
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/NRL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2007/02/17-00:00:00 # 
+PERIGEE             =      2633.0 #  
+APOGEE              =     11613.0 # 
+INCL                =       63.36 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AO
+JON_OP_ORBIT        =  MEO
+OQUAL               =  CSS

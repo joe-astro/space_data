@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 39069
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  39069
+LAUNCH_TAG          =  2013-003
+PIECE               =  B
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Naro-1 Stage 2
+PL_NAME             =  KSLV-1 Stage 2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  KARI?
+BUS_TYPE            =  KSLV-St2
+MOTOR               =  -
+BOL_MASS            =    200.0 # ?
+CURR_MASS           =    200.0 # ?
+DRY_MASS            =    200.0 # ?
+BUS_SHAPE           =  Cyl + Nozzle
+LENGTH              =      2.4 # 
+DIAMETER            =      1.0 # 
+SPAN                =      2.4 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2013/01/30-00:00:00 # 
+LAUNCH_VEHICLE      =  R71756
+LAUNCH_SITE         =  
+#
+PARENT              =  R71756
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  KARI
+COUNTRY             =  KR
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2013/02/06-00:00:00 # 
+PERIGEE             =       297.0 #  
+APOGEE              =      1510.0 # 
+INCL                =       80.28 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

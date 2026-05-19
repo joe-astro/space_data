@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 05912
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  05912
+LAUNCH_TAG          =  1972-021
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Venera-8
+PL_NAME             =  4V-1 No. 670
+ALT_NAMES           =  V-72 No. 670:P
+#
+MANUFACTURER        =  NPOL
+BUS_TYPE            =  MV
+MOTOR               =  KDU-414
+BOL_MASS            =    689.0 # 
+CURR_MASS           =   1184.0 # ?
+DRY_MASS            =    660.0 # ?
+BUS_SHAPE           =  Cyl + 2 Pan + Dish
+LENGTH              =      2.5 # 
+DIAMETER            =      1.2 # 
+SPAN                =      6.0 # ?
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1972/03/27-00:00:00 # 
+LAUNCH_VEHICLE      =  A02101
+LAUNCH_SITE         =  
+#
+PARENT              =  A02101
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1972/03/28-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  IKI/BABTS
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1972/03/27-00:00:00 # 
+PERIGEE             =       194.0 #  
+APOGEE              =       246.0 # 
+INCL                =       51.79 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 29108
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  29108
+LAUNCH_TAG          =  2006-016
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Calipso
+PL_NAME             =  Calipso
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ALCAF/CNES
+BUS_TYPE            =  Proteus
+MOTOR               =  -
+BOL_MASS            =    587.0 # 
+CURR_MASS           =    587.0 # 
+DRY_MASS            =    559.0 # 
+BUS_SHAPE           =  Cyl + 2 Pan
+LENGTH              =      1.9 # 
+DIAMETER            =      2.5 # 
+SPAN                =      9.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2006/04/28-00:00:00 # 
+LAUNCH_VEHICLE      =  S29110
+LAUNCH_SITE         =  
+#
+PARENT              =  S29110
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  CNES
+COUNTRY             =  F
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2006/04/30-00:00:00 # 
+PERIGEE             =       687.0 #  
+APOGEE              =       689.0 # 
+INCL                =       98.24 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 41863
+# Created : 2025/11/02-14:10:56
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  41863
+LAUNCH_TAG          =  2016-069
+PIECE               =  E
+NORAD_TYPE          =  R
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  R2
+COURSE_TYPE         =  R
+TYPE_MODIFIER       =  2
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Ariane 5 L594 EPS
+PL_NAME             =  EPS S/N 531
+ALT_NAMES           =  Ariane VA233
+#
+MANUFACTURER        =  ADSB
+BUS_TYPE            =  EPS+
+MOTOR               =  Aestus
+BOL_MASS            =   3057.0 # 
+CURR_MASS           =   3057.0 # 
+DRY_MASS            =   3057.0 # 
+BUS_SHAPE           =  Cone + Cyl
+LENGTH              =      4.0 # ?
+DIAMETER            =      3.9 # 
+SPAN                =      4.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2016/11/17-00:00:00 # 
+LAUNCH_VEHICLE      =  A08563
+LAUNCH_SITE         =  
+#
+PARENT              =  A08563
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AE
+COUNTRY             =  F
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2017/01/01-00:00:00 # 
+PERIGEE             =     22896.0 #  
+APOGEE              =     22902.0 # 
+INCL                =       54.52 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  MEO
+OQUAL               =  -

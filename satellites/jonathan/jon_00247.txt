@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00247
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00247
+LAUNCH_TAG          =  1962-EPS
+PIECE               =  1
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Discoverer 38
+PL_NAME             =  CORONA M-1
+ALT_NAMES           =  :C,:CC,NRO Mission 9031:CM,MURAL 1,CORONA 38:CA
+#
+MANUFACTURER        =  LMSC
+BUS_TYPE            =  CORONA KH-4
+MOTOR               =  -
+BOL_MASS            =    184.0 # 
+CURR_MASS           =   1244.0 # 
+DRY_MASS            =    184.0 # 
+BUS_SHAPE           =  Frust + Cyl
+LENGTH              =      2.3 # 
+DIAMETER            =      1.5 # 
+SPAN                =      2.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1962/02/27-00:00:00 # 
+LAUNCH_VEHICLE      =  A00171
+LAUNCH_SITE         =  
+#
+PARENT              =  A00171
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1962/03/21-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/CIA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1962/03/07-00:00:00 # 
+PERIGEE             =       207.0 #  
+APOGEE              =       357.0 # 
+INCL                =       82.23 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

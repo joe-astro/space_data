@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 16276
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  16276
+LAUNCH_TAG          =  1985-109
+PIECE               =  D
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ---S-G
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =  G
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Satcom K2
+PL_NAME             =  Satcom K-2
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  RCA
+BUS_TYPE            =  AS4000
+MOTOR               =  Star 37XFP
+BOL_MASS            =    966.0 # 
+CURR_MASS           =   1925.0 # 
+DRY_MASS            =    850.0 # ?
+BUS_SHAPE           =  Box + 2 Pan
+LENGTH              =      2.1 # 
+DIAMETER            =      1.5 # 
+SPAN                =     20.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1985/11/27-00:00:00 # 
+LAUNCH_VEHICLE      =  S16295
+LAUNCH_SITE         =  
+#
+PARENT              =  S16295
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AMC
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1986/01/26-00:00:00 # 
+PERIGEE             =     35778.0 #  
+APOGEE              =     35797.0 # 
+INCL                =        0.02 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  GEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 10502
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  10502
+LAUNCH_TAG          =  1977-112
+PIECE               =  A
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  OPS 8781
+PL_NAME             =  PARCAE 2
+ALT_NAMES           =  NRO Mission 7109
+#
+MANUFACTURER        =  NRL
+BUS_TYPE            =  NOSS MSD
+MOTOR               =  -
+BOL_MASS            =    559.0 # 
+CURR_MASS           =    590.0 # 
+DRY_MASS            =    559.0 # 
+BUS_SHAPE           =  Box + Ant
+LENGTH              =      1.6 # 
+DIAMETER            =      1.5 # 
+SPAN                =      2.7 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1977/12/08-00:00:00 # 
+LAUNCH_VEHICLE      =  A02899
+LAUNCH_SITE         =  
+#
+PARENT              =  A02899
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/NRL
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/05/14-00:00:00 # 
+PERIGEE             =       912.0 #  
+APOGEE              =      1303.0 # 
+INCL                =       63.41 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AO
+JON_OP_ORBIT        =  LEO/I
+OQUAL               =  -

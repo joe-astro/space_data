@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00160
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00160
+LAUNCH_TAG          =  1961-PI
+PIECE               =  
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P A
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  A
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Discoverer 26
+PL_NAME             =  CORONA C'-6
+ALT_NAMES           =  :C,:CC,NRO Mission 9019:CM,CORONA 26:CA
+#
+MANUFACTURER        =  LMSC
+BUS_TYPE            =  CORONA
+MOTOR               =  -
+BOL_MASS            =    135.0 # 
+CURR_MASS           =   1115.0 # 
+DRY_MASS            =    135.0 # 
+BUS_SHAPE           =  Frust
+LENGTH              =      1.3 # 
+DIAMETER            =      1.5 # 
+SPAN                =      1.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1961/07/07-00:00:00 # 
+LAUNCH_VEHICLE      =  A00103
+LAUNCH_SITE         =  
+#
+PARENT              =  A00103
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1961/12/05-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  AFSSD/CIA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1961/08/10-00:00:00 # 
+PERIGEE             =       229.0 #  
+APOGEE              =       713.0 # 
+INCL                =       82.94 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  AR
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

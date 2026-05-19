@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 01838
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  01838
+LAUNCH_TAG          =  1965-102
+PIECE               =  B
+NORAD_TYPE          =  C
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  C  F
+COURSE_TYPE         =  C
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =  F
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Fairing
+PL_NAME             =  Fairing S/N 029-MT13
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  LMSC
+BUS_TYPE            =  SRV Adapter
+MOTOR               =  -
+BOL_MASS            =     25.0 # ?
+CURR_MASS           =      0.0 # 
+DRY_MASS            =     25.0 # ?
+BUS_SHAPE           =  Frust
+LENGTH              =      0.9 # 
+DIAMETER            =      1.3 # 
+SPAN                =      1.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1965/12/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A00834
+LAUNCH_SITE         =  
+#
+PARENT              =  A00834
+SEPARATION_DATE     =  1900/01/01-00:00:00 # ?
+#
+DECAY_DATE          =  1965/12/15-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  NRO/CIA
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1965/12/11-00:00:00 # 
+PERIGEE             =       180.0 # ?
+APOGEE              =       430.0 # ?
+INCL                =        80.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/I
+OQUAL               =  -

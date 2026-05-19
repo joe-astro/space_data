@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 20410
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  20410
+LAUNCH_TAG          =  1990-002
+PIECE               =  B
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P ---S-
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =  -
+SUBTYPE_FLAG        =  -
+ORBIT_FLAG          =  -
+HUMAN_SPECIAL       =  S
+UN_REGISTRATION     =  -
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Leasat 5
+PL_NAME             =  Syncom IV-5
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  HSES
+BUS_TYPE            =  HS-381
+MOTOR               =  R-4D-10 x2
+BOL_MASS            =   3231.0 # 
+CURR_MASS           =   3231.0 # ?
+DRY_MASS            =   1230.0 # ?
+BUS_SHAPE           =  Cyl + Ant
+LENGTH              =      4.0 # 
+DIAMETER            =      4.3 # 
+SPAN                =      6.2 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1990/01/09-00:00:00 # 
+LAUNCH_VEHICLE      =  A04775
+LAUNCH_SITE         =  
+#
+PARENT              =  A04775
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1997/05/16-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  HCI
+COUNTRY             =  US
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1990/02/12-00:00:00 # 
+PERIGEE             =     35264.0 #  
+APOGEE              =     36305.0 # 
+INCL                =        3.36 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  N
+JON_OP_ORBIT        =  GEO/I
+OQUAL               =  -

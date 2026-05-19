@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 56991
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  56991
+LAUNCH_TAG          =  2023-084
+PIECE               =  BT
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Spei Satelles
+PL_NAME             =  SpeiSat
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  TORP
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      3.0 # 
+CURR_MASS           =      3.0 # 
+DRY_MASS            =      3.0 # 
+BUS_SHAPE           =  Box
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.3 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2023/06/12-00:00:00 # 
+LAUNCH_VEHICLE      =  S56957
+LAUNCH_SITE         =  
+#
+PARENT              =  S56957
+SEPARATION_DATE     =  2023/06/25-00:00:00 # ?
+#
+DECAY_DATE          =  2025/04/08-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  TORP/VATC
+COUNTRY             =  I
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2023/06/21-00:00:00 # 
+PERIGEE             =       516.0 #  
+APOGEE              =       535.0 # 
+INCL                =       97.51 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  R
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

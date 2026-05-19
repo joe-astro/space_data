@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 63216
+# Created : 2025/11/02-14:40:36
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  63216
+LAUNCH_TAG          =  2025-052
+PIECE               =  G
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =   
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  Botsat-1
+PL_NAME             =  Botsat-1
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  ENDUR
+BUS_TYPE            =  Cubesat 3U
+MOTOR               =  -
+BOL_MASS            =      5.0 # 
+CURR_MASS           =      5.0 # 
+DRY_MASS            =      5.0 # 
+BUS_SHAPE           =  Box+ 4 pan
+LENGTH              =      0.3 # 
+DIAMETER            =      0.1 # 
+SPAN                =      0.1 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  2025/03/15-00:00:00 # 
+LAUNCH_VEHICLE      =  A11437
+LAUNCH_SITE         =  
+#
+PARENT              =  A11437
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # 
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  BIUST
+COUNTRY             =  BW
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  2025/03/28-00:00:00 # 
+PERIGEE             =       511.0 #  
+APOGEE              =       513.0 # 
+INCL                =       97.44 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  O
+JON_OP_ORBIT        =  LLEO/S
+OQUAL               =  -

@@ -1,0 +1,67 @@
+# =====================================
+# SPACE OBJECT DATABASE
+# -------------------------------------
+# NORAD   : 00112
+# Created : 2025/11/02-08:31:57
+# =====================================
+#
+# --- OBJECT --------------------------
+NORAD_ID            =  00112
+LAUNCH_TAG          =  1959-MU
+PIECE               =  1
+NORAD_TYPE          =  P
+# --- JONATHAN TYPE -----------------
+JONATHAN_TYPE       =  P   D
+COURSE_TYPE         =  P
+TYPE_MODIFIER       =   
+ATTACH_FLAG         =   
+SUBTYPE_FLAG        =   
+ORBIT_FLAG          =  D
+HUMAN_SPECIAL       =   
+UN_REGISTRATION     =   
+FAILURE_CONSTL      =   
+ID_FLAG             =   
+ANNOTATION_FLAG     =   
+GROUP_CONTROL       =   
+# ------------------------------
+#
+SAT_NAME            =  AMS Luna-1
+PL_NAME             =  E-1 No. 4
+ALT_NAMES           =  -
+#
+MANUFACTURER        =  OKB1
+BUS_TYPE            =  E-1
+MOTOR               =  -
+BOL_MASS            =    205.0 # 
+CURR_MASS           =    205.0 # 
+DRY_MASS            =    205.0 # 
+BUS_SHAPE           =  Sphere + Ant
+LENGTH              =      0.8 # 
+DIAMETER            =      0.8 # 
+SPAN                =      2.0 # 
+#
+# ---- LAUNCH -------------------------
+LAUNCH_DATE         =  1959/01/02-00:00:00 # 
+LAUNCH_VEHICLE      =  A00016
+LAUNCH_SITE         =  
+#
+PARENT              =  A00016
+SEPARATION_DATE     =  1900/01/01-00:00:00 # 
+#
+DECAY_DATE          =  1900/01/01-00:00:00 # ?
+#
+# ---- OWNER / OPERATOR ---------------
+OWNER               =  OKB1
+COUNTRY             =  SU
+#
+# ---- ORBIT --------------------------
+PRIMARY             =  Earth
+ORBIT_DATE          =  1959/01/04-00:00:00 # 
+PERIGEE             =      -370.0 # ?
+APOGEE              =   -242160.0 # ?
+INCL                =        65.0 # 
+#
+# ---- STATUS -------------------------
+JONATHAN_STATUS     =  DSO
+JON_OP_ORBIT        =  EEO
+OQUAL               =  -
